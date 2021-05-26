@@ -88,6 +88,8 @@ if (prop != null) {
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of MBOX via Online App" sectionDescription="View & edit Metadata to MBOX documents by using our [Live Demos](https://products.aspose.app/email/metadata) with following benefits." >}}
@@ -103,6 +105,9 @@ MBox file format is a generic term that represents a container for collection of
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

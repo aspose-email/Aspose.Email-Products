@@ -70,6 +70,8 @@ System.Diagnostics.Process.Start(output);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View OFT" sectionDescription="Check our live demos to [View OFT](https://products.aspose.app/email/viewer/oft) with following benefits." >}}
@@ -85,6 +87,9 @@ Files with .OFT extension represent message template files that are created usin
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -19,9 +19,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of C# parser API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email for .NET supports .NET framework, .NET Core & Xamarin platforms." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -172,7 +169,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for .NET native Outlook message formats, message storage formats and more file formats." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email for .NET supports .NET framework, .NET Core & Xamarin platforms." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -228,6 +225,71 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="Outlook PST API" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for .NET native Outlook message formats, message storage formats and more [file formats](https://docs.aspose.com/email/net/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Outlook:
+     </b>
+     MSG, PST, OST, OFT
+    </li>
+    <li>
+     EML, EMLX, MBOX
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     ICS, VCF, HTML, MHTML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Mac Outlook:
+     </b>
+     OLM
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET API for Email Manipulation" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png"/>
   <header>
    Aspose.Email
   </header>

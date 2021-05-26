@@ -68,6 +68,8 @@ foreach (var prop in type.GetProperties())
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of OST via Online App" sectionDescription="View & edit Metadata to OST documents by using our [Live Demos](https://products.aspose.app/email/metadata) with following benefits." >}}
@@ -83,6 +85,9 @@ OST or Offline Storage Files represent user's mailbox data in offline mode on lo
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

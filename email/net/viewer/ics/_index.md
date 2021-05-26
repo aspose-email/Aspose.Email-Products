@@ -70,6 +70,8 @@ System.Diagnostics.Process.Start(output);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View ICS" sectionDescription="Check our live demos to [View ICS](https://products.aspose.app/email/viewer/ics) with following benefits." >}}
@@ -85,6 +87,9 @@ The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

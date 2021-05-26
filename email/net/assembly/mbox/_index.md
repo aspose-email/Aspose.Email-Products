@@ -66,6 +66,8 @@ url: /net/assembly/mbox/
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Assemble MBOX" sectionDescription="Check our live demos to [create MBOX files](https://products.aspose.app/email/assembly/mbox) with following benefits." >}}
@@ -81,6 +83,9 @@ MBox file format is a generic term that represents a container for collection of
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

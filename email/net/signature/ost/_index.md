@@ -80,6 +80,8 @@ mail.Save(Path.Combine(outputFolderPath, Path.GetFileNameWithoutExtension(inputF
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online OSTВ eSignature Live Demos" sectionDescription="e-Sign OST documents right now by visiting our [Live Demos website](https://products.aspose.app/email/signature). The live demo has the following benefits" >}}
@@ -95,6 +97,9 @@ OST or Offline Storage Files represent user's mailbox data in offline mode on lo
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

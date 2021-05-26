@@ -18,7 +18,192 @@ url: /android-java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
+<div class="diagram1 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-archive">
+    </i>
+    Storage
+   </header>
+   <ul>
+    <li>
+     Create PST &amp; OST Files
+    </li>
+    <li>
+     Manage Messages in PST
+    </li>
+    <li>
+     Manage Contacts in PST
+    </li>
+    <li>
+     Manage Calendar Items in PST
+    </li>
+    <li>
+     Manage Tasks, Notes, Journals
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-calendar">
+    </i>
+    Events
+   </header>
+   <ul>
+    <li>
+     Recurrence Patterns
+    </li>
+    <li>
+     Create Appointment
+    </li>
+    <li>
+     Export Appointment to ICS File
+    </li>
+    <li>
+     Format Appointment Text
+    </li>
+    <li>
+     Read Appointment Info
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-envelope">
+    </i>
+    Emails
+   </header>
+   <ul>
+    <li>
+     Load Variety of Formats
+    </li>
+    <li>
+     Interconvert Messages
+    </li>
+    <li>
+     Create Plain &amp; HTML Emails
+    </li>
+    <li>
+     Manage Embedded Objects
+    </li>
+    <li>
+     Manage Attachments
+    </li>
+    <li>
+     Save Message as Draft
+    </li>
+    <li>
+     Manage Headers
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Android Email API" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email runs on any platform where Android Runtime Environment is installed." >}}
+<div class="diagram1 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cogs">
+    </i>
+    Android Runtime Environment
+   </header>
+   <ul>
+    <li>
+     Mobile Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Outlook Mail API" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Android via Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API supports most popular message & storage file formats." >}}
+<div class="diagram1 d2 d1-android">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Outlook:
+     </b>
+     MSG, PST, OST
+    </li>
+    <li>
+     EML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+  </div>
+  <!--/row-->
+  <div class="d1-logo">
+   <img alt="Mail API for Android" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png"/>
+   <header>
+    Aspose.Email
+   </header>
+   <footer>
+    <small>
+     <em>
+      for
+     </em>
+     Android via Java
+    </small>
+   </footer>
+  </div>
+  <!--/logo-->
+ </div>
+ <!--/diagram3-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

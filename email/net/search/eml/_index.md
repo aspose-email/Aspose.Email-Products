@@ -67,6 +67,8 @@ m.Save("GenerateMessage.eml");
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online EMLВ SearchВ Live Demos" sectionDescription="Search text, words, phrasesВ within EML documents right now by visiting our [Live Demos website](https://products.aspose.app/email/search). The live demo has the following benefits" >}}
@@ -82,6 +84,9 @@ EML file format represents email messages saved using Outlook and other relevant
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

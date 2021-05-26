@@ -17,7 +17,166 @@ url: /sharepoint/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview Aspose.Email for SharePoint." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-envelope">
+    </i>
+    Message Manipulation
+   </header>
+   <ul>
+    <li>
+     Interconvert EML &amp; MSG
+    </li>
+    <li>
+     Extract Attachments
+    </li>
+    <li>
+     Convert to Text
+    </li>
+    <li>
+     Preview Messages
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-balance-scale">
+    </i>
+    Synchronization
+   </header>
+   <ul>
+    <li>
+     POP3
+    </li>
+    <li>
+     IMAP
+    </li>
+    <li>
+     Exchange Server
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-check-square-o">
+    </i>
+    Library Synchronization
+   </header>
+   <ul>
+    <li>
+     With FTP Server
+    </li>
+    <li>
+     With Dropbox
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Mail App" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email for SharePoint is designed to be used with Microsoft SharePoint Server." >}}
+<div class="diagram1 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cubes">
+    </i>
+    SharePoint Server
+   </header>
+   <ul>
+    <li>
+     2010
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Email Format Converter for SharePoint" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for SharePoint supports the most commonly used mail [file formats](https://docs.aspose.com/email/sharepoint/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-sharepoint">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Outlook:
+     </b>
+     MSG
+    </li>
+    <li>
+     EML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="SharePoint Email App" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    SharePoint
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

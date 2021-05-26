@@ -80,6 +80,8 @@ mail.Save(Path.Combine(outputFolderPath, Path.GetFileNameWithoutExtension(inputF
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online EMLВ eSignature Live Demos" sectionDescription="e-Sign EML documents right now by visiting our [Live Demos website](https://products.aspose.app/email/signature). The live demo has the following benefits" >}}
@@ -95,6 +97,9 @@ EML file format represents email messages saved using Outlook and other relevant
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

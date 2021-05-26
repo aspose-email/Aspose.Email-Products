@@ -121,6 +121,8 @@ url: /net/assembly/msg/
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Assemble MSG" sectionDescription="Check our live demos to [create MSG files](https://products.aspose.app/email/assembly/msg) with following benefits." >}}
@@ -136,6 +138,9 @@ MSG is a file format used by Microsoft Outlook and Exchange to store email messa
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

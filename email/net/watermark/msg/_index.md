@@ -87,6 +87,8 @@ mail.SetBodyContent(content, BodyContentType.Html);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Watermark MSG via Online App" sectionDescription="Add watermark to MSG documents by visiting our [Live Demos website](https://products.aspose.app/email/watermark). The live demo has the following benefits" >}}
@@ -102,6 +104,9 @@ MSG is a file format used by Microsoft Outlook and Exchange to store email messa
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

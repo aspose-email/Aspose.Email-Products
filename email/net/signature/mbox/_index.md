@@ -80,6 +80,8 @@ mail.Save(Path.Combine(outputFolderPath, Path.GetFileNameWithoutExtension(inputF
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Online MBOXВ eSignature Live Demos" sectionDescription="e-Sign MBOX documents right now by visiting our [Live Demos website](https://products.aspose.app/email/signature). The live demo has the following benefits" >}}
@@ -95,6 +97,9 @@ MBox file format is a generic term that represents a container for collection of
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

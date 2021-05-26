@@ -87,6 +87,8 @@ if (prop != nullptr){
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Extract Metadata of MSG via Online App" sectionDescription="View & edit Metadata to MSG documents by using our [Live Demos](https://products.aspose.app/email/metadata) with following benefits." >}}
@@ -102,6 +104,9 @@ MSG is a file format used by Microsoft Outlook and Exchange to store email messa
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

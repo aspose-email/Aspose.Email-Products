@@ -63,6 +63,8 @@ using (var pst = PersonalStorage.FromFile("sourceFile.pst")){
  
 {{< /blocks/products/pf/agp/faq >}}
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="[Free Online App for PST to EMLX Conversion](https://products.aspose.app/email/conversion/pst-to-emlx)" sectionDescription="" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
@@ -83,6 +85,9 @@ The EMLX file format is implemented and developed by Apple. The Apple Mail appli
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

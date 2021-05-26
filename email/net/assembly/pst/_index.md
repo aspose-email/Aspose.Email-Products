@@ -122,6 +122,8 @@ url: /net/assembly/pst/
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Assemble PST" sectionDescription="Check our live demos to [create PST files](https://products.aspose.app/email/assembly/pst) with following benefits." >}}
@@ -137,6 +139,9 @@ Files with .PST extension represent Outlook Personal Storage Files (also called 
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

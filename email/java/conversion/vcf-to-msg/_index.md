@@ -58,6 +58,8 @@ contact.save("Contact_out.msg", ContactSaveFormat.Msg);
  
 {{< /blocks/products/pf/agp/faq >}}
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="[Free Online App for VCF to MSG Conversion](https://products.aspose.app/email/conversion/vcf-to-msg)" sectionDescription="" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
@@ -78,6 +80,9 @@ MSG is a file format used by Microsoft Outlook and Exchange to store email messa
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

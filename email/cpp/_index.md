@@ -18,7 +18,200 @@ url: /cpp/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Email Library for C++." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-archive">
+    </i>
+    Storage Files
+   </header>
+   <ul>
+    <li>
+     Create PST &amp; OST files
+    </li>
+    <li>
+     Manage Messages in PST
+    </li>
+    <li>
+     Manage Contacts in PST
+    </li>
+    <li>
+     Manage Calendar Items in PST
+    </li>
+    <li>
+     Manage Tasks, Notes, Journals
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-calendar">
+    </i>
+    Calendar Features
+   </header>
+   <ul>
+    <li>
+     Recurrence Patterns
+    </li>
+    <li>
+     Create Appointment
+    </li>
+    <li>
+     Export Appointment to ICS file
+    </li>
+    <li>
+     Format Appointment text
+    </li>
+    <li>
+     Read Appointment Info
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Emails
+   </header>
+   <ul>
+    <li>
+     Create plain &amp; HTML emails
+    </li>
+    <li>
+     Load Variety of Formats
+    </li>
+    <li>
+     Interconvert Messages
+    </li>
+    <li>
+     Support for Templates
+    </li>
+    <li>
+     Alternative Message Bodies
+    </li>
+    <li>
+     Manage Embedded Objects
+    </li>
+    <li>
+     Manage Attachments
+    </li>
+    <li>
+     Save Message as Draft
+    </li>
+    <li>
+     Manage Headers
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ Email API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email for C++ can be used in any C++ applications developed on following platforms using [system requirements](https://docs.aspose.com/email/cpp/system-requirements/)  ." >}}
+<div class="diagram1 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <!--<header><i class="fa fa-cubes"> </i>Windows 32 bit</header><br />-->
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Windows 64 bit
+   </header>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Linux 64 bit
+   </header>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for C++ supports the most commonly used mail [file formats](https://docs.aspose.com/email/cpp/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-cplus">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Outlook:
+     </b>
+     MSG, PST, OST
+     <!--, OFT-->
+    </li>
+    <li>
+     EML, EMLX
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="C++ API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    C++
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

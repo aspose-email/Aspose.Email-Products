@@ -59,6 +59,8 @@ message.save("Saved File.mhtml", SaveOptions.DefaultMhtml);
  
 {{< /blocks/products/pf/agp/faq >}}
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/demobox sectionTitle="[Free Online App for EMLX to MHTML Conversion](https://products.aspose.app/email/conversion/emlx-to-mhtml)" sectionDescription="" >}}
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything" >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write or compile code" >}}
@@ -79,6 +81,9 @@ Files with MHTML extension represent a web page archive format that can be creat
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -18,7 +18,279 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="Overview of API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-archive">
+    </i>
+    Storage Files
+   </header>
+   <ul>
+    <li>
+     Create &amp; Extract PST &amp; OST files
+    </li>
+    <li>
+     Manage Messages in PST
+    </li>
+    <li>
+     Manage Contacts in PST
+    </li>
+    <li>
+     Manage Calendar Items in PST
+    </li>
+    <li>
+     Manage Tasks, Notes, Journals
+    </li>
+    <li>
+     Creation of Distribution Lists
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-envelope">
+    </i>
+    Emailing
+   </header>
+   <ul>
+    <li>
+     Email Connection Protocols
+    </li>
+    <li>
+     Supports SSL-enabled Servers
+    </li>
+    <li>
+     Supports Connection Timeout
+    </li>
+    <li>
+     Work with Gmail Contacts
+    </li>
+    <li>
+     Work with Gmail Calendar
+    </li>
+    <li>
+     Validate Addresses
+    </li>
+    <li>
+     Validate Email Syntax
+    </li>
+    <li>
+     Validate Email Domain
+    </li>
+    <li>
+     Validate MX Records
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Emails
+   </header>
+   <ul>
+    <li>
+     Create plain &amp; HTML emails
+    </li>
+    <li>
+     Load Variety Formats
+    </li>
+    <li>
+     Interconvert Messages
+    </li>
+    <li>
+     Support for Templates
+    </li>
+    <li>
+     Alternative Message Bodies
+    </li>
+    <li>
+     Manage Embedded Objects
+    </li>
+    <li>
+     Manage Attachments
+    </li>
+    <li>
+     Save Message as Draft
+    </li>
+    <li>
+     Manage Headers
+    </li>
+    <li>
+     Read &amp; Write to Thunderbird Mail Storage
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-calendar">
+    </i>
+    Calendar Features
+   </header>
+   <ul>
+    <li>
+     Recurrence Patterns
+    </li>
+    <li>
+     Create Appointment
+    </li>
+    <li>
+     Export Appointment to ICS file
+    </li>
+    <li>
+     Format Appointment text
+    </li>
+    <li>
+     Read Appointment Info
+    </li>
+    <li>
+     Send Appointment Request
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Email API Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email for Java only requires Java to work." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Java Runtime Environment
+   </header>
+   <ul>
+    <li>
+     JSP/JSF Application
+    </li>
+    <li>
+     Desktop Application
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java API Outlook PST" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for Java supports most commonly used message & message storage formats and more [document formats](https://docs.aspose.com/email/java/supported-file-formats/)  ." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Outlook:
+     </b>
+     MSG, PST, OST, OFT
+    </li>
+    <li>
+     EML, EMLX, MBOX
+    </li>
+    <li>
+     <strong>
+      Virtual Card:
+     </strong>
+     VCF
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Calendar Format:
+     </b>
+     ICS
+    </li>
+    <li>
+     <strong>
+      Web:
+     </strong>
+     HTML, MHTML
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     OLM
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java API for Email Sending" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
