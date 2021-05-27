@@ -2,6 +2,7 @@
 title:  
 weight: 2240
 url: /java/conversion/vcf-to-mbox/ 
+description: Try our On-Premise APIs for your message conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

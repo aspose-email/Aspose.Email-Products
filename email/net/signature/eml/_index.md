@@ -2,6 +2,7 @@
 title:  
 weight: 3760
 url: /net/signature/eml/ 
+description: Try our On-Premise message digital signature APIs to e-Sgin EML documents on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

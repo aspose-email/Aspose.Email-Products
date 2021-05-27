@@ -2,6 +2,7 @@
 title:  
 weight: 3600
 url: /net/headers/txt/ 
+description: Try our On-Premise message header APIs for email tracking and emails check from TXT file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

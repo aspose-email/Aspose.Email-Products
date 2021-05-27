@@ -2,6 +2,7 @@
 title:  
 weight: 2500
 url: /net/conversion/eml-to-ics/ 
+description: Try our On-Premise APIs with your message on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

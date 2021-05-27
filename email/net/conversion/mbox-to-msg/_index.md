@@ -2,6 +2,7 @@
 title:  
 weight: 2930
 url: /net/conversion/mbox-to-msg/ 
+description: Try our On-Premise APIs with your message on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

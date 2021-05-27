@@ -2,6 +2,7 @@
 title: Python Outlook Email API for MSG EML PST MBOX MHT 
 weight: 3920
 url: /python-net/ 
+description: Aspose.Email for Python via .NET is an Email Programming API for Microsoft Outlook file formats PST MSG EML ICS. It allows to work with SMTP POP3 IMAP via SSL TLS
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

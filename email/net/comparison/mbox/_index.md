@@ -2,6 +2,7 @@
 title:  
 weight: 2440
 url: /net/comparison/mbox/ 
+description: Try our On-Premise message comparison APIs to compare MBOX documents for differences on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

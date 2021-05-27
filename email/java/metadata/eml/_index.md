@@ -2,6 +2,7 @@
 title:  
 weight: 2310
 url: /java/metadata/eml/ 
+description: Try our On-Premise message metadata editing or viewer APIs to edit or view EML format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

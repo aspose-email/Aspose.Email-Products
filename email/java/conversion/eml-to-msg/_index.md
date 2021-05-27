@@ -2,6 +2,7 @@
 title:  
 weight: 1250
 url: /java/conversion/eml-to-msg/ 
+description: Try our On-Premise APIs for your message conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

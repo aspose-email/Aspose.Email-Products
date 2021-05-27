@@ -2,6 +2,7 @@
 title:  
 weight: 3800
 url: /net/signature/pst/ 
+description: Try our On-Premise message digital signature APIs to e-Sgin PST documents on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

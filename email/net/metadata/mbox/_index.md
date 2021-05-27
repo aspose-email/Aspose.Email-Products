@@ -2,6 +2,7 @@
 title:  
 weight: 3630
 url: /net/metadata/mbox/ 
+description: Try our On-Premise message metadata viewer or editing APIs to edit or view MBOX format metadata on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

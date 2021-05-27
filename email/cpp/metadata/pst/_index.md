@@ -2,6 +2,7 @@
 title:  
 weight: 1180
 url: /cpp/metadata/pst/ 
+description: Try our On-Premise message metadata editing or viewer APIs to edit or view PST file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

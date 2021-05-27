@@ -2,6 +2,7 @@
 title:  
 weight: 1160
 url: /cpp/metadata/msg/ 
+description: Try our On-Premise message metadata editing or viewer APIs to edit or view MSG file metadata on C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

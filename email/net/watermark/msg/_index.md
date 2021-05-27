@@ -2,6 +2,7 @@
 title:  
 weight: 3910
 url: /net/watermark/msg/ 
+description: Try our On-Premise message APIs to add or remove watermark to MSG file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

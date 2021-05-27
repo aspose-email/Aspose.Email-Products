@@ -2,6 +2,7 @@
 title:  
 weight: 3270
 url: /net/conversion/oft-to-vcf/ 
+description: Try our On-Premise APIs with your message on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

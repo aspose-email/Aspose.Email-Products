@@ -2,6 +2,7 @@
 title:  
 weight: 3640
 url: /net/metadata/msg/ 
+description: Try our On-Premise message metadata viewer or editing APIs to edit or view MSG format metadata on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 3590
 url: /net/headers/msg/ 
+description: Try our On-Premise message header APIs for email tracking and emails check from MSG file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 3780
 url: /net/signature/msg/ 
+description: Try our On-Premise message digital signature APIs to e-Sgin MSG documents on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

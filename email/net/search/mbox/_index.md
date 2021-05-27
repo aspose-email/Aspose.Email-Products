@@ -2,6 +2,7 @@
 title:  
 weight: 3720
 url: /net/search/mbox/ 
+description: Try our On-Premise message APIs to search words with pattern in MBOX file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 3850
 url: /net/viewer/msg/ 
+description: Try our On-Premise APIs to load, render and display MSG documents on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

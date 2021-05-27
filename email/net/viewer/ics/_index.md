@@ -2,6 +2,7 @@
 title:  
 weight: 3830
 url: /net/viewer/ics/ 
+description: Try our On-Premise APIs to load, render and display ICS documents on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 3790
 url: /net/signature/ost/ 
+description: Try our On-Premise message digital signature APIs to e-Sgin OST documents on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

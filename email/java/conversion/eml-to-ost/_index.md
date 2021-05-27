@@ -2,6 +2,7 @@
 title:  
 weight: 1270
 url: /java/conversion/eml-to-ost/ 
+description: Try our On-Premise APIs for your message conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

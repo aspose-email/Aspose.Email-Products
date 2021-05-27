@@ -2,6 +2,7 @@
 title:  
 weight: 2360
 url: /net/annotation/eml/ 
+description: Try our On-Premise message annotation APIs to delete EML format annotations on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

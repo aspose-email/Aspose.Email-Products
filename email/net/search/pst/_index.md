@@ -2,6 +2,7 @@
 title:  
 weight: 3750
 url: /net/search/pst/ 
+description: Try our On-Premise message APIs to search words with pattern in PST file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

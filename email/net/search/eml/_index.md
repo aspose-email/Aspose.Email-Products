@@ -2,6 +2,7 @@
 title:  
 weight: 3710
 url: /net/search/eml/ 
+description: Try our On-Premise message APIs to search words with pattern in EML file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

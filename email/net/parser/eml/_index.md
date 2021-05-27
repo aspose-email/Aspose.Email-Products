@@ -2,6 +2,7 @@
 title:  
 weight: 3670
 url: /net/parser/eml/ 
+description: Try our On-Premise message parser APIs to extract text and images from EML file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

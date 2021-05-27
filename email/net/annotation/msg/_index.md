@@ -2,6 +2,7 @@
 title:  
 weight: 2370
 url: /net/annotation/msg/ 
+description: Try our On-Premise message annotation APIs to delete MSG format annotations on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

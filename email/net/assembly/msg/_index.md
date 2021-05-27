@@ -2,6 +2,7 @@
 title:  
 weight: 2400
 url: /net/assembly/msg/ 
+description: Try our On-Premise message report generation APIs to generate MSG format reports on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 3740
 url: /net/search/ost/ 
+description: Try our On-Premise message APIs to search words with pattern in OST file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

@@ -2,6 +2,7 @@
 title:  
 weight: 2330
 url: /java/metadata/msg/ 
+description: Try our On-Premise message metadata editing or viewer APIs to edit or view MSG format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

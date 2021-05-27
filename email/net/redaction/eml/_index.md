@@ -2,6 +2,7 @@
 title:  
 weight: 3690
 url: /net/redaction/eml/ 
+description: Try our On-Premise message redaction APIs to redact sensitive information in EML file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}

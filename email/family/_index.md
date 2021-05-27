@@ -2,6 +2,7 @@
 title: .NET Java C++ Python and Android Email Processing APIs 
 weight: 10
 url: /family
+description: Create read manipulate Outlook and Thunderbird files using the relevant library of any platform. Send or receive emails from SMTP MIME POP3 HTTP IMAP
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
