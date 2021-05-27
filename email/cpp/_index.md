@@ -5,14 +5,21 @@ url: /cpp/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Email Message & Message Storage Processing API" h2="Create, edit & convert email files & message archives from within C++ applications without requiring Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-cpp.png" pfName="Aspose.Email" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Email Message & Message Storage Processing API" h2="Create, edit & convert email files & message archives from within C++ applications without requiring Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-cpp.png" pfName="Aspose.Email for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for C++" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/cpp/" instalationsDocsLink="https://docs.aspose.com/email/cpp/installation" nugetLink="https://www.nuget.org/packages/aspose.email.cpp.vc140/" nugetPackageName="Aspose.Email.Cpp.VC140" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction & manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST & OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.</p>
+<p>
+ Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX &amp; MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+</p>
+
+<p>
+ Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction &amp; manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST &amp; OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -361,12 +368,6 @@ inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -392,13 +393,13 @@ inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/cpp" pricingInformationLink="https://purchase.aspose.com/pricing/email/cpp" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email offers individual Email Libraries for popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual Email Libraries for popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName="Aspose.Email for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Aspose.Email for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Aspose.Email for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="Aspose.Email for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Aspose.Email for Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

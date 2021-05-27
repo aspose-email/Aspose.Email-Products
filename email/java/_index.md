@@ -5,14 +5,21 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Outlook API & Java Thunderbird API For Email Processing" h2="Generate emails, send emails & parse emails from Outlook & Thunderbird without requiring additional software. Send & Receive Emails via SMTP, POP3, IMAP protocols." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_email-for-java.png" pfName="Aspose.Email" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/email/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Outlook API & Java Thunderbird API For Email Processing" h2="Generate emails, send emails & parse emails from Outlook & Thunderbird without requiring additional software. Send & Receive Emails via SMTP, POP3, IMAP protocols." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_email-for-java.png" pfName="Aspose.Email for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/email/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/java/" instalationsDocsLink="https://docs.aspose.com/email/java/installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST & MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal Storage Files PST and Offline Storage Files OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).</p>
+<p>
+ Aspose.Email for Java allows developers to focus on implementing their own business logic for managing emails without having to know about format specifications or network programming.
+</p>
+
+<p>
+ Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST &amp; MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal Storage Files PST and Offline Storage Files OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -597,12 +604,6 @@ pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + 
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -629,13 +630,13 @@ pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + 
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/java" pricingInformationLink="https://purchase.aspose.com/pricing/email/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName="Aspose.Email for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="Aspose.Email for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Aspose.Email for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="Aspose.Email for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Aspose.Email for Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

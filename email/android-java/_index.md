@@ -5,14 +5,21 @@ url: /android-java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android Email APIs" h2="Create, manipulate & convert email messages and storage files including MSG, EML, MHT, PST & OST from within mobile apps." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-android.png" pfName="Aspose.Email" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Android Email APIs" h2="Create, manipulate & convert email messages and storage files including MSG, EML, MHT, PST & OST from within mobile apps." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-android.png" pfName="Aspose.Email for Android via Java" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Android via Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/java/android-via-java-release-notes/" instalationsDocsLink="https://docs.aspose.com/email/java/aspose-email-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Email for Android via Java gives you the tools that you need to create, read and manipulate Outlook MSG, PST, EML and MHT files from within an Android application. It provides the ability to manipulate message headers, contents, attachments, and Mapi properties as per the application specifications.</p>
+<p>
+ Aspose.Email for Android via Java empowers the software developers to design Android applications having the ability to manage and manipulate mail messages without getting lost in the complexities of Microsoft Outlook file format implementation. Android email library helps the developers manipulate mail file formats from within Android applications. API has no dependencies other than Android Runtime therefore it does not need any other APIs or software to work.
+</p>
+
+<p>
+ Aspose.Email for Android via Java gives you the tools that you need to create, read and manipulate Outlook MSG, PST, EML and MHT files from within an Android application. It provides the ability to manipulate message headers, contents, attachments, and Mapi properties as per the application specifications.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -380,12 +387,6 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -410,13 +411,13 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/androidjava" pricingInformationLink="https://purchase.aspose.com/pricing/email/android-java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email offers individual mail APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual mail APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName="Aspose.Email for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Aspose.Email for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="Aspose.Email for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="Aspose.Email for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Aspose.Email for Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

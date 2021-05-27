@@ -5,14 +5,21 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Email API For .NET | Outlook & Thunderbird Email Processing" h2="Aspose.Email API for .NET to create, parse, convert & manipulate emails & cross-platform email archives without Microsoft Outlook or Thunderbird dependencies." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-net.png" pfName="Aspose.Email" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Email for .NET" h2="Aspose.Email for .NET" logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-net.png" pfName="Aspose.Email for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/net/" instalationsDocsLink="https://docs.aspose.com/email/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Email/" nugetPackageName="Aspose.Email" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook & Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal Storage Files (PST) & Offline Storage Files (OST) & MBOX. Developers can use the API to send & receive emails via a number of popular protocols like POP3, IMAP & SMTP or connect with Microsoft Exchange Server via WebDav & Exchange Web Services to send & receive emails with attachments and list or remove messages from the server.</p>
+<p>
+ Aspose.Email for .NET is a comprehensive set of Email Processing APIs that can be used to build cross-platform applications with the ability to create mail, manipulate, analyze, convert and transmit messages without using Microsoft Outlook or Office Automation. The API provides the email manipulation features such as addition, extraction or removal of attachments from a message object, customization of message headers by adding or removing recipients or changing the subject and more.
+</p>
+
+<p>
+ Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook &amp; Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal Storage Files (PST) &amp; Offline Storage Files (OST) &amp; MBOX. Developers can use the API to send &amp; receive emails via a number of popular protocols like POP3, IMAP &amp; SMTP or connect with Microsoft Exchange Server via WebDav &amp; Exchange Web Services to send &amp; receive emails with attachments and list or remove messages from the server.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -700,12 +707,6 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -731,13 +732,13 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/net" pricingInformationLink="https://purchase.aspose.com/pricing/email/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Aspose.Email for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="Aspose.Email for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Aspose.Email for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="Aspose.Email for SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Aspose.Email for Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -5,13 +5,17 @@ url: /sharepoint/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert & Sync Email Messages" h2="Convert email files or synchronize emails with no effort." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-sharepoint.png" pfName="Aspose.Email" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert & Sync Email Messages" h2="Convert email files or synchronize emails with no effort." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-sharepoint.png" pfName="Aspose.Email for SharePoint" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for SharePoint" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.Email for SharePoint provides email conversion and synchronization features from within the Microsoft SharePoint document library. It allows you to convert one or several mail messages at once. Aspose.Email for SharePoint also lets you view the emails directly from SharePoint.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -254,12 +258,6 @@ url: /sharepoint/
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -283,13 +281,13 @@ url: /sharepoint/
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/email/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName="Aspose.Email for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Aspose.Email for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="Aspose.Email for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Aspose.Email for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Aspose.Email for Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -64,14 +64,28 @@ Analyze headers of Emails & message archives online from anywhere.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Email." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Email." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.email/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-iCalendar component has saved the Orbit Professional development team many hours of development. Most importantly, iCalendar component provides us with the ability to define advanced recurrence patterns, simply and intelligently.
+<p class="first">
+ iCalendar component has saved the Orbit Professional development team many hours of development. Most importantly, iCalendar component provides us with the ability to define advanced recurrence patterns, simply and intelligently.
+ <em>
+  Gladstone Health and Leisure Ltd
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-The implementation was straightforward, we really focus on our architecture and Aspose just fits in simply. Our architecture is highly optimized for performance and multi-threading, and again this is no problem to use Aspose.Total.net.
+<p class="second">
+ The implementation was straightforward, we really focus on our architecture and Aspose just fits in simply. Our architecture is highly optimized for performance and multi-threading, and again this is no problem to use Aspose.Total.net.
+ <em>
+  Yassine Loudad | Qualetech, France
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

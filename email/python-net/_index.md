@@ -5,15 +5,21 @@ url: /python-net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python API for Email Processing" h2="Create, Manipulate or Convert email formats including MSG, EML, EMLX & MHT from within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-python.png" pfName="Aspose.Email" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/email/pythonnet" >}}
+{{< blocks/products/pf/upper-banner h1="Python API for Email Processing" h2="Create, Manipulate or Convert email formats including MSG, EML, EMLX & MHT from within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-python.png" pfName="Aspose.Email for Python via .NET" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/email/pythonnet" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Python via .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/pythonnet/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP & SMTP.</p>
-<p>An overview of Python Email messages processing API such as calendar features, email validation, and message storage files manipulation capabilities.</p>
+<p>
+ Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time &amp; effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
+</p>
+
+<p>
+ The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP &amp; SMTP.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -194,12 +200,6 @@ reader.dispose();</code></pre>
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -224,13 +224,13 @@ reader.dispose();</code></pre>
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/pythonnet" pricingInformationLink="https://purchase.aspose.com/pricing/email/python-net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName="Aspose.Email for .NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Aspose.Email for Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="Aspose.Email for C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Aspose.Email for Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="Aspose.Email for SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="SharePoint" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
