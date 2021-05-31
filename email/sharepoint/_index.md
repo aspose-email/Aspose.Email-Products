@@ -1,6 +1,6 @@
 ---
 title: SharePoint Email App - Convert EML to MSG with attachments 
-weight: 3930
+weight: 3980
 url: /sharepoint/ 
 description: SharePoint Email App to export EML to MSG along with email Attachments. Synchronize files and emails from FTP POP3 IMAP or MS Exchange Server
 ---
