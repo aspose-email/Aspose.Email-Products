@@ -1,6 +1,6 @@
 ---
 title: On Premise, Cloud & App Based Email Management Solution 
-weight: 1190
+weight: 2540
 url: /
 description: Develop Outlook formats parsing applications using On Premise or Cloud APIs, or simply use cross-platform apps to view, compare, inspect or convert Microsoft Outlook formats.
 ---

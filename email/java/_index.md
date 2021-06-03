@@ -1,6 +1,6 @@
 ---
 title: Java Email API | Java Outlook API | Receive & Parse Emails 
-weight: 2350
+weight: 2670
 url: /java/ 
 description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & receive Thunderbird  & Outlook emails. API works with SMTP server POP3 IMAP clients Email API
 ---

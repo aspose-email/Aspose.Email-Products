@@ -1,6 +1,6 @@
 ---
 title: Aspose Email | C# .NET Email Processing Outlook API 
-weight: 3660
+weight: 880
 url: /net/ 
 description: C# ASP.NET VB.NET Email processing library for Outlook, Thunderbird and other file formats. API works with SMTP POP3 IMAP and MS Exchange servers to send emails
 ---

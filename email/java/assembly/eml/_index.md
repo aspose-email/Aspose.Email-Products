@@ -1,6 +1,6 @@
 ---
 title: Generate Reports in EML Files via Java 
-weight: 1200
+weight: 3980
 url: /java/assembly/eml/ 
 description: Try our On-Premise message report creation APIs to create EML format reports on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise message report creation APIs to create EML forma
 
 {{% blocks/products/pf/agp/content h2="How to Generate EML Reports Using Java" %}}
 
- In order to create EML file reports, weвЂ™ll use
+ In order to create EML file reports, we’ll use
  [Aspose.Email for Java](https://products.aspose.com/email/java) 
  API which is a feature-rich, powerful and easy to use assembly API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email) 
@@ -140,7 +140,7 @@ try{
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Email for Java API" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. вЂЋ
+ Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 

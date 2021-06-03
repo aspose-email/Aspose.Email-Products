@@ -1,6 +1,6 @@
 ---
 title: Edit or View PST Files Metadata via Java 
-weight: 2400
+weight: 3920
 url: /java/metadata/pst/ 
 description: Try our On-Premise message metadata editing or viewer APIs to edit or view PST format metadata on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise message metadata editing or viewer APIs to edit 
 
 {{% blocks/products/pf/agp/content h2="How to Extract PST Metadata Using Java" %}}
 
- In order to get PST file metadata, weвЂ™ll use
+ In order to get PST file metadata, we’ll use
  [Aspose.Email for Java](https://products.aspose.com/email/java) 
  API which is a feature-rich, powerful and easy to use metadata API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email) 
@@ -125,7 +125,7 @@ if (prop != null) {
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Email for Java API" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. вЂЋ
+ Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 

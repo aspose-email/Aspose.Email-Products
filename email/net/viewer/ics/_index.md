@@ -1,6 +1,6 @@
 ---
 title: View ICS File Formats via .NET 
-weight: 3880
+weight: 3400
 url: /net/viewer/ics/ 
 description: Try our On-Premise APIs to load, render and display ICS documents on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display ICS documents o
 
 {{% blocks/products/pf/agp/content h2="How to View ICS File Using C#" %}}
 
- In order to view ICS file, weвЂ™ll use
+ In order to view ICS file, we’ll use
  [Aspose.Email for .NET](https://products.aspose.com/email/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
@@ -91,7 +91,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Email for .NET API" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. вЂЋ
+ Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 

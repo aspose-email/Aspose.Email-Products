@@ -1,6 +1,6 @@
 ---
 title: Convert OST to MSG via Java 
-weight: 2110
+weight: 3090
 url: /java/conversion/ost-to-msg/ 
 description: Try our On-Premise APIs for your message conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your message conversion on Java Runtime
 
 {{% blocks/products/pf/agp/content h2="How to Convert OST to MSG Using Java" %}}
 
- In order to render OST to MSG, weвЂ™ll use
+ In order to render OST to MSG, we’ll use
  [Aspose.Email for Java](https://products.aspose.com/email/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email) 
@@ -80,7 +80,7 @@ description: Try our On-Premise APIs for your message conversion on Java Runtime
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert OST to MSG - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert OST to MSG - Java‎" offSpacer="" %}}
 
 ```cs
 PersonalStorage ost = PersonalStorage.fromFile("Outlook.ost");
@@ -117,7 +117,7 @@ for (int i=0;i< miCol.size();i++){
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Email for Java API" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. вЂЋ
+ Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 

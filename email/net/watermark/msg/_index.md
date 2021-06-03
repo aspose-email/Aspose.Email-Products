@@ -1,6 +1,6 @@
 ---
 title: Watermark MSG document via .NET 
-weight: 3960
+weight: 1180
 url: /net/watermark/msg/ 
 description: Try our On-Premise message APIs to add or remove watermark to MSG file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise message APIs to add or remove watermark to MSG f
 
 {{% blocks/products/pf/agp/content h2="How to Watermark MSG File Using C#" %}}
 
- In order to watermark MSG file, weвЂ™ll use
+ In order to watermark MSG file, we’ll use
  [Aspose.Email for .NET](https://products.aspose.com/email/net) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
@@ -108,7 +108,7 @@ mail.SetBodyContent(content, BodyContentType.Html);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Email for .NET API" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. вЂЋ
+ Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Search and replace text in EML document via .NET 
-weight: 3740
+weight: 1480
 url: /net/redaction/eml/ 
 description: Try our On-Premise message redaction APIs to redact sensitive information in EML file on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise message redaction APIs to redact sensitive infor
 
 {{% blocks/products/pf/agp/content h2="How to Redact EML File Using C#" %}}
 
- In order to redact EML file, weвЂ™ll use
+ In order to redact EML file, we’ll use
  [Aspose.Email for .NET](https://products.aspose.com/email/net) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
@@ -35,13 +35,13 @@ PM> Install-Package Aspose.Email
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="StepsВ to Redact EML Files in C#" %}}
+{{% blocks/products/pf/agp/feature-section-col title="Steps to Redact EML Files in C#" %}}
 
 {{% blocks/products/pf/agp/text %}}
 
- A basicВ messageВ search and replace text in contents, comments or metadata with
+ A basic message search and replace text in contents, comments or metadata with
  [Aspose.Email for .NET](https://products.aspose.com/email/net) 
- APIs can be done with justВ few lines of code.
+ APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -65,7 +65,7 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="RedactВ EML Files - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Redact EML Files - C#" offSpacer="" %}}
 
 ```cs
 MailMessage m = MailMessage.Load("GenerateMSGAspose.eml");
@@ -87,7 +87,7 @@ m.Save("GenerateMSGAspose.eml");
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Email for .NET API" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. вЂЋ
+ Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 
@@ -95,7 +95,7 @@ m.Save("GenerateMSGAspose.eml");
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
-        {{< blocks/products/pf/agp/demobox sectionTitle="Online EMLВ Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in EML documents right now by visiting our [Live Demos website](https://products.aspose.app/email/redaction). The live demo has the following benefits" >}}
+        {{< blocks/products/pf/agp/demobox sectionTitle="Online EML Redaction Live Demos" sectionDescription="Search and replace text in contents, comments or metadata in EML documents right now by visiting our [Live Demos website](https://products.aspose.app/email/redaction). The live demo has the following benefits" >}}
             {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download Aspose API." >}}
             {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
             {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your EML files." >}}

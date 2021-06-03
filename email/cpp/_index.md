@@ -1,6 +1,6 @@
 ---
 title: C++ Email Parsing API - Aspose 
-weight: 1130
+weight: 2780
 url: /cpp/ 
 description: C++ email library to create manipulate and convert Microsoft Outlook Email PST OST files. SMTP, POP3 and IMAP protocols supported to send and receive emails
 ---

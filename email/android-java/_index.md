@@ -1,6 +1,6 @@
 ---
 title: Android Email API | Calendar Processing and MIME Parsing 
-weight: 20
+weight: 2450
 url: /android-java/ 
 description: Mail library allows to access, read and manipulate Outlook MSG PST OST EML MHT files inside mobile apps.
 ---

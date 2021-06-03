@@ -1,6 +1,6 @@
 ---
 title: Convert ICS to EML via C++ application 
-weight: 340
+weight: 80
 url: /cpp/conversion/ics-to-eml/ 
 description: Try our On-Premise APIs for your message conversion using C++ Runtime Environment for Windows 32 bit, Windows 64 bit and Linux 64 bit.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your message conversion using C++ Runti
 
 {{% blocks/products/pf/agp/content h2="How to Convert ICS to EML Using C++" %}}
 
- In order to convert ICS to EML, weвЂ™ll use
+ In order to convert ICS to EML, we’ll use
  [Aspose.Email for C++](https://products.aspose.com/email/cpp) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
@@ -64,7 +64,7 @@ PM> Install-Package Aspose.Email.Cpp
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert ICS to EML - C++вЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert ICS to EML - C++‎" offSpacer="" %}}
 
 ```cs
 // Load the ICS.
@@ -91,7 +91,7 @@ ics->Save(u"convertedFile.eml", SaveOptions::get_DefaultEml());
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Email for C++ API" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. вЂЋ
+ Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 

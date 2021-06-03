@@ -1,6 +1,6 @@
 ---
 title: View or Edit MBOX Files Metadata via .NET 
-weight: 3680
+weight: 2090
 url: /net/metadata/mbox/ 
 description: Try our On-Premise message metadata viewer or editing APIs to edit or view MBOX format metadata on .NET Framework, .NET Core, and Xamarin Platforms.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise message metadata viewer or editing APIs to edit 
 
 {{% blocks/products/pf/agp/content h2="How to Extract MBOX Metadata Using C#" %}}
 
- In order to extract MBOX metadata, weвЂ™ll use
+ In order to extract MBOX metadata, we’ll use
  [Aspose.Email for .NET](https://products.aspose.com/email/net) 
  API which is a feature-rich, powerful and easy to use document metadata API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
@@ -89,7 +89,7 @@ foreach (var prop in type.GetProperties())
 
     {{% blocks/products/pf/agp/content h2="About Aspose.Email for .NET API" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. вЂЋ
+ Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 
