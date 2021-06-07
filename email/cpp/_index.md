@@ -6,11 +6,11 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Email Message & Message Storage Processing API" h2="Create, edit & convert email files & message archives from within C++ applications without requiring Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-cpp.png" pfName="Aspose.Email for C++" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Email Message & Message Storage Processing API" h2="Create, edit & convert email files & message archives from within C++ applications without requiring Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-cpp.png" pfName="Aspose.Email" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for C++" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/cpp" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/cpp/" instalationsDocsLink="https://docs.aspose.com/email/cpp/installation" nugetLink="https://www.nuget.org/packages/aspose.email.cpp.vc140/" nugetPackageName="Aspose.Email.Cpp.VC140" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/cpp" buyLink="https://purchase.aspose.com/pricing/email/cpp" docsLink="https://docs.aspose.com/email/cpp/" installationsDocsLink="https://docs.aspose.com/email/cpp/installation" nugetLink="https://www.nuget.org/packages/aspose.email.cpp.vc140/" nugetPackageName="Aspose.Email.Cpp.VC140" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/cpp" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

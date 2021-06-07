@@ -6,11 +6,11 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert & Sync Email Messages" h2="Convert email files or synchronize emails with no effort." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-sharepoint.png" pfName="Aspose.Email for SharePoint" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert & Sync Email Messages" h2="Convert email files or synchronize emails with no effort." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-sharepoint.png" pfName="Aspose.Email" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com/pricing/email/sharepoint" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

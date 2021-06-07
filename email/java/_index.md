@@ -6,11 +6,11 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Outlook API & Java Thunderbird API For Email Processing" h2="Generate emails, send emails & parse emails from Outlook & Thunderbird without requiring additional software. Send & Receive Emails via SMTP, POP3, IMAP protocols." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_email-for-java.png" pfName="Aspose.Email for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/email/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Outlook API & Java Thunderbird API For Email Processing" h2="Generate emails, send emails & parse emails from Outlook & Thunderbird without requiring additional software. Send & Receive Emails via SMTP, POP3, IMAP protocols." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_email-for-java.png" pfName="Aspose.Email" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/email/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/java/" instalationsDocsLink="https://docs.aspose.com/email/java/installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/java" buyLink="https://purchase.aspose.com/pricing/email/java" docsLink="https://docs.aspose.com/email/java/" installationsDocsLink="https://docs.aspose.com/email/java/installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

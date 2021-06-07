@@ -6,11 +6,11 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android Email APIs" h2="Create, manipulate & convert email messages and storage files including MSG, EML, MHT, PST & OST from within mobile apps." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-android.png" pfName="Aspose.Email for Android via Java" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Android Email APIs" h2="Create, manipulate & convert email messages and storage files including MSG, EML, MHT, PST & OST from within mobile apps." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-android.png" pfName="Aspose.Email" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/android-java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/java/android-via-java-release-notes/" instalationsDocsLink="https://docs.aspose.com/email/java/aspose-email-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/android-java" buyLink="https://purchase.aspose.com/pricing/email/android-java" docsLink="https://docs.aspose.com/email/java/android-via-java-release-notes/" installationsDocsLink="https://docs.aspose.com/email/java/aspose-email-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/androidjava" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

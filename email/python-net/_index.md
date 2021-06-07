@@ -6,11 +6,11 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python API for Email Processing" h2="Create, Manipulate or Convert email formats including MSG, EML, EMLX & MHT from within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-python.png" pfName="Aspose.Email for Python via .NET" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/email/pythonnet" >}}
+{{< blocks/products/pf/upper-banner h1="Python API for Email Processing" h2="Create, Manipulate or Convert email formats including MSG, EML, EMLX & MHT from within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-python.png" pfName="Aspose.Email" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/email/pythonnet" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/python-net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/pythonnet/release-notes/" instalationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/python-net" buyLink="https://purchase.aspose.com/pricing/email/python-net" docsLink="https://docs.aspose.com/email/pythonnet/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/pythonnet" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET Email processing library for Outlook, Thunderbird
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Email for .NET" h2="Aspose.Email for .NET" logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-net.png" pfName="Aspose.Email for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Email API For .NET | Outlook & Thunderbird Email Processing" h2="Aspose.Email for .NET" logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-net.png" pfName="Aspose.Email" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/email/net/" instalationsDocsLink="https://docs.aspose.com/email/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Email/" nugetPackageName="Aspose.Email" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/net" buyLink="https://purchase.aspose.com/pricing/email/net" docsLink="https://docs.aspose.com/email/net/" installationsDocsLink="https://docs.aspose.com/email/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Email/" nugetPackageName="Aspose.Email" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
