@@ -115,6 +115,12 @@ EML file format represents email messages saved using Outlook and other relevant
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Parsing Formats" subTitle="Using C#, one can easily parse other formats including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/parser/msg" name="MSG" description="Outlook & Exchange Format" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

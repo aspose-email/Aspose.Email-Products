@@ -112,6 +112,13 @@ MSG is a file format used by Microsoft Outlook and Exchange to store email messa
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Email Header Analyzers" subTitle="Using C#, one can easily analyze email headers of." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/headers/eml" name="EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/headers/txt" name="TXT" description="Text Document" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

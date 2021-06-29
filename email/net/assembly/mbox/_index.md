@@ -106,6 +106,15 @@ MBox file format is a generic term that represents a container for collection of
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Report Generation Formats" subTitle="Using C#, one can easily generate reports of multiple formats including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/assembly/eml" name="EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/assembly/msg" name="MSG" description="Outlook & Exchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/assembly/ost" name="OST" description="Offline Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/assembly/pst" name="PST" description="Outlook Personal Storage Files" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

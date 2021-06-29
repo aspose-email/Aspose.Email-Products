@@ -112,6 +112,15 @@ EML file format represents email messages saved using Outlook and other relevant
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Metadata Formats" subTitle="Using C#, One can also manipulate metadata of many other formats including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/metadata/mbox" name="MBOX" description="Electronic Mail Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/metadata/msg" name="MSG" description="Outlook & Exchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/metadata/ost" name="OST" description="Offline Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/metadata/pst" name="PST" description="Outlook Personal Storage Files" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

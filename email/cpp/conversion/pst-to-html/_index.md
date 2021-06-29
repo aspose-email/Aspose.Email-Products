@@ -118,6 +118,20 @@ Read More
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PST into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-eml" name="PST TO EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-emlx" name="PST TO EMLX" description="Apple EMLX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-ics" name="PST TO ICS" description="iCalendar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-mbox" name="PST TO MBOX" description="Electronic Mail Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-mhtml" name="PST TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-msg" name="PST TO MSG" description="Outlook & Exchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-oft" name="PST TO OFT" description="Outlook Email Templates" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-ost" name="PST TO OST" description="Offline Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/pst-to-vcf" name="PST TO VCF" description="Virtual Card Format" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

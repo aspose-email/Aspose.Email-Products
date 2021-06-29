@@ -119,6 +119,20 @@ Read More
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MSG into many other file formats including few listed below." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-eml" name="MSG TO EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-html" name="MSG TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-ics" name="MSG TO ICS" description="iCalendar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-mbox" name="MSG TO MBOX" description="Electronic Mail Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-mhtml" name="MSG TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-oft" name="MSG TO OFT" description="Outlook Email Templates" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-ost" name="MSG TO OST" description="Offline Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-pst" name="MSG TO PST" description="Outlook Personal Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/msg-to-vcf" name="MSG TO VCF" description="Virtual Card Format" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

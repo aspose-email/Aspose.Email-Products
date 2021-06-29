@@ -165,6 +165,15 @@ Files with .PST extension represent Outlook Personal Storage Files (also called 
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Report Generation Formats" subTitle="Using Java, one can easily generate reports of multiple formats including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/assembly/eml" name="EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/assembly/mbox" name="MBOX" description="Electronic Mail Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/assembly/msg" name="MSG" description="Outlook & Exchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/assembly/ost" name="OST" description="Offline Storage Files" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

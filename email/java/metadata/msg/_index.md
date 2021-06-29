@@ -148,6 +148,15 @@ MSG is a file format used by Microsoft Outlook and Exchange to store email messa
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Metadata Formats" subTitle="Using Java, One can also manipulate metadata of many other formats including" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/metadata/eml" name="EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/metadata/mbox" name="MBOX" description="Electronic Mail Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/metadata/ost" name="OST" description="Offline Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/metadata/pst" name="PST" description="Outlook Personal Storage Files" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

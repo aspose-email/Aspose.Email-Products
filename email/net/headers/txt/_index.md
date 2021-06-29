@@ -112,6 +112,13 @@ A file with .TXT extension represents a text document that contains plain text i
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Email Header Analyzers" subTitle="Using C#, one can easily analyze email headers of." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/headers/eml" name="EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/headers/msg" name="MSG" description="Outlook & Exchange Format" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
