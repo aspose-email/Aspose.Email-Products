@@ -11,15 +11,15 @@ description: Develop Outlook formats parsing applications using On Premise or Cl
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" productLink="https://products.aspose.com/email/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="https://products.aspose.com/email/net" >}}
 .NET Email APIs to deal native Outlook message formats, message storage file formats and implement various network protocols within Windows, iOS & Android apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" productLink="https://products.aspose.com/email/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="https://products.aspose.com/email/java" >}}
 Java APIs to manipulate MSG, PST, OST, OFT, EML, EMLX, MBOX and more formats in any application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" productLink="https://products.aspose.com/email/cpp" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="https://products.aspose.com/email/cpp" >}}
 Native C++ library to manipulate Microsoft Outlook and other Email formats from within pure C++ apps.
 {{< /blocks/products/pf/product >}}
 

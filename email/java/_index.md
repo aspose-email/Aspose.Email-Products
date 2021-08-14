@@ -10,7 +10,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/java" buyLink="https://purchase.aspose.com/pricing/email/java" docsLink="https://docs.aspose.com/email/java/" installationsDocsLink="https://docs.aspose.com/email/java/installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/java" buyLink="https://purchase.aspose.com/pricing/email/java" docsLink="https://docs.aspose.com/email/java/" installationsDocsLink="https://docs.aspose.com/email/java/installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -159,7 +159,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Email API Java" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png"/>
+  <img alt="Email API Java" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -202,7 +202,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java API Outlook PST" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png"/>
+  <img alt="Java API Outlook PST" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -283,7 +283,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java API for Email Sending" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png"/>
+  <img alt="Java API for Email Sending" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -633,11 +633,11 @@ pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + 
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/cpp" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/android-java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/sharepoint" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/python-net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-python.png" sdkName="Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-java.svg" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
