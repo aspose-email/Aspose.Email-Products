@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook, Thunderbird
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Aspose.Email API For .NET | Outlook & Thunderbird Email Processing" h2="Aspose.Email for .NET" logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-net.png" pfName="Aspose.Email" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
+{{< blocks/products/pf/upper-banner h1="Aspose.Email API For .NET | Outlook & Thunderbird Email Processing" h2="Create, parse, convert & manipulate emails & cross-platform email archives" logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-net.png" pfName="Aspose.Email" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for .NET" >}}
 
