@@ -31,7 +31,7 @@ Manipulate Outlook Email messages in your Android mobile applications.
 Convert emails and synchronize files to FTP or Dropbox in SharePoint.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-java.svg" productLink="/email/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/python-net/" >}}
 Python library to create, manipulate, convert, send or receive email messages.
 {{< /blocks/products/pf/product >}}
 

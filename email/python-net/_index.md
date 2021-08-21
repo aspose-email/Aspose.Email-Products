@@ -26,7 +26,256 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of Python Email API." >}}
+<div class="diagram1 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-archive">
+    </i>
+    Storage Files
+   </header>
+   <ul>
+    <li>
+     Create PST &amp; OST files
+    </li>
+    <li>
+     Manage Messages in PST
+    </li>
+    <li>
+     Manage Contacts in PST
+    </li>
+    <li>
+     Manage Calendar Items in PST
+    </li>
+    <li>
+     Manage Tasks, Notes, Journals
+    </li>
+    <li>
+     Creation of Distribution Lists
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-envelope">
+    </i>
+    Emailing
+   </header>
+   <ul>
+    <li>
+     Email Connection Protocols
+    </li>
+    <li>
+     Supports SSL Enabled Servers
+    </li>
+    <li>
+     Supports Connection Timeout
+    </li>
+    <li>
+     Work with Gmail Contacts
+    </li>
+    <li>
+     Work with Gmail Calendar
+    </li>
+    <li>
+     Validate Addresses
+    </li>
+    <li>
+     Validate Syntax
+    </li>
+    <li>
+     Validate Domain
+    </li>
+    <li>
+     Validate MX Records
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cogs">
+    </i>
+    Emails
+   </header>
+   <ul>
+    <li>
+     Create plain &amp; HTML emails
+    </li>
+    <li>
+     Load Variety of Formats
+    </li>
+    <li>
+     Convert Messages
+    </li>
+    <li>
+     Support for Templates
+    </li>
+    <li>
+     Alternative Message Bodies
+    </li>
+    <li>
+     Manage Embedded Objects
+    </li>
+    <li>
+     Manage Attachments
+    </li>
+    <li>
+     Save Message as Draft
+    </li>
+    <li>
+     Manage Headers
+    </li>
+    <li>
+     Read &amp; Write to Thunderbird Mail Storage
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-calendar">
+    </i>
+    Calendar Features
+   </header>
+   <ul>
+    <li>
+     Recurrence Patterns
+    </li>
+    <li>
+     Create Appointment
+    </li>
+    <li>
+     Export Appointment to ICS file
+    </li>
+    <li>
+     Format Appointment text
+    </li>
+    <li>
+     Read Appointment Info
+    </li>
+    <li>
+     Send Appointment Request
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email for Python via .NET can be used on Windows with Python 3.5 or higher." >}}
+<div class="diagram1 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-cubes">
+    </i>
+    Python Runtime Environment
+   </header>
+   <br/>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Supports Outlook message formats, message storage formats and other [formats](https://docs.aspose.com/email/net/supported-file-formats/)." >}}
+<div class="diagram1 d2 d1-python">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     <b>
+      Microsoft Outlook:
+     </b>
+     MSG, PST, OST, OFT
+    </li>
+    <li>
+     EML, EMLX, MBOX
+    </li>
+    <li>
+     <b>
+      Others:
+     </b>
+     ICS, VCF, HTML, MHTML
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Mac Outlook:
+     </b>
+     OLM
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Python API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
+  <header>
+   Aspose.Email
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
@@ -227,7 +476,7 @@ reader.dispose();</code></pre>
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/email/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
     {{< blocks/products/pf/offers-section-item link="/email/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" sdkName="Android via Java" >}}

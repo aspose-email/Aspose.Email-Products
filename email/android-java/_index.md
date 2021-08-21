@@ -418,7 +418,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
     {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/email/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
     {{< blocks/products/pf/offers-section-item link="/email/sharepoint/" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-java.svg" sdkName="Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

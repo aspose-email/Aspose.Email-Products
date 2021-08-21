@@ -739,7 +739,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
     {{< blocks/products/pf/offers-section-item link="/email/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
     {{< blocks/products/pf/offers-section-item link="/email/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" sdkName="Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/email/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" sdkName="SharePoint" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-java.svg" sdkName="Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
