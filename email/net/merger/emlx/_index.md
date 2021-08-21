@@ -114,11 +114,7 @@ The EMLX file format is implemented and developed by Apple. The Apple Mail appli
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Merging Formats" subTitle="Using C#, One can also merge many other file formats including." >}}
 
-{{other_supported_lnks}}
-
-{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
