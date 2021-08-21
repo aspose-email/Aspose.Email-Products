@@ -220,7 +220,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for Java supports most commonly used message & message storage formats and more [document formats](https://docs.aspose.com/email/java/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for Java supports most commonly used message & message storage formats and more [document formats](https://docs.aspose.com/email/java/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">

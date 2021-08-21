@@ -134,7 +134,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email for C++ can be used in any C++ applications developed on following platforms using [system requirements](https://docs.aspose.com/email/cpp/system-requirements/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.Email for C++ can be used in any C++ applications developed on following platforms using [system requirements](https://docs.aspose.com/email/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -175,7 +175,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for C++ supports the most commonly used mail [file formats](https://docs.aspose.com/email/cpp/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for C++ supports the most commonly used mail [file formats](https://docs.aspose.com/email/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">

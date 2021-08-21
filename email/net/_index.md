@@ -250,7 +250,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook, Thunderbird
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for .NET native Outlook message formats, message storage formats and more [file formats](https://docs.aspose.com/email/net/supported-file-formats/)  ." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.Email for .NET native Outlook message formats, message storage formats and more [file formats](https://docs.aspose.com/email/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
