@@ -10,7 +10,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Python via .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/python-net" buyLink="https://purchase.aspose.com/pricing/email/python-net" docsLink="https://docs.aspose.com/email/pythonnet/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/pythonnet" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/python-net" buyLink="https://purchase.aspose.com/pricing/email/python-net" docsLink="https://docs.aspose.com/email/pythonnet/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/pythonnet" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -168,7 +168,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
     <em>
      for
     </em>
-    .NET
+    Python via .NET
    </small>
   </footer>
  </div>
@@ -204,7 +204,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
     <em>
      for
     </em>
-    .NET
+    Python via .NET
    </small>
   </footer>
  </div>
@@ -269,7 +269,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
     <em>
      for
     </em>
-    .NET
+    Python via .NET
    </small>
   </footer>
  </div>
