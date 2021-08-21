@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook, Thunderbird
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/net" buyLink="https://purchase.aspose.com/pricing/email/net" docsLink="https://docs.aspose.com/email/net/" installationsDocsLink="https://docs.aspose.com/email/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Email/" nugetPackageName="Aspose.Email" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/net" buyLink="https://purchase.aspose.com/pricing/email/net" docsLink="https://docs.aspose.com/email/net/" installationsDocsLink="https://docs.aspose.com/email/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Email/" nugetPackageName="Aspose.Email" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -159,7 +159,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook, Thunderbird
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Email API" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png"/>
+  <img alt=".NET Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -232,7 +232,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook, Thunderbird
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Outlook PST API" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png"/>
+  <img alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -297,7 +297,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook, Thunderbird
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET API for Email Manipulation" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-net.png"/>
+  <img alt=".NET API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
   <header>
    Aspose.Email
   </header>
