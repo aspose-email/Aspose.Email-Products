@@ -6,7 +6,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android Email APIs" h2="Create, manipulate & convert email messages and storage files including MSG, EML, MHT, PST & OST from within mobile apps." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-android.png" pfName="Aspose.Email" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Android Email APIs" h2="Create, manipulate & convert email messages and storage files including MSG, EML, MHT, PST & OST from within mobile apps." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-android-java.svg" pfName="Aspose.Email" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Android via Java" >}}
 

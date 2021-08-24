@@ -6,7 +6,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java Outlook API & Java Thunderbird API For Email Processing" h2="Generate emails, send emails & parse emails from Outlook & Thunderbird without requiring additional software. Send & Receive Emails via SMTP, POP3, IMAP protocols." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/header/aspose_email-for-java.png" pfName="Aspose.Email" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/email/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java Outlook API & Java Thunderbird API For Email Processing" h2="Generate emails, send emails & parse emails from Outlook & Thunderbird without requiring additional software. Send & Receive Emails via SMTP, POP3, IMAP protocols." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-java.svg" pfName="Aspose.Email" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/email/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Java" >}}
 

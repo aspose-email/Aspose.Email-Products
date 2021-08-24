@@ -6,7 +6,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Email Message & Message Storage Processing API" h2="Create, edit & convert email files & message archives from within C++ applications without requiring Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/header/aspose_email-for-cpp.png" pfName="Aspose.Email" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Email Message & Message Storage Processing API" h2="Create, edit & convert email files & message archives from within C++ applications without requiring Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-cpp.svg" pfName="Aspose.Email" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for C++" >}}
 
