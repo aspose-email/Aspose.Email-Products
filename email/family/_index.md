@@ -59,6 +59,6 @@ Python library to create, manipulate, convert, send or receive email messages.
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/email" pricingInformationLink="https://purchase.aspose.com/pricing/email" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/email" pricingInformationLink="https://purchase.aspose.com/pricing/email/family" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
