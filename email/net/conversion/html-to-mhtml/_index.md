@@ -2,7 +2,7 @@
 title: Convert HTML to MHTML via C# 
 weight: 3030
 url: /net/conversion/html-to-mhtml/ 
-description: Try our On-Premise APIs with your message on .NET Framework, .NET Core, and Xamarin Platforms.
+description: Sample code for HTML to MHTML C# conversion. Use API example code for batch HTML files to MHTML conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -21,7 +21,7 @@ description: Try our On-Premise APIs with your message on .NET Framework, .NET C
  **Aspose.Email** 
  and install. You may also use the following command from the Package Manager Console.
 
-{{% blocks/products/pf/agp/code-block title="Aspose.Email" offSpacer="true" %}}
+{{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
 
