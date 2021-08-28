@@ -6,11 +6,11 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert & Sync Email Messages" h2="Convert email files or synchronize emails with no effort." logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/header/aspose_email-for-sharepoint.png" pfName="Aspose.Email" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert & Sync Email Messages" h2="Convert email files or synchronize emails with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-sharepoint.svg" pfName="Aspose.Email" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com/pricing/email/sharepoint" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com/pricing/email/sharepoint" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -82,7 +82,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Mail App" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png"/>
+  <img alt="SharePoint Mail App" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -122,7 +122,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Email Format Converter for SharePoint" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png"/>
+  <img alt="Email Format Converter for SharePoint" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -166,7 +166,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Email App" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png"/>
+  <img alt="SharePoint Email App" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -285,9 +285,9 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
 {{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual Email APIs for other popular development environments as listed below:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/email/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/android-java/" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" sdkName="Android via Java" >}}
     {{< blocks/products/pf/offers-section-item link="/email/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}

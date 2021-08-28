@@ -10,7 +10,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Android via Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/android-java" buyLink="https://purchase.aspose.com/pricing/email/android-java" docsLink="https://docs.aspose.com/email/java/android-via-java-release-notes/" installationsDocsLink="https://docs.aspose.com/email/java/aspose-email-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/androidjava" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/android-java" buyLink="https://purchase.aspose.com/pricing/email/android-java" docsLink="https://docs.aspose.com/email/java/android-via-java-release-notes/" installationsDocsLink="https://docs.aspose.com/email/java/aspose-email-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/androidjava" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -110,7 +110,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Email API" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png"/>
+  <img alt="Android Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -150,7 +150,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Outlook Mail API" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png"/>
+  <img alt="Outlook Mail API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -194,7 +194,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
   </div>
   <!--/row-->
   <div class="d1-logo">
-   <img alt="Mail API for Android" src="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-android.png"/>
+   <img alt="Mail API for Android" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
    <header>
     Aspose.Email
    </header>
@@ -415,9 +415,9 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
 {{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email offers individual mail APIs for other popular development environments as listed below:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/email/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/sharepoint/" imgSrc="https://joomla-aspose.dynabic.com/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-sharepoint.png" sdkName="SharePoint" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/sharepoint/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" sdkName="SharePoint" >}}
     {{< blocks/products/pf/offers-section-item link="/email/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}

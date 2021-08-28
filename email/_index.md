@@ -6,7 +6,7 @@ description: Develop Outlook formats parsing applications using On Premise or Cl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Outlook File Format Solution" h2="Manipulate Outlook & Thunderbird email & email storage file formats. Implement multiple network protocols without any dependencies." logoImageSrc="https://www.aspose.com/templates/brand/images/email/aspose_email-brand.png" imageAlt="Aspose.Email Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft Outlook File Format Solution" h2="Manipulate Outlook & Thunderbird email & email storage file formats. Implement multiple network protocols without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-brand.svg" imageAlt="Aspose.Email Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email On Premise APIs Include" >}}
