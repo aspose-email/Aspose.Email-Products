@@ -10,7 +10,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for SharePoint" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com/pricing/email/sharepoint" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/sharepoint" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

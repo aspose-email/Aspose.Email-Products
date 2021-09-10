@@ -10,7 +10,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/java" buyLink="https://purchase.aspose.com/pricing/email/java" docsLink="https://docs.aspose.com/email/java/" installationsDocsLink="https://docs.aspose.com/email/java/installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/java/" installationsDocsLink="https://docs.aspose.com/email/java/installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
