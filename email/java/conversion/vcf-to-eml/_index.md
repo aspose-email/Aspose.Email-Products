@@ -59,7 +59,7 @@ description: Sample Java conversion code for VCF format to EML file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email for Java MailMessage.load.
++  Load VCF file with Contact.vcf.
 +  Call the save() method.
 +  Pass the output file path with (EML) file extension.
 +  Open EML file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for VCF format to EML file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert VCF to EML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the VCF file to be converted
-MailMessage message = MailMessage.load("sourceFile.vcf"); 
-// save VCF as a EML 
-message.save("Saved File.eml", SaveOptions.DefaultEml);    
+MapiMessage msg = MapiContact.fromVCard("Contact.vcf").convertToMapiMessage();
+// save VCF as a EML
+msg.save("Contact.eml", SaveOptions.getDefaultEml());
 
 ```
 

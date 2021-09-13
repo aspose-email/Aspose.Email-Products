@@ -59,7 +59,7 @@ description: Sample Java conversion code for MBOX format to EMLX file. Use this 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MBOX file with Aspose.Email for Java MailMessage.load.
++  Load MBOX file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (EMLX) file extension.
 +  Open EMLX file in compatible program.
@@ -82,29 +82,29 @@ description: Sample Java conversion code for MBOX format to EMLX file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert MBOX to EMLX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // Load MBOX File
-Aspose.Email.Formats.Mbox.MboxrdStorageReader reader = new Aspose.Email.Formats.Mbox.MboxrdStorageReader("Source.mbox", false);
+MboxrdStorageReader reader = new MboxrdStorageReader("Source.mbox", new MboxLoadOptions());
 
 // Start reading messages
-MailMessage message = reader.ReadNextMessage();
+MailMessage message = reader.readNextMessage();
 
 int i = 0;
 
 // Read all messages in a loop
-while (message != null){
+while (message != null) {
 
-	// Save this message in EMLX format
-	message.Save("Emlx"+ i + ".emlx", MailMessageSaveType.getEmlxFormat());
+    // Save this message in EMLX format
+    message.save("Emlx"+ i + ".emlx", new EmlSaveOptions(MailMessageSaveType.getEmlxFormat()));
 
-	i++;
+    i++;
 
-	// get next message
-	message = reader.ReadNextMessage();
+    // get next message
+    message = reader.readNextMessage();
 }
 
 // Close the streams
-reader.Dispose();    
+reader.dispose();
 
 ```
 

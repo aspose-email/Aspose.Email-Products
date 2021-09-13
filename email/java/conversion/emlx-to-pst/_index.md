@@ -82,11 +82,14 @@ description: Sample Java conversion code for EMLX format to PST file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert EMLX to PST - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EMLX file to be converted
-MailMessage message = MailMessage.load("sourceFile.emlx"); 
-// save EMLX as a PST 
-message.save("Saved File.pst", SaveOptions.DefaultPst);    
+MailMessage message = MailMessage.load("sourceFile.emlx");
+// save EMLX as a PST
+try (PersonalStorage storage = PersonalStorage.create("Saved File.pst", FileFormatVersion.Unicode)) {
+    FolderInfo inboxFolder = storage.createPredefinedFolder("Inbox", StandardIpmFolder.Inbox);
+    inboxFolder.addMessage(MapiMessage.fromMailMessage(message));
+}
 
 ```
 

@@ -59,7 +59,7 @@ description: Sample Java conversion code for ICS format to MSG file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with Aspose.Email for Java MailMessage.load.
++  Load ICS file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (MSG) file extension.
 +  Open MSG file in compatible program.
@@ -82,11 +82,13 @@ description: Sample Java conversion code for ICS format to MSG file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert ICS to MSG - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the ICS file to be converted
-MailMessage message = MailMessage.load("sourceFile.ics"); 
+Appointment appointment = Appointment.load("sourceFile.ics");
+MailMessage message = new MailMessage();
+message.addAlternateView(appointment.requestApointment());
 // save ICS as a MSG 
-message.save("Saved File.msg", SaveOptions.getDefaultMsg());    
+message.save("Saved File.msg", SaveOptions.getDefaultMsgUnicode());
 
 ```
 

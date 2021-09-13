@@ -82,11 +82,11 @@ description: Sample Java conversion code for EML format to HTML file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert EML to HTML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EML file to be converted
-MailMessage message = MailMessage.load("sourceFile.eml"); 
-// save EML as a HTML 
-message.save("Saved File.html", SaveOptions.getDefaultHtml());    
+MailMessage message = MailMessage.load("sourceFile.eml");
+// save EML as a HTML
+message.save("Saved File.html", SaveOptions.getDefaultHtml());
 
 ```
 

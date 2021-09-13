@@ -59,9 +59,9 @@ description: Sample Java conversion code for OST format to PST file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output PST file and FileFormat.Ost as parameters.
++  Load OST file with Outlook.ost.
++  Call the saveAs() method.
++  Pass the output file path with (PST) file extension.
 +  Open PST file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,10 +82,12 @@ description: Sample Java conversion code for OST format to PST file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert OST to PST - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.ost");
-
-sFile.saveAs("outputFile.pst", FileFormat.Pst);    
+```java
+// load the OST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.ost", false)) {
+    // convert to PST
+    pst.saveAs("Outlook.pst", FileFormat.Pst);
+}
 
 ```
 

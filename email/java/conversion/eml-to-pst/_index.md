@@ -82,11 +82,14 @@ description: Sample Java conversion code for EML format to PST file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert EML to PST - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EML file to be converted
-MailMessage message = MailMessage.load("sourceFile.eml"); 
-// save EML as a PST 
-message.save("Saved File.pst", SaveOptions.DefaultPst);    
+MailMessage message = MailMessage.load("sourceFile.eml");
+// save EML as a PST
+try (PersonalStorage storage = PersonalStorage.create("Saved File.pst", FileFormatVersion.Unicode)) {
+    FolderInfo inboxFolder = storage.createPredefinedFolder("Inbox", StandardIpmFolder.Inbox);
+    inboxFolder.addMessage(MapiMessage.fromMailMessage(message));
+}
 
 ```
 

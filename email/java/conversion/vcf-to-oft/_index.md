@@ -59,7 +59,7 @@ description: Sample Java conversion code for VCF format to OFT file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email for Java MailMessage.load.
++  Load VCF file with Contact.vcf.
 +  Call the save() method.
 +  Pass the output file path with (OFT) file extension.
 +  Open OFT file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for VCF format to OFT file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert VCF to OFT - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the VCF file to be converted
-MailMessage message = MailMessage.load("sourceFile.vcf"); 
-// save VCF as a OFT 
-message.save("Saved File.oft", SaveOptions.DefaultOft);    
+MapiMessage msg = MapiContact.fromVCard("Contact.vcf").convertToMapiMessage();
+// save VCF as a OFT
+msg.saveAsTemplate("Contact.oft");
 
 ```
 

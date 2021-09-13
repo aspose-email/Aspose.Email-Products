@@ -59,9 +59,9 @@ description: Sample Java conversion code for PST format to ICS file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load PST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output ICS file and FileFormat.Pst as parameters.
++  Load PST file with Outlook.pst.
++  Call the save() method.
++  Pass the output file path with (ICS) file extension.
 +  Open ICS file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,10 +82,17 @@ description: Sample Java conversion code for PST format to ICS file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert PST to ICS - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.pst");
-
-sFile.saveAs("outputFile.ics", FileFormat.Ics);    
+```java
+// load the PST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.pst", false)) {
+    MessageInfoCollection contents = pst.getPredefinedFolder(StandardIpmFolder.Inbox).getContents();
+    for (MessageInfo messageInfo : (Iterable<MessageInfo>) contents) {
+        MapiMessage message = pst.extractMessage(messageInfo);
+        // save as ICS
+        MapiCalendar calendar = (MapiCalendar) message.toMapiMessageItem();
+        calendar.save("Saved File.ics");
+    }
+}
 
 ```
 

@@ -82,11 +82,11 @@ description: Sample Java conversion code for EML format to OFT file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert EML to OFT - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EML file to be converted
-MailMessage message = MailMessage.load("sourceFile.eml"); 
-// save EML as a OFT 
-message.save("Saved File.oft", SaveOptions.DefaultOft);    
+MailMessage message = MailMessage.load("sourceFile.eml");
+// save EML as a OFT
+MapiMessage.fromMailMessage(message).saveAsTemplate("Saved File.oft");
 
 ```
 

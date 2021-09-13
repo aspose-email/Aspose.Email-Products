@@ -59,7 +59,7 @@ description: Sample Java conversion code for MHTML format to ICS file. Use this 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MHTML file with Aspose.Email for Java MailMessage.load.
++  Load MHTML file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (ICS) file extension.
 +  Open ICS file in compatible program.
@@ -82,11 +82,16 @@ description: Sample Java conversion code for MHTML format to ICS file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert MHTML to ICS - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the MHTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.mhtml"); 
-// save MHTML as a ICS 
-message.save("Saved File.ics", SaveOptions.DefaultIcs);    
+MailMessage message = MailMessage.load("sourceFile.mhtml");
+// save as ICS
+for (AlternateView view : message.getAlternateViews()) {
+    if (view.getContentType().getMediaType().equals("text/calendar")) {
+        view.save("Saved File.ics");
+        break;
+    }
+}
 
 ```
 

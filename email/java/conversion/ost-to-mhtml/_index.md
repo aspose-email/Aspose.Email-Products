@@ -59,9 +59,9 @@ description: Sample Java conversion code for OST format to MHTML file. Use this 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output MHTML file and FileFormat.Ost as parameters.
++  Load OST file with Outlook.ost.
++  Call the save() method.
++  Pass the output file path with (MHTML) file extension.
 +  Open MHTML file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,10 +82,16 @@ description: Sample Java conversion code for OST format to MHTML file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert OST to MHTML - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.ost");
-
-sFile.saveAs("outputFile.mhtml", FileFormat.Mhtml);    
+```java
+// load the OST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.ost", false)) {
+    MessageInfoCollection contents = pst.getPredefinedFolder(StandardIpmFolder.Inbox).getContents();
+    for (MessageInfo messageInfo : (Iterable<MessageInfo>) contents) {
+        // save to MHTML
+        MapiMessage message = pst.extractMessage(messageInfo);
+        message.save("DestFolder/" + i++ + ".mhtml", SaveOptions.getDefaultMhtml());
+    }
+}
 
 ```
 

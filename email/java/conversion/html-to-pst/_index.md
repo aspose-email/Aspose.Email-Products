@@ -82,11 +82,14 @@ description: Sample Java conversion code for HTML format to PST file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert HTML to PST - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the HTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.html"); 
-// save HTML as a PST 
-message.save("Saved File.pst", SaveOptions.DefaultPst);    
+MailMessage message = MailMessage.load("sourceFile.html");
+// save HTML as a PST
+try (PersonalStorage storage = PersonalStorage.create("Saved File.pst", FileFormatVersion.Unicode)) {
+    FolderInfo inboxFolder = storage.createPredefinedFolder("Inbox", StandardIpmFolder.Inbox);
+    inboxFolder.addMessage(MapiMessage.fromMailMessage(message));
+}
 
 ```
 

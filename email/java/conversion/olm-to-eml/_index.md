@@ -54,8 +54,10 @@ In order to render OLM to EML, we’ll use <a href="https://products.aspose.com/
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
-
++  Load OLM file with Aspose.Email for Java.
++  Call the save() method.
++  Pass the output file path with (EML) file extension.
++  Open EML file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -71,13 +73,18 @@ In order to render OLM to EML, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="Convert OLM to EML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the OLM file to be converted
-MailMessage message = MailMessage.load("sourceFile.olm"); 
-// save OLM as a EML 
-message.save("Saved File.eml", SaveOptions.getDefaultEml());    
-  
-  
+OlmStorage storage = OlmStorage.fromFile("sourceFile.olm");
+
+for (OlmFolder olmFolder : storage.getFolderHierarchy()) {
+    if (olmFolder.hasMessages()) {
+        for (MapiMessage message : storage.enumerateMessages(olmFolder)) {
+            // save as EML
+            message.save("Saved File.eml", SaveOptions.getDefaultEml());
+        }
+    }
+}
 
 ```
 

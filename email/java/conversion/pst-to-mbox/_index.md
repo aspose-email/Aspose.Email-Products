@@ -59,9 +59,9 @@ description: Sample Java conversion code for PST format to MBOX file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load PST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output MBOX file and FileFormat.Pst as parameters.
++  Load PST file with Outlook.pst.
++  Call the save() method.
++  Pass the output file path with (MBOX) file extension.
 +  Open MBOX file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,10 +82,12 @@ description: Sample Java conversion code for PST format to MBOX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert PST to MBOX - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.pst");
-
-sFile.saveAs("outputFile.mbox", FileFormat.Mbox);    
+```java
+// load the PST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.pst", false)) {
+    // convert to MBOX
+    MailboxConverter.convertPersonalStorageToMbox(pst, "Root MBOX folder", null);
+}
 
 ```
 

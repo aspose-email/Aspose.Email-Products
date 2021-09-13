@@ -82,11 +82,11 @@ description: Sample Java conversion code for EML format to MHTML file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert EML to MHTML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EML file to be converted
-MailMessage message = MailMessage.load("sourceFile.eml"); 
-// save EML as a MHTML 
-message.save("Saved File.mhtml", SaveOptions.getDefaultMhtml());    
+MailMessage message = MailMessage.load("sourceFile.eml");
+// save EML as a MHTML
+message.save("Saved File.mhtml", SaveOptions.getDefaultMhtml());
 
 ```
 

@@ -59,7 +59,7 @@ description: Sample Java conversion code for ICS format to HTML file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with Aspose.Email for Java MailMessage.load.
++  Load ICS file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (HTML) file extension.
 +  Open HTML file in compatible program.
@@ -82,11 +82,13 @@ description: Sample Java conversion code for ICS format to HTML file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert ICS to HTML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the ICS file to be converted
-MailMessage message = MailMessage.load("sourceFile.ics"); 
-// save ICS as a HTML 
-message.save("Saved File.html", SaveOptions.getDefaultHtml());    
+Appointment appointment = Appointment.load("sourceFile.ics");
+MailMessage message = new MailMessage();
+message.addAlternateView(appointment.requestApointment());
+// save ICS as a HTML
+message.save("Saved File.html", SaveOptions.getDefaultHtml());
 
 ```
 

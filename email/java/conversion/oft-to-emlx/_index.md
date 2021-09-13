@@ -59,7 +59,7 @@ description: Sample Java conversion code for OFT format to EMLX file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OFT file with Aspose.Email for Java MailMessage.load.
++  Load OFT file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (EMLX) file extension.
 +  Open EMLX file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for OFT format to EMLX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert OFT to EMLX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the OFT file to be converted
-MailMessage msg = MailMessage.load("sourceFile.oft"); 
-// save OFT as a EMLX 
-msg.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.EmlxFormat));    
+MapiMessage message = MapiMessage.fromFile("sourceFile.oft");
+// save OFT as a EMLX
+message.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.getEmlxFormat()));
 
 ```
 

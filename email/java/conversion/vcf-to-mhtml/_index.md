@@ -59,7 +59,7 @@ description: Sample Java conversion code for VCF format to MHTML file. Use this 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email for Java MailMessage.load.
++  Load VCF file with Contact.vcf.
 +  Call the save() method.
 +  Pass the output file path with (MHTML) file extension.
 +  Open MHTML file in compatible program.
@@ -82,28 +82,18 @@ description: Sample Java conversion code for VCF format to MHTML file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert VCF to MHTML - Java‎" offSpacer="" %}}
 
-```cs
-//Load VCF Contact
-MapiContact contact = MapiContact.fromVCard("sourceFile.vcf");
-
-ByteArrayOutputStream os = new ByteArrayOutputStream();
-      
-contact.save(os, ContactSaveFormat.Msg);
-      
-MapiMessage msg = MapiMessage.fromStream(new ByteArrayInputStream(os.toByteArray()));
-MailConversionOptions op = new MailConversionOptions();
-MailMessage eml = msg.toMailMessage(op);
-
+```java
+// load the VCF file to be converted
+MapiMessage msg = MapiContact.fromVCard("Contact.vcf").convertToMapiMessage();
 //Prepare the MHT format options
 MhtSaveOptions mhtSaveOptions = new MhtSaveOptions();
 mhtSaveOptions.setCheckBodyContentEncoding(true);
 mhtSaveOptions.setPreserveOriginalBoundaries(true);
-      
 mhtSaveOptions.setMhtFormatOptions(MhtFormatOptions.RenderVCardInfo | MhtFormatOptions.WriteHeader);
-		
 mhtSaveOptions.setRenderedContactFields(ContactFieldsSet.NameInfo | ContactFieldsSet.PersonalInfo | ContactFieldsSet.Telephones | ContactFieldsSet.Events);
-      
-eml.save("output.mhtml", mhtSaveOptions);    
+
+// save VCF as a MHTML
+msg.save("Contact.mhtml", mhtSaveOptions);
 
 ```
 

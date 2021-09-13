@@ -59,9 +59,9 @@ description: Sample Java conversion code for PST format to MHTML file. Use this 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load PST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output MHTML file and FileFormat.Pst as parameters.
++  Load PST file with Outlook.pst.
++  Call the save() method.
++  Pass the output file path with (MHTML) file extension.
 +  Open MHTML file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,10 +82,16 @@ description: Sample Java conversion code for PST format to MHTML file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert PST to MHTML - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.pst");
-
-sFile.saveAs("outputFile.mhtml", FileFormat.Mhtml);    
+```java
+// load the PST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.pst", false)) {
+    MessageInfoCollection contents = pst.getPredefinedFolder(StandardIpmFolder.Inbox).getContents();
+    for (MessageInfo messageInfo : (Iterable<MessageInfo>) contents) {
+        // save to MHTML
+        MapiMessage message = pst.extractMessage(messageInfo);
+        message.save("DestFolder/" + i++ + ".mhtml", SaveOptions.getDefaultMhtml());
+    }
+}
 
 ```
 

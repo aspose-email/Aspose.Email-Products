@@ -59,7 +59,7 @@ description: Sample Java conversion code for MBOX format to MSG file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MBOX file with Aspose.Email for Java MailMessage.load.
++  Load MBOX file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (MSG) file extension.
 +  Open MSG file in compatible program.
@@ -78,33 +78,33 @@ description: Sample Java conversion code for MBOX format to MSG file. Use this e
 -  Get latest version of Aspose.Email for Java directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email)  .
 
-{{% /blocks/products/pf/agp/feature-section-col %}}
+{{% /blocks/products/pf/agp/feature-section-col %}} 
 
 {{% blocks/products/pf/agp/code-block title="Convert MBOX to MSG - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // Load MBOX File
-Aspose.Email.Formats.Mbox.MboxrdStorageReader reader = new Aspose.Email.Formats.Mbox.MboxrdStorageReader("Source.mbox", false);
+MboxrdStorageReader reader = new MboxrdStorageReader("Source.mbox", new MboxLoadOptions());
 
 // Start reading messages
-MailMessage message = reader.ReadNextMessage();
+MailMessage message = reader.readNextMessage();
 
 int i = 0;
 
 // Read all messages in a loop
-while (message != null){
+while (message != null) {
 
-	// Save this message in MSG format
-	message.Save("Msg"+ i + ".msg", MailMessageSaveType.getOutlookMessageFormat());
+    // Save this message in MSG format
+    message.save("Msg" + i + ".msg", SaveOptions.getDefaultMsgUnicode());
 
-	i++;
+    i++;
 
-	// get next message
-	message = reader.ReadNextMessage();
+    // get next message
+    message = reader.readNextMessage();
 }
 
 // Close the streams
-reader.Dispose();    
+reader.dispose();
 
 ```
 

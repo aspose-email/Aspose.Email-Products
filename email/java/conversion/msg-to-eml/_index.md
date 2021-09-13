@@ -59,7 +59,7 @@ description: Sample Java conversion code for MSG format to EML file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MSG file with Aspose.Email for Java MailMessage.load.
++  Load MSG file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (EML) file extension.
 +  Open EML file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for MSG format to EML file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert MSG to EML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the MSG file to be converted
-MailMessage message = MailMessage.load("sourceFile.msg"); 
-// save MSG as a EML 
-message.save("Saved File.eml", SaveOptions.getDefaultEml());    
+MailMessage message = MailMessage.load("sourceFile.msg");
+// save MSG as a EML
+message.save("Saved File.eml", SaveOptions.getDefaultEml());
 
 ```
 

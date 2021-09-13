@@ -59,7 +59,7 @@ description: Sample Java conversion code for MBOX format to EML file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MBOX file with Aspose.Email for Java MailMessage.load.
++  Load MBOX file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (EML) file extension.
 +  Open EML file in compatible program.
@@ -82,29 +82,29 @@ description: Sample Java conversion code for MBOX format to EML file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert MBOX to EML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // Load MBOX File
-Aspose.Email.Formats.Mbox.MboxrdStorageReader reader = new Aspose.Email.Formats.Mbox.MboxrdStorageReader("Source.mbox", false);
+MboxrdStorageReader reader = new MboxrdStorageReader("Source.mbox", new MboxLoadOptions());
 
 // Start reading messages
-MailMessage message = reader.ReadNextMessage();
+MailMessage message = reader.readNextMessage();
 
 int i = 0;
 
 // Read all messages in a loop
-while (message != null){
+while (message != null) {
 
-	// Save this message in EML format
-	message.Save("Eml"+ i + ".eml", MailMessageSaveType.getEmlFormat());
+    // Save this message in EML format
+    message.save("Eml"+ i + ".eml", SaveOptions.getDefaultEml());
 
-	i++;
+    i++;
 
-	// get next message
-	message = reader.ReadNextMessage();
+    // get next message
+    message = reader.readNextMessage();
 }
 
 // Close the streams
-reader.Dispose();    
+reader.dispose();
 
 ```
 

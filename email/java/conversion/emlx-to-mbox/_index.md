@@ -82,11 +82,13 @@ description: Sample Java conversion code for EMLX format to MBOX file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert EMLX to MBOX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EMLX file to be converted
-MailMessage message = MailMessage.load("sourceFile.emlx"); 
-// save EMLX as a MBOX 
-message.save("Saved File.mbox", SaveOptions.DefaultMbox);    
+MailMessage message = MailMessage.load("sourceFile.emlx");
+// save EMLX as a MBOX
+try (MboxStorageWriter mboxStorage = new MboxrdStorageWriter("Saved File.mbox", false)) {
+    mboxStorage.writeMessage(message);
+}
 
 ```
 

@@ -82,11 +82,11 @@ description: Sample Java conversion code for HTML format to MHTML file. Use this
 
 {{% blocks/products/pf/agp/code-block title="Convert HTML to MHTML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the HTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.html"); 
-// save HTML as a MHTML 
-message.save("Saved File.mhtml", SaveOptions.getDefaultMhtml());    
+MailMessage message = MailMessage.load("sourceFile.html");
+// save HTML as a MHTML
+message.save("Saved File.mhtml", SaveOptions.getDefaultMhtml());
 
 ```
 

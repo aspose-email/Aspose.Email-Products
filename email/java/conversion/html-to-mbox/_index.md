@@ -82,11 +82,13 @@ description: Sample Java conversion code for HTML format to MBOX file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert HTML to MBOX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the HTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.html"); 
-// save HTML as a MBOX 
-message.save("Saved File.mbox", SaveOptions.DefaultMbox);    
+MailMessage message = MailMessage.load("sourceFile.html");
+// save HTML as a MBOX
+try (MboxStorageWriter mboxStorage = new MboxrdStorageWriter("Saved File.mbox", false)) {
+    mboxStorage.writeMessage(message);
+}
 
 ```
 

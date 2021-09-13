@@ -59,9 +59,9 @@ description: Sample Java conversion code for PST format to OFT file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load PST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output OFT file and FileFormat.Pst as parameters.
++  Load PST file with Outlook.pst.
++  Call the save() method.
++  Pass the output file path with (OFT) file extension.
 +  Open OFT file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,10 +82,16 @@ description: Sample Java conversion code for PST format to OFT file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert PST to OFT - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.pst");
-
-sFile.saveAs("outputFile.oft", FileFormat.Oft);    
+```java
+// load the PST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.pst", false)) {
+    MessageInfoCollection contents = pst.getPredefinedFolder(StandardIpmFolder.Inbox).getContents();
+    for (MessageInfo messageInfo : (Iterable<MessageInfo>) contents) {
+        MapiMessage message = pst.extractMessage(messageInfo);
+        // save as OFT
+        message.saveAsTemplate("Saved File.oft");
+    }
+}
 
 ```
 

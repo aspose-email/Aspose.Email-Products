@@ -59,7 +59,7 @@ description: Sample Java conversion code for MHTML format to OFT file. Use this 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MHTML file with Aspose.Email for Java MailMessage.load.
++  Load MHTML file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (OFT) file extension.
 +  Open OFT file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for MHTML format to OFT file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert MHTML to OFT - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the MHTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.mhtml"); 
-// save MHTML as a OFT 
-message.save("Saved File.oft", SaveOptions.DefaultOft);    
+MailMessage message = MailMessage.load("sourceFile.mhtml");
+// save MHTML as a OFT
+MapiMessage.fromMailMessage(message).saveAsTemplate("Saved File.oft");
 
 ```
 

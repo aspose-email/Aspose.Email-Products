@@ -59,7 +59,7 @@ description: Sample Java conversion code for MSG format to PST file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MSG file with Aspose.Email for Java MailMessage.load.
++  Load MSG file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (PST) file extension.
 +  Open PST file in compatible program.
@@ -82,14 +82,15 @@ description: Sample Java conversion code for MSG format to PST file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert MSG to PST - Java‎" offSpacer="" %}}
 
-```cs
-MailMessage message = MailMessage.load("sourceFile.msg");
+```java
+// load the MSG file to be converted
+MapiMessage message = MapiMessage.fromFile("sourceFile.msg");
 
-PersonalStorage pst = PersonalStorage.create("outputFile.pst", FileFormatVersion.Unicode);
-
-FolderInfo inbox = pst.getRootFolder().addSubFolder("Inbox");
-
-inbox.addMessage(MapiMessage.fromMailMessage(message, MapiConversionOptions.getUnicodeFormat()));    
+// save MSG as a PST
+try (PersonalStorage storage = PersonalStorage.create("Saved File.pst", FileFormatVersion.Unicode)) {
+    FolderInfo inboxFolder = storage.createPredefinedFolder("Inbox", StandardIpmFolder.Inbox);
+    inboxFolder.addMessage(message);
+}
 
 ```
 

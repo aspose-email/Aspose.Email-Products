@@ -59,7 +59,7 @@ description: Sample Java conversion code for ICS format to OFT file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with Aspose.Email for Java MailMessage.load.
++  Load ICS file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (OFT) file extension.
 +  Open OFT file in compatible program.
@@ -82,11 +82,13 @@ description: Sample Java conversion code for ICS format to OFT file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert ICS to OFT - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the ICS file to be converted
-MailMessage message = MailMessage.load("sourceFile.ics"); 
+Appointment appointment = Appointment.load("sourceFile.ics");
+MailMessage message = new MailMessage();
+message.addAlternateView(appointment.requestApointment());
 // save ICS as a OFT 
-message.save("Saved File.oft", SaveOptions.DefaultOft);    
+MapiMessage.fromMailMessage(message).saveAsTemplate("Saved File.oft");
 
 ```
 

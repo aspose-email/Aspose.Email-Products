@@ -82,11 +82,11 @@ description: Sample Java conversion code for EML format to EMLX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert EML to EMLX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EML file to be converted
-MailMessage msg = MailMessage.load("sourceFile.eml"); 
-// save EML as a EMLX 
-msg.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.EmlxFormat));    
+MailMessage msg = MailMessage.load("sourceFile.eml");
+// save EML as a EMLX
+msg.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.getEmlxFormat()));
 
 ```
 
