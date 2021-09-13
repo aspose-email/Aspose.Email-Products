@@ -55,14 +55,11 @@ description: Sample Java conversion code for OST format to VCF file. Use this ex
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email API makes it easy for the developers to convert OST file to VCF in just a few lines of code.
+ The feature is not implemented in Aspose.Email for Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output VCF file and FileFormat.Ost as parameters.
-+  Open VCF file in compatible program.
++  Feature not implemented.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,10 +79,8 @@ description: Sample Java conversion code for OST format to VCF file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert OST to VCF - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.ost");
-
-sFile.saveAs("outputFile.vcf", FileFormat.Vcf);    
+```java
+//Feature not implemented.
 
 ```
 

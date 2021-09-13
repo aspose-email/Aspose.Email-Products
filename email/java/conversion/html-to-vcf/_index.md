@@ -55,14 +55,11 @@ description: Sample Java conversion code for HTML format to VCF file. Use this e
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email API makes it easy for the developers to convert HTML file to VCF in just a few lines of code.
+ The feature is not implemented in Aspose.Email for Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load HTML file with Aspose.Email for Java MailMessage.load.
-+  Call the save() method.
-+  Pass the output file path with (VCF) file extension.
-+  Open VCF file in compatible program.
++  Feature not implemented.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,11 +79,8 @@ description: Sample Java conversion code for HTML format to VCF file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert HTML to VCF - Java‎" offSpacer="" %}}
 
-```cs
-// load the HTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.html"); 
-// save HTML as a VCF 
-message.save("Saved File.vcf", SaveOptions.DefaultVcf);    
+```java
+// Feature not implemented.
 
 ```
 

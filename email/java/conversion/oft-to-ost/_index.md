@@ -55,14 +55,11 @@ description: Sample Java conversion code for OFT format to OST file. Use this ex
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email API makes it easy for the developers to convert OFT file to OST in just a few lines of code.
+ The feature is not implemented in Aspose.Email for Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OFT file with Aspose.Email for Java MailMessage.load.
-+  Call the save() method.
-+  Pass the output file path with (OST) file extension.
-+  Open OST file in compatible program.
++  Feature not implemented.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,11 +79,8 @@ description: Sample Java conversion code for OFT format to OST file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert OFT to OST - Java‎" offSpacer="" %}}
 
-```cs
-// load the OFT file to be converted
-MailMessage message = MailMessage.load("sourceFile.oft"); 
-// save OFT as a OST 
-message.save("Saved File.ost", SaveOptions.DefaultOst);    
+```java
+// Feature not implemented.
 
 ```
 
