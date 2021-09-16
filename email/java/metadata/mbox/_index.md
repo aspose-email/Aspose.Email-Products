@@ -59,9 +59,8 @@ description: Try our On-Premise message metadata editing or viewer APIs to edit 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load the MBOX file using MapiMessage.fromFile
-+  Get properties collection using getProperties()
-+  Access the relevant property like Subject using get\_Item()
++  Load the MBOX file
++  Get properties for each MailMessage
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,36 +80,37 @@ description: Try our On-Premise message metadata editing or viewer APIs to edit 
 
 {{% blocks/products/pf/agp/code-block title="Extract Metadata of MBOX - Java" offSpacer="" %}}
 
-```cs
+```java
+// Load MBOX File
+MboxrdStorageReader reader = new MboxrdStorageReader("Source.mbox", new MboxLoadOptions());
 
-MapiMessage outlookMessageFile = MapiMessage.fromFile(dataDir + "messageMapi.mbox");
+// Start reading messages
+MailMessage message = reader.readNextMessage();
 
-//Get the MapiProperties collection
-MapiPropertyCollection coll = outlookMessageFile.getProperties();
+int i = 0;
 
-//Access the MapiPropertyTag.PR_SUBJECT property
-MapiProperty prop = (MapiProperty) coll.get_Item((Object) MapiPropertyTag.PR_SUBJECT);
+// Read all messages in a loop
+while (message != null) {
 
-//If the MapiProperty is not found, check the MapiProperty.PR_SUBJECT_W
-//which is a unicode peer of MapiPropertyTag.PR_SUBJECT
-if (prop == null) {
-	prop = (MapiProperty) coll.get_Item(MapiPropertyTag.PR_SUBJECT_W);
+    // Read this message
+    System.out.println("Subject: " + message.getSubject());
+    System.out.println("From: " + message.getFrom().getAddress());
+    System.out.println("To: " + message.getTo().toString());
+
+    System.out.println("Body: " + message.getBody());
+    System.out.println("HTML Body: " + message.getHtmlBody());
+
+    System.out.println("Headers:");
+    for (String header : message.getHeaders()) {
+        System.out.println(header + ": " + message.getHeaders().get_Item(header));
+    }
+
+    // get next message
+    message = reader.readNextMessage();
 }
 
-//If it cannot be found
-if (prop == null) {
-	System.out.println("Mapi property could not be found.");
-} else {
-	//Get the property data as string
-	String strSubject = prop.getString();
-	System.out.println("Subject: " + strSubject);
-}
-
-//Read internet code page property
-prop = (MapiProperty) coll.get_Item(MapiPropertyTag.PR_INTERNET_CPID);
-if (prop != null) {
-	System.out.println("Code page: " + prop.getLong());
-}  
+// Close the streams
+reader.dispose();
 
 ```
 
