@@ -155,15 +155,15 @@ EML file format represents email messages saved using Outlook and other relevant
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MBOX into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-emlx" name="MBOX TO EMLX" description="Apple EMLX Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-html" name="MBOX TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-ics" name="MBOX TO ICS" description="iCalendar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-mhtml" name="MBOX TO MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-msg" name="MBOX TO MSG" description="Outlook & Exchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-oft" name="MBOX TO OFT" description="Outlook Email Templates" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-ost" name="MBOX TO OST" description="Offline Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-pst" name="MBOX TO PST" description="Outlook Personal Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-vcf" name="MBOX TO VCF" description="Virtual Card Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-emlx/" name="MBOX TO EMLX" description="Apple EMLX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-html/" name="MBOX TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-ics/" name="MBOX TO ICS" description="iCalendar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-mhtml/" name="MBOX TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-msg/" name="MBOX TO MSG" description="Outlook & Exchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-oft/" name="MBOX TO OFT" description="Outlook Email Templates" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-ost/" name="MBOX TO OST" description="Offline Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-pst/" name="MBOX TO PST" description="Outlook Personal Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/java/conversion/mbox-to-vcf/" name="MBOX TO VCF" description="Virtual Card Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

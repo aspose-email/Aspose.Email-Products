@@ -121,15 +121,15 @@ OST or Offline Storage Files represent user's mailbox data in offline mode on lo
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert MHTML into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-eml" name="MHTML TO EML" description="Outlook Email Messages" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-emlx" name="MHTML TO EMLX" description="Apple EMLX Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-html" name="MHTML TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-ics" name="MHTML TO ICS" description="iCalendar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-mbox" name="MHTML TO MBOX" description="Electronic Mail Messages" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-msg" name="MHTML TO MSG" description="Outlook & Exchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-oft" name="MHTML TO OFT" description="Outlook Email Templates" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-pst" name="MHTML TO PST" description="Outlook Personal Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-vcf" name="MHTML TO VCF" description="Virtual Card Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-eml/" name="MHTML TO EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-emlx/" name="MHTML TO EMLX" description="Apple EMLX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-html/" name="MHTML TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-ics/" name="MHTML TO ICS" description="iCalendar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-mbox/" name="MHTML TO MBOX" description="Electronic Mail Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-msg/" name="MHTML TO MSG" description="Outlook & Exchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-oft/" name="MHTML TO OFT" description="Outlook Email Templates" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-pst/" name="MHTML TO PST" description="Outlook Personal Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/cpp/conversion/mhtml-to-vcf/" name="MHTML TO VCF" description="Virtual Card Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

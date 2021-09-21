@@ -120,15 +120,15 @@ EML file format represents email messages saved using Outlook and other relevant
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert VCF into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-emlx" name="VCF TO EMLX" description="Apple EMLX Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-html" name="VCF TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-ics" name="VCF TO ICS" description="iCalendar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-mbox" name="VCF TO MBOX" description="Electronic Mail Messages" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-mhtml" name="VCF TO MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-msg" name="VCF TO MSG" description="Outlook & Exchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-oft" name="VCF TO OFT" description="Outlook Email Templates" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-ost" name="VCF TO OST" description="Offline Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-pst" name="VCF TO PST" description="Outlook Personal Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-emlx/" name="VCF TO EMLX" description="Apple EMLX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-html/" name="VCF TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-ics/" name="VCF TO ICS" description="iCalendar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-mbox/" name="VCF TO MBOX" description="Electronic Mail Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-mhtml/" name="VCF TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-msg/" name="VCF TO MSG" description="Outlook & Exchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-oft/" name="VCF TO OFT" description="Outlook Email Templates" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-ost/" name="VCF TO OST" description="Offline Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/vcf-to-pst/" name="VCF TO PST" description="Outlook Personal Storage Files" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

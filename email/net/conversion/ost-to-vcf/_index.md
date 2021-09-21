@@ -121,15 +121,15 @@ VCF (Virtual Card Format) or vCard is a digital file format for storing contact 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert OST into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-eml" name="OST TO EML" description="Outlook Email Messages" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-emlx" name="OST TO EMLX" description="Apple EMLX Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-html" name="OST TO HTML" description="Hyper Text Markup Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-ics" name="OST TO ICS" description="iCalendar" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-mbox" name="OST TO MBOX" description="Electronic Mail Messages" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-mhtml" name="OST TO MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-msg" name="OST TO MSG" description="Outlook & Exchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-oft" name="OST TO OFT" description="Outlook Email Templates" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-pst" name="OST TO PST" description="Outlook Personal Storage Files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-eml/" name="OST TO EML" description="Outlook Email Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-emlx/" name="OST TO EMLX" description="Apple EMLX Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-html/" name="OST TO HTML" description="Hyper Text Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-ics/" name="OST TO ICS" description="iCalendar" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-mbox/" name="OST TO MBOX" description="Electronic Mail Messages" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-mhtml/" name="OST TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-msg/" name="OST TO MSG" description="Outlook & Exchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-oft/" name="OST TO OFT" description="Outlook Email Templates" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ost-to-pst/" name="OST TO PST" description="Outlook Personal Storage Files" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
