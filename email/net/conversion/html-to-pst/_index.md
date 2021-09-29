@@ -60,10 +60,9 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Load HTML file with Aspose.Email.MailMessage.Load.
--  Call the Save method.
--  Pass the output file path with PST file extension.
--  PST file will be saved at the specified path.
+-  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, Mono or Xamarin Platforms.
+-  Development environment like Microsoft Visual Studio.
+-  Aspose.Email for .NET DLL referenced in your project.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
