@@ -54,8 +54,10 @@ In order to render OLM to PST, we’ll use <a href="https://products.aspose.com/
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
-
++  Load OLM file with Aspose.Email for Java.
++  Call the addMessage() method.
++  Pass the output file path with (PST) file extension.
++  Open PST file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -71,13 +73,21 @@ In order to render OLM to PST, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="Convert OLM to PST - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the OLM file to be converted
-MailMessage message = MailMessage.load("sourceFile.olm"); 
-// save OLM as a PST 
-message.save("Saved File.pst", SaveOptions.DefaultPst);    
-  
-  
+OlmStorage storage = OlmStorage.fromFile("sourceFile.olm");
+
+try (PersonalStorage pst = PersonalStorage.create("output.pst", FileFormatVersion.Unicode)) {
+    for (OlmFolder olmFolder : storage.getFolderHierarchy()) {
+        if (olmFolder.hasMessages()) {
+            FolderInfo folder = pst.getRootFolder().addSubFolder(olmFolder.getName());
+            for (MapiMessage message : storage.enumerateMessages(olmFolder)) {
+                // add to PST
+                folder.addMessage(message);
+            }
+        }
+    }
+}
 
 ```
 

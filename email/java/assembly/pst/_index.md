@@ -64,7 +64,6 @@ description: Java sample code to create PST format reports on Java Runtime Envir
 1.  Create a new PST with PersonalStorage.Create method
 1.  Add folder in PST
 1.  Add messages from TemplateEngine to folder using FolderInfo.Add method
-1.  Save in PST format
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,22 +80,22 @@ description: Java sample code to create PST format reports on Java Runtime Envir
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generate Messages & Add to PST - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generate Messages & Add to PST - Java" offSpacer="" %}}
 
-```cs
+```java
 //create a new MailMessage instance as a template
 MailMessage template = new MailMessage();
 
 //add template field to subject
 template.setSubject("Hello, #FirstName#");
-template.setFrom(MailAddress.to_MailAddress("This email address is being protected from spambots. You need JavaScript enabled to view it."));
+template.setFrom(MailAddress.to_MailAddress("to@host.com"));
 
 //add template field to receipt
 template.getTo().addMailAddress(new MailAddress("#Receipt#", true));
 
-//add template field to html body 
+//add template field to html body
 //use GetSignment as the template routine, which will provide the same signment.
-template.setHtmlBody("Dear #FirstName# #LastName#, Thank you for your interest in Aspose.Network.Have fun with it.#GetSignature()#");
+template.setHtmlBody("Dear #FirstName# #LastName#, Thank you for your interest in Aspose.Email.  Sent Date: #SDate#");
 
 //create a new TemplateEngine with the template message.
 TemplateEngine engine = new TemplateEngine(template);
@@ -106,31 +105,44 @@ DataTable dt = new DataTable();
 dt.getColumns().add("Receipt");
 dt.getColumns().add("FirstName");
 dt.getColumns().add("LastName");
+dt.getColumns().add("SDate");
 DataRow dr;
 dr = dt.newRow();
-dr.set("Receipt", "Nancy.Davolio");
+
+dr.set("Receipt", "Nancy.Davolio@host.com");
 dr.set("FirstName", "Nancy");
 dr.set("LastName", "Davolio");
-dt.getRows().add(dr);
-dr = dt.newRow();
-dr.set("Receipt", "Andrew.Fuller");
-dr.set("FirstName", "Andrew");
-dr.set("LastName", "Fuller");
-dt.getRows().add(dr);
-dr = dt.newRow();
-dr.set("Receipt", "Janet.Leverling");
-dr.set("FirstName", "Janet");
-dr.set("LastName", "Leverling");
+dr.set("SDate", new Date().toString());
 dt.getRows().add(dr);
 
-MailMessageCollection messages;
-try{
-	//create the messages from the template and datasource.
-	messages = engine.instantiate(dt);
-}catch (MailException ex){
-	//print exception
+dr = dt.newRow();
+dr.set("Receipt", "Andrew.Fuller@host.com");
+dr.set("FirstName", "Andrew");
+dr.set("LastName", "Fuller");
+dr.set("SDate", new Date().toString());
+dt.getRows().add(dr);
+
+dr = dt.newRow();
+dr.set("Receipt", "Janet.Leverling@host.com");
+dr.set("FirstName", "Janet");
+dr.set("LastName", "Leverling");
+dr.set("SDate", new Date().toString());
+dt.getRows().add(dr);
+
+// create new PST
+try (PersonalStorage pst = PersonalStorage.create("storage.pst", FileFormatVersion.Unicode)) {
+    // add folder to PST
+    FolderInfo inboxFolder = pst.getRootFolder().addSubFolder("Inbox");
+
+    MailMessageCollection messages;
+    //create the messages from the template and datasource.
+    messages = engine.instantiate(dt);
+    int i = 0;
+    for (MailMessage message : messages) {
+        message.save(i++ + ".msg", SaveOptions.getDefaultMsgUnicode());
+        inboxFolder.addMessage(MapiMessage.fromMailMessage(message));
+    }
 }
-    
 
 ```
 

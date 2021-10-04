@@ -59,7 +59,7 @@ description: Sample Java conversion code for MBOX format to OFT file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MBOX file with Aspose.Email for Java MailMessage.load.
++  Load MBOX file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (OFT) file extension.
 +  Open OFT file in compatible program.
@@ -82,11 +82,29 @@ description: Sample Java conversion code for MBOX format to OFT file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert MBOX to OFT - Java‎" offSpacer="" %}}
 
-```cs
-// load the MBOX file to be converted
-MailMessage message = MailMessage.load("sourceFile.mbox"); 
-// save MBOX as a OFT 
-message.save("Saved File.oft", SaveOptions.DefaultOft);    
+```java
+// Load MBOX File
+MboxrdStorageReader reader = new MboxrdStorageReader("Source.mbox", new MboxLoadOptions());
+
+// Start reading messages
+MailMessage message = reader.readNextMessage();
+
+int i = 0;
+
+// Read all messages in a loop
+while (message != null) {
+
+    // Save this message in OFT format
+    MapiMessage.fromMailMessage(message).saveAsTemplate("Msg" + i + ".oft");
+
+    i++;
+
+    // get next message
+    message = reader.readNextMessage();
+}
+
+// Close the streams
+reader.dispose();
 
 ```
 

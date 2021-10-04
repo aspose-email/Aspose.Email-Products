@@ -59,8 +59,8 @@ description: Sample Java conversion code for VCF format to MBOX file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email for Java MailMessage.load.
-+  Call the save() method.
++  Load VCF file with Contact.vcf.
++  Call the writeMessage() method.
 +  Pass the output file path with (MBOX) file extension.
 +  Open MBOX file in compatible program.
 
@@ -82,11 +82,13 @@ description: Sample Java conversion code for VCF format to MBOX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert VCF to MBOX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the VCF file to be converted
-MailMessage message = MailMessage.load("sourceFile.vcf"); 
-// save VCF as a MBOX 
-message.save("Saved File.mbox", SaveOptions.DefaultMbox);    
+MapiMessage msg = MapiContact.fromVCard("Contact.vcf").convertToMapiMessage();
+// save VCF to MBOX
+try (MboxrdStorageWriter writer = new MboxrdStorageWriter("output.mbox", false)) {
+    writer.writeMessage(msg.toMailMessage(new MailConversionOptions()));
+}
 
 ```
 

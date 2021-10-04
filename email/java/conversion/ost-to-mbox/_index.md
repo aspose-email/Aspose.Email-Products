@@ -59,9 +59,9 @@ description: Sample Java conversion code for OST format to MBOX file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output MBOX file and FileFormat.Ost as parameters.
++  Load OST file with Outlook.ost.
++  Call the save() method.
++  Pass the output file path with (MBOX) file extension.
 +  Open MBOX file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,10 +82,12 @@ description: Sample Java conversion code for OST format to MBOX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert OST to MBOX - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.ost");
-
-sFile.saveAs("outputFile.mbox", FileFormat.Mbox);    
+```java
+// load the OST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.ost", false)) {
+    // convert to MBOX
+    MailboxConverter.convertPersonalStorageToMbox(pst, "Root MBOX folder", null);
+}
 
 ```
 

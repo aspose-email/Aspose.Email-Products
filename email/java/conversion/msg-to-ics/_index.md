@@ -59,7 +59,7 @@ description: Sample Java conversion code for MSG format to ICS file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MSG file with Aspose.Email for Java MailMessage.load.
++  Load MSG file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (ICS) file extension.
 +  Open ICS file in compatible program.
@@ -82,11 +82,12 @@ description: Sample Java conversion code for MSG format to ICS file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert MSG to ICS - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the MSG file to be converted
-MailMessage message = MailMessage.load("sourceFile.msg"); 
-// save MSG as a ICS 
-message.save("Saved File.ics", SaveOptions.DefaultIcs);    
+MapiMessage message = MapiMessage.fromFile("sourceFile.msg");
+// save MSG as a ICS
+MapiCalendar calendar = (MapiCalendar) message.toMapiMessageItem();
+calendar.save("Saved File.ics");
 
 ```
 

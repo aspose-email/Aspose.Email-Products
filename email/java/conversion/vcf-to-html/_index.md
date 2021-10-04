@@ -59,7 +59,7 @@ description: Sample Java conversion code for VCF format to HTML file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email for Java MailMessage.load.
++  Load VCF file with Contact.vcf.
 +  Call the save() method.
 +  Pass the output file path with (HTML) file extension.
 +  Open HTML file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for VCF format to HTML file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert VCF to HTML - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the VCF file to be converted
-MailMessage message = MailMessage.load("sourceFile.vcf"); 
-// save VCF as a HTML 
-message.save("Saved File.html", SaveOptions.DefaultHtml);    
+MapiMessage msg = MapiContact.fromVCard("Contact.vcf").convertToMapiMessage();
+// save VCF as a HTML
+msg.save("Contact.html", SaveOptions.createSaveOptions(MailMessageSaveType.getHtmlFormat()));
 
 ```
 

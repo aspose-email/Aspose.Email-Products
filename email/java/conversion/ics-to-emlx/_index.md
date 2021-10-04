@@ -59,7 +59,7 @@ description: Sample Java conversion code for ICS format to EMLX file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with Aspose.Email for Java MailMessage.load.
++  Load ICS file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (EMLX) file extension.
 +  Open EMLX file in compatible program.
@@ -82,11 +82,13 @@ description: Sample Java conversion code for ICS format to EMLX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert ICS to EMLX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the ICS file to be converted
-MailMessage msg = MailMessage.load("sourceFile.ics"); 
-// save ICS as a EMLX 
-msg.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.EmlxFormat));    
+Appointment appointment = Appointment.load("sourceFile.ics");
+MailMessage message = new MailMessage();
+message.addAlternateView(appointment.requestApointment());
+// save ICS as a EMLX
+message.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.getEmlxFormat()));
 
 ```
 

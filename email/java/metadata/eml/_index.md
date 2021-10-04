@@ -59,9 +59,8 @@ description: Java sample code to edit or view EML format metadata on Java Runtim
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load the EML file using MapiMessage.fromFile
-+  Get properties collection using getProperties()
-+  Access the relevant property like Subject using get\_Item()
++  Load the EML file using MailMessage.load
++  Get properties and headers collection
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,36 +80,20 @@ description: Java sample code to edit or view EML format metadata on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Extract Metadata of EML - Java" offSpacer="" %}}
 
-```cs
+```java
+MailMessage message = MailMessage.load("message.eml");
 
-MapiMessage outlookMessageFile = MapiMessage.fromFile(dataDir + "messageMapi.eml");
+System.out.println("Subject: " + message.getSubject());
+System.out.println("From: " + message.getFrom().getAddress());
+System.out.println("To: " + message.getTo().toString());
 
-//Get the MapiProperties collection
-MapiPropertyCollection coll = outlookMessageFile.getProperties();
+System.out.println("Body: " + message.getBody());
+System.out.println("HTML Body: " + message.getHtmlBody());
 
-//Access the MapiPropertyTag.PR_SUBJECT property
-MapiProperty prop = (MapiProperty) coll.get_Item((Object) MapiPropertyTag.PR_SUBJECT);
-
-//If the MapiProperty is not found, check the MapiProperty.PR_SUBJECT_W
-//which is a unicode peer of MapiPropertyTag.PR_SUBJECT
-if (prop == null) {
-	prop = (MapiProperty) coll.get_Item(MapiPropertyTag.PR_SUBJECT_W);
+System.out.println("Headers:");
+for (String header : message.getHeaders()) {
+    System.out.println(header + ": " + message.getHeaders().get_Item(header));
 }
-
-//If it cannot be found
-if (prop == null) {
-	System.out.println("Mapi property could not be found.");
-} else {
-	//Get the property data as string
-	String strSubject = prop.getString();
-	System.out.println("Subject: " + strSubject);
-}
-
-//Read internet code page property
-prop = (MapiProperty) coll.get_Item(MapiPropertyTag.PR_INTERNET_CPID);
-if (prop != null) {
-	System.out.println("Code page: " + prop.getLong());
-}  
 
 ```
 

@@ -59,7 +59,7 @@ description: Sample Java conversion code for VCF format to EMLX file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email for Java MailMessage.load.
++  Load VCF file with Contact.vcf.
 +  Call the save() method.
 +  Pass the output file path with (EMLX) file extension.
 +  Open EMLX file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for VCF format to EMLX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert VCF to EMLX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the VCF file to be converted
-MailMessage message = MailMessage.load("sourceFile.vcf"); 
-// save VCF as a EMLX 
-message.save("Saved File.emlx", SaveOptions.DefaultEmlx);    
+MapiMessage msg = MapiContact.fromVCard("Contact.vcf").convertToMapiMessage();
+// save VCF as a EMLX
+msg.save("Contact.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.getEmlxFormat()));
 
 ```
 

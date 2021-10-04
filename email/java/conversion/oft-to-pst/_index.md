@@ -59,7 +59,7 @@ description: Sample Java conversion code for OFT format to PST file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OFT file with Aspose.Email for Java MailMessage.load.
++  Load OFT file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (PST) file extension.
 +  Open PST file in compatible program.
@@ -82,11 +82,14 @@ description: Sample Java conversion code for OFT format to PST file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert OFT to PST - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the OFT file to be converted
-MailMessage message = MailMessage.load("sourceFile.oft"); 
-// save OFT as a PST 
-message.save("Saved File.pst", SaveOptions.DefaultPst);    
+MapiMessage message = MapiMessage.fromFile("sourceFile.oft");
+// save OFT as a PST
+try (PersonalStorage storage = PersonalStorage.create("Saved File.pst", FileFormatVersion.Unicode)) {
+    FolderInfo inboxFolder = storage.createPredefinedFolder("Inbox", StandardIpmFolder.Inbox);
+    inboxFolder.addMessage(message);
+}
 
 ```
 

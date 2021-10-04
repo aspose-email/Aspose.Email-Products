@@ -57,14 +57,7 @@ description: Java sample code to create OST format reports on Java Runtime Envir
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Create a template as MailMessage and add dynamic fields
-1.  Create data source and mapping
-1.  Initialize TemplateEngine using the MailMessage object
-1.  Call TemplateEngine.Instantiate method to generate messages in bulk
-1.  Create a new PST with PersonalStorage.Create method
-1.  Add folder in PST
-1.  Add messages from TemplateEngine to folder using FolderInfo.Add method
-1.  Save in OST format
+1.  Generate Messages
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,56 +74,9 @@ description: Java sample code to create OST format reports on Java Runtime Envir
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Generate Messages & Add to OST - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Generate Messages & Add to OST - Java" offSpacer="" %}}
 
-```cs
-//create a new MailMessage instance as a template
-MailMessage template = new MailMessage();
-
-//add template field to subject
-template.setSubject("Hello, #FirstName#");
-template.setFrom(MailAddress.to_MailAddress("This email address is being protected from spambots. You need JavaScript enabled to view it."));
-
-//add template field to receipt
-template.getTo().addMailAddress(new MailAddress("#Receipt#", true));
-
-//add template field to html body 
-//use GetSignment as the template routine, which will provide the same signment.
-template.setHtmlBody("Dear #FirstName# #LastName#, Thank you for your interest in Aspose.Network.Have fun with it.#GetSignature()#");
-
-//create a new TemplateEngine with the template message.
-TemplateEngine engine = new TemplateEngine(template);
-
-//fill a DataTable as data source
-DataTable dt = new DataTable();
-dt.getColumns().add("Receipt");
-dt.getColumns().add("FirstName");
-dt.getColumns().add("LastName");
-DataRow dr;
-dr = dt.newRow();
-dr.set("Receipt", "Nancy.Davolio");
-dr.set("FirstName", "Nancy");
-dr.set("LastName", "Davolio");
-dt.getRows().add(dr);
-dr = dt.newRow();
-dr.set("Receipt", "Andrew.Fuller");
-dr.set("FirstName", "Andrew");
-dr.set("LastName", "Fuller");
-dt.getRows().add(dr);
-dr = dt.newRow();
-dr.set("Receipt", "Janet.Leverling");
-dr.set("FirstName", "Janet");
-dr.set("LastName", "Leverling");
-dt.getRows().add(dr);
-
-MailMessageCollection messages;
-try{
-	//create the messages from the template and datasource.
-	messages = engine.instantiate(dt);
-}catch (MailException ex){
-	//print exception
-}
-    
+```java
 
 ```
 

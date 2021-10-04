@@ -59,7 +59,7 @@ description: Sample Java conversion code for MBOX format to ICS file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MBOX file with Aspose.Email for Java MailMessage.load.
++  Load MBOX file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (ICS) file extension.
 +  Open ICS file in compatible program.
@@ -82,11 +82,34 @@ description: Sample Java conversion code for MBOX format to ICS file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert MBOX to ICS - Java‎" offSpacer="" %}}
 
-```cs
-// load the MBOX file to be converted
-MailMessage message = MailMessage.load("sourceFile.mbox"); 
-// save MBOX as a ICS 
-message.save("Saved File.ics", SaveOptions.DefaultIcs);    
+```java
+// Load MBOX File
+MboxrdStorageReader reader = new MboxrdStorageReader("Source.mbox", new MboxLoadOptions());
+
+// Start reading messages
+MailMessage message = reader.readNextMessage();
+
+int i = 0;
+
+// Read all messages in a loop
+while (message != null) {
+
+    // save as ICS
+    for (AlternateView view : message.getAlternateViews()) {
+        if (view.getContentType().getMediaType().equals("text/calendar")) {
+            view.save("Saved File.ics");
+            break;
+        }
+    }
+
+    i++;
+
+    // get next message
+    message = reader.readNextMessage();
+}
+
+// Close the streams
+reader.dispose();
 
 ```
 

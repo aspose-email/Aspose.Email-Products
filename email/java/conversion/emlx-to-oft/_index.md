@@ -82,11 +82,11 @@ description: Sample Java conversion code for EMLX format to OFT file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert EMLX to OFT - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EMLX file to be converted
-MailMessage message = MailMessage.load("sourceFile.emlx"); 
-// save EMLX as a OFT 
-message.save("Saved File.oft", SaveOptions.DefaultOft);    
+MailMessage message = MailMessage.load("sourceFile.emlx");
+// save EMLX as a OFT
+MapiMessage.fromMailMessage(message).saveAsTemplate("Saved File.oft");
 
 ```
 

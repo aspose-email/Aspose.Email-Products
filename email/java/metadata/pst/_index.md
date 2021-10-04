@@ -59,9 +59,8 @@ description: Java sample code to edit or view PST format metadata on Java Runtim
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load the PST file using MapiMessage.fromFile
-+  Get properties collection using getProperties()
-+  Access the relevant property like Subject using get\_Item()
++  Load the PST file.
++  Get properties for each MapiMessage.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -81,36 +80,19 @@ description: Java sample code to edit or view PST format metadata on Java Runtim
 
 {{% blocks/products/pf/agp/code-block title="Extract Metadata of PST - Java" offSpacer="" %}}
 
-```cs
-
-MapiMessage outlookMessageFile = MapiMessage.fromFile(dataDir + "messageMapi.pst");
-
-//Get the MapiProperties collection
-MapiPropertyCollection coll = outlookMessageFile.getProperties();
-
-//Access the MapiPropertyTag.PR_SUBJECT property
-MapiProperty prop = (MapiProperty) coll.get_Item((Object) MapiPropertyTag.PR_SUBJECT);
-
-//If the MapiProperty is not found, check the MapiProperty.PR_SUBJECT_W
-//which is a unicode peer of MapiPropertyTag.PR_SUBJECT
-if (prop == null) {
-	prop = (MapiProperty) coll.get_Item(MapiPropertyTag.PR_SUBJECT_W);
+```java
+// load the PST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.pst", false)) {
+    MessageInfoCollection contents = pst.getPredefinedFolder(StandardIpmFolder.Inbox).getContents();
+    for (MessageInfo messageInfo : (Iterable<MessageInfo>) contents) {
+        // read MSG
+        MapiMessage mail = pst.extractMessage(messageInfo);
+        // iterate over all properties to display the values
+        for (KeyValuePair<Long, MapiProperty> prop : mail.getProperties()) {
+            System.out.println(prop.getValue().getDescriptor().toString() + " " + prop.getValue().getString());
+        }
+    }
 }
-
-//If it cannot be found
-if (prop == null) {
-	System.out.println("Mapi property could not be found.");
-} else {
-	//Get the property data as string
-	String strSubject = prop.getString();
-	System.out.println("Subject: " + strSubject);
-}
-
-//Read internet code page property
-prop = (MapiProperty) coll.get_Item(MapiPropertyTag.PR_INTERNET_CPID);
-if (prop != null) {
-	System.out.println("Code page: " + prop.getLong());
-}  
 
 ```
 

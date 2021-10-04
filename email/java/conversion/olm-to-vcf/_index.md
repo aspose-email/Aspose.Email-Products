@@ -50,7 +50,7 @@ In order to render OLM to VCF, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.EMAIL API makes it easy for the developers to convert OLM file to VCF in just a few lines of code.
+ The feature is not implemented in Aspose.Email for Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -71,13 +71,8 @@ In order to render OLM to VCF, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="Convert OLM to VCF - Java‎" offSpacer="" %}}
 
-```cs
-// load the OLM file to be converted
-MailMessage message = MailMessage.load("sourceFile.olm"); 
-// save OLM as a VCF 
-message.save("Saved File.vcf", SaveOptions.DefaultVcf);    
-  
-  
+```java
+// Feature not implemented.
 
 ```
 

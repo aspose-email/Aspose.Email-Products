@@ -82,11 +82,11 @@ description: Sample Java conversion code for EML format to MSG file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert EML to MSG - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // Initialize and Load an existing EML file
 MailMessage eml = MailMessage.load("sourceFile.eml");
-//Save to MSG
-eml.save("MSG_out.msg", SaveOptions.getDefaultMsgUnicode());    
+// Save to MSG
+eml.save("MSG_out.msg", SaveOptions.getDefaultMsgUnicode());
 
 ```
 

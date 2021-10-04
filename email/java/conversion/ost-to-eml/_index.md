@@ -59,9 +59,9 @@ description: Sample Java conversion code for OST format to EML file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output EML file and FileFormat.Ost as parameters.
++  Load OST file with Outlook.ost.
++  Call the save() method.
++  Pass the output file path with (EML) file extension.
 +  Open EML file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,21 +82,16 @@ description: Sample Java conversion code for OST format to EML file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert OST to EML - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage ost = PersonalStorage.fromFile("Outlook.ost");
-
-FolderInfo folderInfo = ost.getPredefinedFolder(StandardIpmFolder.Inbox);
-
-MessageInfoCollection miCol = folderInfo.getContents();
-
-for (int i=0;i < miCol.size(); i++){
-
-	MessageInfo msgInfo = (MessageInfo)miCol.get(i);
-
-	MapiMessage mapi = ost.extractMessage(msgInfo);
-	mapi.save("DestFolder\\" + i + ".eml", SaveOptions.getDefaultEml());
-
-}    
+```java
+// load the OST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.ost", false)) {
+    MessageInfoCollection contents = pst.getPredefinedFolder(StandardIpmFolder.Inbox).getContents();
+    for (MessageInfo messageInfo : (Iterable<MessageInfo>) contents) {
+        // save to EML
+        MapiMessage message = pst.extractMessage(messageInfo);
+        message.save("DestFolder/" + i++ + ".eml", SaveOptions.getDefaultEml());
+    }
+}
 
 ```
 

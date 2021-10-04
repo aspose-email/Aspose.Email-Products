@@ -59,7 +59,7 @@ description: Sample Java conversion code for VCF format to MSG file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email for Java MailMessage.load.
++  Load VCF file with Contact.vcf.
 +  Call the save() method.
 +  Pass the output file path with (MSG) file extension.
 +  Open MSG file in compatible program.
@@ -82,10 +82,11 @@ description: Sample Java conversion code for VCF format to MSG file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert VCF to MSG - Java‎" offSpacer="" %}}
 
-```cs
-MapiContact contact = MapiContact.fromVCard("myContact.vcf");
-
-contact.save("Contact_out.msg", ContactSaveFormat.Msg);    
+```java
+// load the VCF file to be converted
+MapiMessage msg = MapiContact.fromVCard("Contact.vcf").convertToMapiMessage();
+// save VCF as a MSG
+msg.save("Contact.msg");
 
 ```
 

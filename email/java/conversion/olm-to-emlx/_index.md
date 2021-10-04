@@ -54,8 +54,10 @@ In order to render OLM to EMLX, we’ll use <a href="https://products.aspose.com
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
-
++  Load OST file with Outlook.ost.
++  Call the save() method.
++  Pass the output file path with (MSG) file extension.
++  Open MSG file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -71,13 +73,15 @@ In order to render OLM to EMLX, we’ll use <a href="https://products.aspose.com
 
 {{% blocks/products/pf/agp/code-block title="Convert OLM to EMLX - Java‎" offSpacer="" %}}
 
-```cs
-// load the OLM file to be converted
-MailMessage msg = MailMessage.load("sourceFile.olm"); 
-// save OLM as a EMLX 
-msg.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.EmlxFormat));    
-  
-  
+```java
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.ost", false)) {
+    MessageInfoCollection contents = pst.getPredefinedFolder(StandardIpmFolder.Inbox).getContents();
+    for (MessageInfo messageInfo : (Iterable<MessageInfo>) contents) {
+        // save to MSG
+        MapiMessage message = pst.extractMessage(messageInfo);
+        message.save("DestFolder/" + i++ + ".msg", SaveOptions.getDefaultMsgUnicode());
+    }
+}
 
 ```
 

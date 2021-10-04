@@ -57,10 +57,7 @@ description: Java sample code to create MBOX format reports on Java Runtime Envi
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Create a template from MailMessage
-1.  Set fields like Subject, From & HtmlBody
-1.  Create a TemplateEngine using the MailMessage object
-1.  Generate the messages from the template and datasource.
+1.  Generate MBOX
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -77,56 +74,9 @@ description: Java sample code to create MBOX format reports on Java Runtime Envi
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Dynamically Generate MBOX - C#" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Dynamically Generate MBOX - Java" offSpacer="" %}}
 
-```cs
-//create a new MailMessage instance as a template
-MailMessage template = new MailMessage();
-
-//add template field to subject
-template.setSubject("Hello, #FirstName#");
-template.setFrom(MailAddress.to_MailAddress("This email address is being protected from spambots. You need JavaScript enabled to view it."));
-
-//add template field to receipt
-template.getTo().addMailAddress(new MailAddress("#Receipt#", true));
-
-//add template field to html body 
-//use GetSignment as the template routine, which will provide the same signment.
-template.setHtmlBody("Dear #FirstName# #LastName#, Thank you for your interest in Aspose.Network.Have fun with it.#GetSignature()#");
-
-//create a new TemplateEngine with the template message.
-TemplateEngine engine = new TemplateEngine(template);
-
-//fill a DataTable as data source
-DataTable dt = new DataTable();
-dt.getColumns().add("Receipt");
-dt.getColumns().add("FirstName");
-dt.getColumns().add("LastName");
-DataRow dr;
-dr = dt.newRow();
-dr.set("Receipt", "Nancy.Davolio");
-dr.set("FirstName", "Nancy");
-dr.set("LastName", "Davolio");
-dt.getRows().add(dr);
-dr = dt.newRow();
-dr.set("Receipt", "Andrew.Fuller");
-dr.set("FirstName", "Andrew");
-dr.set("LastName", "Fuller");
-dt.getRows().add(dr);
-dr = dt.newRow();
-dr.set("Receipt", "Janet.Leverling");
-dr.set("FirstName", "Janet");
-dr.set("LastName", "Leverling");
-dt.getRows().add(dr);
-
-MailMessageCollection messages;
-try{
-	//create the messages from the template and datasource.
-	messages = engine.instantiate(dt);
-}catch (MailException ex){
-	//print exception
-}
-    
+```java
 
 ```
 

@@ -55,14 +55,11 @@ description: Sample Java conversion code for PST format to OST file. Use this ex
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email API makes it easy for the developers to convert PST file to OST in just a few lines of code.
+ The feature is not implemented in Aspose.Email for Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load PST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output OST file and FileFormat.Pst as parameters.
-+  Open OST file in compatible program.
++  Feature not implemented.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,10 +79,8 @@ description: Sample Java conversion code for PST format to OST file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert PST to OST - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.pst");
-
-sFile.saveAs("outputFile.ost", FileFormat.Ost);    
+```java
+//Feature not implemented.
 
 ```
 

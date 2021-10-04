@@ -59,7 +59,7 @@ description: Sample Java conversion code for MHTML format to MSG file. Use this 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MHTML file with Aspose.Email for Java MailMessage.load.
++  Load MHTML file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (MSG) file extension.
 +  Open MSG file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for MHTML format to MSG file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert MHTML to MSG - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the MHTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.mhtml"); 
-// save MHTML as a MSG 
-message.save("Saved File.msg", SaveOptions.getDefaultMsg());    
+MailMessage message = MailMessage.load("sourceFile.mhtml");
+// save MHTML as a MSG
+message.save("Saved File.msg", SaveOptions.getDefaultMsg());
 
 ```
 

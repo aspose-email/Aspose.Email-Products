@@ -59,7 +59,7 @@ description: Sample Java conversion code for MHTML format to PST file. Use this 
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MHTML file with Aspose.Email for Java MailMessage.load.
++  Load MHTML file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (PST) file extension.
 +  Open PST file in compatible program.
@@ -82,11 +82,14 @@ description: Sample Java conversion code for MHTML format to PST file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="Convert MHTML to PST - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the MHTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.mhtml"); 
-// save MHTML as a PST 
-message.save("Saved File.pst", SaveOptions.DefaultPst);    
+MailMessage message = MailMessage.load("sourceFile.mhtml");
+// save MHTML as a PST
+try (PersonalStorage storage = PersonalStorage.create("Saved File.pst", FileFormatVersion.Unicode)) {
+    FolderInfo inboxFolder = storage.createPredefinedFolder("Inbox", StandardIpmFolder.Inbox);
+    inboxFolder.addMessage(MapiMessage.fromMailMessage(message));
+}
 
 ```
 

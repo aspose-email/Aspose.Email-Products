@@ -54,8 +54,10 @@ In order to render OLM to MBOX, we’ll use <a href="https://products.aspose.com
 
 {{% /blocks/products/pf/agp/text %}}
 
-{{code_steps}}
-
++  Load OLM file with Aspose.Email for Java.
++  Call the writeMessage() method.
++  Pass the output file path with (MBOX) file extension.
++  Open MBOX file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -71,13 +73,20 @@ In order to render OLM to MBOX, we’ll use <a href="https://products.aspose.com
 
 {{% blocks/products/pf/agp/code-block title="Convert OLM to MBOX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the OLM file to be converted
-MailMessage message = MailMessage.load("sourceFile.olm"); 
-// save OLM as a MBOX 
-message.save("Saved File.mbox", SaveOptions.DefaultMbox);    
-  
-  
+OlmStorage storage = OlmStorage.fromFile("sourceFile.olm");
+
+try (MboxStorageWriter writer = new MboxrdStorageWriter("output.mbox")) {
+    for (OlmFolder olmFolder : storage.getFolderHierarchy()) {
+        if (olmFolder.hasMessages()) {
+            for (MapiMessage message : storage.enumerateMessages(olmFolder)) {
+                // add to MBOX
+                writer.writeMessage(message.toMailMessage(new MailConversionOptions()));
+            }
+        }
+    }
+}
 
 ```
 

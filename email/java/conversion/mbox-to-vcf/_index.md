@@ -55,14 +55,11 @@ description: Sample Java conversion code for MBOX format to VCF file. Use this e
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email API makes it easy for the developers to convert MBOX file to VCF in just a few lines of code.
+ The feature is not implemented in Aspose.Email for Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MBOX file with Aspose.Email for Java MailMessage.load.
-+  Call the save() method.
-+  Pass the output file path with (VCF) file extension.
-+  Open VCF file in compatible program.
++  Feature not implemented.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,11 +79,8 @@ description: Sample Java conversion code for MBOX format to VCF file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert MBOX to VCF - Java‎" offSpacer="" %}}
 
-```cs
-// load the MBOX file to be converted
-MailMessage message = MailMessage.load("sourceFile.mbox"); 
-// save MBOX as a VCF 
-message.save("Saved File.vcf", SaveOptions.DefaultVcf);    
+```java
+// Feature not implemented.
 
 ```
 

@@ -59,9 +59,9 @@ description: Sample Java conversion code for OST format to ICS file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load OST file with PersonalStorage.fromFile.
-+  Call the saveAs() method having two parameters.
-+  Output ICS file and FileFormat.Ost as parameters.
++  Load OST file with Outlook.ost.
++  Call the save() method.
++  Pass the output file path with (ICS) file extension.
 +  Open ICS file in compatible program.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -82,10 +82,17 @@ description: Sample Java conversion code for OST format to ICS file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert OST to ICS - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage sFile = PersonalStorage.fromFile("sourceFile.ost");
-
-sFile.saveAs("outputFile.ics", FileFormat.Ics);    
+```java
+// load the OST file to be converted
+try (PersonalStorage pst = PersonalStorage.fromFile("Outlook.ost", false)) {
+    MessageInfoCollection contents = pst.getPredefinedFolder(StandardIpmFolder.Inbox).getContents();
+    for (MessageInfo messageInfo : (Iterable<MessageInfo>) contents) {
+        MapiMessage message = pst.extractMessage(messageInfo);
+        // save as ICS
+        MapiCalendar calendar = (MapiCalendar) message.toMapiMessageItem();
+        calendar.save("Saved File.ics");
+    }
+}
 
 ```
 

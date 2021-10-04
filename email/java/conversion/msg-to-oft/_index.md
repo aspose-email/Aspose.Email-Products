@@ -59,7 +59,7 @@ description: Sample Java conversion code for MSG format to OFT file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MSG file with Aspose.Email for Java MailMessage.load.
++  Load MSG file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (OFT) file extension.
 +  Open OFT file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for MSG format to OFT file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert MSG to OFT - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the MSG file to be converted
-MailMessage message = MailMessage.load("sourceFile.msg"); 
-// save MSG as a OFT 
-message.save("Saved File.oft", SaveOptions.DefaultOft);    
+MapiMessage message = MapiMessage.fromFile("sourceFile.msg");
+// save MSG as a OFT
+message.saveAsTemplate("Saved File.oft");
 
 ```
 

@@ -59,7 +59,7 @@ description: Sample Java conversion code for ICS format to PST file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with Aspose.Email for Java MailMessage.load.
++  Load ICS file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (PST) file extension.
 +  Open PST file in compatible program.
@@ -82,11 +82,16 @@ description: Sample Java conversion code for ICS format to PST file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert ICS to PST - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the ICS file to be converted
-MailMessage message = MailMessage.load("sourceFile.ics"); 
-// save ICS as a PST 
-message.save("Saved File.pst", SaveOptions.DefaultPst);    
+Appointment appointment = Appointment.load("sourceFile.ics");
+MailMessage message = new MailMessage();
+message.addAlternateView(appointment.requestApointment());
+// save ICS as a PST
+try (PersonalStorage storage = PersonalStorage.create("Saved File.pst", FileFormatVersion.Unicode)) {
+    FolderInfo inboxFolder = storage.createPredefinedFolder("Calendar", StandardIpmFolder.Appointments);
+    inboxFolder.addMapiMessageItem(MapiMessage.fromMailMessage(message).toMapiMessageItem());
+}
 
 ```
 

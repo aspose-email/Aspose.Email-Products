@@ -55,14 +55,11 @@ description: Sample Java conversion code for ICS format to VCF file. Use this ex
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email API makes it easy for the developers to convert ICS file to VCF in just a few lines of code.
+ The feature is not implemented in Aspose.Email for Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with Aspose.Email for Java MailMessage.load.
-+  Call the save() method.
-+  Pass the output file path with (VCF) file extension.
-+  Open VCF file in compatible program.
++  Feature not implemented.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -82,11 +79,8 @@ description: Sample Java conversion code for ICS format to VCF file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert ICS to VCF - Java‎" offSpacer="" %}}
 
-```cs
-// load the ICS file to be converted
-MailMessage message = MailMessage.load("sourceFile.ics"); 
-// save ICS as a VCF 
-message.save("Saved File.vcf", SaveOptions.DefaultVcf);    
+```java
+// Feature not implemented.
 
 ```
 

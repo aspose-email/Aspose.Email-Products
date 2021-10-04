@@ -82,11 +82,13 @@ description: Sample Java conversion code for EML format to MBOX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert EML to MBOX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the EML file to be converted
-MailMessage message = MailMessage.load("sourceFile.eml"); 
-// save EML as a MBOX 
-message.save("Saved File.mbox", SaveOptions.DefaultMbox);    
+MailMessage message = MailMessage.load("sourceFile.eml");
+// save EML as a MBOX
+try (MboxStorageWriter mboxStorage = new MboxrdStorageWriter("Saved File.mbox", false)) {
+    mboxStorage.writeMessage(message);
+}
 
 ```
 

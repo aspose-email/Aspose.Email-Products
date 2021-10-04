@@ -59,7 +59,7 @@ description: Sample Java conversion code for VCF format to PST file. Use this ex
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email for Java MailMessage.load.
++  Load VCF file with Contact.vcf.
 +  Call the save() method.
 +  Pass the output file path with (PST) file extension.
 +  Open PST file in compatible program.
@@ -82,11 +82,15 @@ description: Sample Java conversion code for VCF format to PST file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="Convert VCF to PST - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the VCF file to be converted
-MailMessage message = MailMessage.load("sourceFile.vcf"); 
-// save VCF as a PST 
-message.save("Saved File.pst", SaveOptions.DefaultPst);    
+MapiContact contact = MapiContact.fromVCard("Contact.vcf");
+
+// save VCF as a PST
+try (PersonalStorage storage = PersonalStorage.create("Saved File.pst", FileFormatVersion.Unicode)) {
+    FolderInfo inboxFolder = storage.createPredefinedFolder("Contacts", StandardIpmFolder.Contacts);
+    inboxFolder.addMapiMessageItem(contact);
+}
 
 ```
 

@@ -59,7 +59,7 @@ description: Sample Java conversion code for MHTML format to EMLX file. Use this
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MHTML file with Aspose.Email for Java MailMessage.load.
++  Load MHTML file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (EMLX) file extension.
 +  Open EMLX file in compatible program.
@@ -82,11 +82,11 @@ description: Sample Java conversion code for MHTML format to EMLX file. Use this
 
 {{% blocks/products/pf/agp/code-block title="Convert MHTML to EMLX - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the MHTML file to be converted
-MailMessage msg = MailMessage.load("sourceFile.mhtml"); 
-// save MHTML as a EMLX 
-msg.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.EmlxFormat));    
+MailMessage msg = MailMessage.load("sourceFile.mhtml");
+// save MHTML as a EMLX
+msg.save("Saved File.emlx", SaveOptions.createSaveOptions(MailMessageSaveType.getEmlxFormat()));
 
 ```
 

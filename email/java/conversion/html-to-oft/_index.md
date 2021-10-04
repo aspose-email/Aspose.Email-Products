@@ -82,11 +82,11 @@ description: Sample Java conversion code for HTML format to OFT file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert HTML to OFT - Java‎" offSpacer="" %}}
 
-```cs
+```java
 // load the HTML file to be converted
-MailMessage message = MailMessage.load("sourceFile.html"); 
-// save HTML as a OFT 
-message.save("Saved File.oft", SaveOptions.DefaultOft);    
+MailMessage message = MailMessage.load("sourceFile.html");
+// save HTML as a OFT
+MapiMessage.fromMailMessage(message).saveAsTemplate("Saved File.oft");
 
 ```
 

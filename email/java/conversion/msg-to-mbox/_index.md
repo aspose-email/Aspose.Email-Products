@@ -59,7 +59,7 @@ description: Sample Java conversion code for MSG format to MBOX file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MSG file with Aspose.Email for Java MailMessage.load.
++  Load MSG file with Aspose.Email for Java.
 +  Call the save() method.
 +  Pass the output file path with (MBOX) file extension.
 +  Open MBOX file in compatible program.
@@ -82,12 +82,14 @@ description: Sample Java conversion code for MSG format to MBOX file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert MSG to MBOX - Java‎" offSpacer="" %}}
 
-```cs
+```java
+// load the MSG file to be converted
 MailMessage msg = MailMessage.load("inputFile.msg");
 
-MboxrdStorageWriter writer = new MboxrdStorageWriter("output.mbox", false);
-
-writer.writeMessage(msg);    
+// save MSG to MBOX
+try (MboxrdStorageWriter writer = new MboxrdStorageWriter("output.mbox", false)) {
+    writer.writeMessage(msg);
+}
 
 ```
 

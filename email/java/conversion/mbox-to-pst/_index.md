@@ -59,8 +59,8 @@ description: Sample Java conversion code for MBOX format to PST file. Use this e
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MBOX file with Aspose.Email for Java MailMessage.load.
-+  Call the save() method.
++  Load MBOX file with Aspose.Email for Java.
++  Call the mboxToPst() method.
 +  Pass the output file path with (PST) file extension.
 +  Open PST file in compatible program.
 
@@ -82,8 +82,8 @@ description: Sample Java conversion code for MBOX format to PST file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert MBOX to PST - Java‎" offSpacer="" %}}
 
-```cs
-PersonalStorage storage = MailStorageConverter.MboxToPst(@".\source.mbox", @".\output.pst");    
+```java
+PersonalStorage storage = MailStorageConverter.mboxToPst("/source.mbox", "/output.pst");
 
 ```
 

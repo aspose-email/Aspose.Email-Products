@@ -55,11 +55,11 @@ description: Sample Java conversion code for EMLX format to OST file. Use this e
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email API makes it easy for the developers to convert EMLX file to OST in just a few lines of code.
+ The feature is not implemented in Aspose.Email for Java.
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load EMLX file with Aspose.Email for Java MailMessage.load.
++  Feature not implemented.
 +  Call the save() method.
 +  Pass the output file path with (OST) file extension.
 +  Open OST file in compatible program.
@@ -82,11 +82,8 @@ description: Sample Java conversion code for EMLX format to OST file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="Convert EMLX to OST - Java‎" offSpacer="" %}}
 
-```cs
-// load the EMLX file to be converted
-MailMessage message = MailMessage.load("sourceFile.emlx"); 
-// save EMLX as a OST 
-message.save("Saved File.ost", SaveOptions.DefaultOst);    
+```java
+// Feature not implemented.
 
 ```
 
