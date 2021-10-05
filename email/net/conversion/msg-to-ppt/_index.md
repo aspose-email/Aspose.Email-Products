@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a PPT 
-message.Save("Saved File.ppt", Aspose.Email.SaveOptions.DefaultPpt); 
+message.Save("Saved File.ppt", SaveOptions.DefaultPpt); 
 
 ```
 

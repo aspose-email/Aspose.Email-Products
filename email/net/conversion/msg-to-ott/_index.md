@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a OTT 
-message.Save("Saved File.ott", Aspose.Email.SaveOptions.DefaultOtt); 
+message.Save("Saved File.ott", SaveOptions.DefaultOtt); 
 
 ```
 

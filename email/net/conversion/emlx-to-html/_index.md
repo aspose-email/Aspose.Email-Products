@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the EMLX file to be converted
 var message = MailMessage.Load("My File.emlx"); 
 // save EMLX as a HTML 
-message.Save("Saved File.html", Aspose.Email.SaveOptions.DefaultHtml);  
+message.Save("Saved File.html", SaveOptions.DefaultHtml);  
 
 ```
 

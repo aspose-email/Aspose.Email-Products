@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the MHTML file to be converted
 var message = MailMessage.Load("My File.mhtml"); 
 // save MHTML as a VCF 
-message.Save("Saved File.vcf", Aspose.Email.SaveOptions.DefaultVcf);  
+message.Save("Saved File.vcf", SaveOptions.DefaultVcf);  
 
 ```
 

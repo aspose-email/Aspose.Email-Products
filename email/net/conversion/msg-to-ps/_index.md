@@ -62,7 +62,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a PS 
-message.Save("Saved File.ps", Aspose.Email.SaveOptions.DefaultPs); 
+message.Save("Saved File.ps", SaveOptions.DefaultPs); 
 
 ```
 

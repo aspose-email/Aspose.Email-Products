@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the EMLX file to be converted
 var message = MailMessage.Load("My File.emlx"); 
 // save EMLX as a MBOX 
-message.Save("Saved File.mbox", Aspose.Email.SaveOptions.DefaultMbox);  
+message.Save("Saved File.mbox", SaveOptions.DefaultMbox);  
 
 ```
 

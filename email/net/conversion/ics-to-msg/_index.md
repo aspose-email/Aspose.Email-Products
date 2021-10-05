@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the ICS file to be converted
 var message = MailMessage.Load("My File.ics"); 
 // save ICS as a MSG 
-message.Save("Saved File.msg", Aspose.Email.SaveOptions.DefaultMsg);  
+message.Save("Saved File.msg", SaveOptions.DefaultMsg);  
 
 ```
 

@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Email
 // load the HTML file to be converted
 var message = MailMessage.Load("My File.html"); 
 // save HTML as a PST 
-message.Save("Saved File.pst", Aspose.Email.SaveOptions.DefaultPst);  
+message.Save("Saved File.pst", SaveOptions.DefaultPst);  
 
 ```
 

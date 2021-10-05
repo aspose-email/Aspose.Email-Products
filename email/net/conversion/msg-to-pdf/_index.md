@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a PDF 
-message.Save("Saved File.pdf", Aspose.Email.SaveOptions.DefaultPdf); 
+message.Save("Saved File.pdf", SaveOptions.DefaultPdf); 
 
 ```
 

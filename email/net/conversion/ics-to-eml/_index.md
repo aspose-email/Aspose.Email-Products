@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the ICS file to be converted
 var message = MailMessage.Load("My File.ics"); 
 // save ICS as a EML 
-message.Save("Saved File.eml", Aspose.Email.SaveOptions.DefaultEml);  
+message.Save("Saved File.eml", SaveOptions.DefaultEml);  
 
 ```
 

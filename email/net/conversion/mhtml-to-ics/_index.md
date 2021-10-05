@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the MHTML file to be converted
 var message = MailMessage.Load("My File.mhtml"); 
 // save MHTML as a ICS 
-message.Save("Saved File.ics", Aspose.Email.SaveOptions.DefaultIcs);  
+message.Save("Saved File.ics", SaveOptions.DefaultIcs);  
 
 ```
 

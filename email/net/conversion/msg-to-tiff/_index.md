@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a TIFF 
-message.Save("Saved File.tiff", Aspose.Email.SaveOptions.DefaultTiff); 
+message.Save("Saved File.tiff", SaveOptions.DefaultTiff); 
 
 ```
 

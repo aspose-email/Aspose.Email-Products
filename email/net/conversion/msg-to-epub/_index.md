@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a EPUB 
-message.Save("Saved File.epub", Aspose.Email.SaveOptions.DefaultEpub); 
+message.Save("Saved File.epub", SaveOptions.DefaultEpub); 
 
 ```
 

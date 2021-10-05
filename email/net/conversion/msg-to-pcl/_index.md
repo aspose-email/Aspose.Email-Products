@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a PCL 
-message.Save("Saved File.pcl", Aspose.Email.SaveOptions.DefaultPcl); 
+message.Save("Saved File.pcl", SaveOptions.DefaultPcl); 
 
 ```
 

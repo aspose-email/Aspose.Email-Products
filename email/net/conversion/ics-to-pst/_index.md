@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the ICS file to be converted
 var message = MailMessage.Load("My File.ics"); 
 // save ICS as a PST 
-message.Save("Saved File.pst", Aspose.Email.SaveOptions.DefaultPst);  
+message.Save("Saved File.pst", SaveOptions.DefaultPst);  
 
 ```
 

@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the EML file to be converted
 var message = MailMessage.Load("My File.eml"); 
 // save EML as a VCF 
-message.Save("Saved File.vcf", Aspose.Email.SaveOptions.DefaultVcf);  
+message.Save("Saved File.vcf", SaveOptions.DefaultVcf);  
 
 ```
 

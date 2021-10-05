@@ -62,7 +62,7 @@ PM> Install-Package Aspose.EMAIL
 // load the EML file to be converted
 var message = MailMessage.Load("My File.eml"); 
 // save EML as a PNG 
-message.Save("Saved File.png", Aspose.Email.SaveOptions.DefaultPng); 
+message.Save("Saved File.png", SaveOptions.DefaultPng); 
 
 ```
 

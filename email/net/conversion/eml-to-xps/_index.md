@@ -62,7 +62,7 @@ PM> Install-Package Aspose.EMAIL
 // load the EML file to be converted
 var message = MailMessage.Load("My File.eml"); 
 // save EML as a XPS 
-message.Save("Saved File.xps", Aspose.Email.SaveOptions.DefaultXps); 
+message.Save("Saved File.xps", SaveOptions.DefaultXps); 
 
 ```
 

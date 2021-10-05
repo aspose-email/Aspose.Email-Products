@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the EMLX file to be converted
 var message = MailMessage.Load("My File.emlx"); 
 // save EMLX as a OFT 
-message.Save("Saved File.oft", Aspose.Email.SaveOptions.DefaultOft);  
+message.Save("Saved File.oft", SaveOptions.DefaultOft);  
 
 ```
 

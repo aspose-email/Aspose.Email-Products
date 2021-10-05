@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a DOCM 
-message.Save("Saved File.docm", Aspose.Email.SaveOptions.DefaultDocm); 
+message.Save("Saved File.docm", SaveOptions.DefaultDocm); 
 
 ```
 

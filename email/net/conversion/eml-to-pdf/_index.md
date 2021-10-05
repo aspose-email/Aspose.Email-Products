@@ -62,7 +62,7 @@ PM> Install-Package Aspose.EMAIL
 // load the EML file to be converted
 var message = MailMessage.Load("My File.eml"); 
 // save EML as a PDF 
-message.Save("Saved File.pdf", Aspose.Email.SaveOptions.DefaultPdf); 
+message.Save("Saved File.pdf", SaveOptions.DefaultPdf); 
 
 ```
 

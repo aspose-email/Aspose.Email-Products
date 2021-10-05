@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the OFT file to be converted
 var message = MailMessage.Load("My File.oft"); 
 // save OFT as a MHTML 
-message.Save("Saved File.mhtml", Aspose.Email.SaveOptions.DefaultMhtml);  
+message.Save("Saved File.mhtml", SaveOptions.DefaultMhtml);  
 
 ```
 

@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the OFT file to be converted
 var message = MailMessage.Load("My File.oft"); 
 // save OFT as a OST 
-message.Save("Saved File.ost", Aspose.Email.SaveOptions.DefaultOst);  
+message.Save("Saved File.ost", SaveOptions.DefaultOst);  
 
 ```
 

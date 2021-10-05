@@ -62,7 +62,7 @@ PM> Install-Package Aspose.EMAIL
 // load the EML file to be converted
 var message = MailMessage.Load("My File.eml"); 
 // save EML as a EPUB 
-message.Save("Saved File.epub", Aspose.Email.SaveOptions.DefaultEpub); 
+message.Save("Saved File.epub", SaveOptions.DefaultEpub); 
 
 ```
 

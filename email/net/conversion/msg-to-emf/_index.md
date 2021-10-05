@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a EMF 
-message.Save("Saved File.emf", Aspose.Email.SaveOptions.DefaultEmf); 
+message.Save("Saved File.emf", SaveOptions.DefaultEmf); 
 
 ```
 

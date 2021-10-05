@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the EML file to be converted
 var message = MailMessage.Load("My File.eml"); 
 // save EML as a OST 
-message.Save("Saved File.ost", Aspose.Email.SaveOptions.DefaultOst);  
+message.Save("Saved File.ost", SaveOptions.DefaultOst);  
 
 ```
 

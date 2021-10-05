@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the VCF file to be converted
 var message = MailMessage.Load("My File.vcf"); 
 // save VCF as a OST 
-message.Save("Saved File.ost", Aspose.Email.SaveOptions.DefaultOst);  
+message.Save("Saved File.ost", SaveOptions.DefaultOst);  
 
 ```
 

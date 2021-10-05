@@ -62,7 +62,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a XPS 
-message.Save("Saved File.xps", Aspose.Email.SaveOptions.DefaultXps); 
+message.Save("Saved File.xps", SaveOptions.DefaultXps); 
 
 ```
 

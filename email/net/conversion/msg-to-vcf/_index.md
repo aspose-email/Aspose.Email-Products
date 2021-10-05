@@ -71,7 +71,7 @@ PM> Install-Package Aspose.Email
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a VCF 
-message.Save("Saved File.vcf", Aspose.Email.SaveOptions.DefaultVcf);  
+message.Save("Saved File.vcf", SaveOptions.DefaultVcf);  
 
 ```
 

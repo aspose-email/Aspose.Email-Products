@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a DOTX 
-message.Save("Saved File.dotx", Aspose.Email.SaveOptions.DefaultDotx); 
+message.Save("Saved File.dotx", SaveOptions.DefaultDotx); 
 
 ```
 

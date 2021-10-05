@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a MHT 
-message.Save("Saved File.mht", Aspose.Email.SaveOptions.DefaultMht); 
+message.Save("Saved File.mht", SaveOptions.DefaultMht); 
 
 ```
 

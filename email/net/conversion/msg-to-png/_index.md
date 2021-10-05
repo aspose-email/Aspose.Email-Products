@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a PNG 
-message.Save("Saved File.png", Aspose.Email.SaveOptions.DefaultPng); 
+message.Save("Saved File.png", SaveOptions.DefaultPng); 
 
 ```
 

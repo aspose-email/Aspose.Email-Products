@@ -64,7 +64,7 @@ PM> Install-Package Aspose.EMAIL
 // load the MSG file to be converted
 var message = MailMessage.Load("My File.msg"); 
 // save MSG as a RTF 
-message.Save("Saved File.rtf", Aspose.Email.SaveOptions.DefaultRtf); 
+message.Save("Saved File.rtf", SaveOptions.DefaultRtf); 
 
 ```
 
