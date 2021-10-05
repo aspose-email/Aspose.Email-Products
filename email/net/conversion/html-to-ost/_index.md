@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load HTML file with Aspose.Email.MailMessage.Load.
++  Load HTML file with MailMessage.Load.
 +  Call the Save method.
 +  Pass the output file path with OST file extension.
 +  OST file will be saved at the specified path.
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Load HTML file with Aspose.Email.MailMessage.Load.
+-  Load HTML file with MailMessage.Load.
 -  Call the Save method.
 -  Pass the output file path with OST file extension.
 -  OST file will be saved at the specified path.

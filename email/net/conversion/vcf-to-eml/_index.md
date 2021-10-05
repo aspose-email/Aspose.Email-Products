@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load VCF file with Aspose.Email.MailMessage.Load.
++  Load VCF file with MailMessage.Load.
 +  Call the Save method.
 +  Pass the output file path with EML file extension.
 +  EML file will be saved at the specified path.
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Load VCF file with Aspose.Email.MailMessage.Load.
+-  Load VCF file with MailMessage.Load.
 -  Call the Save method.
 -  Pass the output file path with EML file extension.
 -  EML file will be saved at the specified path.

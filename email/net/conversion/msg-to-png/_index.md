@@ -36,7 +36,7 @@ PM> Install-Package Aspose.EMAIL
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Load MSG file with Aspose.Email.MailMessage.Load.
+1. Load MSG file with MailMessage.Load.
 1. Call the Save method.
 1. Pass the output file path with PNG file extension.
 1. PNG file will be saved at the specified path.

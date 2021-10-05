@@ -43,7 +43,7 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with Aspose.Email.MailMessage.Load.
++  Load ICS file with MailMessage.Load.
 +  Call the Save method.
 +  Pass the output file path with HTML file extension.
 +  HTML file will be saved at the specified path.
@@ -58,7 +58,7 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Load ICS file with Aspose.Email.MailMessage.Load.
+-  Load ICS file with MailMessage.Load.
 -  Call the Save method.
 -  Pass the output file path with HTML file extension.
 -  HTML file will be saved at the specified path.
