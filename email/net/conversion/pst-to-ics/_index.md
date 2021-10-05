@@ -39,9 +39,7 @@ PM> Install-Package Aspose.Email
 
 {{% blocks/products/pf/agp/text %}}
 
- The
- [aspose.email.dll](https://downloads.aspose.com/email/net) 
- makes it easy for the developers to load & convert PST files to ICS in just a few lines of code.
+ .NET programmers can easily load & convert PST files to ICS in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -56,7 +54,7 @@ PM> Install-Package Aspose.Email
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ Before running the .NET conversion code, make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -95,7 +93,7 @@ using (PersonalStorage personalStorage = PersonalStorage.FromFile("sourceFile.ps
 
     {{% blocks/products/pf/agp/content h2="How to Convert PST to ICS Using C#" %}}
 
- Aspose.Email is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
+ Email API is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
 
 
 

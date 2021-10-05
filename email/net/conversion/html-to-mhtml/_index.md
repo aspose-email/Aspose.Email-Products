@@ -49,7 +49,7 @@ PM> Install-Package Aspose.Email
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.Email for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
+ Before running the .NET conversion code, make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
