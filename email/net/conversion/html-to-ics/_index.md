@@ -58,10 +58,10 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
--  Load HTML file with MailMessage.Load.
--  Call the Save method.
--  Pass the output file path with ICS file extension.
--  ICS file will be saved at the specified path.
+-  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
+-  Development environment like Microsoft Visual Studio.
+-  Aspose.Email for .NET DLL referenced in your project.
+-  Include namespace in relevant class.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
