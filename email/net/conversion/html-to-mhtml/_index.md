@@ -81,7 +81,7 @@ PM> Install-Package Aspose.Email
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your HTML file and hit the \"Convert\" button." >}}
         {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant MHTML file." >}}
 
-    {{% blocks/products/pf/agp/content h2="How to Convert HTML to MHTML Using C#" %}}
+    {{% blocks/products/pf/agp/content h2="" %}}
 
  An Emailing Library that makes it easier to work with a number of Microsoft Outlook & Mozilla Thunderbird formats as well as provides the ability to manage message storage files. The API also allows to send & receive emails via POP3, IMAP & SMTP or connect with Microsoft Exchange Server via WebDav & Exchange Web Services.
 
