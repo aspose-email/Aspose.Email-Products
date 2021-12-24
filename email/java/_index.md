@@ -311,11 +311,11 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Email Processing API Features
+    Advanced Email Processing API Features
    </h2>
    <p>
    </p>
-   <!-- <div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
+   <!-- <div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Process EML, MSG & MHTML formats</p>
 
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      Calendar Objects Management
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update &amp; cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update &amp; cancel meeting requests via message sending protocols.
     </p>
    </div>
    <div class="col-lg-12">

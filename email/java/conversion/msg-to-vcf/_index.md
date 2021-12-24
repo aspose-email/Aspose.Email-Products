@@ -80,7 +80,7 @@ description: Sample Java conversion code for MSG format to VCF file. Use this ex
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert MSG to VCF - Java‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert MSG to VCF - Java" offSpacer="" %}}
 
 ```cs
 // load the MSG file to be converted
@@ -107,7 +107,7 @@ message.save("Saved File.vcf", SaveOptions.DefaultVcf);
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Email API is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
+ Email API is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. 
 
 
 

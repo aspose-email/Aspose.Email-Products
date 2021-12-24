@@ -6,7 +6,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Android Email APIs" h2="Create, manipulate & convert email messages and storage files including MSG, EML, MHT, PST & OST from within mobile apps." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-android-java.svg" pfName="Aspose.Email" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
+{{< blocks/products/pf/upper-banner h1="Android Email APIs" h2="Create, manipulate & convert email messages and storage files including MSG, EML, MHT, PST & OST from within mobile apps." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-android-java.svg" pfName="Aspose.Email" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Android via Java" >}}
 
@@ -14,7 +14,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Email for Android via Java empowers the software developers to design Android applications having the ability to manage and manipulate mail messages without getting lost in the complexities of Microsoft Outlook file format implementation. Android email library helps the developers manipulate mail file formats from within Android applications. API has no dependencies other than Android Runtime therefore it does not need any other APIs or software to work.
+ Aspose.Email for Android via Java empowers the software developers to design Android applications having the ability to manage and manipulate mail messages without getting lost in the complexities of Microsoft Outlook file format implementation. Android email library helps the developers manipulate mail file formats from within Android applications. API has no dependencies other than Android Runtime therefore it does not need any other APIs or software to work.
 </p>
 
 <p>
@@ -65,7 +65,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
      Create Appointment
     </li>
     <li>
-     Export Appointment to ICS File
+     Export Appointment to ICS File
     </li>
     <li>
      Format Appointment Text
@@ -293,7 +293,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
    </div>
    <!--
 
-<div class="col-lg-4"><em class="fa fa-group ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-group ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Add or extract messages & contacts from PST and OST files</p>
 
@@ -301,13 +301,13 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
 
 
 
-<div class="col-lg-4"><em class="fa fa-calendar-plus-o  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-calendar-plus-o  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Adding and saving calendar items from PST files</p>
 
 </div>
 
-<div class="col-lg-4"><em class="fa fa-sticky-note ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-sticky-note ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Adding tasks, notes and journals to PST files</p>
 
@@ -316,10 +316,10 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     MSG to Different Format Conversion
+     MSG to Different Format Conversion
     </h2>
     <p>
-     The library makes it easy to convert different message file formats. The conversion process is, loading the source file in API's object model and calling the save function with relevant parameters. It is really that simple!
+     The library makes it easy to convert different message file formats. The conversion process is, loading the source file in API's object model and calling the save function with relevant parameters. It is really that simple!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -343,7 +343,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Read Outlook MAPI Properties
     </h2>
     <p>
-     Outlook android library allows you to read MSG file's MAPI properties. It supports reading all the MAPI properties or reading a specific property using the MAPI property tag.
+     Outlook android library allows you to read MSG file's MAPI properties. It supports reading all the MAPI properties or reading a specific property using the MAPI property tag.
     </p>
    </div>
    <div class="col-lg-12">
@@ -351,7 +351,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Working with Android iCalendar API
     </h2>
     <p>
-     Aspose.Email’s iCalendar API makes it possible to create and save Outlook Calendar objects in multiple formats such as MSG and ICS. You can also read calendar objects using this API.
+     Aspose.Email’s iCalendar API makes it possible to create and save Outlook Calendar objects in multiple formats such as MSG and ICS. You can also read calendar objects using this API.
     </p>
    </div>
    <div class="col-lg-12">
@@ -359,7 +359,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Read Outlook PST File
     </h2>
     <p>
-     The library enables you to read and write a Microsoft Outlook PST file. It provides access to all folders and sub-folders of a PST file so you can add, read and extract messages. Messages, contacts and calendar items can be exported and saved to disc in various formats from a PST file.
+     The library enables you to read and write a Microsoft Outlook PST file. It provides access to all folders and sub-folders of a PST file so you can add, read and extract messages. Messages, contacts and calendar items can be exported and saved to disc in various formats from a PST file.
     </p>
    </div>
    <div class="col-lg-12">
@@ -367,7 +367,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Manage Attachments
     </h2>
     <p>
-     Mail API provides the ability to read and extract attachments from message files in a very simple manner. Not only can you extract attachments but also create new attachments and add these to messages.
+     Mail API provides the ability to read and extract attachments from message files in a very simple manner. Not only can you extract attachments but also create new attachments and add these to messages.
     </p>
    </div>
    <!--

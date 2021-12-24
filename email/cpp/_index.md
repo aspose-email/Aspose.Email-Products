@@ -6,7 +6,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="C++ Email Message & Message Storage Processing API" h2="Create, edit & convert email files & message archives from within C++ applications without requiring Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-cpp.svg" pfName="Aspose.Email" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
+{{< blocks/products/pf/upper-banner h1="C++ Email Message & Message Storage Processing API" h2="Create, edit & convert email files & message archives from within C++ applications without requiring Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-cpp.svg" pfName="Aspose.Email" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for C++" >}}
 
@@ -138,7 +138,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <!--<header><i class="fa fa-cubes"> </i>Windows 32 bit</header><br />-->
+   <!--<header><i class="fa fa-cubes"> </i>Windows 32 bit</header><br />-->
    <header>
     <i class="fa fa-cubes">
     </i>
@@ -320,7 +320,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
      Produce &amp; Consume iCalendar Recurrence Patterns
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production &amp; consumption.
+     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production &amp; consumption.
     </p>
    </div>
    <div class="col-lg-12">
@@ -328,7 +328,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
      Create, Inspect &amp; Extract Items from PST &amp; OST Files
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST &amp; OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts &amp; folders.
+     Aspose.Email for C++ allows managing Outlook storage formats like PST &amp; OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts &amp; folders.
     </p>
     <div class="codeblock" id="code">
      <h3>

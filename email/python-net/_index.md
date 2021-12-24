@@ -6,7 +6,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python API for Email Processing" h2="Create, Manipulate or Convert email formats including MSG, EML, EMLX & MHT from within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-python-net.svg" pfName="Aspose.Email" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/email/pythonnet" >}}
+{{< blocks/products/pf/upper-banner h1="Python API for Email Processing" h2="Create, Manipulate or Convert email formats including MSG, EML, EMLX & MHT from within Python applications." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-python-net.svg" pfName="Aspose.Email" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/email/pythonnet" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Python via .NET" >}}
 
@@ -14,11 +14,11 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time &amp; effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
+ Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time &amp; effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
 </p>
 
 <p>
- The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP &amp; SMTP.
+ The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP &amp; SMTP.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -390,7 +390,7 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
      Produce &amp; Consume Recurrences with iCalendar API
     </h2>
     <p>
-     Aspose.Email for Python via .NET provides the functionality to generate &amp; save Outlook Calendar objects in MSG and ICS formats. Not only you can create and save iCalendar objects, but also retrieve, update, send &amp; cancel meeting requests. Moreover, using the intuitive object model it is easy to dynamically produce and consume recurrence patterns in iCalendar RFC 2445 format.
+     Aspose.Email for Python via .NET provides the functionality to generate &amp; save Outlook Calendar objects in MSG and ICS formats. Not only you can create and save iCalendar objects, but also retrieve, update, send &amp; cancel meeting requests. Moreover, using the intuitive object model it is easy to dynamically produce and consume recurrence patterns in iCalendar RFC 2445 format.
     </p>
    </div>
    <div class="col-lg-12">

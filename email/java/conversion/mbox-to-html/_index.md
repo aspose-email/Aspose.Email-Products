@@ -80,7 +80,7 @@ description: Sample Java conversion code for MBOX format to HTML file. Use this 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert MBOX to HTML - Java‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert MBOX to HTML - Java" offSpacer="" %}}
 
 ```cs
 // Load MBOX File
@@ -125,7 +125,7 @@ reader.Dispose();
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
- Email API is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎
+ Email API is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. 
 
 
 

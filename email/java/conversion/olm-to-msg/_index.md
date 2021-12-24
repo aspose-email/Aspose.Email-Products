@@ -69,7 +69,7 @@ In order to render OLM to MSG, we’ll use <a href="https://products.aspose.com/
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert OLM to MSG - Java‎" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert OLM to MSG - Java" offSpacer="" %}}
 
 ```cs
 // load the OLM file to be converted
@@ -98,7 +98,7 @@ message.save("Saved File.msg", SaveOptions.getDefaultMsg());
 
     {{% blocks/products/pf/agp/content h2="" %}}
 
-Email API is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation. ‎ ‎
+Email API is a Microsoft Outlook and Thunderbird formats parsing solution. One can easily create, manipulate, convert email and storage formats such as MSG, EMLX, EML and MHT. Handling of email attachments, customization of message headers and implementation of different network protocols like POP3, IMAP & SMTP to send & receive emails is much easier. Its a standalone API and does not require Microsoft Outlook or any other software installation.  
 
 
 

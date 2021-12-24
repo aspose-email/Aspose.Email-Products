@@ -6,7 +6,7 @@ description: Develop Outlook formats parsing applications using On Premise or Cl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Outlook File Format Solution" h2="Manipulate Outlook & Thunderbird email & email storage file formats. Implement multiple network protocols without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-brand.svg" imageAlt="Aspose.Email Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Microsoft Outlook File Format Solution" h2="Manipulate Outlook & Thunderbird email & email storage file formats. Implement multiple network protocols without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-brand.svg" imageAlt="Aspose.Email Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email On Premise APIs Include" >}}
@@ -16,7 +16,7 @@ description: Develop Outlook formats parsing applications using On Premise or Cl
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="https://products.aspose.com/email/java" >}}
-Java APIs to manipulate MSG, PST, OST, OFT, EML, EMLX, MBOX and more formats in any application based on Java SE or EE.
+Java APIs to manipulate MSG, PST, OST, OFT, EML, EMLX, MBOX and more formats in any application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="https://products.aspose.com/email/cpp" >}}
@@ -48,11 +48,11 @@ Easy to use PHP SDK to create, manipulate and convert Email Messages. Use it on 
 {{< blocks/products/pf/product-card-row title="Aspose.Email Cross Platform Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/email/conversion" >}}
-Easily convert Microsoft Outlook and other Email formats without leaving your favorite browser.
+Easily convert Microsoft Outlook and other Email formats without leaving your favorite browser.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/email/viewer" >}}
-View your email files online as well as view your Email as an image representation from anywhere. 
+View your email files online as well as view your Email as an image representation from anywhere. 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email " title="Headers" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_headers-app.png" productLink="https://products.aspose.app/email/headers" >}}
@@ -65,7 +65,7 @@ Analyze headers of Emails & message archives online from anywhere.
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Email." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.email/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.Email." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.email/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

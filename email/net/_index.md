@@ -518,7 +518,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook Thunderbird 
      Get folder path in OLM file
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-file-zip-o ico-blue fa-2x col-lg-2"> </em>
+   <!--<div class="col-lg-4"><em class="fa fa-file-zip-o ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Add Attachment to Recurring Calendar Events</p>
 
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send &amp; Receive Emails via SMTP, POP3 &amp; IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size &amp; message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size &amp; message count, retrieve the full message or just the headers, delete messages from the server and so on.
     </p>
     <p>
      API also supports IMAP protocol features including authentication, create, delete, select, query folders, get and save messages, change message flags and basic IMAP commands.

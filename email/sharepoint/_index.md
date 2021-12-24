@@ -6,7 +6,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert & Sync Email Messages" h2="Convert email files or synchronize emails with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-sharepoint.svg" pfName="Aspose.Email" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/upper-banner h1="SharePoint App to Convert & Sync Email Messages" h2="Convert email files or synchronize emails with no effort." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-sharepoint.svg" pfName="Aspose.Email" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for SharePoint" >}}
 
@@ -221,7 +221,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
    </div>
    <!--
 
-<div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
+<div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
 <p class="col-lg-10">Synchronize files with DropBox</p>
 
