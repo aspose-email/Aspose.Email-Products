@@ -87,9 +87,6 @@ ListDiffTreeFromBacktrackMatrix(list, lcsMatrix, body1, body2, StringComparer.Or
 email2.SetBodyContent(BuildBodyDiff(list), Email.Mapi.BodyContentType.Html);
 
 email2.Save(outPath);            
-
-//full code listed https://github.com/aspose-email/Aspose.Email-for-.NET/blob/master/Demos/src/Aspose.Email.Live.Demos.UI/Models/AsposeEmailComparison.cs  
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
