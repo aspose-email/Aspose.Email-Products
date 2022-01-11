@@ -159,7 +159,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
+  <img width="70" height="75" alt=".NET Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -195,7 +195,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
+  <img width="70" height="75" alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -260,7 +260,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Python API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
+  <img width="70" height="75" alt="Python API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
   <header>
    Aspose.Email
   </header>

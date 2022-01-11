@@ -110,7 +110,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Android Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
+  <img width="70" height="75" alt="Android Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -150,7 +150,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Outlook Mail API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
+  <img width="70" height="75" alt="Outlook Mail API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -194,7 +194,7 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
   </div>
   <!--/row-->
   <div class="d1-logo">
-   <img alt="Mail API for Android" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
+   <img width="70" height="75" alt="Mail API for Android" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg"/>
    <header>
     Aspose.Email
    </header>

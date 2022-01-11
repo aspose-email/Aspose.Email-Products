@@ -159,7 +159,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Email API Java" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
+  <img width="70" height="75" alt="Email API Java" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -202,7 +202,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java API Outlook PST" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
+  <img width="70" height="75" alt="Java API Outlook PST" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -283,7 +283,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java API for Email Sending" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
+  <img width="70" height="75" alt="Java API for Email Sending" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg"/>
   <header>
    Aspose.Email
   </header>

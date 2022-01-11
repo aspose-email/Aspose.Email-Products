@@ -159,7 +159,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook Thunderbird 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
+  <img width="70" height="75" alt=".NET Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -232,7 +232,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook Thunderbird 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
+  <img width="70" height="75" alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -297,7 +297,7 @@ description: C# ASP.NET VB.NET Email processing library for Outlook Thunderbird 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
+  <img width="70" height="75" alt=".NET API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
   <header>
    Aspose.Email
   </header>

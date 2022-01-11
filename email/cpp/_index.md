@@ -116,7 +116,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ Email API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -157,7 +157,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg"/>
+  <img width="70" height="75" alt="Outlook PST API" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -204,7 +204,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="C++ API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg"/>
+  <img width="70" height="75" alt="C++ API for Email Manipulation" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg"/>
   <header>
    Aspose.Email
   </header>

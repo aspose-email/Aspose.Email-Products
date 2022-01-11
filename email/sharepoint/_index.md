@@ -82,7 +82,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Mail App" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Mail App" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -122,7 +122,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Email Format Converter for SharePoint" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="Email Format Converter for SharePoint" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -166,7 +166,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="SharePoint Email App" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
+  <img width="70" height="75" alt="SharePoint Email App" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg"/>
   <header>
    Aspose.Email
   </header>
