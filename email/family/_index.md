@@ -9,7 +9,7 @@ description: Create read manipulate Outlook and Thunderbird files using the rele
 {{< blocks/products/pf/upper-banner h1="Email Management & Transmission APIs" h2="Native APIs to create, manipulate & convert Outlook email & storage files. Implement network protocols such as SMTP, POP3 & IMAP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email.svg" pfName="Aspose.Email" downloadUrl="https://downloads.aspose.com/email" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Email On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Email High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/net/" >}}
 Target .NET Framework, .NET Core & Xamarin platform to develop applications for Windows, iOS, macOS & Android.

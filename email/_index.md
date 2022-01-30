@@ -9,7 +9,7 @@ description: Develop Outlook formats parsing applications using On Premise or Cl
 {{< blocks/products/pf/upper-banner h1="Microsoft Outlook File Format Solution" h2="Manipulate Outlook & Thunderbird email & email storage file formats. Implement multiple network protocols without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-brand.svg" imageAlt="Aspose.Email Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Email On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Email High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="https://products.aspose.com/email/net" >}}
 .NET Email APIs to deal native Outlook message formats, message storage file formats and implement various network protocols within Windows, iOS & Android apps.
@@ -23,11 +23,11 @@ Java APIs to manipulate MSG, PST, OST, OFT, EML, EMLX, MBOX and more formats in 
 Native C++ library to manipulate Microsoft Outlook and other Email formats from within pure C++ apps.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.com/email/family" innerText="View All On Premise APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.com/email/family/" innerText="View All High Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Email Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Email Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_email-for-curl.png" productLink="https://products.aspose.cloud/email/curl" >}}
 Email REST APIs to parse Outlook formats, message storage file formats and implement different network protocols via any type of device capable of executing cURL commands.
@@ -41,11 +41,11 @@ REST APIs to manipulate MSG, PST, OST, OFT, EML, EMLX, MBOX and more formats on 
 Easy to use PHP SDK to create, manipulate and convert Email Messages. Use it on any Platform capable of calling REST APIs.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/email/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/email/family" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Email Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Email No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/email/conversion" >}}
 Easily convert Microsoft Outlook and other Email formats without leaving your favorite browser.
@@ -59,7 +59,7 @@ View your email files online as well as view your Email as an image representati
 Analyze headers of Emails & message archives online from anywhere.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/email/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/email/family" innerText="View All No Code Apps" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
