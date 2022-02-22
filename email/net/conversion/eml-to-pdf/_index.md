@@ -37,8 +37,9 @@ PM> Install-Package Aspose.EMAIL
 {{% /blocks/products/pf/agp/text %}}
 
 1. Load source EML file using MailMessage.Load
-1. Set SaveOptions
-1. Call Save method with SaveOptions as parameter
+1. Save EML as MHTML in MemoryStream using MailMessage.Save method
+1. Load MHTML from MemoryStream with Aspose.Words.Document constructor
+1. Call Document.Save method while specifying PdfSaveOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -59,11 +60,21 @@ PM> Install-Package Aspose.EMAIL
 {{% blocks/products/pf/agp/code-block title="This sample code shows EML to PDF C# Conversion" offSpacer="" %}}
 
 ```cs
-// load the EML file to be converted
-var message = MailMessage.Load("My File.eml"); 
-// save EML as a PDF 
-message.Save("Saved File.pdf", SaveOptions.DefaultPdf); 
+string dataDir = RunExamples.GetDataDir_KnowledgeBase();
+MailMessage mailMsg = MailMessage.Load(dataDir + "message3.eml");
+MemoryStream ms = new MemoryStream();
+mailMsg.Save(ms, Aspose.Email.SaveOptions.DefaultMhtml);
 
+// create an instance of LoadOptions and set the LoadFormat to Mhtml
+var loadOptions = new Aspose.Words.Loading.LoadOptions();
+loadOptions.LoadFormat = LoadFormat.Mhtml;
+
+// create an instance of Document and load the MTHML from MemoryStream
+var document = new Aspose.Words.Document(ms, loadOptions);
+
+// create an instance of HtmlSaveOptions and set the SaveFormat to Html
+var saveOptions = new Aspose.Words.Saving.PdfSaveOptions();
+document.Save(dataDir + "SaveEmailAsPDF_out.pdf", saveOptions);
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}

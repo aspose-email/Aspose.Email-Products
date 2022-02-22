@@ -36,10 +36,10 @@ PM> Install-Package Aspose.EMAIL
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Load MSG file with MailMessage.Load.
-1. Call the Save method.
-1. Pass the output file path with PDF file extension.
-1. PDF file will be saved at the specified path.
+1. Load source MSG file using MailMessage.Load
+1. Save MSG as MHTML in MemoryStream using MailMessage.Save method
+1. Load MHTML from MemoryStream with Aspose.Words.Document constructor
+1. Call Document.Save method while specifying PdfSaveOptions
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -61,10 +61,21 @@ PM> Install-Package Aspose.EMAIL
 {{% blocks/products/pf/agp/code-block title="This sample code shows MSG to PDF C# Conversion" offSpacer="" %}}
 
 ```cs
-// load the MSG file to be converted
-var message = MailMessage.Load("My File.msg"); 
-// save MSG as a PDF 
-message.Save("Saved File.pdf", SaveOptions.DefaultPdf); 
+string dataDir = RunExamples.GetDataDir_KnowledgeBase();
+MailMessage mailMsg = MailMessage.Load(dataDir + "message.msg");
+MemoryStream ms = new MemoryStream();
+mailMsg.Save(ms, Aspose.Email.SaveOptions.DefaultMhtml);
+
+// create an instance of LoadOptions and set the LoadFormat to Mhtml
+var loadOptions = new Aspose.Words.Loading.LoadOptions();
+loadOptions.LoadFormat = LoadFormat.Mhtml;
+
+// create an instance of Document and load the MTHML from MemoryStream
+var document = new Aspose.Words.Document(ms, loadOptions);
+
+// create an instance of HtmlSaveOptions and set the SaveFormat to Html
+var saveOptions = new Aspose.Words.Saving.PdfSaveOptions();
+document.Save(dataDir + "SaveEmailAsPDF_out.pdf", saveOptions);
 
 ```
 
