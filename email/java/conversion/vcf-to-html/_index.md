@@ -86,7 +86,7 @@ description: Sample Java conversion code for VCF format to HTML file. Use this e
 // load the VCF file to be converted
 MailMessage message = MailMessage.load("sourceFile.vcf"); 
 // save VCF as a HTML 
-message.save("Saved File.html", SaveOptions.DefaultHtml);    
+message.save("Saved File.html", SaveOptions.getDefaultHtml());    
 
 ```
 

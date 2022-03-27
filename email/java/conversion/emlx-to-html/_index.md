@@ -86,7 +86,7 @@ description: Sample Java conversion code for EMLX format to HTML file. Use this 
 // load the EMLX file to be converted
 MailMessage message = MailMessage.load("sourceFile.emlx"); 
 // save EMLX as a HTML 
-message.save("Saved File.html", SaveOptions.DefaultHtml);    
+message.save("Saved File.html", SaveOptions.getDefaultHtml());    
 
 ```
 
