@@ -232,14 +232,14 @@ description: 邮件库允许在移动应用程序中访问、阅读和操作 Out
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     导入和导出符合 RFC822 的消息格式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     通过产品 API 读取和操作不同的消息类型
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: 邮件库允许在移动应用程序中访问、阅读和操作 Out
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     在 iCalendar (RFC 2445) 中生成和使用重复模式
     </p>
    </div>
    <div class="col-lg-4">

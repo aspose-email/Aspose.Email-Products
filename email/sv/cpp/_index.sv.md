@@ -14,11 +14,11 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C++ är ett e-postprogrammerings-API som gör det lättare för utvecklarna att arbeta med ett antal format som MSG, EML, EMLX och MHT. Applikationsutvecklare kan skapa, konvertera eller manipulera de vanligaste meddelandeformaten i de inbyggda C++-applikationerna, utan att förlita sig på Office Automation eller Microsoft Outlook-applikationer.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email för C++ är bäst lämpad för e-posthanteringsfunktioner som innehållsredigering, manipulering av mottagare, extrahering och manipulering av MAPI-egenskaper och bilagor samt för avancerade funktioner som hantering av meddelandelagringsfiler inklusive PST och OST. För närvarande stöder API SMTP, POP3 och IMAP kommunikationsprotokoll för e-postöverföring.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Skapa PST- och OST-filer
     </li>
     <li>
      Hantera meddelanden i PST
@@ -84,7 +84,7 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Skapa vanliga och HTML-e-postmeddelanden
     </li>
     <li>
      Ladda olika format
@@ -232,7 +232,7 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    API-funktioner för bearbetning av e-postfiler och meddelandearkiv
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     Ladda och spara meddelanden till och från fil eller stream
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     Skapa och uppdatera uppgifter med iCalendar public API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     Skapa, manipulera och extrahera lagringsfiler
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     Inkludera text och HTML-baserad e-posttext
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     Stöder SMTP, POP3 och IMAP kommunikationsprotokoll
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: C++ e-postbibliotek för att skapa manipulera och konvertera Micros
      Hantera MIME-meddelanden via C++ bibliotek
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email för C++ stöder omfattande MIME-format inklusive EML och EMLX. Denna förmåga tillåter utvecklarna att skapa, ställa in och extrahera innehåll från MIME-meddelanden, hantera bilagor och inbäddade objekt, konvertera EML- och EMLX-filer till MSG-, HTML- och MHTML-filformat.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     Hantera Outlook-meddelandefilformat
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email för C++ kan skapa Outlook-meddelanden från grunden samt ger möjlighet att manipulera befintliga e-postfiler. Utvecklare kan ladda och spara alla typer av Outlook-objekt inklusive kontakter, uppgifter, anteckningar, kalenderobjekt och distributionslistor. Ovanpå det tillåter C++ e-postbibliotek att analysera och manipulera alla Outlook-objekt via offentliga API.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar Återkommande mönster
+     Producera och konsumera iCalendar Återkommande mönster
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     Biblioteket tillåter utvecklarna att programmatiskt generera och konsumera återkommande mönster i iCalendar-format (RFC 2445) med hjälp av en intuitiv objektmodell. Vår expertis säkerställer att iCalendar-gränssnittet är lätt att använda samtidigt som det ger dig fullständig kontroll över återkommande produktion och konsumtion.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     Skapa, inspektera och extrahera objekt från PST- och OST-filer
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     Aspose.Email för C++ tillåter hantering av Outlook-lagringsformat som PST och OST. API utför olika operationer på befintliga lagringsformat samt skapar nya PST-dokument från grunden. Andra möjliga operationer kan man utföra såsom mapp- och meddelandelistning, tillägg eller extrahering av meddelanden, kontakter och mappar.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      Skapa PST och lägg till meddelande i Inkorgen - C++
      </h3>
      <pre><code class="cpp">// skapa PST-fil från början       
 

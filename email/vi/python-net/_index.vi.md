@@ -14,11 +14,11 @@ description: Aspose.Email cho Python qua .NET là một API lập trình email c
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time and effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
+ Aspose.
 </p>
 
 <p>
- The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP and SMTP.
+ API email Python có thể được sử dụng cho các tính năng quản lý email cơ bản như chỉnh sửa nội dung thư và thao tác với tệp đính kèm. Hơn nữa, thư viện cũng thực hiện quản lý các tài liệu lưu trữ tin nhắn, gửi và nhận email thông qua các giao thức khác nhau bao gồm POP3, IMAP và SMTP.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email cho Python qua .NET là một API lập trình email c
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Tạo tệp PST và OST
     </li>
     <li>
      Quản lý tin nhắn trong PST
@@ -99,7 +99,7 @@ description: Aspose.Email cho Python qua .NET là một API lập trình email c
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Tạo email đơn giản và HTML
     </li>
     <li>
      Tải nhiều loại định dạng
@@ -126,7 +126,7 @@ description: Aspose.Email cho Python qua .NET là một API lập trình email c
      Quản lý tiêu đề
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Đọc và ghi vào bộ nhớ thư Thunderbird
     </li>
    </ul>
    <header>
@@ -296,28 +296,28 @@ description: Aspose.Email cho Python qua .NET là một API lập trình email c
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Email file format conversion and rendering
+     Chuyển đổi định dạng tệp email và hiển thị
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send and receive emails with attachments
+     Gửi và nhận email có tệp đính kèm
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Download messages from POP3 and IMAP mail servers
+     Tải xuống thư từ máy chủ thư POP3 và IMAP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     Tạo và cập nhật công việc bằng iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -331,7 +331,7 @@ description: Aspose.Email cho Python qua .NET là một API lập trình email c
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate email attachments and linked resources
+     Thao tác với tệp đính kèm email và tài nguyên được liên kết
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,7 +345,7 @@ description: Aspose.Email cho Python qua .NET là một API lập trình email c
     <em class="fa fa-expeditedssl ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for SSL and TLS
+     Hỗ trợ SSL và TLS
     </p>
    </div>
    <div class="col-lg-4">
@@ -387,15 +387,15 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume Recurrences with iCalendar API
+     Tái sản xuất và tiêu thụ với API iCalendar
     </h2>
     <p>
-     Aspose.Email for Python via .NET provides the functionality to generate and save Outlook Calendar objects in MSG and ICS formats. Not only you can create and save iCalendar objects, but also retrieve, update, send and cancel meeting requests. Moreover, using the intuitive object model it is easy to dynamically produce and consume recurrence patterns in iCalendar RFC 2445 format.
+     Aspose.Email for Python qua .NET cung cấp chức năng tạo và lưu các đối tượng Lịch Outlook ở định dạng MSG và ICS. Bạn không chỉ có thể tạo và lưu các đối tượng iCalendar mà còn có thể truy xuất, cập nhật, gửi và hủy các yêu cầu họp. Hơn nữa, bằng cách sử dụng mô hình đối tượng trực quan, bạn có thể dễ dàng tạo và sử dụng các mẫu lặp lại ở định dạng iCalendar RFC 2445 một cách linh hoạt.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Send and Receive Email via SMTP, POP3 and IMAP Mail Servers
+     Gửi và nhận Email via SMTP, POP3 and IMAP Mail Servers
     </h2>
     <p>
      Aspose.Email for Python thông qua .NET API cho phép bạn tạo, gửi và nhận email bằng các giao thức SMTP, POP3 và IMAP. Nó cho phép bạn đăng nhập vào máy chủ POP3 bằng tên người dùng và mật khẩu hoặc xác thực APOP để thực hiện các hoạt động email như: xem kích thước hộp thư và số lượng thư, truy xuất toàn bộ thư hoặc tiêu đề của thư, xóa thư khỏi máy chủ cũng như các lệnh POP3 cơ bản.
@@ -406,10 +406,10 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create or Manipulate PST, OST and MBOX Files
+     Tạo hoặc thao tác với các tệp PST, OST và MBOX
     </h2>
     <p>
-     Aspose.Email for Python via .NET allows you to manage Outlook storage files such as PST and OST. You can perform a number of operations on existing storage files as well as create new PST files from scratch. Possible operations include folder listing, message listing, messages extraction and contacts in MSG format.
+     Aspose.Email for Python qua .NET cho phép bạn quản lý các tệp lưu trữ Outlook như PST và OST. Bạn có thể thực hiện một số thao tác trên các tệp lưu trữ hiện có cũng như tạo tệp PST mới từ đầu. Các hoạt động có thể bao gồm danh sách thư mục, danh sách tin nhắn, trích xuất tin nhắn và danh bạ ở định dạng MSG.
     </p>
     <p>
      Cùng với các tệp lưu trữ Outlook, Aspose.Email for Python qua .NET cũng hỗ trợ định dạng tệp Mbox. Bạn có thể sử dụng Aspose.Email for Python qua .NET để tải các tệp Mbox hiện có và trích xuất thông tin thư.

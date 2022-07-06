@@ -11,27 +11,27 @@ description: Cree, lea y manipule archivos de Outlook y Thunderbird usando la bi
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Las API de código alto de Aspose.Email incluyen" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/es/es/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/es/net/" >}}
 Apunta a la plataforma .NET Framework, .NET Core y Xamarin para desarrollar aplicaciones para Windows, iOS, macOS y Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/es/es/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/es/java/" >}}
 APIs nativas de Java para escritorio, web o cualquier tipo de aplicación basada en Java SE o EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/es/es/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/es/cpp/" >}}
 Cree, manipule o convierta mensajes de correo electrónico en aplicaciones C++.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/es/es/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/es/android-java/" >}}
 Manipule los mensajes de correo electrónico de Outlook en sus aplicaciones móviles Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/es/es/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/es/sharepoint/" >}}
 Convierta correos electrónicos y sincronice archivos a FTP o Dropbox en SharePoint.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/es/es/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/es/python-net/" >}}
 Biblioteca de Python para crear, manipular, convertir, enviar o recibir mensajes de correo electrónico.
 {{< /blocks/products/pf/product >}}
 

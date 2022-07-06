@@ -202,14 +202,14 @@ description: Aplikasi Email SharePoint untuk mengekspor EML ke MSG bersama denga
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     Interkonversi EML dan MSG dari dalam pustaka dokumen SharePoint
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Sinkronisasi file dengan server FTP dan DropBox
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: Aplikasi Email SharePoint untuk mengekspor EML ke MSG bersama denga
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Sinkronkan file dengan DropBox</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     Inter-konversi Format MSG dan EML
     </h2>
     <p>
      Aspose.Email untuk SharePoint mendukung format pesan paling populer. Aplikasi Konversi Email juga menyediakan kemampuan untuk mengonversi antar file pesan yang didukung tanpa kehilangan informasi apa pun.
@@ -238,7 +238,7 @@ description: Aplikasi Email SharePoint untuk mengekspor EML ke MSG bersama denga
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     Sinkronkan Email dan File Langsung dari SharePoint
     </h2>
     <p>
      Aspose.Email untuk SharePoint dapat terhubung ke FTP, POP3, IMAP, dan Server Microsoft Exchange untuk sinkronisasi email langsung dari dalam aplikasi SharePoint. Selain itu, aplikasi ini memungkinkan untuk terhubung dengan server FTP dan mengirim file dari pustaka dokumen SharePoint.

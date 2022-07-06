@@ -18,7 +18,7 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal Depolama Dosyaları (PST) and Offline Depolama Dosyaları (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Aspose.Email for .NET, geliştiricilerin MSG, EML, EMLX, PST, OST, MBOX ve MHT gibi çeşitli Microsoft Outlook ve Mozilla Thunderbird formatlarıyla çalışmasını kolaylaştırır ve ayrıca mesaj depolama dosyalarını yönetme yeteneği sağlar. Kişisel gibi Depolama Dosyaları (PST) ve Çevrimdışı Depolama Dosyaları (OST) ve MBOX. Geliştiriciler, POP3, IMAP ve SMTP gibi bir dizi popüler protokol aracılığıyla e-posta göndermek ve almak için API'yi kullanabilir veya ekli e-postalar göndermek ve almak ve sunucudan mesajları listelemek veya kaldırmak için WebDav ve Exchange Web Hizmetleri aracılığıyla Microsoft Exchange Server'a bağlanabilir.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     PST ve OST dosyaları oluşturun
     </li>
     <li>
      Mesajları PST'de Yönetin
@@ -99,7 +99,7 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Düz ve HTML e-postaları oluşturun
     </li>
     <li>
      Çeşitli Formatları Yükle
@@ -126,7 +126,7 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
      Başlıkları Yönet
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Thunderbird Mail Storage'a Okuma ve Yazma
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
     </li>
     <li>
      <b>
-      Others:
+      Diğerleri:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     HTML gövdesi ve ekleri ile e-posta gönder
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     Adres mektup birleştirme ve toplu posta gönderme işlevi
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     POP3 ve IMAP posta sunucularından mesajları listeleyin ve indirin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     Microsoft Exchange Sunucuları aracılığıyla mesajları listeleyin, indirin ve gönderin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     iCalendar'ı kullanarak görevler oluşturun ve güncelleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     İletiyi yönetin Kişisel ve Çevrimdışı depolama dosyaları
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     PST'ye mesajlar, kişiler, görevler, notlar, takvim öğeleri ve dağıtım listeleri ekleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     PST'den mesajları, kişileri ve takvim öğelerini çıkarın
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     E-postalara gömülü nesneler ve ekler ekleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     Metin ve HTML posta gövdesini dahil et
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: C# ASP.NET VB.NET Outlook Thunderbird ve diğer dosya biçimleri i�
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     Özyinelemeli IMAP ve POP3 işlemleri için çoklu bağlantı desteği
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive E-postalar via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Aspose.Email for .NET, ekler, HTML biçimlendirmesi ve resimler içeren karmaşık mesajlar oluşturmanıza ve SMTP protokolünü kullanarak e-posta göndermenize olanak tanır. Ayrıca, e-posta almanın yanı sıra posta kutusu boyutunu ve mesaj sayısını görüntüleme, tam mesajı veya yalnızca başlıkları alma, sunucudan mesajları silme vb. gibi işlemleri gerçekleştirmek için kullanıcı adı ve parola veya APOP kimlik doğrulaması ile POP3 sunucularında oturum açmanıza olanak tanır. .
     </p>
     <p>
      API ayrıca kimlik doğrulama, oluşturma, silme, seçme, klasörleri sorgulama, mesajları alma ve kaydetme, mesaj bayraklarını değiştirme ve temel IMAP komutlarını içeren IMAP protokolü özelliklerini de destekler.
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Microsoft Exchange Sunucusuna Bağlan
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. E-postalar and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     Aspose.Email for .NET, birkaç işlemi gerçekleştirmek için bir Microsoft Exchange Sunucusuna bağlanma yeteneği sağlar. Herhangi bir klasördeki mesajları listeleyebilir, mesajları indirebilir ve desteklenen mesaj formatlarında kaydedebilirsiniz. E-postalar ve toplantı davetleri, Exchange Server'ın WebDav ve Exchange Web Hizmetleri kullanılarak da gönderilebilir. API ayrıca Birleşik Mesajlaşma işlemlerini ve belirtilen kimlik bilgilerine dayalı olarak Exchange Sunucusu ayarlarının otomatik olarak keşfedilmesini destekler.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Eksiksiz Yineleme Modeli Çözümü
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Aspose.Email for .NET, en karmaşık tekrarlama modelleri için bile oluşum tarihlerini ve saatlerini kolayca ve güvenilir bir şekilde hesaplamanıza olanak tanır. iCalendar RFC (2445) formatında dinamik olarak yineleme kalıpları üretebilir ve tüketebilirsiniz. Yıllık, aylık, haftalık, günlük, saatlik, dakikalık ve ikinci yineleme kalıplarını kullanmayı seçebilir ve yineleme kalıplarını pencerelerinizde, web veya mobil uygulamalarınızda temsil edebilirsiniz.
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message Depolama Dosyaları
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     E-posta kitaplığı, tam klasör hiyerarşisini almak ve konu, gönderen, alıcı gibi mesaja özel ayrıntıları okumak veya ekli mesajları çıkarmak için bir akış nesnesinden veya disk konumundan Microsoft Outlook PST ve OST dosyalarını yükleyebilir.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      Microsoft Office Otomasyonu – Gerekli Değil
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     Aspose.Email for .NET, e-posta işleme ile çalışmak için makineye Microsoft Office veya Microsoft Outlook'un yüklenmesini gerektirmeyen yönetilen kod kullanılarak oluşturulmuştur. Dinamik mesaj dosyası manipülasyonunun yanı sıra e-posta gönderip almak için mükemmel bir Microsoft Outlook otomasyon alternatifidir.
     </p>
    </div>
   </div>

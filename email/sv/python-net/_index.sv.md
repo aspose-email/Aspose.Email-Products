@@ -14,11 +14,11 @@ description: Aspose.Email för Python via .NET är ett e-postprogrammerings-API 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time and effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
+ Aspose.Email för Python via .NET är ett flexibelt men ändå kraftfullt API för e-postprogrammering, som sparar utvecklarens tid och ansträngning för att skapa, manipulera eller konvertera vanliga e-postmeddelandeformat utan att oroa sig för komplexiteten i den underliggande formatimplementeringen.
 </p>
 
 <p>
- The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP and SMTP.
+ Python Email API kan användas för grundläggande e-posthanteringsfunktioner som redigering av meddelandeinnehåll och manipulering av bilagor. Dessutom utför biblioteket även hantering av meddelandelagringsdokument, skicka och ta emot e-post via olika protokoll inklusive POP3, IMAP och SMTP.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email för Python via .NET är ett e-postprogrammerings-API 
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Skapa PST- och OST-filer
     </li>
     <li>
      Hantera meddelanden i PST
@@ -99,7 +99,7 @@ description: Aspose.Email för Python via .NET är ett e-postprogrammerings-API 
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Skapa vanliga e-postmeddelanden och HTML-e-postmeddelanden
     </li>
     <li>
      Ladda olika format
@@ -126,7 +126,7 @@ description: Aspose.Email för Python via .NET är ett e-postprogrammerings-API 
      Hantera rubriker
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Läs och skriv till Thunderbird Mail Storage
     </li>
    </ul>
    <header>
@@ -296,28 +296,28 @@ description: Aspose.Email för Python via .NET är ett e-postprogrammerings-API 
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Email file format conversion and rendering
+     Konvertering och rendering av e-postfilformat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send and receive emails with attachments
+     Skicka och ta emot e-postmeddelanden med bilagor
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Download messages from POP3 and IMAP mail servers
+     Ladda ner meddelanden från POP3- och IMAP-e-postservrar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     Skapa och uppdatera uppgifter med iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -331,7 +331,7 @@ description: Aspose.Email för Python via .NET är ett e-postprogrammerings-API 
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate email attachments and linked resources
+     Manipulera e-postbilagor och länkade resurser
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,7 +345,7 @@ description: Aspose.Email för Python via .NET är ett e-postprogrammerings-API 
     <em class="fa fa-expeditedssl ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for SSL and TLS
+     Stöd för SSL och TLS
     </p>
    </div>
    <div class="col-lg-4">
@@ -387,15 +387,15 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume Recurrences with iCalendar API
+     Producera och konsumera upprepningar med iCalendar API
     </h2>
     <p>
-     Aspose.Email for Python via .NET provides the functionality to generate and save Outlook Calendar objects in MSG and ICS formats. Not only you can create and save iCalendar objects, but also retrieve, update, send and cancel meeting requests. Moreover, using the intuitive object model it is easy to dynamically produce and consume recurrence patterns in iCalendar RFC 2445 format.
+     Aspose.Email för Python via .NET tillhandahåller funktionen för att generera och spara Outlook Calendar-objekt i MSG- och ICS-format. Du kan inte bara skapa och spara iCalendar-objekt, utan även hämta, uppdatera, skicka och avbryta mötesförfrågningar. Med den intuitiva objektmodellen är det dessutom enkelt att dynamiskt producera och konsumera återkommande mönster i iCalendar RFC 2445-format.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Send and Receive E-postmeddelanden via SMTP, POP3 and IMAP Mail Servers
+     Skicka och motta E-postmeddelanden via SMTP, POP3 and IMAP Mail Servers
     </h2>
     <p>
      Aspose.Email för Python via .NET API ger dig möjlighet att skapa, skicka och ta emot e-post med SMTP-, POP3- och IMAP-protokoll. Det låter dig logga in på POP3-servrar med användarnamn och lösenord eller APOP-autentisering för att utföra e-postoperationer som: se brevlådans storlek och antalet meddelanden, hämta hela meddelandet eller dess rubrik, radera meddelanden från servern samt grundläggande POP3-kommandon.
@@ -406,10 +406,10 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create or Manipulate PST, OST and MBOX Files
+     Skapa eller manipulera PST-, OST- och MBOX-filer
     </h2>
     <p>
-     Aspose.Email for Python via .NET allows you to manage Outlook storage files such as PST and OST. You can perform a number of operations on existing storage files as well as create new PST files from scratch. Possible operations include folder listing, message listing, messages extraction and contacts in MSG format.
+     Aspose.Email för Python via .NET låter dig hantera Outlook-lagringsfiler som PST och OST. Du kan utföra ett antal operationer på befintliga lagringsfiler samt skapa nya PST-filer från grunden. Möjliga operationer inkluderar mapplistning, meddelandelistning, meddelandeextraktion och kontakter i MSG-format.
     </p>
     <p>
      Tillsammans med Outlook-lagringsfiler stöder Aspose.Email för Python via .NET även Mbox-filformat. Du kan använda Aspose.Email för Python via .NET för att ladda befintliga Mbox-filer och extrahera meddelandeinformation.

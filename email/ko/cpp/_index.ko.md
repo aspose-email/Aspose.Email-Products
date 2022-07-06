@@ -14,11 +14,11 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C++는 개발자가 MSG, EML, EMLX 및 MHT와 같은 다양한 형식으로 작업하기 쉽게 해주는 이메일 프로그래밍 API입니다. 응용 프로그램 개발자는 Office Automation 또는 Microsoft Outlook 응용 프로그램에 의존하지 않고 기본 C++ 응용 프로그램 내에서 가장 일반적으로 사용되는 메시지 형식을 생성, 변환 또는 조작할 수 있습니다.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email for C++는 콘텐츠 편집, 수신자 조작, MAPI 속성 및 첨부 파일 추출 및 조작과 같은 메일 관리 기능과 PST 및 OST를 포함한 메시지 저장 파일 관리와 같은 고급 기능에 가장 적합합니다. 현재 API는 이메일 전송을 위한 SMTP, POP3 및 IMAP 통신 프로토콜을 지원합니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     PST 및 OST 파일 만들기
     </li>
     <li>
      PST의 메시지 관리
@@ -84,7 +84,7 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     일반 및 HTML 이메일 생성
     </li>
     <li>
      다양한 형식 로드
@@ -232,7 +232,7 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    이메일 파일 및 메시지 아카이브 처리 API 기능
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     파일 또는 스트림에서 메시지 로드 및 저장
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     iCalendar 공개 API를 사용하여 작업 생성 및 업데이트
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     스토리지 파일 생성, 조작 및 추출
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     텍스트 및 HTML 기반 메일 본문 포함
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     SMTP, POP3 및 IMAP 통신 프로토콜 지원
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: Microsoft Outlook 이메일 PST OST 파일을 조작하고 변환�
      C++ 라이브러리를 통해 MIME 메시지 관리
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email for C++는 EML 및 EMLX를 포함한 MIME 형식을 광범위하게 지원합니다. 이 기능을 통해 개발자는 MIME 메시지에서 콘텐츠를 생성, 설정 및 추출하고, 첨부 파일 및 포함된 개체를 관리하고, EML 및 EMLX 파일을 MSG, HTML 및 MHTML 파일 형식으로 변환할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     Outlook 메시지 파일 형식 관리
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email for C++는 Outlook 메시지를 처음부터 생성할 수 있을 뿐만 아니라 기존 이메일 파일을 조작하는 기능도 제공합니다. 개발자는 연락처, 작업, 메모, 일정 항목 및 배포 목록을 포함한 모든 유형의 Outlook 항목을 로드하고 저장할 수 있습니다. 또한 C++ 이메일 라이브러리를 사용하면 공개 API를 통해 모든 Outlook 개체를 구문 분석하고 조작할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar 반복 패턴
+     iCalendar 생성 및 소비 반복 패턴
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     이 라이브러리를 통해 개발자는 직관적인 개체 모델을 사용하여 iCalendar(RFC 2445) 형식의 반복 패턴을 프로그래밍 방식으로 생성하고 사용할 수 있습니다. 당사의 전문 지식을 통해 iCalendar 인터페이스를 사용하기 쉬우면서도 반복 생산 및 소비를 완벽하게 제어할 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     PST 및 OST 파일에서 항목 생성, 검사 및 추출
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     C++용 Aspose.Email을 사용하면 PST 및 OST와 같은 Outlook 저장 형식을 관리할 수 있습니다. API는 기존 저장 형식에 대해 다양한 작업을 수행할 뿐만 아니라 처음부터 새로운 PST 문서를 생성합니다. 폴더 및 메시지 나열, 메시지, 연락처 및 폴더 추가 또는 추출과 같은 다른 가능한 작업을 수행할 수 있습니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      PST 생성 및 받은 편지함에 메시지 추가 - C++
      </h3>
      <pre><code class="cpp">// 처음부터 PST 파일 생성       
 

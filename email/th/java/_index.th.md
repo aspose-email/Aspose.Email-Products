@@ -18,7 +18,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal ไฟล์จัดเก็บ PST and Offline ไฟล์จัดเก็บ OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Aspose.Email สำหรับ Java สามารถสร้างอีเมล Outlook แยกวิเคราะห์อีเมล หรือแปลงรูปแบบข้อความ เช่น MSG, EML, MBOX, PST, OST และ MHT จากภายในแอปพลิเคชัน Java API สามารถจัดการเนื้อหาข้อความ ไฟล์แนบ ส่วนหัว และคุณสมบัติของ MAPI ตลอดจนความสามารถในการส่งและรับอีเมลผ่านโปรโตคอลยอดนิยมจำนวนหนึ่ง นอกจากนี้ยังให้ความสามารถในการจัดการเอกสารการจัดเก็บข้อความเช่น Personal ไฟล์จัดเก็บ PST และออฟไลน์ ไฟล์จัดเก็บ OST. คุณสามารถแสดงรายการอีเมล ดึงอีเมล เพิ่มหรือลบข้อความออกจากไฟล์ที่เก็บข้อมูลตามข้อกำหนดของแอปพลิเคชันของคุณ ไลบรารี Java Email อนุญาตให้ทำงานกับไฟล์ผู้ติดต่อ Outlook (VCF)
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     สร้างและแตกไฟล์ PST และ OST
     </li>
     <li>
      จัดการข้อความใน PST
@@ -99,7 +99,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     สร้างอีเมลธรรมดาและ HTML
     </li>
     <li>
      โหลดรูปแบบวาไรตี้
@@ -126,7 +126,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
      จัดการส่วนหัว
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     อ่านและเขียนไปยัง Thunderbird Mail Storage
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     สร้างและจัดการข้อความผ่าน API
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     เพิ่ม แยก และจัดการไฟล์แนบ
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     สำรวจและอ่านไฟล์แนบอีเมลที่ซ้อนกัน
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     รองรับการเชื่อมต่อหลายจุดสำหรับการสำรองข้อมูล IMAP และการกู้คืนการดำเนินการ
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     สร้างไฟล์ ICF และ VCF v3.0
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     สร้างและจัดการ In-Place Archive ที่ Office 365
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.Email Java Mail, MIME และ iCalander SDK สำหร�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     ระบุวันที่สร้างและแก้ไขสำหรับ ICS
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     การส่งอีเมลผ่าน SMTP, POP3 และ IMAP
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     API ช่วยให้สามารถสร้างและจัดรูปแบบข้อความ แนบไฟล์และรูปภาพ รวมทั้งส่งไปยังที่อยู่อีเมลผ่านโปรโตคอล SMTP สิ่งอำนวยความสะดวกอื่นที่ API มีให้คือการลงชื่อเข้าใช้เซิร์ฟเวอร์ POP3 โดยใช้ชื่อผู้ใช้และรหัสผ่าน ด้วยคุณลักษณะการตรวจสอบสิทธิ์ APOP ของ API ทำให้ง่ายต่อการรับข้อความทั้งหมดหรือเพียงแค่ส่วนหัว ดูขนาดกล่องจดหมายและจำนวนข้อความ ลบข้อความจากเซิร์ฟเวอร์ และอื่นๆ อีกมากมาย ฟีเจอร์โปรโตคอล IMAP ที่รองรับ API บางส่วน เช่น การตรวจสอบสิทธิ์ สร้าง เลือก ลบ ค้นหาโฟลเดอร์ รับและบันทึกข้อความ และเปลี่ยนการตั้งค่าสถานะข้อความ
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      การจัดการวัตถุในปฏิทิน
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar API ช่วยสร้าง แยก และบันทึกวัตถุปฏิทิน Outlook ในรูปแบบต่างๆ ให้ความสามารถในการบันทึกเป็นเอกสาร MSG หรือ ICS รวมทั้งเรียกข้อมูล ส่ง อัปเดต และยกเลิกการประชุมผ่านโปรโตคอลการส่งข้อความ
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message ไฟล์จัดเก็บ
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Aspose.Email สำหรับ Java API ช่วยให้จัดการรูปแบบที่เก็บข้อมูล Outlook คุณสามารถโหลดไฟล์ PST และ OST จากดิสก์หรือสตรีม รับข้อมูลโฟลเดอร์และโฟลเดอร์ย่อยจากที่เก็บข้อความ ดึงรายละเอียดเฉพาะข้อความ เช่น หัวเรื่อง ผู้ส่ง ผู้รับ และบันทึกข้อความไปยังดิสก์หรือสตรีม
     </p>
     <p>
      นอกเหนือจากการแยกวิเคราะห์ PST ที่มีอยู่แล้ว ไลบรารียังมีวิธีการสร้างไฟล์ PST ตั้งแต่เริ่มต้น และเพิ่มข้อความไปยังโฟลเดอร์ใดๆ ของไฟล์นั้น
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      สร้าง PST ตั้งแต่เริ่มต้นและเพิ่มข้อความจากไฟล์ - Java
      </h3>
      <pre><code class="java">// สร้างอินสแตนซ์ของ PersonalStorage
 

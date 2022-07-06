@@ -18,7 +18,7 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal 저장 파일 (PST) and Offline 저장 파일 (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ .NET용 Aspose.Email을 사용하면 개발자가 MSG, EML, EMLX, PST, OST, MBOX 및 MHT와 같은 다양한 Microsoft Outlook 및 Mozilla Thunderbird 형식으로 작업하는 것이 더 쉬워지고 메시지 저장 파일을 관리하는 기능도 제공됩니다. 개인과 같은 저장 파일 (PST) 및 오프라인 저장 파일 (OST)와 MBOX. 개발자는 API를 사용하여 POP3, IMAP 및 SMTP와 같은 널리 사용되는 여러 프로토콜을 통해 이메일을 주고받거나 WebDav 및 Exchange 웹 서비스를 통해 Microsoft Exchange Server에 연결하여 첨부 파일이 있는 이메일을 보내고 받고 서버에서 메시지를 나열하거나 제거할 수 있습니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     PST 및 OST 파일 만들기
     </li>
     <li>
      PST의 메시지 관리
@@ -99,7 +99,7 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     일반 및 HTML 이메일 생성
     </li>
     <li>
      다양한 형식 로드
@@ -126,7 +126,7 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
      헤더 관리
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Thunderbird 메일 저장소 읽기 및 쓰기
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
     </li>
     <li>
      <b>
-      Others:
+      기타:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     HTML 본문 및 첨부 파일이 포함된 이메일 보내기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     편지 병합 및 대량 메일 보내기 기능
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     POP3 및 IMAP 메일 서버에서 메시지 나열 및 다운로드
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     Microsoft Exchange Server를 통해 메시지 나열, 다운로드 및 보내기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     iCalendar를 사용하여 작업 생성 및 업데이트
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     메시지 개인 및 오프라인 저장소 파일 조작
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     메시지, 연락처, 작업, 메모, 일정 항목 및 메일 그룹을 PST에 추가
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     PST에서 메시지, 연락처 및 일정 항목 추출
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     이메일에 포함된 개체 및 첨부 파일 추가
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     텍스트 및 HTML 메일 본문 포함
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: Outlook Thunderbird 및 기타 파일 형식을 위한 C# ASP.NET V
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     재귀적 IMAP 및 POP3 작업을 위한 다중 연결 지원
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive 이메일 via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     .NET용 Aspose.Email을 사용하면 첨부 파일, HTML 형식 및 이미지가 포함된 복잡한 메시지를 만들고 SMTP 프로토콜을 사용하여 이메일을 보낼 수 있습니다. 또한 사용자 이름과 암호 또는 APOP 인증으로 POP3 서버에 로그온하여 이메일 수신, 편지함 크기 및 메시지 수 보기, 전체 메시지 검색 또는 헤더만 검색, 서버에서 메시지 삭제 등과 같은 작업을 수행할 수 있습니다. .
     </p>
     <p>
      API는 또한 인증, 생성, 삭제, 선택, 폴더 쿼리, 메시지 가져오기 및 저장, 메시지 플래그 변경 및 기본 IMAP 명령을 포함한 IMAP 프로토콜 기능을 지원합니다.
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Microsoft Exchange 서버에 연결
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. 이메일 and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     .NET용 Aspose.Email은 여러 작업을 수행하기 위해 Microsoft Exchange Server에 연결할 수 있는 기능을 제공합니다. 모든 폴더의 메시지를 나열하고 메시지를 다운로드하고 지원되는 메시지 형식으로 저장할 수 있습니다. 이메일 Exchange Server의 WebDav 및 Exchange 웹 서비스를 사용하여 회의 초대장을 보낼 수도 있습니다. API는 또한 통합 메시징 작업과 지정된 자격 증명을 기반으로 하는 Exchange Server 설정의 자동 검색을 지원합니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      완벽한 반복 패턴 솔루션
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     .NET용 Aspose.Email을 사용하면 가장 복잡한 반복 패턴의 발생 날짜와 시간을 쉽고 안정적으로 계산할 수 있습니다. iCalendar RFC(2445) 형식으로 반복 패턴을 동적으로 생성하고 사용할 수 있습니다. 연도별, 월별, 주별, 일별, 시간별, 분별 및 초별 반복 패턴을 선택하여 사용할 수 있으며 창, 웹 또는 모바일 애플리케이션에서 반복 패턴을 나타낼 수 있습니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message 저장 파일
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     이메일 라이브러리는 전체 폴더 계층 구조를 검색하고 제목, 보낸 사람, 받는 사람과 같은 메시지별 세부 정보를 읽거나 첨부 파일이 있는 메시지를 추출하기 위해 스트림 개체 또는 디스크 위치에서 Microsoft Outlook PST 및 OST 파일을 로드할 수 있습니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      Microsoft Office 자동화 – 필요하지 않음
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     .NET용 Aspose.Email은 전자 메일 처리 작업을 위해 컴퓨터에 Microsoft Office 또는 Microsoft Outlook을 설치할 필요가 없는 관리 코드를 사용하여 구축되었습니다. 동적 메시지 파일 조작과 이메일 송수신을 위한 완벽한 Microsoft Outlook 자동화 대안입니다.
     </p>
    </div>
   </div>

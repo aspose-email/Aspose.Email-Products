@@ -202,14 +202,14 @@ description: تطبيق SharePoint Email لتصدير EML إلى MSG مع مرف
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     التحويل البيني لـ EML و MSG من داخل مكتبة مستندات SharePoint
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     مزامنة الملفات مع خادم FTP و DropBox
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: تطبيق SharePoint Email لتصدير EML إلى MSG مع مرف
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">مزامنة الملفات مع DropBox</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     التحويل البيني لتنسيقات MSG و EML
     </h2>
     <p>
      Aspose.Email for SharePoint يدعم أكثر تنسيقات الرسائل شيوعًا. يوفر تطبيق تحويل البريد الإلكتروني أيضًا القدرة على التحويل البيني لملفات الرسائل المدعومة دون فقد أي معلومات.
@@ -238,7 +238,7 @@ description: تطبيق SharePoint Email لتصدير EML إلى MSG مع مرف
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     مزامنة رسائل البريد الإلكتروني والملفات مباشرة من SharePoint
     </h2>
     <p>
      Aspose.Email الخاص بـ SharePoint يمكنه الاتصال بخوادم FTP و POP3 و IMAP و Microsoft Exchange لمزامنة البريد الإلكتروني مباشرةً من داخل تطبيقات SharePoint. علاوة على ذلك ، يسمح التطبيق بالاتصال بخادم FTP وإرسال الملفات من مكتبة مستندات SharePoint.

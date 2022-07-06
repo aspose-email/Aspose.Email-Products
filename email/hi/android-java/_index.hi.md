@@ -232,14 +232,14 @@ description: मेल लाइब्रेरी मोबाइल ऐप्�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     आयात और निर्यात RFC822 अनुरूप संदेश प्रारूप
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     उत्पाद एपीआई के माध्यम से विभिन्न संदेश प्रकारों को पढ़ें और उनमें हेरफेर करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: मेल लाइब्रेरी मोबाइल ऐप्�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     iCalendar (RFC 2445) में पुनरावर्तन पैटर्न का निर्माण और उपभोग करें
     </p>
    </div>
    <div class="col-lg-4">

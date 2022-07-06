@@ -232,14 +232,14 @@ description: 郵件庫允許在移動應用程序中訪問、閱讀和操作 Out
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     導入和導出符合 RFC822 的消息格式
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     通過產品 API 讀取和操作不同的消息類型
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: 郵件庫允許在移動應用程序中訪問、閱讀和操作 Out
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     在 iCalendar (RFC 2445) 中生成和使用重複模式
     </p>
    </div>
    <div class="col-lg-4">

@@ -202,14 +202,14 @@ description: EML'yi e-posta Ekleriyle birlikte MSG'ye dışa aktarmak için Shar
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     SharePoint belge kitaplığı içinden EML ve MSG arasında dönüşüm yapın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Dosyaları FTP sunucusu ve DropBox ile senkronize edin
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: EML'yi e-posta Ekleriyle birlikte MSG'ye dışa aktarmak için Shar
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Dosyaları DropBox ile senkronize edin</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     MSG ve EML Formatlarının Ara Dönüşümü
     </h2>
     <p>
      Aspose.Email for SharePoint en popüler mesaj formatlarını destekler. E-posta Dönüştürme Uygulaması, desteklenen mesaj dosyalarını herhangi bir bilgi kaybetmeden kendi aralarında dönüştürme yeteneği de sağlar.
@@ -238,7 +238,7 @@ description: EML'yi e-posta Ekleriyle birlikte MSG'ye dışa aktarmak için Shar
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     E-postaları ve Dosyaları Doğrudan SharePoint'ten Eşitleyin
     </h2>
     <p>
      Aspose.Email for SharePoint, e-posta senkronizasyonu için doğrudan SharePoint uygulamalarının içinden FTP, POP3, IMAP ve Microsoft Exchange Sunucularına bağlanabilir. Ayrıca, uygulama bir FTP sunucusuna bağlanmaya ve SharePoint belge kitaplığından dosya göndermeye izin verir.

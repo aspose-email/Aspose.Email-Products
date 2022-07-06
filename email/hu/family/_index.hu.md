@@ -11,27 +11,27 @@ description: Hozzon létre olvasott, manipulálható Outlook és Thunderbird fá
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Az Aspose.Email High Code API-k közé tartozik" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/hu/hu/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/hu/net/" >}}
 Célozza meg a .NET-keretrendszert, a .NET Core-t és a Xamarin-platformot a Windows, iOS, macOS és Android rendszerekhez készült alkalmazások fejlesztéséhez.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/hu/hu/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/hu/java/" >}}
 Natív Java API-k asztali számítógéphez, webhez vagy bármilyen Java SE vagy EE alapú alkalmazáshoz.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/hu/hu/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/hu/cpp/" >}}
 E-mail üzenetek létrehozása, kezelése vagy konvertálása C++ alkalmazásokban.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/hu/hu/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/hu/android-java/" >}}
 Manipulálja az Outlook e-mail üzeneteit Android mobilalkalmazásaiban.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/hu/hu/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/hu/sharepoint/" >}}
 E-mailek konvertálása és fájlok szinkronizálása FTP-re vagy Dropboxra a SharePointban.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/hu/hu/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/hu/python-net/" >}}
 Python könyvtár e-mail üzenetek létrehozásához, kezeléséhez, konvertálásához, küldéséhez vagy fogadásához.
 {{< /blocks/products/pf/product >}}
 

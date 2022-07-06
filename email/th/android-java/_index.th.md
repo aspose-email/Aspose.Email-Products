@@ -232,14 +232,14 @@ description: ไลบรารีเมลอนุญาตให้เข้�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     นำเข้าและส่งออกรูปแบบข้อความที่สอดคล้องกับ RFC822
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     อ่านและจัดการข้อความประเภทต่างๆ ผ่านผลิตภัณฑ์ API
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: ไลบรารีเมลอนุญาตให้เข้�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     สร้างและใช้รูปแบบการเกิดซ้ำใน iCalendar (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

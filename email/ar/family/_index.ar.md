@@ -11,27 +11,27 @@ description: إنشاء قراءة والتلاعب في ملفات Outlook و T
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email البريد الإلكتروني عالية كود API تشمل" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/ar/ar/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/ar/net/" >}}
 استهدف .NET Framework و .NET Core و Xamarin الأساسي لتطوير تطبيقات لأنظمة Windows و iOS و macOS و Android.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/ar/ar/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/ar/java/" >}}
 واجهات برمجة تطبيقات Java الأصلية لسطح المكتب أو الويب أو أي نوع من التطبيقات القائمة على Java SE أو EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/ar/ar/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/ar/cpp/" >}}
 إنشاء رسائل البريد الإلكتروني أو معالجتها أو تحويلها في تطبيقات C++.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/ar/ar/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/ar/android-java/" >}}
 تعامل مع رسائل البريد الإلكتروني في Outlook في تطبيقات Android للأجهزة المحمولة.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/ar/ar/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/ar/sharepoint/" >}}
 تحويل رسائل البريد الإلكتروني ومزامنة الملفات إلى FTP أو Dropbox في SharePoint.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/ar/ar/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/ar/python-net/" >}}
 مكتبة Python لإنشاء رسائل البريد الإلكتروني أو معالجتها أو تحويلها أو إرسالها أو استقبالها.
 {{< /blocks/products/pf/product >}}
 

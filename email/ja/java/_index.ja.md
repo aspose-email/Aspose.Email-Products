@@ -18,7 +18,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal ストレージファイル PST and Offline ストレージファイル OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Aspose.Email for Javaは、Javaアプリケーション内から、Outlook電子メールの作成、電子メールの解析、またはMSG、EML、MBOX、PST、OST、MHTなどのメッセージ形式の変換を行うことができます。 APIは、メッセージの内容、添付ファイル、ヘッダー、MAPIプロパティを操作できるだけでなく、多くの一般的なプロトコルを介して電子メールを送受信する機能も備えています。 また、Personalなどのメッセージストレージドキュメントを管理する機能も提供します ストレージファイル PSTおよびオフライン ストレージファイル OST. アプリケーションの仕様に従って、電子メールの一覧表示、電子メールの抽出、ストレージファイルへのメッセージの追加または削除を行うことができます。 Java電子メールライブラリを使用すると、Outlookの連絡先ファイル（VCF）を操作できます。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     PSTおよびOSTファイルを作成および抽出します
     </li>
     <li>
      PSTでメッセージを管理する
@@ -99,7 +99,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     プレーンメールとHTMLメールを作成する
     </li>
     <li>
      さまざまなフォーマットをロードする
@@ -126,7 +126,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
      ヘッダーの管理
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Thunderbirdメールストレージの読み取りと書き込み
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     APIを介してメッセージを作成および操作する
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     添付ファイルの追加、抽出、操作
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     ネストされた電子メールの添付ファイルをトラバースして読み取る
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     IMAPバックアップおよび復元操作のマルチ接続サポート
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     ICFおよびVCFv3.0ファイルを作成する
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     Office365でインプレースアーカイブを作成および管理する
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.EmailJava。 ThunderbirdおよびOutlookの電子メール�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     ICSの作成日と変更日を指定します
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     SMTP、POP3、IMAPを介したメール
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     APIを使用すると、メッセージの作成とフォーマット、ファイルと画像の添付、SMTPプロトコルを介した電子メールアドレスへの送信が可能になります。 APIが提供するもう1つの機能は、ユーザー名とパスワードを使用してPOP3サーバーにログインすることです。 APIのAPOP認証機能を使用すると、メッセージ全体またはヘッダーのみを取得したり、メールボックスのサイズとメッセージ数を表示したり、サーバーからメッセージを削除したりすることが簡単にできます。 認証、作成、選択、削除、フォルダのクエリ、メッセージの取得と保存、メッセージフラグの変更など、APIでサポートされているIMAPプロトコル機能はほとんどありません。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      カレンダーオブジェクト管理
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar APIを使用すると、Outlookカレンダーオブジェクトをさまざまな形式で作成、抽出、および保存できます。 MSGまたはICSドキュメントとして保存する機能と、メッセージ送信プロトコルを介して会議出席依頼を取得、送信、更新、キャンセルする機能を提供します。
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message ストレージファイル
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Aspose.Email for Java APIを使用すると、Outlookのストレージ形式を管理できます。 ディスクまたはストリームからPSTファイルとOSTファイルをロードし、メッセージアーカイブからフォルダーとサブフォルダーの情報を取得し、件名、送信者、受信者などのメッセージ固有の詳細を取得して、メッセージをディスクまたはストリームに保存できます。
     </p>
     <p>
      ライブラリは、既存のPSTを解析するだけでなく、PSTファイルを最初から作成し、その任意のフォルダーにメッセージを追加する手段も提供します。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      PSTを最初から作成し、ファイルからメッセージを追加します-Java
      </h3>
      <pre><code class="java">//PersonalStorageのインスタンスを作成します
 

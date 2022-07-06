@@ -18,7 +18,7 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal Tệp lưu trữ (PST) and Offline Tệp lưu trữ (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Aspose.Email for .NET giúp các nhà phát triển làm việc dễ dàng hơn với một số định dạng Microsoft Outlook và Mozilla Thunderbird như MSG, EML, EMLX, PST, OST, MBOX và MHT cũng như cung cấp khả năng quản lý các tệp lưu trữ tin nhắn chẳng hạn như Cá nhân Tệp lưu trữ (PST) và Ngoại tuyến Tệp lưu trữ (OST) và MBOX. Các nhà phát triển có thể sử dụng API để gửi và nhận email qua một số giao thức phổ biến như POP3, IMAP và SMTP hoặc kết nối với Microsoft Exchange Server thông qua WebDav và Exchange Web Services để gửi và nhận email có tệp đính kèm và liệt kê hoặc xóa thư khỏi máy chủ.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Tạo tệp PST và OST
     </li>
     <li>
      Quản lý tin nhắn trong PST
@@ -99,7 +99,7 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Tạo email thuần túy và HTML
     </li>
     <li>
      Tải nhiều loại định dạng
@@ -126,7 +126,7 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
      Quản lý tiêu đề
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Đọc và ghi vào bộ nhớ thư Thunderbird
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
     </li>
     <li>
      <b>
-      Others:
+      Khác:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     Gửi email với nội dung HTML và tệp đính kèm
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     Kết hợp thư và chức năng gửi thư hàng loạt
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     Liệt kê và tải xuống thư từ máy chủ thư POP3 và IMAP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     Liệt kê, tải xuống và gửi tin nhắn qua Máy chủ Microsoft Exchange
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     Tạo và cập nhật công việc bằng iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     Thao tác tin nhắn với tệp lưu trữ Cá nhân và Ngoại tuyến
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     Thêm tin nhắn, danh bạ, công việc, ghi chú, mục lịch và danh sách phân phối vào PST
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     Trích xuất tin nhắn, danh bạ và các mục lịch từ PST
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     Thêm các đối tượng nhúng và tệp đính kèm vào email
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     Bao gồm văn bản và nội dung thư HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: C# ASP.NET VB.NET Thư viện xử lý email cho Outlook Thunderbir
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     Hỗ trợ đa kết nối cho các hoạt động IMAP và POP3 đệ quy
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive Email via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Aspose.Email for .NET cho phép bạn tạo các thư phức tạp có tệp đính kèm, định dạng HTML và hình ảnh, đồng thời gửi email bằng giao thức SMTP. Nó cũng cho phép bạn đăng nhập vào máy chủ POP3 bằng tên người dùng và mật khẩu hoặc xác thực APOP để thực hiện các hoạt động như nhận email cũng như xem kích thước hộp thư và số lượng thư, truy xuất toàn bộ thư hoặc chỉ tiêu đề, xóa thư khỏi máy chủ, v.v. .
     </p>
     <p>
      API cũng hỗ trợ các tính năng của giao thức IMAP bao gồm xác thực, tạo, xóa, chọn, truy vấn thư mục, lấy và lưu tin nhắn, thay đổi cờ tin nhắn và các lệnh IMAP cơ bản.
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Kết nối với Microsoft Exchange Server
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. Email and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     Aspose.Email for .NET cung cấp khả năng kết nối với Máy chủ Microsoft Exchange để thực hiện một số hoạt động. Bạn có thể liệt kê các tin nhắn từ bất kỳ thư mục nào, tải xuống các tin nhắn và lưu chúng ở các định dạng tin nhắn được hỗ trợ. Email và lời mời họp cũng có thể được gửi bằng cách sử dụng Dịch vụ WebDav và Exchange của Máy chủ Exchange. API cũng hỗ trợ các hoạt động Nhắn tin Hợp nhất và tự động khám phá các cài đặt Máy chủ Exchange dựa trên thông tin xác thực được chỉ định.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Giải pháp hoàn chỉnh mô hình lặp lại
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Aspose.Email for .NET cho phép bạn tính toán ngày và giờ xảy ra một cách dễ dàng và đáng tin cậy cho ngay cả các mẫu lặp lại phức tạp nhất. Bạn có thể tự động tạo và sử dụng các mẫu lặp lại ở định dạng iCalendar RFC (2445). Bạn có thể chọn sử dụng các mẫu lặp lại hàng năm, hàng tháng, hàng tuần, hàng ngày, hàng giờ, hàng phút và hàng thứ hai, đồng thời có thể biểu thị các mẫu lặp lại trong cửa sổ, web hoặc ứng dụng di động của bạn.
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message Tệp lưu trữ
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     Thư viện email có thể tải các tệp Microsoft Outlook PST và OST từ đối tượng luồng hoặc vị trí đĩa để truy xuất hệ thống phân cấp thư mục đầy đủ và đọc chi tiết thư cụ thể như chủ đề, người gửi, người nhận hoặc trích xuất thư có tệp đính kèm.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      Tự động hóa Microsoft Office - Không cần thiết
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     Aspose.Email for .NET được xây dựng bằng cách sử dụng mã được quản lý không cần cài đặt Microsoft Office hoặc Microsoft Outlook trên máy để xử lý email. Đây là một giải pháp thay thế tự động hóa hoàn hảo của Microsoft Outlook để thao tác tệp tin động cũng như để gửi và nhận email.
     </p>
    </div>
   </div>

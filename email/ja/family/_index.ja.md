@@ -11,27 +11,27 @@ description: 任意のプラットフォームの関連ライブラリを使用�
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email HighCodeAPIには次のものが含まれます" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/ja/ja/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/ja/net/" >}}
 .NET Framework、.NET Core、およびXamarinプラットフォームをターゲットにして、Windows、iOS、macOS、およびAndroid用のアプリケーションを開発します。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/ja/ja/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/ja/java/" >}}
 デスクトップ、Web、またはJavaSEまたはEEに基づくあらゆる種類のアプリケーション用のネイティブJavaAPI。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/ja/ja/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/ja/cpp/" >}}
 C++アプリケーションで電子メールメッセージを作成、操作、または変換します。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/ja/ja/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/ja/android-java/" >}}
 AndroidモバイルアプリケーションでOutlookの電子メールメッセージを操作します。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/ja/ja/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/ja/sharepoint/" >}}
 メールを変換し、ファイルをSharePointのFTPまたはDropboxに同期します。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/ja/ja/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/ja/python-net/" >}}
 電子メールメッセージを作成、操作、変換、送信、または受信するためのPythonライブラリ。
 {{< /blocks/products/pf/product >}}
 

@@ -202,14 +202,14 @@ description: 전자 메일 첨부 파일과 함께 EML을 MSG로 내보내는 Sh
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     SharePoint 문서 라이브러리 내에서 EML 및 MSG 상호 변환
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     FTP 서버 및 DropBox와 파일 동기화
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: 전자 메일 첨부 파일과 함께 EML을 MSG로 내보내는 Sh
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">DropBox와 파일 동기화</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     MSG 및 EML 형식의 상호 변환
     </h2>
     <p>
      Aspose.Email for SharePoint는 가장 널리 사용되는 메시지 형식을 지원합니다. 이메일 변환 앱은 정보 손실 없이 지원되는 메시지 파일을 상호 변환하는 기능도 제공합니다.
@@ -238,7 +238,7 @@ description: 전자 메일 첨부 파일과 함께 EML을 MSG로 내보내는 Sh
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     SharePoint에서 직접 이메일 및 파일 동기화
     </h2>
     <p>
      Aspose.Email for SharePoint는 SharePoint 애플리케이션 내에서 바로 이메일 동기화를 위해 FTP, POP3, IMAP 및 Microsoft 교환 서버에 연결할 수 있습니다. 또한 이 앱을 사용하면 FTP 서버에 연결하고 SharePoint 문서 라이브러리에서 파일을 보낼 수 있습니다.

@@ -202,14 +202,14 @@ description: Εφαρμογή SharePoint Email για εξαγωγή EML σε MS
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     Μετατροπή EML και MSG από τη βιβλιοθήκη εγγράφων του SharePoint
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Συγχρονίστε αρχεία με διακομιστή FTP και DropBox
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: Εφαρμογή SharePoint Email για εξαγωγή EML σε MS
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Συγχρονισμός αρχείων με το DropBox</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     Διαμετατροπή μορφών MSG και EML
     </h2>
     <p>
      Το Aspose.Email για SharePoint υποστηρίζει τις πιο δημοφιλείς μορφές μηνυμάτων. Η εφαρμογή μετατροπής email παρέχει επίσης τη δυνατότητα αλληλομετατροπής των υποστηριζόμενων αρχείων μηνυμάτων χωρίς απώλεια πληροφοριών.
@@ -238,7 +238,7 @@ description: Εφαρμογή SharePoint Email για εξαγωγή EML σε MS
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     Συγχρονίστε email και αρχεία απευθείας από το SharePoint
     </h2>
     <p>
      Το Aspose.Email για SharePoint μπορεί να συνδεθεί με διακομιστές FTP, POP3, IMAP και Microsoft Exchange για συγχρονισμό email απευθείας από τις εφαρμογές του SharePoint. Επιπλέον, η εφαρμογή επιτρέπει τη σύνδεση με έναν διακομιστή FTP και την αποστολή αρχείων από τη βιβλιοθήκη εγγράφων του SharePoint.

@@ -11,27 +11,27 @@ description: 使用任何平台的相关库创建读取操作 Outlook 和 Thunde
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email 高代码 API 包括" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/zh/zh/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/zh/net/" >}}
 以 .NET Framework、.NET Core 和 Xamarin 平台为目标，为 Windows、iOS、macOS 和 Android 开发应用程序。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/zh/zh/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/zh/java/" >}}
 用于桌面、Web 或任何基于 Java SE 或 EE 的应用程序的本机 Java API。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/zh/zh/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/zh/cpp/" >}}
 在 C++ 应用程序中创建、操作或转换电子邮件。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/zh/zh/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/zh/android-java/" >}}
 在您的 Android 移动应用程序中处理 Outlook 电子邮件。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/zh/zh/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/zh/sharepoint/" >}}
 在 SharePoint 中转换电子邮件并将文件同步到 FTP 或 Dropbox。
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/zh/zh/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/zh/python-net/" >}}
 用于创建、操作、转换、发送或接收电子邮件的 Python 库。
 {{< /blocks/products/pf/product >}}
 

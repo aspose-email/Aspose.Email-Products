@@ -202,14 +202,14 @@ description: SharePoint e-mail alkalmazás EML exportálásához MSG-be az e-mai
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     Az EML és az MSG egymás közötti konvertálása a SharePoint dokumentumtárból
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Fájlok szinkronizálása FTP-kiszolgálóval és DropBox-szal
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: SharePoint e-mail alkalmazás EML exportálásához MSG-be az e-mai
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Fájlok szinkronizálása a DropBox segítségével</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     MSG és EML formátumok interkonverziója
     </h2>
     <p>
      Az Aspose.Email for SharePoint támogatja a legnépszerűbb üzenetformátumokat. Az e-mail-konverziós alkalmazás lehetővé teszi a támogatott üzenetfájlok egymás közötti konvertálását anélkül, hogy bármilyen információ elveszne.
@@ -238,7 +238,7 @@ description: SharePoint e-mail alkalmazás EML exportálásához MSG-be az e-mai
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     E-mailek és fájlok szinkronizálása közvetlenül a SharePointból
     </h2>
     <p>
      Az Aspose.Email for SharePoint csatlakozhat FTP-, POP3-, IMAP- és Microsoft Exchange-kiszolgálókhoz az e-mailek szinkronizálásához közvetlenül a SharePoint-alkalmazásokon belül. Ezenkívül az alkalmazás lehetővé teszi az FTP-kiszolgálóhoz való csatlakozást, és fájlok küldését a SharePoint dokumentumtárból.

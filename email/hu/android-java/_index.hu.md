@@ -232,14 +232,14 @@ description: A levelezőkönyvtár lehetővé teszi az Outlook MSG PST OST EML M
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     RFC822-kompatibilis üzenetformátum importálása és exportálása
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     Olvasson és kezeljen különböző üzenettípusokat a termék API-n keresztül
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: A levelezőkönyvtár lehetővé teszi az Outlook MSG PST OST EML M
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     Ismétlődési minták létrehozása és felhasználása az iCalendarban (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

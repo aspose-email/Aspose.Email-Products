@@ -14,11 +14,11 @@ description: Aspose.Email for Python, .NET aracılığıyla Microsoft Outlook do
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time and effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
+ Aspose.Email for Python via .NET, geliştiricinin, temel format uygulamasının karmaşıklığı hakkında endişelenmeden ortak e-posta mesajı formatlarını oluşturmak, değiştirmek veya dönüştürmek için harcadığı zamandan ve emekten tasarruf sağlayan, esnek ancak güçlü bir E-posta Programlama API'sidir.
 </p>
 
 <p>
- The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP and SMTP.
+ Python E-posta API'si, mesaj içeriği düzenleme ve ek işleme gibi temel e-posta yönetimi özellikleri için kullanılabilir. Ayrıca kütüphane, mesaj saklama belgelerinin yönetimini, POP3, IMAP ve SMTP gibi farklı protokoller aracılığıyla e-posta gönderme ve alma işlemlerini de gerçekleştirir.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email for Python, .NET aracılığıyla Microsoft Outlook do
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     PST ve OST dosyaları oluşturun
     </li>
     <li>
      Mesajları PST'de Yönetin
@@ -99,7 +99,7 @@ description: Aspose.Email for Python, .NET aracılığıyla Microsoft Outlook do
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Düz ve HTML e-postaları oluşturun
     </li>
     <li>
      Çeşitli Formatları Yükle
@@ -126,7 +126,7 @@ description: Aspose.Email for Python, .NET aracılığıyla Microsoft Outlook do
      Başlıkları Yönet
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Thunderbird Mail Storage'a Okuma ve Yazma
     </li>
    </ul>
    <header>
@@ -195,7 +195,7 @@ description: Aspose.Email for Python, .NET aracılığıyla Microsoft Outlook do
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Outlook PST API'sı" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
+  <img width="70" height="75" alt="Outlook PST API'sı'sı" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -296,28 +296,28 @@ description: Aspose.Email for Python, .NET aracılığıyla Microsoft Outlook do
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Email file format conversion and rendering
+     E-posta dosya formatı dönüştürme ve oluşturma
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send and receive emails with attachments
+     Ekleri olan e-postalar gönderin ve alın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Download messages from POP3 and IMAP mail servers
+     POP3 ve IMAP posta sunucularından iletileri indirin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     iCalendar'ı kullanarak görevler oluşturun ve güncelleyin
     </p>
    </div>
    <div class="col-lg-4">
@@ -331,7 +331,7 @@ description: Aspose.Email for Python, .NET aracılığıyla Microsoft Outlook do
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate email attachments and linked resources
+     E-posta eklerini ve bağlantılı kaynakları değiştirin
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,7 +345,7 @@ description: Aspose.Email for Python, .NET aracılığıyla Microsoft Outlook do
     <em class="fa fa-expeditedssl ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for SSL and TLS
+     SSL ve TLS desteği
     </p>
    </div>
    <div class="col-lg-4">
@@ -387,15 +387,15 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume Recurrences with iCalendar API
+     iCalendar API ile Yinelemeler Üretin ve Tüketin
     </h2>
     <p>
-     Aspose.Email for Python via .NET provides the functionality to generate and save Outlook Calendar objects in MSG and ICS formats. Not only you can create and save iCalendar objects, but also retrieve, update, send and cancel meeting requests. Moreover, using the intuitive object model it is easy to dynamically produce and consume recurrence patterns in iCalendar RFC 2445 format.
+     .NET aracılığıyla Aspose.Email for Python, Outlook Calendar nesnelerini MSG ve ICS formatlarında oluşturma ve kaydetme işlevselliği sağlar. Yalnızca iCalendar nesneleri oluşturup kaydedemezsiniz, aynı zamanda toplantı isteklerini alabilir, güncelleyebilir, gönderebilir ve iptal edebilirsiniz. Ayrıca, sezgisel nesne modelini kullanarak iCalendar RFC 2445 formatında dinamik olarak yineleme kalıpları üretmek ve tüketmek kolaydır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Send and Receive E-postalar via SMTP, POP3 and IMAP Mail Servers
+     Gönder ve Al E-postalar via SMTP, POP3 and IMAP Mail Servers
     </h2>
     <p>
      .NET API aracılığıyla Aspose.Email for Python, SMTP, POP3 ve IMAP protokollerini kullanarak e-postalar oluşturmanıza, göndermenize ve almanıza olanak tanır. Aşağıdaki gibi e-posta işlemlerini gerçekleştirmek için kullanıcı adı ve parola veya APOP kimlik doğrulaması ile POP3 sunucularında oturum açmanıza olanak tanır: posta kutusu boyutunu ve mesaj sayısını görüntüleme, tam mesajı veya başlığını alma, sunucudan mesajları ve ayrıca temel POP3 komutlarını silme.
@@ -406,10 +406,10 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create or Manipulate PST, OST and MBOX Files
+     PST, OST ve MBOX Dosyaları Oluşturun veya İşleyin
     </h2>
     <p>
-     Aspose.Email for Python via .NET allows you to manage Outlook storage files such as PST and OST. You can perform a number of operations on existing storage files as well as create new PST files from scratch. Possible operations include folder listing, message listing, messages extraction and contacts in MSG format.
+     .NET aracılığıyla Aspose.Email for Python, PST ve OST gibi Outlook depolama dosyalarını yönetmenizi sağlar. Mevcut depolama dosyaları üzerinde bir dizi işlem gerçekleştirebilir ve sıfırdan yeni PST dosyaları oluşturabilirsiniz. Olası işlemler arasında klasör listeleme, mesaj listeleme, mesaj çıkarma ve MSG formatındaki kişiler yer alır.
     </p>
     <p>
      Aspose.Email for Python, Outlook depolama dosyalarının yanı sıra Mbox dosya biçimini de destekler. Aspose.Email for Python'u .NET üzerinden mevcut Mbox dosyalarını yüklemek ve mesaj bilgilerini çıkarmak için kullanabilirsiniz.

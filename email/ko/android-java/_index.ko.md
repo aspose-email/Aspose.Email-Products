@@ -232,14 +232,14 @@ description: 메일 라이브러리를 사용하면 모바일 앱 내에서 Outl
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     RFC822 호환 메시지 형식 가져오기 및 내보내기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     제품 API를 통해 다양한 메시지 유형 읽기 및 조작
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: 메일 라이브러리를 사용하면 모바일 앱 내에서 Outl
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     iCalendar에서 반복 패턴 생성 및 사용(RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

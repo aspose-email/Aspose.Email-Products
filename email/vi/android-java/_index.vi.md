@@ -232,14 +232,14 @@ description: Thư viện thư cho phép truy cập, đọc và thao tác các t�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     Nhập và xuất định dạng tin nhắn tuân thủ RFC822
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     Đọc và thao tác các loại thông báo khác nhau thông qua API sản phẩm
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: Thư viện thư cho phép truy cập, đọc và thao tác các t�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     Tạo và sử dụng các mẫu lặp lại trong iCalendar (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

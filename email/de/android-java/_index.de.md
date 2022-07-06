@@ -232,14 +232,14 @@ description: Die Mail-Bibliothek ermöglicht den Zugriff, das Lesen und Bearbeit
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     Importieren und exportieren Sie RFC822-konformes Nachrichtenformat
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     Lesen und bearbeiten Sie verschiedene Nachrichtentypen über die Produkt-API
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: Die Mail-Bibliothek ermöglicht den Zugriff, das Lesen und Bearbeit
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     Serienmuster im iCalendar erzeugen und konsumieren (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

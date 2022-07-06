@@ -202,14 +202,14 @@ description: Application de messagerie SharePoint pour exporter EML vers MSG ave
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     Inter-convertir EML et MSG à partir de la bibliothèque de documents SharePoint
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Synchroniser les fichiers avec le serveur FTP et DropBox
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: Application de messagerie SharePoint pour exporter EML vers MSG ave
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Synchroniser les fichiers avec DropBox</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     Inter-conversion des formats MSG et EML
     </h2>
     <p>
      Aspose.Email pour SharePoint prend en charge les formats de message les plus populaires. L'application de conversion d'e-mails offre également la possibilité d'inter-convertir les fichiers de messages pris en charge sans perdre aucune information.
@@ -238,7 +238,7 @@ description: Application de messagerie SharePoint pour exporter EML vers MSG ave
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     Synchronisez les e-mails et les fichiers directement à partir de SharePoint
     </h2>
     <p>
      Aspose.Email for SharePoint peut se connecter aux serveurs FTP, POP3, IMAP et Microsoft Exchange pour la synchronisation des e-mails directement depuis les applications SharePoint. De plus, l'application permet de se connecter à un serveur FTP et d'envoyer des fichiers depuis la bibliothèque de documents SharePoint.

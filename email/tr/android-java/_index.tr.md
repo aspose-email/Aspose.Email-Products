@@ -232,14 +232,14 @@ description: Posta kitaplığı, mobil uygulamalar içinde Outlook MSG PST OST E
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     RFC822 uyumlu mesaj formatını içe ve dışa aktarın
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     Ürün API'si aracılığıyla farklı mesaj türlerini okuyun ve değiştirin
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: Posta kitaplığı, mobil uygulamalar içinde Outlook MSG PST OST E
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     iCalendar'da (RFC 2445) yineleme kalıpları üretin ve tüketin
     </p>
    </div>
    <div class="col-lg-4">

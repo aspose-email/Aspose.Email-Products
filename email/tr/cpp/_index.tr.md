@@ -14,11 +14,11 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C++, geliştiricilerin MSG, EML, EMLX ve MHT gibi çeşitli formatlarla çalışmasını kolaylaştıran bir E-posta Programlama API'sidir. Uygulama geliştiricileri, Office Otomasyonu veya Microsoft Outlook uygulamasına güvenmeden yerel C++ uygulamalarında en sık kullanılan mesaj biçimlerini oluşturabilir, dönüştürebilir veya değiştirebilir.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email for C++, içerik düzenleme, alıcıların manipülasyonu, MAPI özelliklerinin ve eklerinin çıkarılması ve işlenmesi gibi posta yönetimi özelliklerinin yanı sıra PST ve OST dahil olmak üzere mesaj depolama dosyaları yönetimi gibi gelişmiş özellikler için uygundur. Şu anda API, e-posta iletimi için SMTP, POP3 ve IMAP iletişim protokollerini desteklemektedir.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     PST ve OST dosyaları oluşturun
     </li>
     <li>
      Mesajları PST'de Yönetin
@@ -84,7 +84,7 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Düz ve HTML e-postaları oluşturun
     </li>
     <li>
      Çeşitli Formatları Yükle
@@ -232,7 +232,7 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    E-posta Dosyası ve İleti Arşivi İşleme API'si Özellikleri
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     Dosya veya akışa ve dosyadan mesaj yükleyin ve kaydedin
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     iCalendar genel API'sini kullanarak görevler oluşturun ve güncelleyin
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     Depolama dosyalarını oluşturun, değiştirin ve çıkarın
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     Metin ve HTML tabanlı posta gövdesini dahil et
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     SMTP, POP3 ve IMAP iletişim protokollerini destekler
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: Microsoft Outlook E-posta PST OST dosyalarını işlemek ve dönü�
      MIME Mesajlarını C++ Kitaplığı ile Yönetin
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email for C++, EML ve EMLX dahil olmak üzere MIME formatlarını kapsamlı bir şekilde destekler. Bu yetenek, geliştiricilerin MIME mesajlarından içerik oluşturmasına, ayarlamasına ve çıkarmasına, ekleri ve gömülü nesneleri yönetmesine, EML ve EMLX dosyalarını MSG, HTML ve MHTML dosya biçimlerine dönüştürmesine olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     Outlook İleti Dosyası Biçimlerini Yönetin
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email for C++, sıfırdan Outlook mesajları oluşturma ve mevcut e-posta dosyalarını değiştirme yeteneği sağlar. Geliştiriciler, kişiler, görevler, notlar, takvim öğeleri ve dağıtım listeleri dahil olmak üzere her tür Outlook öğesini yükleyebilir ve kaydedebilir. Üstelik, C++ E-posta Kitaplığı, genel API aracılığıyla tüm Outlook nesnelerinin ayrıştırılmasına ve değiştirilmesine olanak tanır.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar Yineleme Modelleri
+     iCalendar'ı Üretin ve Tüketin Yineleme Modelleri
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     Kitaplık, geliştiricilerin sezgisel bir nesne modeli kullanarak iCalendar (RFC 2445) formatında programlı olarak yineleme kalıpları oluşturmasına ve tüketmesine olanak tanır. Uzmanlığımız, iCalendar arayüzünün kullanımının kolay olmasını sağlarken, yinelenen üretim ve tüketim üzerinde size tam kontrol sağlar.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     PST ve OST Dosyalarından Öğeler Oluşturun, İnceleyin ve Çıkarın
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     Aspose.Email for C++, PST ve OST gibi Outlook depolama biçimlerinin yönetilmesine olanak tanır. API, mevcut depolama biçimleri üzerinde farklı işlemler gerçekleştirmenin yanı sıra sıfırdan yeni PST belgeleri oluşturur. Diğer olası işlemler, klasör ve mesaj listeleme, mesajların, kişilerin ve klasörlerin eklenmesi veya çıkarılması gibi gerçekleştirilebilir.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      PST oluşturun ve Gelen Kutusuna mesaj ekleyin - C++
      </h3>
      <pre><code class="cpp">// sıfırdan PST dosyası oluştur       
 

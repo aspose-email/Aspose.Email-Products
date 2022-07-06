@@ -202,14 +202,14 @@ description: 電子メールの添付ファイルとともにEMLをMSGにエク�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     SharePointドキュメントライブラリ内からEMLとMSGを相互変換する
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     FTPサーバーおよびDropBoxとファイルを同期します
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: 電子メールの添付ファイルとともにEMLをMSGにエク�
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">DropBoxでファイルを同期する</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     MSGおよびEMLフォーマットの相互変換
     </h2>
     <p>
      Aspose.Email for SharePointは、最も一般的なメッセージ形式をサポートしています。電子メール変換アプリは、情報を失うことなく、サポートされているメッセージファイルを相互変換する機能も提供します。
@@ -238,7 +238,7 @@ description: 電子メールの添付ファイルとともにEMLをMSGにエク�
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     SharePointから直接メールとファイルを同期する
     </h2>
     <p>
      Aspose.Email for SharePointは、SharePointアプリケーション内から直接、FTP、POP3、IMAP、およびMicrosoftExchangeServerに接続して電子メールを同期できます。さらに、このアプリを使用すると、FTPサーバーに接続して、SharePointドキュメントライブラリからファイルを送信できます。

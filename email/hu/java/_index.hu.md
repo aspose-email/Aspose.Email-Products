@@ -18,7 +18,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal Tároló fájlok PST and Offline Tároló fájlok OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Az Aspose.Email for Java képes Outlook e-maileket létrehozni, e-maileket elemezni vagy olyan üzenetformátumokat konvertálni, mint az MSG, EML, MBOX, PST, OST és MHT a Java alkalmazásokon belül. Az API képes kezelni az üzenetek tartalmát, mellékleteit, fejléceit és MAPI-tulajdonságait, valamint képes e-maileket küldeni és fogadni számos népszerű protokollon keresztül. Lehetővé teszi az üzenettároló dokumentumok, például a személyes kezelését is Tároló fájlok PST és offline Tároló fájlok OST. Az alkalmazás specifikációinak megfelelően listázhatja az e-maileket, kibonthatja az e-maileket, hozzáadhat vagy eltávolíthat üzeneteket a tárolófájlokból. A Java e-mail könyvtár lehetővé teszi az Outlook névjegyfájllal (VCF) való munkát.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     PST és OST fájlok létrehozása és kibontása
     </li>
     <li>
      Üzenetek kezelése a PST-ben
@@ -99,7 +99,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Hozzon létre egyszerű és HTML e-maileket
     </li>
     <li>
      Változatos formátumok betöltése
@@ -126,7 +126,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
      Fejlécek kezelése
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Olvasás és írás a Thunderbird Mail Storage-ba
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     Üzenetek létrehozása és kezelése API-n keresztül
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     Mellékletek hozzáadása, kibontása és manipulálása
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     Beágyazott e-mail mellékletek bejárása és olvasása
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     Többkapcsolatos támogatás az IMAP biztonsági mentési és visszaállítási műveletekhez
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     Hozzon létre ICF és VCF v3.0 fájlokat
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     Helyi archívum létrehozása és kezelése az Office 365-ben
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.Email Java. Levelezés, MIME és iCalander SDK Java-hoz Thun
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     Adja meg az ICS létrehozásának és módosításának dátumait
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     E-mail küldés SMTP, POP3 és IMAP protokollon keresztül
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     Az API lehetővé teszi üzenetek létrehozását és formázását, fájlok és képek csatolását, valamint SMTP protokollon keresztül e-mail címekre való elküldését. Az API által biztosított másik lehetőség a POP3-kiszolgálókra való bejelentkezés felhasználónévvel és jelszóval. Az API APOP hitelesítési funkcióján keresztül könnyen hozzáférhet a teljes üzenethez vagy csak a fejlécekhez, megtekintheti a postafiók méretét és az üzenetek számát, törölheti az üzeneteket a szerverről és még sok mást. Néhány API által támogatott IMAP-protokoll-funkció, például hitelesítés, mappák létrehozása, kiválasztása, eltávolítása, lekérdezése, üzenetek fogadása és mentése, valamint üzenetjelzők módosítása.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      Naptárobjektumok kezelése
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Az Aspose.Email iCalendar API lehetővé teszi Outlook-naptár objektumok létrehozását, kibontását és mentését különféle formátumokban. Lehetővé teszi MSG- vagy ICS-dokumentumként történő mentést, valamint értekezlet-összehívások lekérését, küldését, frissítését és törlését üzenetküldési protokollokon keresztül.
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message Tároló fájlok
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Az Aspose.Email for Java API lehetővé teszi az Outlook tárolási formátumok kezelését. Letölthet PST- és OST-fájlokat lemezről vagy adatfolyamról, mappa- és almappa-információkat kaphat az üzenetarchívumból, lekérheti az üzenetspecifikus adatokat, például a tárgyat, a feladót, a címzettet, és az üzeneteket lemezre vagy adatfolyamra mentheti.
     </p>
     <p>
      A meglévő PST elemzése mellett a könyvtár lehetőséget biztosít PST-fájl létrehozására a semmiből, és üzenetek hozzáadására annak bármely mappájába.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      Hozzon létre PST-t a semmiből, és adjon hozzá egy üzenetet a Java fájlból
      </h3>
      <pre><code class="java">// létrehozza a PersonalStorage példányát
 

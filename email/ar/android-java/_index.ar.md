@@ -232,14 +232,14 @@ description: تسمح مكتبة البريد بالوصول إلى ملفات O
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     استيراد وتصدير تنسيق الرسائل المتوافق مع RFC822
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     قراءة أنواع الرسائل المختلفة ومعالجتها عبر واجهة برمجة تطبيقات المنتج
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: تسمح مكتبة البريد بالوصول إلى ملفات O
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     إنتاج واستهلاك أنماط التكرار في iCalendar (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

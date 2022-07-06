@@ -202,14 +202,14 @@ description: Приложение электронной почты SharePoint �
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     Взаимное преобразование EML и MSG из библиотеки документов SharePoint.
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Синхронизируйте файлы с FTP-сервером и DropBox
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: Приложение электронной почты SharePoint �
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Синхронизируйте файлы с DropBox</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     Взаимное преобразование форматов MSG и EML
     </h2>
     <p>
      Aspose.Email для SharePoint поддерживает самые популярные форматы сообщений. Приложение для преобразования электронной почты также предоставляет возможность взаимного преобразования поддерживаемых файлов сообщений без потери какой-либо информации.
@@ -238,7 +238,7 @@ description: Приложение электронной почты SharePoint �
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     Синхронизируйте электронные письма и файлы напрямую из SharePoint
     </h2>
     <p>
      Aspose.Email для SharePoint может подключаться к серверам FTP, POP3, IMAP и Microsoft Exchange для синхронизации электронной почты прямо из приложений SharePoint. Кроме того, приложение позволяет подключаться к FTP-серверу и отправлять файлы из библиотеки документов SharePoint.

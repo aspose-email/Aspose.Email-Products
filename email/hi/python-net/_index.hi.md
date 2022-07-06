@@ -14,11 +14,11 @@ description: Aspose.Email for Python by .NET Microsoft Outlook फ़ाइल �
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time and effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
+ Aspose.Email for Python by .NET एक लचीला लेकिन शक्तिशाली ईमेल प्रोग्रामिंग एपीआई है, जो अंतर्निहित प्रारूप कार्यान्वयन की जटिलताओं के बारे में चिंता किए बिना सामान्य ईमेल संदेश प्रारूपों को बनाने, हेरफेर करने या परिवर्तित करने के लिए डेवलपर के समय और प्रयास को बचाता है।
 </p>
 
 <p>
- The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP and SMTP.
+ पायथन ईमेल एपीआई का उपयोग बुनियादी ईमेल प्रबंधन सुविधाओं जैसे संदेश सामग्री संपादन और अनुलग्नक हेरफेर के लिए किया जा सकता है। इसके अलावा, पुस्तकालय संदेश भंडारण दस्तावेजों का प्रबंधन भी करता है, पीओपी 3, आईएमएपी और एसएमटीपी सहित विभिन्न प्रोटोकॉल के माध्यम से ईमेल भेजने और प्राप्त करता है।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email for Python by .NET Microsoft Outlook फ़ाइल �
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     पीएसटी और ओएसटी फाइलें बनाएं
     </li>
     <li>
      पीएसटी में संदेश प्रबंधित करें
@@ -99,7 +99,7 @@ description: Aspose.Email for Python by .NET Microsoft Outlook फ़ाइल �
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     सादा और HTML ईमेल बनाएं
     </li>
     <li>
      प्रारूपों की विविधता लोड करें
@@ -126,7 +126,7 @@ description: Aspose.Email for Python by .NET Microsoft Outlook फ़ाइल �
      हेडर प्रबंधित करें
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     थंडरबर्ड मेल स्टोरेज को पढ़ें और लिखें
     </li>
    </ul>
    <header>
@@ -296,28 +296,28 @@ description: Aspose.Email for Python by .NET Microsoft Outlook फ़ाइल �
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Email file format conversion and rendering
+     ईमेल फ़ाइल स्वरूप रूपांतरण और प्रतिपादन
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send and receive emails with attachments
+     अनुलग्नकों के साथ ईमेल भेजें और प्राप्त करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Download messages from POP3 and IMAP mail servers
+     POP3 और IMAP मेल सर्वर से संदेश डाउनलोड करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     iCalendar . का उपयोग करके कार्य बनाएं और अपडेट करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -331,7 +331,7 @@ description: Aspose.Email for Python by .NET Microsoft Outlook फ़ाइल �
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate email attachments and linked resources
+     ईमेल अटैचमेंट और लिंक किए गए संसाधनों में हेरफेर करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,7 +345,7 @@ description: Aspose.Email for Python by .NET Microsoft Outlook फ़ाइल �
     <em class="fa fa-expeditedssl ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for SSL and TLS
+     एसएसएल और टीएलएस के लिए समर्थन
     </p>
    </div>
    <div class="col-lg-4">
@@ -387,15 +387,15 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume Recurrences with iCalendar API
+     iCalendar API के साथ पुनरावर्तन का उत्पादन और उपभोग करें
     </h2>
     <p>
-     Aspose.Email for Python via .NET provides the functionality to generate and save Outlook Calendar objects in MSG and ICS formats. Not only you can create and save iCalendar objects, but also retrieve, update, send and cancel meeting requests. Moreover, using the intuitive object model it is easy to dynamically produce and consume recurrence patterns in iCalendar RFC 2445 format.
+     Aspose.Email .NET के माध्यम से Python के लिए MSG और ICS स्वरूपों में Outlook कैलेंडर ऑब्जेक्ट जेनरेट करने और सहेजने की कार्यक्षमता प्रदान करता है। आप न केवल iCalendar ऑब्जेक्ट बना और सहेज सकते हैं, बल्कि मीटिंग अनुरोधों को पुनः प्राप्त, अपडेट, भेज और रद्द भी कर सकते हैं। इसके अलावा, सहज ज्ञान युक्त वस्तु मॉडल का उपयोग करना iCalendar RFC 2445 प्रारूप में गतिशील रूप से पुनरावर्तन पैटर्न का उत्पादन और उपभोग करना आसान है।
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Send and Receive ईमेल via SMTP, POP3 and IMAP Mail Servers
+     भेजें और पाएं ईमेल via SMTP, POP3 and IMAP Mail Servers
     </h2>
     <p>
      Aspose.Email for Python के माध्यम से .NET API आपको SMTP, POP3 और IMAP प्रोटोकॉल का उपयोग करके ईमेल बनाने, भेजने और प्राप्त करने का अधिकार देता है। यह आपको ईमेल संचालन करने के लिए उपयोगकर्ता नाम और पासवर्ड या एपीओपी प्रमाणीकरण द्वारा पीओपी 3 सर्वर में लॉग इन करने की अनुमति देता है जैसे: मेलबॉक्स आकार और संदेशों की गिनती देखें, पूर्ण संदेश या उसके शीर्षलेख को पुनर्प्राप्त करें, सर्वर से संदेशों को हटाएं और साथ ही मूल पीओपी 3 कमांड भी।
@@ -406,10 +406,10 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create or Manipulate PST, OST and MBOX Files
+     PST, OST और MBOX फ़ाइलें बनाएं या उनमें हेरफेर करें
     </h2>
     <p>
-     Aspose.Email for Python via .NET allows you to manage Outlook storage files such as PST and OST. You can perform a number of operations on existing storage files as well as create new PST files from scratch. Possible operations include folder listing, message listing, messages extraction and contacts in MSG format.
+     Aspose.Email for Python के माध्यम से .NET आपको आउटलुक स्टोरेज फाइलों जैसे PST और OST को प्रबंधित करने की अनुमति देता है। आप मौजूदा स्टोरेज फाइलों पर कई ऑपरेशन कर सकते हैं और साथ ही स्क्रैच से नई पीएसटी फाइलें बना सकते हैं। संभावित संचालन में एमएसजी प्रारूप में फ़ोल्डर लिस्टिंग, संदेश सूचीकरण, संदेश निष्कर्षण और संपर्क शामिल हैं।
     </p>
     <p>
      आउटलुक स्टोरेज फाइलों के साथ, Aspose.Email for Python वाया .NET भी Mbox फाइल फॉर्मेट को सपोर्ट करता है। आप मौजूदा एमबॉक्स फ़ाइलों को लोड करने और संदेश जानकारी निकालने के लिए .NET के माध्यम से पायथन के लिए Aspose.Email का उपयोग कर सकते हैं।

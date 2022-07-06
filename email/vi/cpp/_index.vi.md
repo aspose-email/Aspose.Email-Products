@@ -14,11 +14,11 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C ++ là một API lập trình email giúp các nhà phát triển làm việc dễ dàng hơn với một số định dạng như MSG, EML, EMLX và MHT. Các nhà phát triển ứng dụng có thể tạo, chuyển đổi hoặc thao tác hầu hết các định dạng thông báo được sử dụng phổ biến trong các ứng dụng C ++ gốc mà không cần dựa vào ứng dụng Office Automation hoặc Microsoft Outlook.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email for C ++ phù hợp nhất với các tính năng quản lý thư như chỉnh sửa nội dung, thao tác người nhận, trích xuất và thao tác các thuộc tính và tệp đính kèm MAPI cũng như cho các tính năng nâng cao như quản lý tệp lưu trữ thư bao gồm PST và OST. Hiện tại, API hỗ trợ các giao thức truyền thông SMTP, POP3 và IMAP để truyền email.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Tạo tệp PST và OST
     </li>
     <li>
      Quản lý tin nhắn trong PST
@@ -84,7 +84,7 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Tạo email đơn giản và HTML
     </li>
     <li>
      Tải nhiều loại định dạng
@@ -232,7 +232,7 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    Tính năng API xử lý tệp lưu trữ thư và tệp email
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     Tải và lưu tin nhắn vào và từ tệp hoặc luồng
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     Tạo và cập nhật công việc bằng API công khai iCalendar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     Tạo, thao tác và giải nén các tệp lưu trữ
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     Bao gồm văn bản và nội dung thư dựa trên HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     Hỗ trợ các giao thức truyền thông SMTP, POP3 và IMAP
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: Thư viện email C++ để tạo thao tác và chuyển đổi cá
      Quản lý tin nhắn MIME qua Thư viện C++
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email for C ++ hỗ trợ rộng rãi các định dạng MIME bao gồm EML và EMLX. Khả năng này cho phép các nhà phát triển tạo, thiết lập và trích xuất nội dung từ các tin nhắn MIME, quản lý các tệp đính kèm và các đối tượng nhúng, chuyển đổi các tệp EML và EMLX sang các định dạng tệp MSG, HTML và MHTML.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     Quản lý các định dạng tệp tin thư Outlook
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email for C ++ có khả năng tạo thư Outlook từ đầu cũng như cung cấp khả năng thao tác các tệp email hiện có. Các nhà phát triển có thể tải và lưu tất cả các loại mục Outlook bao gồm danh bạ, tác vụ, ghi chú, mục lịch và danh sách phân phối. Trên hết, Thư viện Email C ++ cho phép phân tích cú pháp và thao tác với tất cả các đối tượng Outlook thông qua API công khai.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar Mô hình lặp lại
+     Sản xuất và tiêu thụ iCalendar Mô hình lặp lại
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     Thư viện cho phép các nhà phát triển tạo lập trình và sử dụng các mẫu lặp lại ở định dạng iCalendar (RFC 2445) bằng cách sử dụng mô hình đối tượng trực quan. Chuyên môn của chúng tôi đảm bảo rằng giao diện iCalendar dễ sử dụng đồng thời giúp bạn kiểm soát hoàn toàn việc sản xuất và tiêu thụ lặp lại.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     Tạo, kiểm tra và trích xuất các mục từ các tệp PST và OST
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     Aspose.Email for C ++ cho phép quản lý các định dạng lưu trữ Outlook như PST và OST. API thực hiện các hoạt động khác nhau trên các định dạng lưu trữ hiện có cũng như tạo các tài liệu PST mới từ đầu. Các hoạt động khả thi khác, một người có thể thực hiện như danh sách thư mục và tin nhắn, thêm hoặc trích xuất các tin nhắn, danh bạ và thư mục.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      Tạo PST và thêm tin nhắn vào Hộp thư đến - C ++
      </h3>
      <pre><code class="cpp">// tạo tệp PST từ đầu       
 

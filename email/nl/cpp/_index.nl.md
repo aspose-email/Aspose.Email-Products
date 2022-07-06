@@ -14,11 +14,11 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email voor C++ is een API voor e-mailprogrammering die het de ontwikkelaars gemakkelijker maakt om met een aantal formaten te werken, zoals MSG, EML, EMLX en MHT. Applicatieontwikkelaars kunnen de meest gebruikte berichtformaten maken, converteren of manipuleren binnen de native C++-applicaties, zonder afhankelijk te zijn van Office Automation of Microsoft Outlook-applicatie.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email voor C++ is het meest geschikt voor functies voor e-mailbeheer, zoals het bewerken van inhoud, het manipuleren van ontvangers, het extraheren en manipuleren van MAPI-eigenschappen en bijlagen, evenals voor de geavanceerde functies zoals het beheer van berichtenopslagbestanden, inclusief PST en OST. Momenteel ondersteunt API SMTP-, POP3- en IMAP-communicatieprotocollen voor e-mailverzending.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     PST- en OST-bestanden maken
     </li>
     <li>
      Berichten beheren in PST
@@ -84,7 +84,7 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Maak gewone en HTML-e-mails
     </li>
     <li>
      Laad verschillende formaten
@@ -232,7 +232,7 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    API-functies voor verwerking van e-mailbestanden en berichtenarchief
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     Laad en bewaar berichten van en naar bestand of stream
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     Taken maken en bijwerken met de openbare API van iCalendar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     Opslagbestanden maken, manipuleren en extraheren
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     Tekst en op HTML gebaseerde e-mailtekst opnemen
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     Ondersteunt SMTP-, POP3- en IMAP-communicatieprotocollen
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: C++ e-mailbibliotheek om Microsoft Outlook Email PST OST-bestanden 
      Beheer MIME-berichten via C++ Library
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email voor C++ ondersteunt uitgebreid MIME-formaten, waaronder EML en EMLX. Met deze mogelijkheid kunnen de ontwikkelaars inhoud van de MIME-berichten maken, instellen en extraheren, bijlagen en ingesloten objecten beheren, EML- en EMLX-bestanden converteren naar MSG-, HTML- en MHTML-bestandsindelingen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     Bestandsindelingen voor Outlook-berichten beheren
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email voor C++ is in staat om vanuit het niets Outlook-berichten te maken en biedt de mogelijkheid om bestaande e-mailbestanden te manipuleren. Ontwikkelaars kunnen alle soorten Outlook-items laden en opslaan, inclusief contacten, taken, notities, agenda-items en distributielijsten. Bovendien maakt de C++-e-mailbibliotheek het mogelijk om alle Outlook-objecten te ontleden en te manipuleren via openbare API.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar Herhalingspatronen
+     iCalendar produceren en consumeren Herhalingspatronen
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     Met de bibliotheek kunnen de ontwikkelaars programmatisch herhalingspatronen genereren en gebruiken in iCalendar (RFC 2445)-indeling met behulp van een intuïtief objectmodel. Onze expertise zorgt ervoor dat de iCalendar-interface eenvoudig te gebruiken is en u tegelijkertijd volledige controle geeft over de productie en consumptie van herhalingen.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     Items maken, inspecteren en extraheren uit PST- en OST-bestanden
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     Aspose.Email voor C++ maakt het mogelijk om Outlook-opslagformaten zoals PST en OST te beheren. API voert verschillende bewerkingen uit op bestaande opslagformaten en maakt helemaal nieuwe PST-documenten. Andere mogelijke bewerkingen die men kan uitvoeren, zoals mappen- en berichtenlijst, toevoegen of extraheren van berichten, contacten en mappen.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      Maak PST en voeg een bericht toe aan Inbox - C++
      </h3>
      <pre><code class="cpp">// maak een PST-bestand helemaal opnieuw       
 

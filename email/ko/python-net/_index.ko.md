@@ -14,11 +14,11 @@ description: .NET을 통한 Python용 Aspose.Email은 Microsoft Outlook 파일 �
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time and effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
+ .NET을 통한 Python용 Aspose.Email은 기본 형식 구현의 복잡성에 대해 걱정하지 않고 일반적인 전자 메일 메시지 형식을 생성, 조작 또는 변환하는 개발자의 시간과 노력을 줄여주는 유연하면서도 강력한 전자 메일 프로그래밍 API입니다.
 </p>
 
 <p>
- The Python Email API can be used for basic email management features such as message content editing and attachment manipulation. Moreover, the library also performs management of the message storage documents, sending and receiving emails through different protocols including POP3, IMAP and SMTP.
+ Python 이메일 API는 메시지 콘텐츠 편집 및 첨부 파일 조작과 같은 기본 이메일 관리 기능에 사용할 수 있습니다. 또한 라이브러리는 POP3, IMAP 및 SMTP를 포함한 다양한 프로토콜을 통해 이메일을 주고받고 메시지 저장 문서를 관리합니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: .NET을 통한 Python용 Aspose.Email은 Microsoft Outlook 파일 �
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     PST 및 OST 파일 만들기
     </li>
     <li>
      PST의 메시지 관리
@@ -99,7 +99,7 @@ description: .NET을 통한 Python용 Aspose.Email은 Microsoft Outlook 파일 �
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     일반 및 HTML 이메일 생성
     </li>
     <li>
      다양한 형식 로드
@@ -126,7 +126,7 @@ description: .NET을 통한 Python용 Aspose.Email은 Microsoft Outlook 파일 �
      헤더 관리
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Thunderbird 메일 저장소 읽기 및 쓰기
     </li>
    </ul>
    <header>
@@ -296,28 +296,28 @@ description: .NET을 통한 Python용 Aspose.Email은 Microsoft Outlook 파일 �
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Email file format conversion and rendering
+     이메일 파일 형식 변환 및 렌더링
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send and receive emails with attachments
+     첨부 파일이 있는 이메일 보내기 및 받기
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Download messages from POP3 and IMAP mail servers
+     POP3 및 IMAP 메일 서버에서 메시지 다운로드
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     iCalendar를 사용하여 작업 생성 및 업데이트
     </p>
    </div>
    <div class="col-lg-4">
@@ -331,7 +331,7 @@ description: .NET을 통한 Python용 Aspose.Email은 Microsoft Outlook 파일 �
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate email attachments and linked resources
+     이메일 첨부 파일 및 연결된 리소스 조작
     </p>
    </div>
    <div class="col-lg-4">
@@ -345,7 +345,7 @@ description: .NET을 통한 Python용 Aspose.Email은 Microsoft Outlook 파일 �
     <em class="fa fa-expeditedssl ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Support for SSL and TLS
+     SSL 및 TLS 지원
     </p>
    </div>
    <div class="col-lg-4">
@@ -387,15 +387,15 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume Recurrences with iCalendar API
+     iCalendar API로 반복 생성 및 소비
     </h2>
     <p>
-     Aspose.Email for Python via .NET provides the functionality to generate and save Outlook Calendar objects in MSG and ICS formats. Not only you can create and save iCalendar objects, but also retrieve, update, send and cancel meeting requests. Moreover, using the intuitive object model it is easy to dynamically produce and consume recurrence patterns in iCalendar RFC 2445 format.
+     .NET을 통한 Python용 Aspose.Email은 MSG 및 ICS 형식으로 Outlook 일정 개체를 생성하고 저장하는 기능을 제공합니다. iCalendar 개체를 만들고 저장할 수 있을 뿐만 아니라 모임 요청을 검색, 업데이트, 전송 및 취소할 수 있습니다. 또한 직관적인 개체 모델을 사용하여 iCalendar RFC 2445 형식의 반복 패턴을 동적으로 생성하고 사용하기 쉽습니다.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Send and Receive 이메일 via SMTP, POP3 and IMAP Mail Servers
+     보내기 및 받기 이메일 via SMTP, POP3 and IMAP Mail Servers
     </h2>
     <p>
      .NET API를 통한 Python용 Aspose.Email을 사용하면 SMTP, POP3 및 IMAP 프로토콜을 사용하여 이메일을 만들고 보내고 받을 수 있습니다. 사용자 이름과 비밀번호 또는 APOP 인증으로 POP3 서버에 로그인하여 메일함 크기 및 메시지 수 보기, 전체 메시지 또는 헤더 검색, 서버에서 메시지 삭제 및 기본 POP3 명령과 같은 이메일 작업을 수행할 수 있습니다.
@@ -406,10 +406,10 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create or Manipulate PST, OST and MBOX Files
+     PST, OST 및 MBOX 파일 생성 또는 조작
     </h2>
     <p>
-     Aspose.Email for Python via .NET allows you to manage Outlook storage files such as PST and OST. You can perform a number of operations on existing storage files as well as create new PST files from scratch. Possible operations include folder listing, message listing, messages extraction and contacts in MSG format.
+     .NET을 통한 Python용 Aspose.Email을 사용하면 PST 및 OST와 같은 Outlook 저장 파일을 관리할 수 있습니다. 기존 저장 파일에서 여러 작업을 수행하고 처음부터 새 PST 파일을 만들 수 있습니다. 가능한 작업에는 폴더 목록, 메시지 목록, 메시지 추출 및 MSG 형식의 연락처가 포함됩니다.
     </p>
     <p>
      Outlook 저장 파일과 함께 .NET을 통한 Python용 Aspose.Email은 Mbox 파일 형식도 지원합니다. .NET을 통해 Python용 Aspose.Email을 사용하여 기존 Mbox 파일을 로드하고 메시지 정보를 추출할 수 있습니다.

@@ -18,7 +18,7 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal Αρχεία αποθήκευσης (PST) and Offline Αρχεία αποθήκευσης (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Το Aspose.Email για .NET διευκολύνει τους προγραμματιστές να εργάζονται με μια σειρά από μορφές Microsoft Outlook και Mozilla Thunderbird όπως MSG, EML, EMLX, PST, OST, MBOX και MHT, καθώς και τη δυνατότητα διαχείρισης αρχείων αποθήκευσης μηνυμάτων όπως Προσωπικά Αρχεία αποθήκευσης (PST) και εκτός σύνδεσης Αρχεία αποθήκευσης (OST) και MBOX. Οι προγραμματιστές μπορούν να χρησιμοποιούν το API για να στέλνουν και να λαμβάνουν email μέσω ορισμένων δημοφιλών πρωτοκόλλων όπως POP3, IMAP και SMTP ή να συνδέονται με τον Microsoft Exchange Server μέσω WebDav και Exchange Web Services για να στέλνουν και να λαμβάνουν email με συνημμένα και να καταγράφουν ή να αφαιρούν μηνύματα από τον διακομιστή.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Δημιουργήστε αρχεία PST και OST
     </li>
     <li>
      Διαχείριση μηνυμάτων στο PST
@@ -99,7 +99,7 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Δημιουργήστε απλά και HTML email
     </li>
     <li>
      Φόρτωση ποικιλίας μορφών
@@ -126,7 +126,7 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
      Διαχείριση κεφαλίδων
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Διαβάστε και γράψτε στο Thunderbird Mail Storage
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
     </li>
     <li>
      <b>
-      Others:
+      Οι υπολοιποι:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     Στείλτε email με σώμα HTML και συνημμένα
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     Λειτουργία συγχώνευσης αλληλογραφίας και αποστολής μαζικής αλληλογραφίας
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     Λίστα και λήψη μηνυμάτων από διακομιστές αλληλογραφίας POP3 και IMAP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     Λίστα, λήψη και αποστολή μηνυμάτων μέσω διακομιστών Microsoft Exchange
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     Δημιουργήστε και ενημερώστε εργασίες χρησιμοποιώντας το iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     Χειρισμός μηνυμάτων Προσωπικά και αρχεία αποθήκευσης εκτός σύνδεσης
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     Προσθέστε μηνύματα, επαφές, εργασίες, σημειώσεις, στοιχεία ημερολογίου και λίστες διανομής στο PST
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     Εξαγωγή μηνυμάτων, επαφών και στοιχείων ημερολογίου από το PST
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     Προσθέστε ενσωματωμένα αντικείμενα και συνημμένα στα email
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     Συμπεριλάβετε κείμενο και σώμα αλληλογραφίας HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: C# ASP.NET VB.NET Βιβλιοθήκη επεξεργασίας ema
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     Υποστήριξη πολλαπλών συνδέσεων για αναδρομικές λειτουργίες IMAP και POP3
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive Email via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Το Aspose.Email για .NET σάς δίνει τη δυνατότητα να δημιουργείτε σύνθετα μηνύματα με συνημμένα, μορφοποίηση HTML και εικόνες και να στέλνετε email χρησιμοποιώντας το πρωτόκολλο SMTP. Σας επιτρέπει επίσης να συνδεθείτε στους διακομιστές POP3 με όνομα χρήστη και κωδικό πρόσβασης ή έλεγχο ταυτότητας APOP για να εκτελέσετε λειτουργίες όπως λήψη email, καθώς και προβολή μεγέθους γραμματοκιβωτίου και αριθμού μηνυμάτων, ανάκτηση ολόκληρου του μηνύματος ή μόνο των κεφαλίδων, διαγραφή μηνυμάτων από τον διακομιστή κ.λπ. .
     </p>
     <p>
      Το API υποστηρίζει επίσης λειτουργίες πρωτοκόλλου IMAP, όπως έλεγχο ταυτότητας, δημιουργία, διαγραφή, επιλογή, υποβολή ερωτημάτων, λήψη και αποθήκευση μηνυμάτων, αλλαγή σημαιών μηνυμάτων και βασικές εντολές IMAP.
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Συνδεθείτε στον Microsoft Exchange Server
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. Email and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     Το Aspose.Email για .NET παρέχει τη δυνατότητα σύνδεσης με διακομιστή Microsoft Exchange για την εκτέλεση πολλών λειτουργιών. Μπορείτε να παραθέσετε μηνύματα από οποιονδήποτε φάκελο, να κάνετε λήψη μηνυμάτων και να τα αποθηκεύσετε σε υποστηριζόμενες μορφές μηνυμάτων. Email και οι προσκλήσεις σε συσκέψεις μπορούν επίσης να σταλούν χρησιμοποιώντας τις υπηρεσίες WebDav και Exchange Web του Exchange Server. Το API υποστηρίζει επίσης λειτουργίες Unified Messaging και αυτόματη ανακάλυψη των ρυθμίσεων του Exchange Server με βάση τα καθορισμένα διαπιστευτήρια.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Πλήρης λύση μοτίβου επανάληψης
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Το Aspose.Email για .NET σάς επιτρέπει να υπολογίζετε εύκολα και αξιόπιστα τις ημερομηνίες και τις ώρες εμφάνισης ακόμη και για τα πιο περίπλοκα μοτίβα επανάληψης. Μπορείτε να παράγετε και να καταναλώνετε δυναμικά μοτίβα επανάληψης στη μορφή iCalendar RFC (2445). Μπορείτε να επιλέξετε να χρησιμοποιείτε ετήσια, μηνιαία, εβδομαδιαία, ημερήσια, ωριαία, λεπτά και δευτερεύοντα μοτίβα επανάληψης και μπορείτε να αναπαριστάτε μοτίβα επανάληψης στα παράθυρα, στον ιστό ή στις εφαρμογές σας για κινητές συσκευές.
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message Αρχεία αποθήκευσης
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     Η βιβλιοθήκη email μπορεί να φορτώσει αρχεία PST και OST του Microsoft Outlook από ένα αντικείμενο ροής ή μια θέση δίσκου, προκειμένου να ανακτήσει την πλήρη ιεραρχία φακέλων και να διαβάσει λεπτομέρειες σχετικά με το μήνυμα, όπως θέμα, αποστολέα, παραλήπτη ή εξαγωγή μηνυμάτων με συνημμένα.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      Microsoft Office Automation – Δεν απαιτείται
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     Το Aspose.Email για .NET έχει δημιουργηθεί χρησιμοποιώντας διαχειριζόμενο κώδικα που δεν χρειάζεται να εγκατασταθεί στο μηχάνημα το Microsoft Office ή το Microsoft Outlook για να λειτουργήσει με την επεξεργασία email. Είναι μια τέλεια εναλλακτική λύση αυτοματισμού του Microsoft Outlook για δυναμικό χειρισμό αρχείων μηνυμάτων καθώς και για αποστολή και λήψη email.
     </p>
    </div>
   </div>

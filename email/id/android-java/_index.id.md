@@ -232,14 +232,14 @@ description: Pustaka email memungkinkan untuk mengakses, membaca, dan memanipula
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     Impor dan ekspor format pesan yang sesuai dengan RFC822
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     Baca dan manipulasi berbagai jenis pesan melalui API produk
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: Pustaka email memungkinkan untuk mengakses, membaca, dan memanipula
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     Menghasilkan dan mengkonsumsi pola pengulangan di iCalendar (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

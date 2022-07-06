@@ -202,14 +202,14 @@ description: E-mailová aplikace SharePoint pro export EML do MSG spolu s e-mail
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     Vzájemně převádějte EML a MSG z knihovny dokumentů SharePoint
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Synchronizujte soubory s FTP serverem a DropBoxem
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: E-mailová aplikace SharePoint pro export EML do MSG spolu s e-mail
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Synchronizujte soubory s DropBoxem</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     Vzájemná konverze formátů MSG a EML
     </h2>
     <p>
      Aspose.Email pro SharePoint podporuje nejoblíbenější formáty zpráv. Aplikace Email Conversion App také poskytuje možnost inter-konvertovat podporované soubory zpráv bez ztráty jakýchkoli informací.
@@ -238,7 +238,7 @@ description: E-mailová aplikace SharePoint pro export EML do MSG spolu s e-mail
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     Synchronizujte e-maily a soubory přímo ze SharePointu
     </h2>
     <p>
      Aspose.Email pro SharePoint se může připojit k serverům FTP, POP3, IMAP a Microsoft Exchange pro synchronizaci e-mailů přímo z aplikací SharePoint. Navíc aplikace umožňuje připojit se k FTP serveru a odesílat soubory z knihovny dokumentů SharePoint.

@@ -18,7 +18,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal Speicherdateien PST and Offline Speicherdateien OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Aspose.Email für Java kann Outlook-E-Mails erstellen, E-Mails analysieren oder Nachrichtenformate wie MSG, EML, MBOX, PST, OST und MHT aus Java-Anwendungen konvertieren. Die API kann Nachrichteninhalte, Anhänge, Header und MAPI-Eigenschaften sowie die Fähigkeit zum Senden und Empfangen von E-Mails über eine Reihe gängiger Protokolle manipulieren. Es bietet auch die Möglichkeit, Nachrichtenspeicherdokumente wie Persönlich zu verwalten Speicherdateien PST und offline Speicherdateien OST. Sie können E-Mails auflisten, E-Mails extrahieren, Nachrichten gemäß Ihren Anwendungsspezifikationen zu Speicherdateien hinzufügen oder daraus entfernen. Die Java-E-Mail-Bibliothek ermöglicht die Arbeit mit Outlook-Kontaktdateien (VCF).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     Erstellen und extrahieren Sie PST- und OST-Dateien
     </li>
     <li>
      Nachrichten in PST verwalten
@@ -99,7 +99,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Erstellen Sie einfache und HTML-E-Mails
     </li>
     <li>
      Sortenformate laden
@@ -126,7 +126,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
      Kopfzeilen verwalten
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Lesen und schreiben Sie in den Thunderbird-Mailspeicher
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     Erstellen und bearbeiten Sie Nachrichten über die API
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     Anhänge hinzufügen, extrahieren und bearbeiten
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     Durchsuchen und lesen Sie verschachtelte E-Mail-Anhänge
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     Unterstützung mehrerer Verbindungen für IMAP-Sicherungs- und Wiederherstellungsvorgänge
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     Erstellen Sie ICF- und VCF v3.0-Dateien
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     Erstellen und verwalten Sie ein In-Place-Archiv in Office 365
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.E-Mail Java. Mail, MIME und iCalander SDK für Java zum Send
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     Geben Sie Erstellungs- und Änderungsdaten für ICS an
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     E-Mail-Versand über SMTP, POP3 und IMAP
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     Die API ermöglicht das Erstellen und Formatieren von Nachrichten, das Anhängen von Dateien und Bildern sowie das Senden an E-Mail-Adressen über das SMTP-Protokoll. Eine weitere Funktion, die die API bietet, ist die Anmeldung bei POP3-Servern über Benutzername und Passwort. Über die APOP-Authentifizierungsfunktion der API ist es einfach, die vollständige Nachricht oder nur die Kopfzeilen abzurufen, die Postfachgröße und die Anzahl der Nachrichten anzuzeigen, Nachrichten vom Server zu löschen und vieles mehr. Einige der API-unterstützten IMAP-Protokollfunktionen wie Authentifizierung, Erstellen, Auswählen, Entfernen, Abfragen von Ordnern, Abrufen und Speichern von Nachrichten und Ändern von Nachrichten-Flags.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      Verwaltung von Kalenderobjekten
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Die Aspose.Email iCalendar-API ermöglicht das Erstellen, Extrahieren und Speichern von Outlook-Kalenderobjekten in verschiedenen Formaten. Es bietet die Möglichkeit, als MSG- oder ICS-Dokumente zu speichern sowie Besprechungsanfragen über Nachrichtensendeprotokolle abzurufen, zu senden, zu aktualisieren und zu stornieren.
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message Speicherdateien
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Aspose.Email for Java API ermöglicht die Verwaltung von Outlook-Speicherformaten. Sie können PST- und OST-Dateien von der Festplatte oder einem Stream laden, Ordner- und Unterordnerinformationen aus dem Nachrichtenarchiv abrufen, nachrichtenspezifische Details wie Betreff, Absender und Empfänger abrufen und Nachrichten entweder auf der Festplatte oder im Stream speichern.
     </p>
     <p>
      Abgesehen vom Analysieren einer vorhandenen PST-Datei bietet die Bibliothek auch die Möglichkeit, eine PST-Datei von Grund auf neu zu erstellen und Nachrichten zu einem beliebigen Ordner davon hinzuzufügen.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      Erstellen Sie PST von Grund auf neu und fügen Sie eine Nachricht aus einer Datei hinzu - Java
      </h3>
      <pre><code class="java">// eine Instanz von PersonalStorage erstellen
 

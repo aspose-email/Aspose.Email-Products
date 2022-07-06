@@ -18,7 +18,7 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal 存儲文件 (PST) and Offline 存儲文件 (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Aspose.Email for .NET 使開發人員可以更輕鬆地使用多種 Microsoft Outlook 和 Mozilla Thunderbird 格式，例如 MSG、EML、EMLX、PST、OST、MBOX 和 MHT，並提供管理消息存儲文件的能力 比如個人 存儲文件 (PST) 和離線 存儲文件 (OST) 和 MBOX. 開發人員可以使用 API 通過多種流行協議（如 POP3、IMAP 和 SMTP）發送和接收電子郵件，或通過 WebDav 和 Exchange Web 服務連接 Microsoft Exchange Server 以發送和接收帶有附件的電子郵件，並從服務器中列出或刪除消息。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     創建 PST 和 OST 文件
     </li>
     <li>
      在 PST 中管理消息
@@ -99,7 +99,7 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     創建純文本和 HTML 電子郵件
     </li>
     <li>
      加載各種格式
@@ -126,7 +126,7 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
      管理標題
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     讀取和寫入 Thunderbird 郵件存儲
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
     </li>
     <li>
      <b>
-      Others:
+      其他：
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     發送帶有 HTML 正文和附件的電子郵件
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     郵件合併和批量郵件發送功能
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     列出和下載來自 POP3 和 IMAP 郵件服務器的郵件
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     通過 Microsoft Exchange 服務器列出、下載和發送消息
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     使用 iCalendar 創建和更新任務
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     Manipulate message Personal 和離線 storage files
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     將消息、聯繫人、任務、便箋、日曆項目和分發列表添加到 PST
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     從 PST 中提取消息、聯繫人和日曆項目
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     將嵌入式對象和附件添加到電子郵件
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     包括文本和 HTML 郵件正文
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: C# ASP.NET VB.NET 用於 Outlook Thunderbird 和其他文件格式�
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     遞歸 IMAP 和 POP3 操作的多連接支持
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive 電子郵件 via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Aspose.Email for .NET 使您能夠創建帶有附件、HTML 格式和圖像的複雜消息，並使用 SMTP 協議發送電子郵件。 它還允許您通過用戶名和密碼或 APOP 身份驗證登錄到 POP3 服務器，以執行接收電子郵件以及查看郵箱大小和郵件計數、檢索完整郵件或僅標題、從服務器刪除郵件等操作.
     </p>
     <p>
      API 還支持 IMAP 協議功能，包括身份驗證、創建、刪除、選擇、查詢文件夾、獲取和保存消息、更改消息標誌和基本 IMAP 命令。
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      連接到 Microsoft Exchange 服務器
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. 電子郵件 and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     Aspose.Email for .NET 提供與 Microsoft Exchange Server 連接以執行多項操作的能力。您可以列出任何文件夾中的消息、下載消息並將它們保存為支持的消息格式。 電子郵件 還可以使用 Exchange Server 的 WebDav 和 Exchange Web 服務發送會議邀請。 API 還支持基於指定憑據的統一消息操作和 Exchange Server 設置的自動發現。
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      完整的複發模式解決方案
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Aspose.Email for .NET 允許您輕鬆可靠地計算發生日期和時間，即使是最複雜的重複模式。 您可以動態生成和使用 iCalendar RFC (2445) 格式的重複模式。 您可以選擇使用每年、每月、每週、每天、每小時、每分鐘和第二次重複模式，並且可以在 Windows、Web 或移動應用程序中表示重複模式。
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message 存儲文件
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     電子郵件庫可以從流對像或磁盤位置加載 Microsoft Outlook PST 和 OST 文件，以便檢索完整的文件夾層次結構並讀取郵件特定的詳細信息，如主題、發件人、收件人或提取帶有附件的郵件。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      微軟辦公自動化——不需要
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     Aspose.Email for .NET 使用託管代碼構建，無需在機器上安裝 Microsoft Office 或 Microsoft Outlook 即可處理電子郵件。 它是動態消息文件操作以及發送和接收電子郵件的完美 Microsoft Outlook 自動化替代方案。
     </p>
    </div>
   </div>

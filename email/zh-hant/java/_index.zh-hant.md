@@ -18,7 +18,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal 存儲文件 PST and Offline 存儲文件 OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Aspose.Email for Java 可以在 Java 應用程序中創建 Outlook 電子郵件、解析電子郵件或轉換消息格式，例如 MSG、EML、MBOX、PST、OST 和 MHT。 API 可以操縱消息內容、附件、標頭和 MAPI 屬性，以及通過許多流行協議發送和接收電子郵件的能力。 它還提供了管理消息存儲文檔的能力，例如 Personal 存儲文件 PST 和離線 存儲文件 OST. 您可以根據您的應用程序規範列出電子郵件、提取電子郵件、從存儲文件中添加或刪除消息。 Java 電子郵件庫允許使用 Outlook 聯繫人文件 (VCF)。
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     創建和提取 PST 和 OST 文件
     </li>
     <li>
      在 PST 中管理消息
@@ -99,7 +99,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     創建純文本和 HTML 電子郵件
     </li>
     <li>
      加載各種格式
@@ -126,7 +126,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
      管理標題
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     讀取和寫入 Thunderbird 郵件存儲
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     通過 API 創建和操作消息
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     添加、提取和操作附件
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     遍歷和閱讀嵌套的電子郵件附件
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     對 IMAP 備份和恢復操作的多連接支持
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     創建 ICF 和 VCF v3.0 文件
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     在 Office 365 中創建和管理就地存檔
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.Email Java。 Mail、MIME 和 iCalander SDK for Java 用於�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     指定 ICS 的創建和修改日期
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     通過 SMTP、POP3 和 IMAP 發送電子郵件
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     API 能夠創建和格式化消息、附加文件和圖像以及通過 SMTP 協議將其發送到電子郵件地址。 API 提供的另一個功能是通過用戶名和密碼登錄 POP3 服務器。 通過 API 的 APOP 身份驗證功能，可以輕鬆獲取完整郵件或僅郵件頭、查看郵箱大小和郵件數、從服務器刪除郵件等等。 很少有 API 支持 IMAP 協議功能，例如身份驗證、創建、選擇、刪除、查詢文件夾、獲取和保存消息以及更改消息標誌。
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      日曆對像管理
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar API 能夠以各種格式創建、提取和保存 Outlook 日曆對象。 它提供了保存為 MSG 或 ICS 文檔以及通過消息發送協議檢索、發送、更新和取消會議請求的功能。
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message 存儲文件
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Aspose.Email for Java API 允許管理 Outlook 存儲格式。 您可以從磁盤或流中加載 PST 和 OST 文件，從郵件存檔中獲取文件夾和子文件夾信息，檢索郵件特定的詳細信息，例如主題、發件人、收件人，並將郵件保存到磁盤或流中。
     </p>
     <p>
      除了解析現有的 PST 之外，該庫還提供了從頭開始創建 PST 文件並將消息添加到其中的任何文件夾的方法。
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      從頭開始創建 PST 並從文件中添加消息 - Java
      </h3>
      <pre><code class="java">// 創建個人存儲實例
 

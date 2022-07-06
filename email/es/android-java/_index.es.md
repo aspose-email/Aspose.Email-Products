@@ -232,14 +232,14 @@ description: La biblioteca de correo permite acceder, leer y manipular archivos 
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     Importar y exportar formato de mensaje compatible con RFC822
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     Lea y manipule diferentes tipos de mensajes a través de la API del producto
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: La biblioteca de correo permite acceder, leer y manipular archivos 
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     Producir y consumir patrones de recurrencia en iCalendar (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

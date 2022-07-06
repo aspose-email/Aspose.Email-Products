@@ -18,7 +18,7 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal Pliki do przechowywania (PST) and Offline Pliki do przechowywania (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Aspose.Email dla .NET ułatwia programistom pracę z wieloma formatami Microsoft Outlook i Mozilla Thunderbird, takimi jak MSG, EML, EMLX, PST, OST, MBOX i MHT, a także zapewnia możliwość zarządzania plikami przechowywania wiadomości takie jak Osobiste Pliki do przechowywania (PST) i offline Pliki do przechowywania (OST) i MBOX. Programiści mogą używać interfejsu API do wysyłania i odbierania wiadomości e-mail za pośrednictwem wielu popularnych protokołów, takich jak POP3, IMAP i SMTP, lub łączyć się z serwerem Microsoft Exchange za pośrednictwem usług WebDav i Exchange Web Services, aby wysyłać i odbierać wiadomości e-mail z załącznikami oraz wyświetlać lub usuwać wiadomości z serwera.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Twórz pliki PST i OST
     </li>
     <li>
      Zarządzaj wiadomościami w PST
@@ -99,7 +99,7 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Twórz zwykłe i HTML e-maile
     </li>
     <li>
      Załaduj różne formaty
@@ -126,7 +126,7 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
      Zarządzaj nagłówkami
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Odczytywanie i zapisywanie w pamięci poczty Thunderbird
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
     </li>
     <li>
      <b>
-      Others:
+      Inni:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     Wyślij e-mail z treścią HTML i załącznikami
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     Funkcja korespondencji seryjnej i masowego wysyłania poczty
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     Wyświetlaj i pobieraj wiadomości z serwerów pocztowych POP3 i IMAP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     Wyświetlaj, pobieraj i wysyłaj wiadomości za pośrednictwem serwerów Microsoft Exchange
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     Twórz i aktualizuj zadania za pomocą iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     Manipulowanie wiadomością Pliki pamięci osobistej i offline
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     Dodaj wiadomości, kontakty, zadania, notatki, pozycje kalendarza i listy dystrybucyjne do PST
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     Wyodrębnij wiadomości, kontakty i pozycje kalendarza z PST
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     Dodawaj osadzone obiekty i załączniki do wiadomości e-mail
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     Dołącz tekst i treść wiadomości HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: C# ASP.NET VB.NET Biblioteka przetwarzania poczty e-mail dla progra
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     Obsługa wielu połączeń dla rekurencyjnych operacji IMAP i POP3
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive E-maile via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Aspose.Email for .NET umożliwia tworzenie złożonych wiadomości z załącznikami, formatowaniem HTML i obrazami oraz wysyłanie wiadomości e-mail przy użyciu protokołu SMTP. Umożliwia także logowanie się do serwerów POP3 za pomocą nazwy użytkownika i hasła lub uwierzytelnianie APOP w celu wykonywania operacji, takich jak odbieranie wiadomości e-mail, a także wyświetlanie rozmiaru skrzynki pocztowej i liczby wiadomości, pobieranie pełnej wiadomości lub tylko nagłówków, usuwanie wiadomości z serwera i tak dalej .
     </p>
     <p>
      API obsługuje również funkcje protokołu IMAP, w tym uwierzytelnianie, tworzenie, usuwanie, wybieranie, wyszukiwanie folderów, pobieranie i zapisywanie wiadomości, zmianę flag wiadomości i podstawowe polecenia IMAP.
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Połącz się z serwerem Microsoft Exchange
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. E-maile and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     Aspose.Email for .NET zapewnia możliwość łączenia się z serwerem Microsoft Exchange w celu wykonania kilku operacji. Możesz wyświetlać wiadomości z dowolnego folderu, pobierać wiadomości i zapisywać je w obsługiwanych formatach wiadomości. E-maile zaproszenia na spotkania można również wysyłać za pomocą usług WebDav i Exchange Web Services serwera Exchange. Interfejs API obsługuje również operacje Unified Messaging i automatyczne wykrywanie ustawień serwera Exchange na podstawie określonych poświadczeń.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Kompletne rozwiązanie wzorców nawrotów
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Aspose.Email dla platformy .NET umożliwia łatwe i niezawodne obliczanie dat i godzin wystąpienia nawet najbardziej złożonych wzorców powtarzalności. Możesz dynamicznie tworzyć i wykorzystywać wzorce cyklu w formacie iCalendar RFC (2445). Możesz wybrać roczne, miesięczne, tygodniowe, dzienne, godzinowe, minutowe i po drugie wzorce powtarzania i możesz reprezentować wzorce powtarzania w swoich aplikacjach Windows, internetowych lub mobilnych.
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message Pliki do przechowywania
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     Biblioteka poczty e-mail może ładować pliki PST i OST programu Microsoft Outlook z obiektu strumieniowego lub lokalizacji na dysku w celu pobrania pełnej hierarchii folderów i odczytania szczegółów wiadomości, takich jak temat, nadawca, odbiorca lub wyodrębnienie wiadomości z załącznikami.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      Automatyzacja Microsoft Office – nie jest potrzebna
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     Aspose.Email for .NET jest zbudowany przy użyciu kodu zarządzanego, który nie wymaga instalowania na komputerze Microsoft Office lub Microsoft Outlook, aby pracować z przetwarzaniem poczty e-mail. Jest to idealna alternatywa automatyzacji Microsoft Outlook do dynamicznej manipulacji plikami wiadomości, a także do wysyłania i odbierania wiadomości e-mail.
     </p>
    </div>
   </div>

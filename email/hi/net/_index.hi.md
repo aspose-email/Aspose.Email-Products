@@ -18,7 +18,7 @@ description: आउटलुक थंडरबर्ड और अन्य फ
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal भंडारण फ़ाइलें (PST) and Offline भंडारण फ़ाइलें (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Aspose.Email for .NET डेवलपर्स के लिए MSG, EML, EMLX, PST, OST, MBOX और MHT जैसे कई Microsoft आउटलुक और मोज़िला थंडरबर्ड प्रारूपों के साथ काम करना आसान बनाता है और साथ ही संदेश भंडारण फ़ाइलों को प्रबंधित करने की क्षमता प्रदान करता है। जैसे व्यक्तिगत भंडारण फ़ाइलें (PST) और ऑफलाइन भंडारण फ़ाइलें (ओएसटी) और एमबीओएक्स. डेवलपर्स कई लोकप्रिय प्रोटोकॉल जैसे पीओपी 3, आईएमएपी और एसएमटीपी के माध्यम से ईमेल भेजने और प्राप्त करने के लिए एपीआई का उपयोग कर सकते हैं या वेबडाव और एक्सचेंज वेब सेवाओं के माध्यम से माइक्रोसॉफ्ट एक्सचेंज सर्वर से जुड़ सकते हैं और संलग्नक के साथ ईमेल भेज और प्राप्त कर सकते हैं और सर्वर से संदेशों को सूचीबद्ध या हटा सकते हैं।
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: आउटलुक थंडरबर्ड और अन्य फ
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     पीएसटी और ओएसटी फाइलें बनाएं
     </li>
     <li>
      पीएसटी में संदेश प्रबंधित करें
@@ -99,7 +99,7 @@ description: आउटलुक थंडरबर्ड और अन्य फ
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     सादा और HTML ईमेल बनाएं
     </li>
     <li>
      प्रारूपों की विविधता लोड करें
@@ -126,7 +126,7 @@ description: आउटलुक थंडरबर्ड और अन्य फ
      हेडर प्रबंधित करें
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     थंडरबर्ड मेल स्टोरेज को पढ़ें और लिखें
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: आउटलुक थंडरबर्ड और अन्य फ
     </li>
     <li>
      <b>
-      Others:
+      अन्य:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: आउटलुक थंडरबर्ड और अन्य फ
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     HTML बॉडी और अटैचमेंट के साथ ईमेल भेजें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     मेल मर्ज और बल्क मेल भेजने की कार्यक्षमता
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     POP3 और IMAP मेल सर्वर से संदेशों की सूची बनाएं और डाउनलोड करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     Microsoft Exchange सर्वर के माध्यम से संदेशों को सूचीबद्ध करें, डाउनलोड करें और भेजें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     iCalendar . का उपयोग करके कार्य बनाएं और अपडेट करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: आउटलुक थंडरबर्ड और अन्य फ
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     संदेश में हेरफेर करें व्यक्तिगत और ऑफ़लाइन संग्रहण फ़ाइलें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     पीएसटी में संदेश, संपर्क, कार्य, नोट्स, कैलेंडर आइटम और वितरण सूचियां जोड़ें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     पीएसटी से संदेश, संपर्क और कैलेंडर आइटम निकालें
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: आउटलुक थंडरबर्ड और अन्य फ
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     ईमेल में एम्बेडेड ऑब्जेक्ट और अटैचमेंट जोड़ें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     टेक्स्ट और HTML मेल बॉडी शामिल करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: आउटलुक थंडरबर्ड और अन्य फ
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     पुनरावर्ती IMAP और POP3 संचालन के लिए बहु-कनेक्शन समर्थन
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive ईमेल via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Aspose.Email for .NET आपको संलग्नक, HTML स्वरूपण और छवियों के साथ जटिल संदेश बनाने और SMTP प्रोटोकॉल का उपयोग करके ईमेल भेजने का अधिकार देता है। यह आपको उपयोगकर्ता नाम और पासवर्ड या APOP प्रमाणीकरण द्वारा POP3 सर्वर पर लॉग इन करने की अनुमति देता है ताकि ईमेल प्राप्त करने के साथ-साथ मेलबॉक्स का आकार और संदेश की गिनती देखने के लिए, पूर्ण संदेश या सिर्फ हेडर को पुनः प्राप्त करने, सर्वर से संदेशों को हटाने आदि जैसे कार्य किए जा सकें। .
     </p>
     <p>
      एपीआई प्रमाणीकरण, बनाने, हटाने, चयन करने, फ़ोल्डरों को क्वेरी करने, संदेश प्राप्त करने और सहेजने, संदेश फ़्लैग बदलने और बुनियादी IMAP कमांड सहित IMAP प्रोटोकॉल सुविधाओं का भी समर्थन करता है।
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      माइक्रोसॉफ्ट एक्सचेंज सर्वर से कनेक्ट करें
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. ईमेल and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     Aspose.Email for .NET कई ऑपरेशन करने के लिए माइक्रोसॉफ्ट एक्सचेंज सर्वर से जुड़ने की क्षमता प्रदान करता है। आप किसी भी फ़ोल्डर से संदेशों को सूचीबद्ध कर सकते हैं, संदेशों को डाउनलोड कर सकते हैं और उन्हें समर्थित संदेश स्वरूपों में सहेज सकते हैं। ईमेल और एक्सचेंज सर्वर के वेबडाव और एक्सचेंज वेब सेवाओं का उपयोग करके मीटिंग आमंत्रण भी भेजे जा सकते हैं। एपीआई यूनिफाइड मैसेजिंग ऑपरेशंस और निर्दिष्ट क्रेडेंशियल्स के आधार पर एक्सचेंज सर्वर सेटिंग्स की ऑटो-डिस्कवरी का भी समर्थन करता है।
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      पूर्ण पुनरावृत्ति पैटर्न समाधान
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Aspose.Email for .NET आपको सबसे जटिल पुनरावृत्ति पैटर्न के लिए घटना तिथियों और समय की आसानी से और विश्वसनीय गणना करने की अनुमति देता है। आप iCalendar RFC (2445) स्वरूप में पुनरावर्तन प्रतिमान गतिशील रूप से उत्पन्न और उपभोग कर सकते हैं। आप वार्षिक, मासिक, साप्ताहिक, दैनिक, प्रति घंटा, सूक्ष्म और द्वितीय पुनरावृत्ति पैटर्न का उपयोग करना चुन सकते हैं, और अपने विंडोज़, वेब या मोबाइल एप्लिकेशन में पुनरावृत्ति पैटर्न का प्रतिनिधित्व कर सकते हैं।
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message भंडारण फ़ाइलें
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     ईमेल लाइब्रेरी माइक्रोसॉफ्ट आउटलुक पीएसटी और ओएसटी फाइलों को स्ट्रीम ऑब्जेक्ट या डिस्क स्थान से लोड कर सकती है ताकि पूर्ण फ़ोल्डर पदानुक्रम को पुनः प्राप्त किया जा सके और संदेश विशिष्ट विवरण जैसे विषय, प्रेषक, प्राप्तकर्ता या अनुलग्नकों के साथ संदेश निकालने के लिए पढ़ा जा सके।
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      माइक्रोसॉफ्ट ऑफिस ऑटोमेशन - जरूरत नहीं
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     .NET के लिए Aspose.Email को प्रबंधित कोड का उपयोग करके बनाया गया है जिसे ईमेल प्रोसेसिंग के साथ काम करने के लिए मशीन पर Microsoft Office या Microsoft Outlook को स्थापित करने की आवश्यकता नहीं है। यह गतिशील संदेश फ़ाइल हेरफेर के साथ-साथ ईमेल भेजने और प्राप्त करने के लिए एक आदर्श Microsoft आउटलुक स्वचालन विकल्प है।
     </p>
    </div>
   </div>

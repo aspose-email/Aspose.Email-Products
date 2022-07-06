@@ -14,11 +14,11 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C ++ هي واجهة برمجة تطبيقات لبرمجة البريد الإلكتروني تسهل على المطورين العمل مع عدد من التنسيقات مثل MSG و EML و EMLX و MHT. يمكن لمطوري التطبيقات إنشاء أو تحويل أو معالجة تنسيقات الرسائل الأكثر استخدامًا داخل تطبيقات C ++ الأصلية ، دون الاعتماد على أتمتة Office أو تطبيق Microsoft Outlook.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ يعتبر Aspose.Email for C ++ هو الأنسب لميزات إدارة البريد مثل تحرير المحتوى ، والتلاعب بالمستلمين ، واستخراج خصائص ومرفقات MAPI ومعالجتها بالإضافة إلى الميزات المتقدمة مثل إدارة ملفات تخزين الرسائل بما في ذلك PST و OST. حاليًا ، تدعم API بروتوكولات الاتصال SMTP و POP3 و IMAP لإرسال البريد الإلكتروني.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     قم بإنشاء ملفات PST و OST
     </li>
     <li>
      إدارة الرسائل في PST
@@ -84,7 +84,7 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     إنشاء رسائل بريد إلكتروني عادية و HTML
     </li>
     <li>
      تحميل مجموعة متنوعة من التنسيقات
@@ -232,7 +232,7 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    ميزات واجهة برمجة تطبيقات معالجة ملف البريد الإلكتروني وأرشيف الرسائل
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     تحميل وحفظ الرسائل من وإلى الملف أو الدفق
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     قم بإنشاء وتحديث المهام باستخدام واجهة برمجة تطبيقات iCalendar العامة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     إنشاء ملفات التخزين ومعالجتها واستخراجها
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     قم بتضمين نص ونص بريد مستند إلى HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     يدعم بروتوكولات الاتصال SMTP و POP3 و IMAP
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: مكتبة البريد الإلكتروني C++ لإنشاء مع�
      إدارة رسائل MIME عبر مكتبة C++
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email لـ C ++ يدعم على نطاق واسع تنسيقات MIME بما في ذلك EML و EMLX. تتيح هذه الإمكانية للمطورين إنشاء وتعيين واستخراج المحتويات من رسائل MIME وإدارة المرفقات والكائنات المضمنة وتحويل ملفات EML و EMLX إلى تنسيقات ملفات MSG و HTML و MHTML.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     إدارة تنسيقات ملفات رسائل Outlook
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email لـ C ++ قادر على إنشاء رسائل Outlook من البداية بالإضافة إلى توفير القدرة على معالجة ملفات البريد الإلكتروني الموجودة. يمكن للمطورين تحميل وحفظ جميع أنواع عناصر Outlook بما في ذلك جهات الاتصال والمهام والملاحظات وعناصر التقويم وقوائم التوزيعات. علاوة على ذلك ، تسمح مكتبة البريد الإلكتروني C ++ بتحليل جميع كائنات Outlook ومعالجتها عبر واجهة برمجة التطبيقات العامة.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar أنماط التكرار
+     إنتاج واستهلاك iCalendar أنماط التكرار
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     تسمح المكتبة للمطورين بإنشاء واستهلاك أنماط التكرار برمجيًا بتنسيق iCalendar (RFC 2445) باستخدام نموذج كائن بديهي. تضمن خبرتنا أن واجهة iCalendar سهلة الاستخدام مع منحك تحكمًا كاملاً في الإنتاج والاستهلاك المتكرر.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     إنشاء وفحص واستخراج العناصر من ملفات PST و OST
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     Aspose.Email لـ C ++ يسمح بإدارة تنسيقات تخزين Outlook مثل PST و OST. تنفذ API عمليات مختلفة على تنسيقات التخزين الحالية بالإضافة إلى إنشاء مستندات PST جديدة من البداية. عمليات أخرى محتملة ، يمكن للمرء أن يؤديها مثل قائمة المجلدات والرسائل ، إضافة أو استخراج الرسائل وجهات الاتصال والمجلدات.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      أنشئ PST وأضف رسالة إلى Inbox - C ++
      </h3>
      <pre><code class="cpp">// إنشاء ملف PST من البداية       
 

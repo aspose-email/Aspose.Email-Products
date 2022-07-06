@@ -18,7 +18,7 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal Soubory úložiště (PST) and Offline Soubory úložiště (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Aspose.Email pro .NET usnadňuje vývojářům práci s řadou formátů Microsoft Outlook a Mozilla Thunderbird, jako jsou MSG, EML, EMLX, PST, OST, MBOX a MHT, a také poskytuje možnost spravovat soubory úložiště zpráv. jako například Osobní Soubory úložiště (PST) a offline Soubory úložiště (OST) a MBOX. Vývojáři mohou používat API k odesílání a přijímání e-mailů prostřednictvím řady oblíbených protokolů, jako jsou POP3, IMAP a SMTP, nebo se mohou připojit k serveru Microsoft Exchange Server prostřednictvím WebDav a Exchange Web Services a odesílat a přijímat e-maily s přílohami a vypisovat nebo odstraňovat zprávy ze serveru.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Vytvářejte soubory PST a OST
     </li>
     <li>
      Správa zpráv v PST
@@ -99,7 +99,7 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Vytvářejte prosté a HTML e-maily
     </li>
     <li>
      Načtení různých formátů
@@ -126,7 +126,7 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
      Správa záhlaví
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Čtení a zápis do úložiště pošty Thunderbird
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
     </li>
     <li>
      <b>
-      Others:
+      ostatní:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     Odešlete e-mail s tělem HTML a přílohami
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     Funkce hromadné korespondence a hromadného odesílání pošty
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     Seznam a stahování zpráv z poštovních serverů POP3 a IMAP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     Seznam, stahování a odesílání zpráv prostřednictvím serverů Microsoft Exchange
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     Vytvářejte a aktualizujte úkoly pomocí iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     Manipulace se zprávami Osobní a offline soubory úložiště
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     Přidejte zprávy, kontakty, úkoly, poznámky, položky kalendáře a distribuční seznamy do PST
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     Extrahujte zprávy, kontakty a položky kalendáře z PST
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     Přidejte do e-mailů vložené objekty a přílohy
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     Zahrnout text a tělo HTML pošty
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: C# ASP.NET VB.NET Knihovna pro zpracování e-mailů pro Outlook Th
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     Podpora více připojení pro rekurzivní operace IMAP a POP3
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive e-maily via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Aspose.Email for .NET vám umožňuje vytvářet složité zprávy s přílohami, formátováním HTML a obrázky a odesílat e-maily pomocí protokolu SMTP. Umožňuje vám také přihlásit se na servery POP3 pomocí uživatelského jména a hesla nebo ověřování APOP, abyste mohli provádět operace, jako je příjem e-mailů, stejně jako zobrazení velikosti poštovní schránky a počtu zpráv, načtení celé zprávy nebo pouze záhlaví, mazání zpráv ze serveru atd. .
     </p>
     <p>
      API také podporuje funkce protokolu IMAP včetně ověřování, vytváření, mazání, výběru, dotazování na složky, získávání a ukládání zpráv, změna příznaků zpráv a základních příkazů IMAP.
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Připojte se k serveru Microsoft Exchange Server
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. e-maily and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     Aspose.Email for .NET poskytuje možnost připojení k serveru Microsoft Exchange Server za účelem provedení několika operací. Můžete zobrazit seznam zpráv z libovolné složky, stahovat zprávy a ukládat je v podporovaných formátech zpráv. e-maily a pozvánky na schůzky lze také odesílat pomocí WebDav a Exchange Web Services serveru Exchange. API také podporuje operace Unified Messaging a automatické zjišťování nastavení Exchange Server na základě zadaných pověření.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Kompletní řešení vzoru opakování
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Aspose.Email for .NET vám umožňuje snadno a spolehlivě vypočítat data a časy výskytu i pro ty nejsložitější vzorce opakování. Vzory opakování můžete dynamicky vytvářet a používat ve formátu iCalendar RFC (2445). Můžete si vybrat, zda budete používat roční, měsíční, týdenní, denní, hodinové, minutové a sekundové vzorce opakování a můžete reprezentovat vzorce opakování ve vašich oknech, webových nebo mobilních aplikacích.
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message Soubory úložiště
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     E-mailová knihovna může načíst soubory Microsoft Outlook PST a OST z objektu streamu nebo umístění na disku, aby bylo možné načíst úplnou hierarchii složek a přečíst konkrétní podrobnosti zprávy, jako je předmět, odesílatel, příjemce nebo extrahovat zprávy s přílohami.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      Automatizace Microsoft Office – není potřeba
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     Aspose.Email for .NET je vytvořen pomocí spravovaného kódu, který pro práci se zpracováním e-mailů nevyžaduje instalaci sady Microsoft Office nebo Microsoft Outlook do počítače. Je to dokonalá automatizační alternativa Microsoft Outlook pro manipulaci se soubory dynamických zpráv a také pro odesílání a přijímání e-mailů.
     </p>
    </div>
   </div>

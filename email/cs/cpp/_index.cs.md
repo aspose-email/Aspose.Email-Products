@@ -14,11 +14,11 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C++ je rozhraní API pro programování e-mailů, které vývojářům usnadňuje práci s řadou formátů, jako jsou MSG, EML, EMLX a MHT. Vývojáři aplikací mohou vytvářet, převádět nebo manipulovat s nejběžněji používanými formáty zpráv v rámci nativních aplikací C++, aniž by se spoléhali na Office Automation nebo aplikaci Microsoft Outlook.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email pro C++ se nejlépe hodí pro funkce správy pošty, jako je úprava obsahu, manipulace s příjemci, extrakce a manipulace s vlastnostmi a přílohami MAPI, stejně jako pro pokročilé funkce, jako je správa souborů úložiště zpráv včetně PST a OST. V současné době API podporuje komunikační protokoly SMTP, POP3 a IMAP pro přenos e-mailů.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Vytvářejte soubory PST a OST
     </li>
     <li>
      Správa zpráv v PST
@@ -84,7 +84,7 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Vytvářejte prosté a HTML e-maily
     </li>
     <li>
      Načtení různých formátů
@@ -232,7 +232,7 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    Funkce rozhraní API pro zpracování souborů e-mailu a archivu zpráv
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     Načítání a ukládání zpráv do a ze souboru nebo streamu
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     Vytvářejte a aktualizujte úlohy pomocí veřejného rozhraní API iCalendar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     Vytvářejte, manipulujte a extrahujte soubory úložiště
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     Zahrnout text a tělo pošty založené na HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     Podporuje komunikační protokoly SMTP, POP3 a IMAP
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: E-mailová knihovna C++ pro vytváření manipulace a převod soubo
      Správa MIME zpráv prostřednictvím knihovny C++
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email pro C++ rozsáhle podporuje formáty MIME včetně EML a EMLX. Tato schopnost umožňuje vývojářům vytvářet, nastavovat a extrahovat obsah ze zpráv MIME, spravovat přílohy a vložené objekty, převádět soubory EML a EMLX do formátů souborů MSG, HTML a MHTML.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     Správa formátů souborů zpráv aplikace Outlook
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email pro C++ je schopen vytvářet zprávy aplikace Outlook od začátku a také poskytuje možnost manipulovat se stávajícími e-mailovými soubory. Vývojáři mohou načítat a ukládat všechny typy položek aplikace Outlook včetně kontaktů, úkolů, poznámek, položek kalendáře a distribučních seznamů. Kromě toho e-mailová knihovna C++ umožňuje analyzovat a manipulovat se všemi objekty aplikace Outlook prostřednictvím veřejného rozhraní API.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar Vzory opakování
+     Vytvářejte a konzumujte iCalendar Vzory opakování
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     Knihovna umožňuje vývojářům programově generovat a využívat vzory opakování ve formátu iCalendar (RFC 2445) pomocí intuitivního objektového modelu. Naše odborné znalosti zajišťují, že se rozhraní iCalendar snadno používá a zároveň vám poskytuje úplnou kontrolu nad výrobou a spotřebou opakování.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     Vytvářejte, kontrolujte a extrahujte položky ze souborů PST a OST
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     Aspose.Email pro C++ umožňuje správu formátů úložiště aplikace Outlook, jako je PST a OST. API provádí různé operace se stávajícími formáty úložiště a také vytváří nové dokumenty PST od začátku. Další možné operace, jako je výpis složek a zpráv, přidávání nebo extrahování zpráv, kontaktů a složek.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      Vytvořte PST a přidejte zprávu do Inboxu - C++
      </h3>
      <pre><code class="cpp">// vytvoření souboru PST od začátku       
 

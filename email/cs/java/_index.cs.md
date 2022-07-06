@@ -18,7 +18,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal Soubory úložiště PST and Offline Soubory úložiště OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Aspose.Email pro Java může vytvářet e-maily aplikace Outlook, analyzovat e-maily nebo převádět formáty zpráv, jako jsou MSG, EML, MBOX, PST, OST a MHT, z aplikací Java. Rozhraní API může manipulovat s obsahem zpráv, přílohami, záhlavími a vlastnostmi MAPI a také se schopností odesílat a přijímat e-maily prostřednictvím řady oblíbených protokolů. Poskytuje také možnost spravovat dokumenty úložiště zpráv, jako je Osobní Soubory úložiště PST a offline Soubory úložiště OST. Můžete uvést e-maily, extrahovat e-maily, přidávat nebo odebírat zprávy ze souborů úložiště podle specifikací vaší aplikace. Knihovna Java Email umožňuje pracovat se souborem kontaktů aplikace Outlook (VCF).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     Vytvářejte a extrahujte soubory PST a OST
     </li>
     <li>
      Správa zpráv v PST
@@ -99,7 +99,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Vytvářejte prosté a HTML e-maily
     </li>
     <li>
      Načíst různé formáty
@@ -126,7 +126,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
      Správa záhlaví
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Čtení a zápis do úložiště pošty Thunderbird
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     Vytvářejte a manipulujte se zprávami prostřednictvím API
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     Přidávejte, extrahujte a manipulujte s přílohami
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     Procházet a číst vnořené e-mailové přílohy
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     Podpora více připojení pro operace zálohování a obnovy IMAP
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     Vytvářejte soubory ICF a VCF v3.0
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     Vytvářejte a spravujte archiv na místě v Office 365
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.Email Java. Mail, MIME a iCalander SDK pro Java pro odesíl�
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     Zadejte data vytvoření a úpravy pro ICS
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     Posílání e-mailů přes SMTP, POP3 a IMAP
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     API umožňuje vytvářet a formátovat zprávy, připojovat soubory a obrázky a také je odesílat na e-mailové adresy prostřednictvím protokolu SMTP. Další možností, kterou API poskytuje, je přihlašování na servery POP3 pomocí uživatelského jména a hesla. Prostřednictvím autentizační funkce API APOP je snadné získat celou zprávu nebo jen záhlaví, zobrazit velikost poštovní schránky a počet zpráv, odstranit zprávy ze serveru a mnoho dalšího. Několik funkcí protokolu IMAP s podporou API, jako je ověřování, vytváření, výběr, odstraňování, dotazování na složky, získávání a ukládání zpráv a změna příznaků zpráv.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      Správa objektů kalendáře
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar API umožňuje vytvářet, extrahovat a ukládat objekty kalendáře aplikace Outlook v různých formátech. Poskytuje možnost ukládat jako dokumenty MSG nebo ICS a také načítat, odesílat, aktualizovat a rušit žádosti o schůzku prostřednictvím protokolů pro odesílání zpráv.
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message Soubory úložiště
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Aspose.Email for Java API umožňuje správu formátů úložiště aplikace Outlook. Můžete načíst soubory PST a OST z disku nebo streamu, získat informace o složkách a podsložkách z archivu zpráv, načíst podrobnosti specifické pro zprávu, jako je předmět, odesílatel, příjemce a uložit zprávy na disk nebo stream.
     </p>
     <p>
      Kromě analýzy existujícího souboru PST poskytuje knihovna také prostředky k vytvoření souboru PST od začátku a přidání zpráv do libovolné jeho složky.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      Vytvořte PST od začátku a přidejte zprávu ze souboru - Java
      </h3>
      <pre><code class="java">// vytvoří instanci PersonalStorage
 

@@ -18,7 +18,7 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal Penyimpanan File (PST) and Offline Penyimpanan File (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Aspose.Email untuk .NET memudahkan pengembang untuk bekerja dengan sejumlah format Microsoft Outlook dan Mozilla Thunderbird seperti MSG, EML, EMLX, PST, OST, MBOX dan MHT serta menyediakan kemampuan untuk mengelola file penyimpanan pesan seperti Pribadi Penyimpanan File (PST) dan Offline Penyimpanan File (OST) dan MBOX. Pengembang dapat menggunakan API untuk mengirim dan menerima email melalui sejumlah protokol populer seperti POP3, IMAP dan SMTP atau terhubung dengan Microsoft Exchange Server melalui WebDav dan Exchange Web Services untuk mengirim dan menerima email dengan lampiran dan daftar atau menghapus pesan dari server.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Buat file PST dan OST
     </li>
     <li>
      Kelola Pesan di PST
@@ -99,7 +99,7 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Buat email biasa dan HTML
     </li>
     <li>
      Muat Berbagai Format
@@ -126,7 +126,7 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
      Kelola Tajuk
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Membaca dan Menulis ke Penyimpanan Surat Thunderbird
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
     </li>
     <li>
      <b>
-      Others:
+      Yang lain:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     Kirim email dengan isi dan lampiran HTML
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     Penggabungan surat dan fungsionalitas pengiriman surat massal
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     Daftar dan unduh pesan dari server email POP3 dan IMAP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     Daftar, unduh, dan kirim pesan melalui Microsoft Exchange Server
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     Buat dan perbarui tugas menggunakan iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     Memanipulasi pesan File penyimpanan pribadi dan Offline
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     Tambahkan pesan, kontak, tugas, catatan, item kalender, dan daftar distribusi ke PST
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     Ekstrak pesan, kontak, dan item kalender dari PST
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     Tambahkan objek dan lampiran yang disematkan ke email
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     Sertakan teks dan badan surat HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbir
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     Dukungan multi-koneksi untuk operasi IMAP dan POP3 rekursif
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive Email via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     Aspose.Email untuk .NET memberdayakan Anda untuk membuat pesan kompleks dengan lampiran, format HTML dan gambar, dan mengirim email menggunakan protokol SMTP. Ini juga memungkinkan Anda untuk masuk ke server POP3 dengan nama pengguna dan kata sandi atau otentikasi APOP untuk melakukan operasi seperti menerima email serta melihat ukuran kotak surat dan jumlah pesan, mengambil pesan lengkap atau hanya header, menghapus pesan dari server dan sebagainya. .
     </p>
     <p>
      API juga mendukung fitur protokol IMAP termasuk otentikasi, buat, hapus, pilih, kueri folder, dapatkan dan simpan pesan, ubah flag pesan, dan perintah IMAP dasar.
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Hubungkan ke Microsoft Exchange Server
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. Email and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     Aspose.Email untuk .NET menyediakan kemampuan untuk terhubung dengan Microsoft Exchange Server untuk melakukan beberapa operasi. Anda dapat membuat daftar pesan dari folder mana pun, mengunduh pesan, dan menyimpannya dalam format pesan yang didukung. Email dan undangan rapat juga dapat dikirim menggunakan WebDav dan Exchange Web Services Exchange Server. API juga mendukung operasi Perpesanan Terpadu dan penemuan otomatis pengaturan Exchange Server berdasarkan kredensial yang ditentukan.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Solusi Pola Pengulangan Lengkap
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Aspose.Email untuk .NET memungkinkan Anda menghitung tanggal dan waktu kemunculan dengan mudah dan andal bahkan untuk pola perulangan yang paling kompleks sekalipun. Anda dapat secara dinamis menghasilkan dan menggunakan pola pengulangan dalam format iCalendar RFC (2445). Anda dapat memilih untuk menggunakan pola perulangan tahunan, bulanan, mingguan, harian, per jam, menit dan detik, dan dapat mewakili pola perulangan di aplikasi windows, web, atau seluler Anda.
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message Penyimpanan File
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     Pustaka email dapat memuat file Microsoft Outlook PST dan OST dari objek aliran atau lokasi disk untuk mengambil hierarki folder penuh dan membaca detail spesifik pesan seperti subjek, pengirim, penerima, atau mengekstrak pesan dengan lampiran.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      Otomatisasi Microsoft Office – Tidak Diperlukan
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     Aspose.Email untuk .NET dibuat menggunakan kode terkelola yang tidak memerlukan Microsoft Office atau Microsoft Outlook untuk diinstal pada mesin untuk bekerja dengan pemrosesan email. Ini adalah alternatif otomatisasi Microsoft Outlook yang sempurna untuk manipulasi file pesan dinamis serta untuk mengirim dan menerima email.
     </p>
    </div>
   </div>

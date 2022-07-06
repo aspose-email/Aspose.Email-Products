@@ -11,27 +11,27 @@ description: किसी भी प्लेटफ़ॉर्म की प्
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email High Code APIs शामिल करें" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/hi/hi/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="/email/hi/net/" >}}
 विंडोज, आईओएस, मैकओएस और एंड्रॉइड के लिए एप्लिकेशन विकसित करने के लिए .NET फ्रेमवर्क, .NET कोर और ज़ामरीन प्लेटफॉर्म को लक्षित करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/hi/hi/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="/email/hi/java/" >}}
 जावा एसई या ईई पर आधारित डेस्कटॉप, वेब या किसी भी तरह के एप्लिकेशन के लिए नेटिव जावा एपीआई।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/hi/hi/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" productLink="/email/hi/cpp/" >}}
 C++ एप्लिकेशन में ईमेल संदेशों को बनाएं, हेरफेर करें या कनवर्ट करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/hi/hi/android-java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Android via Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" productLink="/email/hi/android-java/" >}}
 अपने Android मोबाइल एप्लिकेशन में आउटलुक ईमेल संदेशों में हेरफेर करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/hi/hi/sharepoint/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="SharePoint" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" productLink="/email/hi/sharepoint/" >}}
 ईमेल कनवर्ट करें और फ़ाइलों को SharePoint में FTP या ड्रॉपबॉक्स में सिंक्रनाइज़ करें।
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/hi/hi/python-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for" title="Python via .NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" productLink="/email/hi/python-net/" >}}
 ईमेल संदेश बनाने, हेरफेर करने, बदलने, भेजने या प्राप्त करने के लिए पायथन पुस्तकालय।
 {{< /blocks/products/pf/product >}}
 

@@ -18,7 +18,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal ملفات التخزين PST and Offline ملفات التخزين OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Aspose.Email الخاص بجافا يمكنه إنشاء رسائل بريد إلكتروني في Outlook أو تحليل رسائل البريد الإلكتروني أو تحويل تنسيقات الرسائل مثل MSG و EML و MBOX و PST و OST و MHT من داخل تطبيقات Java. يمكن لواجهة برمجة التطبيقات معالجة محتويات الرسائل والمرفقات والعناوين وخصائص MAPI بالإضافة إلى القدرة على إرسال واستقبال رسائل البريد الإلكتروني عبر عدد من البروتوكولات الشائعة. كما يوفر القدرة على إدارة مستندات تخزين الرسائل مثل الشخصية ملفات التخزين توقيت المحيط الهادي وغير متصل ملفات التخزين OST. يمكنك سرد رسائل البريد الإلكتروني ، واستخراج رسائل البريد الإلكتروني ، وإضافة الرسائل أو إزالتها من ملفات التخزين وفقًا لمواصفات التطبيق الخاص بك. تسمح مكتبة البريد الإلكتروني في Java بالعمل مع ملف جهات اتصال Outlook (VCF).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     إنشاء واستخراج ملفات PST و OST
     </li>
     <li>
      إدارة الرسائل في PST
@@ -99,7 +99,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     إنشاء رسائل بريد إلكتروني عادية و HTML
     </li>
     <li>
      تحميل تنسيقات متنوعة
@@ -126,7 +126,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
      إدارة الرؤوس
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     اقرأ واكتب في تخزين بريد Thunderbird
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     إنشاء الرسائل ومعالجتها عبر API
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     إضافة واستخراج ومعالجة المرفقات
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     اجتياز وقراءة مرفقات البريد الإلكتروني المتداخلة
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     دعم متعدد التوصيلات لعمليات النسخ الاحتياطي والاستعادة لـ IMAP
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     قم بإنشاء ملفات ICF و VCF v3.0
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     إنشاء الأرشيف الموضعي وإدارته في Office 365
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.Email البريد الإلكتروني جافا. Mail و MI
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     حدد إنشاء وتعديل التواريخ لـ ICS
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     إرسال بريد إلكتروني عبر SMTP و POP3 و IMAP
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     تمكن API من إنشاء وتنسيق الرسائل وإرفاق الملفات والصور وكذلك إرسالها إلى عناوين البريد الإلكتروني عبر بروتوكول SMTP. من الوسائل الأخرى التي توفرها واجهة برمجة التطبيقات (API) تسجيل الدخول إلى خوادم POP3 عبر اسم المستخدم وكلمة المرور. من خلال ميزة مصادقة APOP الخاصة بواجهة برمجة التطبيقات ، من السهل الحصول على الرسالة الكاملة أو الرؤوس فقط ، وعرض حجم صندوق البريد وعدد الرسائل ، وحذف الرسائل من الخادم وغير ذلك الكثير. قليل من ميزات بروتوكول IMAP المدعومة من API مثل المصادقة ، وإنشاء ، وتحديد ، وإزالة ، والاستعلام عن المجلدات ، والحصول على الرسائل وحفظها ، وتغيير علامات الرسائل.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      إدارة كائنات التقويم
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar API تمكن من إنشاء واستخراج وحفظ كائنات تقويم Outlook بتنسيقات مختلفة. يوفر القدرة على الحفظ كمستندات MSG أو ICS وكذلك استرداد طلبات الاجتماعات وإرسالها وتحديثها وإلغائها عبر بروتوكولات إرسال الرسائل.
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message ملفات التخزين
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Aspose.Email for Java API يسمح بإدارة تنسيقات تخزين Outlook. يمكنك تحميل ملفات PST و OST من قرص أو دفق ، والحصول على معلومات المجلد والمجلد الفرعي من أرشيف الرسائل ، واسترداد التفاصيل الخاصة بالرسالة مثل الموضوع والمرسل والمستلم وحفظ الرسائل على القرص أو التدفق.
     </p>
     <p>
      بصرف النظر عن تحليل ملف PST موجود ، توفر المكتبة أيضًا الوسائل لإنشاء ملف PST من البداية وإضافة رسائل إلى أي مجلد به.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      أنشئ PST من البداية وأضف رسالة من ملف - Java
      </h3>
      <pre><code class="java">// إنشاء مثيل PersonalStorage
 

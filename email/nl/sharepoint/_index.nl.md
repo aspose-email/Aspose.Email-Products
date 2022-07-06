@@ -202,14 +202,14 @@ description: SharePoint e-mailapp om EML naar MSG te exporteren samen met e-mail
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     Interconverteer EML en MSG vanuit de SharePoint-documentbibliotheek
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Synchroniseer bestanden met FTP-server en DropBox
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: SharePoint e-mailapp om EML naar MSG te exporteren samen met e-mail
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Synchroniseer bestanden met DropBox</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     Interconversie van MSG- en EML-indelingen
     </h2>
     <p>
      Aspose.Email voor SharePoint ondersteunt de meest populaire berichtformaten. De app voor e-mailconversie biedt ook de mogelijkheid om de ondersteunde berichtbestanden onderling te converteren zonder informatie te verliezen.
@@ -238,7 +238,7 @@ description: SharePoint e-mailapp om EML naar MSG te exporteren samen met e-mail
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     Synchroniseer e-mails en bestanden rechtstreeks vanuit SharePoint
     </h2>
     <p>
      Aspose.Email voor SharePoint kan rechtstreeks vanuit de SharePoint-applicaties verbinding maken met FTP-, POP3-, IMAP- en Microsoft Exchange-servers voor e-mailsynchronisatie. Bovendien maakt de app het mogelijk om verbinding te maken met een FTP-server en bestanden te verzenden vanuit de SharePoint-documentbibliotheek.

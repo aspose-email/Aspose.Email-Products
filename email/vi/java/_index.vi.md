@@ -18,7 +18,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal Tệp lưu trữ PST and Offline Tệp lưu trữ OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Aspose.Email for Java có thể tạo email Outlook, phân tích cú pháp email hoặc chuyển đổi các định dạng thư như MSG, EML, MBOX, PST, OST và MHT từ bên trong các ứng dụng Java. API có thể thao tác nội dung thư, tệp đính kèm, tiêu đề và thuộc tính MAPI cũng như khả năng gửi và nhận email thông qua một số giao thức phổ biến. Nó cũng cung cấp khả năng quản lý các tài liệu lưu trữ tin nhắn như Cá nhân Tệp lưu trữ PST và ngoại tuyến Tệp lưu trữ OST. Bạn có thể liệt kê email, trích xuất email, thêm hoặc xóa tin nhắn khỏi tệp lưu trữ theo thông số kỹ thuật ứng dụng của bạn. Thư viện Email Java cho phép làm việc với tệp danh bạ Outlook (VCF).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     Tạo và giải nén các tệp PST và OST
     </li>
     <li>
      Quản lý tin nhắn trong PST
@@ -99,7 +99,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Tạo email thuần túy và HTML
     </li>
     <li>
      Tải nhiều định dạng
@@ -126,7 +126,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
      Quản lý tiêu đề
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Đọc và ghi vào bộ nhớ thư Thunderbird
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     Tạo và thao tác tin nhắn qua API
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     Thêm, trích xuất và thao tác các tệp đính kèm
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     Duyệt và đọc các tệp đính kèm email lồng nhau
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     Hỗ trợ đa kết nối cho các hoạt động sao lưu và khôi phục IMAP
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     Tạo tệp ICF và VCF v3.0
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     Tạo và quản lý Lưu trữ Tại chỗ tại Office 365
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.Email Java. Mail, MIME và iCalander SDK cho Java để gử
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     Chỉ định ngày tạo và sửa đổi cho ICS
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     Gửi email qua SMTP, POP3 và IMAP
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     API cho phép tạo và định dạng thư, đính kèm tệp và hình ảnh cũng như gửi đến địa chỉ email thông qua giao thức SMTP. Một cơ sở khác mà API cung cấp là đăng nhập vào các máy chủ POP3 thông qua tên người dùng và mật khẩu. Thông qua tính năng xác thực APOP của API, bạn có thể dễ dàng lấy toàn bộ thư hoặc chỉ tiêu đề, xem kích thước hộp thư và số lượng thư, xóa thư khỏi máy chủ và hơn thế nữa. Rất ít các tính năng của giao thức IMAP được API hỗ trợ như xác thực, tạo, chọn, loại bỏ, truy vấn thư mục, nhận và lưu tin nhắn cũng như thay đổi cờ tin nhắn.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      Quản lý đối tượng lịch
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar API cho phép tạo, trích xuất và lưu các đối tượng Lịch Outlook ở các định dạng khác nhau. Nó cung cấp khả năng lưu dưới dạng tài liệu MSG hoặc ICS cũng như truy xuất, gửi, cập nhật và hủy bỏ các yêu cầu họp thông qua các giao thức gửi tin nhắn.
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message Tệp lưu trữ
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     API Aspose.Email for Java cho phép quản lý các định dạng lưu trữ trong Outlook. Bạn có thể tải các tệp PST và OST từ đĩa hoặc luồng, lấy thông tin thư mục và thư mục con từ kho lưu trữ thư, truy xuất các chi tiết dành riêng cho thư như chủ đề, người gửi, người nhận và lưu thư vào đĩa hoặc luồng.
     </p>
     <p>
      Ngoài việc phân tích cú pháp PST hiện có, thư viện còn cung cấp phương tiện để tạo tệp PST từ đầu và thêm thư vào bất kỳ thư mục nào trong đó.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      Tạo PST từ đầu và thêm tin nhắn từ tệp - Java
      </h3>
      <pre><code class="java">// tạo một phiên bản của PersonalStorage
 

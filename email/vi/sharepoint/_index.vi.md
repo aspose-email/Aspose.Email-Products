@@ -202,14 +202,14 @@ description: Ứng dụng Email SharePoint để xuất EML sang MSG cùng với
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     Chuyển đổi giữa các EML và MSG từ bên trong thư viện tài liệu SharePoint
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     Đồng bộ hóa tệp với máy chủ FTP và DropBox
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: Ứng dụng Email SharePoint để xuất EML sang MSG cùng với
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">Đồng bộ hóa tệp với DropBox</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     Chuyển đổi giữa các Định dạng MSG và EML
     </h2>
     <p>
      Aspose.Email for SharePoint hỗ trợ các định dạng thư phổ biến nhất. Ứng dụng Chuyển đổi Email cũng cung cấp khả năng chuyển đổi giữa các tệp tin nhắn được hỗ trợ mà không làm mất bất kỳ thông tin nào.
@@ -238,7 +238,7 @@ description: Ứng dụng Email SharePoint để xuất EML sang MSG cùng với
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     Đồng bộ hóa email và tệp trực tiếp từ SharePoint
     </h2>
     <p>
      Aspose.Email for SharePoint có thể kết nối với Máy chủ FTP, POP3, IMAP và Microsoft Exchange để đồng bộ hóa email ngay trong ứng dụng SharePoint. Hơn nữa, ứng dụng cho phép kết nối với máy chủ FTP và gửi tệp từ thư viện tài liệu SharePoint.

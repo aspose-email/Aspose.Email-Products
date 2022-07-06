@@ -202,14 +202,14 @@ description: ईमेल अटैचमेंट के साथ एमएस
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     शेयरपॉइंट दस्तावेज़ पुस्तकालय के भीतर से ईएमएल और एमएसजी को इंटर-कन्वर्ट करें
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     FTP सर्वर और ड्रॉपबॉक्स के साथ फ़ाइलों को सिंक्रनाइज़ करें
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: ईमेल अटैचमेंट के साथ एमएस
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">ड्रॉपबॉक्स के साथ फ़ाइलों को सिंक्रनाइज़ करें</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     एमएसजी और ईएमएल प्रारूपों का अंतर-रूपांतरण
     </h2>
     <p>
      Aspose.Email for SharePoint सबसे लोकप्रिय संदेश स्वरूपों का समर्थन करता है। ईमेल रूपांतरण ऐप किसी भी जानकारी को खोए बिना समर्थित संदेश फ़ाइलों को इंटर-कन्वर्ट करने की क्षमता भी प्रदान करता है।
@@ -238,7 +238,7 @@ description: ईमेल अटैचमेंट के साथ एमएस
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     ईमेल और फ़ाइलों को सीधे SharePoint से सिंक्रनाइज़ करें
     </h2>
     <p>
      Aspose.Email SharePoint के लिए सीधे SharePoint अनुप्रयोगों के भीतर से ईमेल सिंक्रनाइज़ेशन के लिए FTP, POP3, IMAP और Microsoft Exchange सर्वर से कनेक्ट हो सकता है। इसके अलावा, ऐप एक एफ़टीपी सर्वर से जुड़ने और SharePoint दस्तावेज़ लाइब्रेरी से फ़ाइलें भेजने की अनुमति देता है।

@@ -14,11 +14,11 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email para C++ es una API de programación de correo electrónico que facilita a los desarrolladores trabajar con varios formatos como MSG, EML, EMLX y MHT. Los desarrolladores de aplicaciones pueden crear, convertir o manipular los formatos de mensajes más utilizados dentro de las aplicaciones nativas de C++, sin depender de la aplicación Office Automation o Microsoft Outlook.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email para C++ es más adecuado para las funciones de administración de correo, como la edición de contenido, la manipulación de destinatarios, la extracción y manipulación de propiedades MAPI y archivos adjuntos, así como para las funciones avanzadas, como la administración de archivos de almacenamiento de mensajes, incluidos PST y OST. Actualmente, la API admite los protocolos de comunicación SMTP, POP3 e IMAP para la transmisión de correo electrónico.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Crear archivos PST y OST
     </li>
     <li>
      Administrar mensajes en PST
@@ -84,7 +84,7 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Crear correos electrónicos sin formato y HTML
     </li>
     <li>
      Cargue Variedad de Formatos
@@ -232,7 +232,7 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    Funciones de la API de procesamiento de archivos de mensajes y archivos de correo electrónico
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     Cargue y guarde mensajes hacia y desde un archivo o transmisión
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     Cree y actualice tareas usando la API pública de iCalendar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     Crear, manipular y extraer archivos de almacenamiento
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     Incluir texto y cuerpo de correo basado en HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     Soporta protocolos de comunicación SMTP, POP3 e IMAP
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: Biblioteca de correo electrónico C++ para crear, manipular y conve
      Administrar mensajes MIME a través de la biblioteca C++
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email para C++ es ampliamente compatible con los formatos MIME, incluidos EML y EMLX. Esta capacidad permite a los desarrolladores crear, configurar y extraer contenido de los mensajes MIME, administrar archivos adjuntos y objetos incrustados, convertir archivos EML y EMLX a formatos de archivo MSG, HTML y MHTML.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     Administrar formatos de archivos de mensajes de Outlook
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email para C++ es capaz de crear mensajes de Outlook desde cero y proporciona la capacidad de manipular archivos de correo electrónico existentes. Los desarrolladores pueden cargar y guardar todo tipo de elementos de Outlook, incluidos contactos, tareas, notas, elementos de calendario y listas de distribución. Además, la biblioteca de correo electrónico de C++ permite analizar y manipular todos los objetos de Outlook a través de la API pública.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar Patrones de recurrencia
+     Producir y consumir iCalendar Patrones de recurrencia
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     La biblioteca permite a los desarrolladores generar y consumir patrones de recurrencia mediante programación en formato iCalendar (RFC 2445) utilizando un modelo de objeto intuitivo. Nuestra experiencia garantiza que la interfaz de iCalendar sea fácil de usar y le brinda un control completo sobre la producción y el consumo de recurrencia.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     Cree, inspeccione y extraiga elementos de archivos PST y OST
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     Aspose.Email para C++ permite administrar formatos de almacenamiento de Outlook como PST y OST. API realiza diferentes operaciones en formatos de almacenamiento existentes y crea nuevos documentos PST desde cero. Se pueden realizar otras operaciones posibles, como la lista de carpetas y mensajes, la adición o extracción de mensajes, contactos y carpetas.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      Crear PST y agregar mensaje a la bandeja de entrada - C++
      </h3>
      <pre><code class="cpp">// crea un archivo PST desde cero       
 

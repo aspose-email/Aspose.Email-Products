@@ -232,14 +232,14 @@ description: La bibliothèque de messagerie permet d'accéder, de lire et de man
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Import and export RFC822 compliant message format
+     Importer et exporter un format de message conforme à RFC822
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Read and manipulate different message types via product API
+     Lire et manipuler différents types de messages via l'API du produit
     </p>
    </div>
    <div class="col-lg-4">
@@ -267,7 +267,7 @@ description: La bibliothèque de messagerie permet d'accéder, de lire et de man
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produce and consume recurrence patterns in the iCalendar (RFC 2445)
+     Produire et consommer des modèles de récurrence dans iCalendar (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">

@@ -202,14 +202,14 @@ description: SharePoint 電子郵件應用程序將 EML 與電子郵件附件一
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML and MSG from within SharePoint document library
+     在 SharePoint 文檔庫中相互轉換 EML 和 MSG
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server and DropBox
+     與 FTP 服務器和 DropBox 同步文件
     </p>
    </div>
    <div class="col-lg-4">
@@ -223,14 +223,14 @@ description: SharePoint 電子郵件應用程序將 EML 與電子郵件附件一
 
 <div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Synchronize files with DropBox</p>
+<p class="col-lg-10">使用 DropBox 同步文件</p>
 
 </div>
 
 -->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG and EML Formats
+     MSG 和 EML 格式的相互轉換
     </h2>
     <p>
      Aspose.Email for SharePoint 支持最流行的消息格式。電子郵件轉換應用程序還提供了在不丟失任何信息的情況下相互轉換支持的消息文件的功能。
@@ -238,7 +238,7 @@ description: SharePoint 電子郵件應用程序將 EML 與電子郵件附件一
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails and Files Directly from SharePoint
+     直接從 SharePoint 同步電子郵件和文件
     </h2>
     <p>
      Aspose.Email for SharePoint 可以連接到 FTP、POP3、IMAP 和 Microsoft Exchange 服務器，以便直接在 SharePoint 應用程序中進行電子郵件同步。此外，該應用程序允許連接 FTP 服務器並從 SharePoint 文檔庫發送文件。

@@ -18,7 +18,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST and MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal 저장 파일 PST and Offline 저장 파일 OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Java용 Aspose.Email은 Outlook 이메일을 생성하고 이메일을 구문 분석하거나 Java 응용 프로그램 내에서 MSG, EML, MBOX, PST, OST 및 MHT와 같은 메시지 형식을 변환할 수 있습니다. API는 메시지 내용, 첨부 파일, 헤더 및 MAPI 속성은 물론 널리 사용되는 여러 프로토콜을 통해 이메일을 보내고 받는 기능을 조작할 수 있습니다. 또한 Personal과 같은 메시지 저장 문서를 관리하는 기능을 제공합니다. 저장 파일 PST 및 오프라인 저장 파일 OST. 애플리케이션 사양에 따라 이메일을 나열하고, 이메일을 추출하고, 스토리지 파일에서 메시지를 추가 또는 제거할 수 있습니다. Java 이메일 라이브러리를 사용하면 Outlook 연락처 파일(VCF)을 사용할 수 있습니다.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
    </header>
    <ul>
     <li>
-     Create and Extract PST and OST files
+     PST 및 OST 파일 생성 및 추출
     </li>
     <li>
      PST의 메시지 관리
@@ -99,7 +99,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     일반 및 HTML 이메일 생성
     </li>
     <li>
      다양한 형식 로드
@@ -126,7 +126,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
      헤더 관리
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     Thunderbird 메일 저장소 읽기 및 쓰기
     </li>
    </ul>
    <header>
@@ -326,7 +326,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manipulate messages via API
+     API를 통해 메시지 생성 및 조작
     </p>
    </div>
    <div class="col-lg-4">
@@ -347,7 +347,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract and manipulate attachments
+     첨부 파일 추가, 추출 및 조작
     </p>
    </div>
    <div class="col-lg-4">
@@ -368,7 +368,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse and read nested email attachments
+     중첩된 이메일 첨부 파일 트래버스 및 읽기
     </p>
    </div>
    <div class="col-lg-4">
@@ -403,7 +403,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup and restore operations
+     IMAP 백업 및 복원 작업을 위한 다중 연결 지원
     </p>
    </div>
    <div class="col-lg-4">
@@ -417,7 +417,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create ICF and VCF v3.0 files
+     ICF 및 VCF v3.0 파일 생성
     </p>
    </div>
    <div class="col-lg-4">
@@ -438,7 +438,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and manage In-Place Archive at Office 365
+     Office 365에서 원본 위치 보관 파일 만들기 및 관리
     </p>
    </div>
    <div class="col-lg-4">
@@ -452,7 +452,7 @@ description: Aspose.Email Java. 메일, MIME 및 Java용 iCalander SDK를 사용
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Specify creation and modify dates for ICS
+     ICS에 대한 생성 및 수정 날짜 지정
     </p>
    </div>
    <div class="col-lg-4">
@@ -519,10 +519,10 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 and IMAP
+     SMTP, POP3 및 IMAP을 통한 이메일 전송
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name and password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size and message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     API를 사용하면 메시지를 만들고 형식을 지정하고 파일과 이미지를 첨부하고 SMTP 프로토콜을 통해 이메일 주소로 보낼 수 있습니다. API가 제공하는 또 다른 기능은 사용자 이름과 비밀번호를 통해 POP3 서버에 로그인하는 것입니다. API의 APOP 인증 기능을 통해 전체 메시지 또는 헤더만 가져오고 편지함 크기 및 메시지 수 보기, 서버에서 메시지 삭제 등을 쉽게 수행할 수 있습니다. 인증, 생성, 선택, 제거, 폴더 쿼리, 메시지 가져오기 및 저장, 메시지 플래그 변경과 같은 API 지원 IMAP 프로토콜 기능은 거의 없습니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -552,7 +552,7 @@ client.send(msg);</code></pre>
      달력 개체 관리
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update and cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar API를 사용하면 Outlook 일정 개체를 다양한 형식으로 생성, 추출 및 저장할 수 있습니다. 메시지 전송 프로토콜을 통해 회의 요청을 검색, 전송, 업데이트 및 취소할 뿐만 아니라 MSG 또는 ICS 문서로 저장하는 기능을 제공합니다.
     </p>
    </div>
    <div class="col-lg-12">
@@ -560,14 +560,14 @@ client.send(msg);</code></pre>
      Manage Message 저장 파일
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST and OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Aspose.Email for Java API를 사용하면 Outlook 저장 형식을 관리할 수 있습니다. 디스크나 스트림에서 PST 및 OST 파일을 로드하고, 메시지 아카이브에서 폴더 및 하위 폴더 정보를 가져오고, 제목, 보낸 사람, 받는 사람과 같은 메시지별 세부 정보를 검색하고 디스크나 스트림에 메시지를 저장할 수 있습니다.
     </p>
     <p>
      기존 PST를 구문 분석하는 것 외에도 라이브러리는 PST 파일을 처음부터 생성하고 해당 폴더에 메시지를 추가하는 수단도 제공합니다.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST from scratch and add a message from file - Java
+      PST를 처음부터 만들고 파일에서 메시지 추가 - Java
      </h3>
      <pre><code class="java">// PersonalStorage의 인스턴스 생성
 

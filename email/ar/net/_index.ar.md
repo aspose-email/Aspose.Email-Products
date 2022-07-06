@@ -18,7 +18,7 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
 </p>
 
 <p>
- Aspose.Email for .NET makes it easier for the developers to work with a number of Microsoft Outlook and Mozilla Thunderbird formats such as MSG, EML, EMLX, PST, OST, MBOX and MHT as well as provides the ability to manage message storage files such as Personal ملفات التخزين (PST) and Offline ملفات التخزين (OST) and MBOX. Developers can use the API to send and receive emails via a number of popular protocols like POP3, IMAP and SMTP or connect with Microsoft Exchange Server via WebDav and Exchange Web Services to send and receive emails with attachments and list or remove messages from the server.
+ Aspose.Email لـ .NET يسهل على المطورين العمل مع عدد من تنسيقات Microsoft Outlook و Mozilla Thunderbird مثل MSG و EML و EMLX و PST و OST و MBOX و MHT بالإضافة إلى توفير القدرة على إدارة ملفات تخزين الرسائل مثل الشخصية ملفات التخزين (PST) وغير متصل ملفات التخزين (OST) و MBOX. يمكن للمطورين استخدام واجهة برمجة التطبيقات لإرسال رسائل البريد الإلكتروني واستلامها عبر عدد من البروتوكولات الشائعة مثل POP3 و IMAP و SMTP أو الاتصال بـ Microsoft Exchange Server عبر WebDav و Exchange Web Services لإرسال واستلام رسائل البريد الإلكتروني مع المرفقات وقائمة الرسائل أو إزالتها من الخادم.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     قم بإنشاء ملفات PST و OST
     </li>
     <li>
      إدارة الرسائل في PST
@@ -99,7 +99,7 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     إنشاء رسائل بريد إلكتروني عادية و HTML
     </li>
     <li>
      تحميل مجموعة متنوعة من التنسيقات
@@ -126,7 +126,7 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
      إدارة الرؤوس
     </li>
     <li>
-     Read and Write to Thunderbird Mail Storage
+     اقرأ واكتب في تخزين بريد Thunderbird
     </li>
    </ul>
    <header>
@@ -271,7 +271,7 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
     </li>
     <li>
      <b>
-      Others:
+      آحرون:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -333,35 +333,35 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Send email with HTML body and attachments
+     إرسال بريد إلكتروني مع نص HTML والمرفقات
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Mail merge and bulk mail sending functionality
+     وظائف دمج البريد وإرسال البريد بالجملة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List and download messages from POP3 and IMAP mail servers
+     سرد الرسائل وتنزيلها من خوادم بريد POP3 و IMAP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List, download and send messages via Microsoft Exchange Servers
+     سرد الرسائل وتنزيلها وإرسالها عبر خوادم Microsoft Exchange
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar
+     قم بإنشاء وتحديث المهام باستخدام iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -389,21 +389,21 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Manipulate message Personal and Offline storage files
+     معالجة ملفات التخزين الشخصية وغير المتصلة بالرسالة
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-support ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add messages, contacts, tasks, notes, calendar items and distribution lists to PST
+     أضف الرسائل وجهات الاتصال والمهام والملاحظات وعناصر التقويم وقوائم التوزيع إلى PST
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-sort-numeric-asc ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract messages, contacts and calendar items from PST
+     استخراج الرسائل وجهات الاتصال وعناصر التقويم من PST
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +424,14 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects and attachments to emails
+     أضف العناصر والمرفقات المضمنة إلى رسائل البريد الإلكتروني
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML mail body
+     قم بتضمين نص وجسم بريد HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -501,7 +501,7 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     دعم Outlook for Mac Data File OLM
+     دعم Outlook لملف بيانات Mac OLM
     </p>
    </div>
    <div class="col-lg-4">
@@ -534,7 +534,7 @@ description: مكتبة معالجة البريد الإلكتروني C# ASP.NE
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for recursive IMAP and POP3 operations
+     دعم متعدد التوصيلات لعمليات IMAP و POP3 التكرارية
     </p>
    </div>
    <!--<div class="col-lg-12">
@@ -623,7 +623,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Send and Receive رسائل البريد الإلكتروني via SMTP, POP3 and IMAP
     </h2>
     <p>
-     Aspose.Email for .NET empowers you to create complex messages with attachments, HTML formatting and images, and send email using SMTP protocol. It also allows you to log onto the POP3 servers by username and password or APOP authentication to perform operations like receive emails as well as view mailbox size and message count, retrieve the full message or just the headers, delete messages from the server and so on.
+     يتيح لك Aspose.Email for .NET إنشاء رسائل معقدة مع المرفقات وتنسيق HTML والصور وإرسال البريد الإلكتروني باستخدام بروتوكول SMTP. كما يسمح لك بتسجيل الدخول إلى خوادم POP3 عن طريق اسم المستخدم وكلمة المرور أو مصادقة APOP لإجراء عمليات مثل تلقي رسائل البريد الإلكتروني بالإضافة إلى عرض حجم صندوق البريد وعدد الرسائل واسترداد الرسالة كاملة أو الرؤوس فقط وحذف الرسائل من الخادم وما إلى ذلك. .
     </p>
     <p>
      تدعم API أيضًا ميزات بروتوكول IMAP بما في ذلك المصادقة ، وإنشاء ، وحذف ، وتحديد ، والاستعلام عن المجلدات ، والحصول على الرسائل وحفظها ، وتغيير علامات الرسائل وأوامر IMAP الأساسية.
@@ -634,7 +634,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      اتصل بـ Microsoft Exchange Server
     </h2>
     <p>
-     Aspose.Email for .NET provides the ability to connect with a Microsoft Exchange Server in order to perform several operations. You can list messages from any folder, download messages and save them in supported message formats. رسائل البريد الإلكتروني and meeting invitations can also be sent using the Exchange Server's WebDav and Exchange Web Services. API also supports Unified Messaging operations and auto-discovery of Exchange Server settings based on the specified credentials.
+     يوفر Aspose.Email لـ .NET القدرة على الاتصال بخادم Microsoft Exchange Server من أجل إجراء العديد من العمليات. يمكنك سرد الرسائل من أي مجلد وتنزيل الرسائل وحفظها في تنسيقات الرسائل المدعومة. رسائل البريد الإلكتروني ويمكن أيضًا إرسال دعوات الاجتماعات باستخدام WebDav و Exchange Web Services لخادم Exchange. تدعم API أيضًا عمليات Unified Messaging والاكتشاف التلقائي لإعدادات Exchange Server بناءً على بيانات الاعتماد المحددة.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,7 +642,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      حل نمط التكرار الكامل
     </h2>
     <p>
-     Aspose.Email for .NET allows you to easily and reliably calculate occurrence dates and times for even the most complex recurrence patterns. You can dynamically produce and consume recurrence patterns in the iCalendar RFC (2445) format. You may choose to use yearly, monthly, weekly, daily, hourly, minutely and secondly recurrence patterns, and can represent recurrence patterns in your windows, web or mobile applications.
+     Aspose.Email for .NET يسمح لك بسهولة وموثوقية حساب تواريخ التكرار والأوقات حتى أنماط التكرار الأكثر تعقيدًا. يمكنك إنتاج أنماط التكرار واستهلاكها ديناميكيًا بتنسيق iCalendar RFC (2445). يمكنك اختيار استخدام أنماط التكرار السنوية ، الشهرية ، الأسبوعية ، اليومية ، كل ساعة ، بدقة وثانية ، ويمكن أن تمثل أنماط التكرار في النوافذ أو الويب أو تطبيقات الجوال.
     </p>
    </div>
    <div class="col-lg-12">
@@ -650,7 +650,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Manage Message ملفات التخزين
     </h2>
     <p>
-     Email library can load Microsoft Outlook PST and OST files from a stream object or disk location in order to retrieve full folder hierarchy and read message specific detail like subject, sender, recipient or extract messages with attachments.
+     يمكن لمكتبة البريد الإلكتروني تحميل ملفات Microsoft Outlook PST و OST من كائن دفق أو موقع قرص لاسترداد التسلسل الهرمي الكامل للمجلد وقراءة تفاصيل الرسالة المحددة مثل الموضوع أو المرسل أو المستلم أو استخراج الرسائل مع المرفقات.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -698,7 +698,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      أتمتة Microsoft Office - غير مطلوب
     </h2>
     <p>
-     Aspose.Email for .NET is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with email processing. It is a perfect Microsoft Outlook automation alternative for dynamic message file manipulation as well as for sending and receiving emails.
+     تم إنشاء Aspose.Email for .NET باستخدام رمز مُدار لا يحتاج إلى تثبيت Microsoft Office أو Microsoft Outlook على الجهاز للعمل مع معالجة البريد الإلكتروني. إنه بديل مثالي لأتمتة Microsoft Outlook لمعالجة ملف الرسائل الديناميكي وكذلك لإرسال رسائل البريد الإلكتروني واستلامها.
     </p>
    </div>
   </div>

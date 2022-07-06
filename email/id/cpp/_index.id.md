@@ -14,11 +14,11 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX and MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C++ adalah API Pemrograman Email yang memudahkan pengembang untuk bekerja dengan sejumlah format seperti MSG, EML, EMLX dan MHT. Pengembang aplikasi dapat membuat, mengonversi, atau memanipulasi format pesan yang paling umum digunakan dalam aplikasi C++ asli, tanpa bergantung pada aplikasi Office Automation atau Microsoft Outlook.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction and manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST and OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email untuk C++ paling cocok untuk fitur manajemen email seperti pengeditan konten, manipulasi penerima, ekstraksi dan manipulasi properti dan lampiran MAPI serta untuk fitur lanjutan seperti manajemen file penyimpanan pesan termasuk PST dan OST. Saat ini, API mendukung protokol komunikasi SMTP, POP3 dan IMAP untuk transmisi email.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -37,7 +37,7 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
    </header>
    <ul>
     <li>
-     Create PST and OST files
+     Buat file PST dan OST
     </li>
     <li>
      Kelola Pesan di PST
@@ -84,7 +84,7 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
    </header>
    <ul>
     <li>
-     Create plain and HTML emails
+     Buat email biasa dan HTML
     </li>
     <li>
      Muat Berbagai Format
@@ -232,7 +232,7 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File and Message Archive Processing API Features
+    Fitur API Pemrosesan File Email dan Arsip Pesan
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load and save messages to and from file or stream
+     Muat dan simpan pesan ke dan dari file atau streaming
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create and update tasks using iCalendar public API
+     Buat dan perbarui tugas menggunakan API publik iCalendar
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate and extract storage files
+     Buat, manipulasi, dan ekstrak file penyimpanan
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text and HTML-based mail body
+     Sertakan teks dan badan surat berbasis HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 and IMAP communication protocols
+     Mendukung protokol komunikasi SMTP, POP3 dan IMAP
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,35 +304,35 @@ description: Pustaka email C++ untuk membuat memanipulasi dan mengonversi file O
      Kelola Pesan MIME melalui C++ Library
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML and EMLX. This ability allows the developers to create, set and extract contents from the MIME messages, manage attachments and embedded objects, convert EML and EMLX files to MSG, HTML and MHTML file formats.
+     Aspose.Email untuk C++ secara ekstensif mendukung format MIME termasuk EML dan EMLX. Kemampuan ini memungkinkan pengembang untuk membuat, mengatur, dan mengekstrak konten dari pesan MIME, mengelola lampiran dan objek yang disematkan, mengonversi file EML dan EMLX ke format file MSG, HTML, dan MHTML.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Outlook Message File Formats
+     Kelola Format File Pesan Outlook
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load and save all types of Outlook items including contacts, tasks, notes, calendar items and distributions lists. On top of it, the C++ Email Library allows to parse and manipulate all of the Outlook objects via public API.
+     Aspose.Email untuk C++ mampu membuat pesan Outlook dari awal serta menyediakan kemampuan untuk memanipulasi file email yang ada. Pengembang dapat memuat dan menyimpan semua jenis item Outlook termasuk kontak, tugas, catatan, item kalender, dan daftar distribusi. Selain itu, Perpustakaan Email C++ memungkinkan untuk mengurai dan memanipulasi semua objek Outlook melalui API publik.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce and Consume iCalendar Pola Pengulangan
+     Memproduksi dan Mengkonsumsi iCalendar Pola Pengulangan
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production and consumption.
+     Pustaka memungkinkan pengembang untuk membuat dan menggunakan pola pengulangan secara terprogram dalam format iCalendar (RFC 2445) menggunakan model objek intuitif. Keahlian kami memastikan bahwa antarmuka iCalendar mudah digunakan sambil memberi Anda kendali penuh atas produksi dan konsumsi perulangan.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Create, Inspect and Extract Items from PST and OST Files
+     Buat, Periksa, dan Ekstrak Item dari File PST dan OST
     </h2>
     <p>
-     Aspose.Email for C++ allows managing Outlook storage formats like PST and OST. API performs different operations on existing storage formats as well as create new PST documents from scratch. Other possible operations, one can perform such as folder and message listing, addition or extraction of messages, contacts and folders.
+     Aspose.Email untuk C++ memungkinkan pengelolaan format penyimpanan Outlook seperti PST dan OST. API melakukan operasi yang berbeda pada format penyimpanan yang ada serta membuat dokumen PST baru dari awal. Operasi lain yang mungkin, seseorang dapat melakukan seperti folder dan daftar pesan, penambahan atau ekstraksi pesan, kontak dan folder.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Create PST and add message to Inbox - C++
+      Buat PST dan tambahkan pesan ke Kotak Masuk - C++
      </h3>
      <pre><code class="cpp">// buat file PST dari awal       
 
