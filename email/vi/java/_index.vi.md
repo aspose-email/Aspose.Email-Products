@@ -618,7 +618,7 @@ pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + 
 {{< blocks/products/pf/slr-element name="Hỗ trợ miễn phí" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Hỗ trợ trả phí" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/email/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Ghi chú phát hành" href="https://docs.aspose.com/email/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Tại sao sử dụng Aspose.Email cho Java?" tabId="success-stories" >}}

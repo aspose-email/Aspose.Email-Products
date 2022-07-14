@@ -382,7 +382,7 @@ inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code>
 {{< blocks/products/pf/slr-element name="Dukungan Gratis" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Dukungan Berbayar" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/email/cpp/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Catatan Rilis" href="https://docs.aspose.com/email/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Mengapa Aspose.Email untuk C++?" tabId="success-stories" >}}

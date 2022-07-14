@@ -721,7 +721,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
 {{< blocks/products/pf/slr-element name="मुफ्त समर्थन" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="भुगतान समर्थन" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="ब्लॉग" href="https://blog.aspose.com/category/email/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/email/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="रिलीज नोट्स" href="https://docs.aspose.com/email/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle=".NET के लिए Aspose.Email क्यों?" tabId="success-stories" >}}

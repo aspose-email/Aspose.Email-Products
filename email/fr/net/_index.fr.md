@@ -721,7 +721,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
 {{< blocks/products/pf/slr-element name="Assistance gratuite" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Assistance payante" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/email/net/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Notes de version" href="https://docs.aspose.com/email/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Pourquoi Aspose.Email pour .NET ?" tabId="success-stories" >}}
