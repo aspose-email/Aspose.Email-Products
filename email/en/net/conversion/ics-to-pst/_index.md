@@ -43,9 +43,12 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with MailMessage.Load.
-+  Call the Save method.
++  Load ICS file with Calendar.Appointment.Load.
++  Save as MSG to MemoryStream.
++  Create a PST file
 +  Pass the output file path with PST file extension.
++  Call AddMessage method.
++  Pass the MapiMessage loaded from MemoryStream.
 +  PST file will be saved at the specified path.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -69,9 +72,17 @@ PM> Install-Package Aspose.Email
 
 ```cs
 // load the ICS file to be converted
-var message = MailMessage.Load("My File.ics"); 
-// save ICS as a PST 
-message.Save("Saved File.pst", SaveOptions.DefaultPst);  
+// save ICS as a MSG
+using var msgStream = new MemoryStream();
+Aspose.Email.Calendar.Appointment
+    .Load("My File.ics")
+    .Save(msgStream, AppointmentSaveFormat.Msg);
+// create a PST file
+using var pst = PersonalStorage.Create("Saved File.pst", FileFormatVersion.Unicode);
+// create a calendar folder
+var calendarFolder = pst.CreatePredefinedFolder("Calendar", StandardIpmFolder.Appointments);
+// add MSG to the calendar folder
+calendarFolder.AddMessage(MapiMessage.Load(msgStream));
 
 ```
 
@@ -80,7 +91,7 @@ message.Save("Saved File.pst", SaveOptions.DefaultPst);
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -97,19 +108,19 @@ message.Save("Saved File.pst", SaveOptions.DefaultPst);
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="ICS" readMoreLink="https://docs.fileformat.com/email/ics/" >}}
 The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport. iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar".
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="pst" readMoreLink="https://docs.fileformat.com/email/pst/" >}}
 Files with .PST extension represent Outlook Personal Storage Files (also called Personal Storage Table) that store variety of user information. User information is stored in folders of different types that include emails, calendar items, notes, contacts, and several other file formats. PST files are used for archiving emailing data offline that can be later loaded and viewed in various applications.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -126,7 +137,6 @@ Files with .PST extension represent Outlook Personal Storage Files (also called 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-msg/" name="ICS TO MSG" description="Outlook & Exchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-oft/" name="ICS TO OFT" description="Outlook Email Templates" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-ost/" name="ICS TO OST" description="Offline Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-vcf/" name="ICS TO VCF" description="Virtual Card Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

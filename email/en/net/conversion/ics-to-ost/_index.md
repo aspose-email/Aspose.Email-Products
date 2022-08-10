@@ -43,10 +43,13 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with MailMessage.Load.
-+  Call the Save method.
++  Load ICS file with Calendar.Appointment.Load.
++  Save as MSG to MemoryStream.
++  Open an OST file
 +  Pass the output file path with OST file extension.
-+  OST file will be saved at the specified path.
++  Call AddMessage method.
++  Pass the MapiMessage loaded from MemoryStream.
++  OFT file will be saved at the specified path.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -69,9 +72,17 @@ PM> Install-Package Aspose.Email
 
 ```cs
 // load the ICS file to be converted
-var message = MailMessage.Load("My File.ics"); 
-// save ICS as a OST 
-message.Save("Saved File.ost", SaveOptions.DefaultOst);  
+// save ICS as a MSG
+using var msgStream = new MemoryStream();
+Aspose.Email.Calendar.Appointment
+    .Load("My File.ics")
+    .Save(msgStream, AppointmentSaveFormat.Msg);
+// open an OST file
+using var pst = PersonalStorage.FromFile("Saved File.ost");
+// get a calendar folder
+var calendarFolder = pst.GetPredefinedFolder(StandardIpmFolder.Appointments);
+// add MSG to the calendar folder
+calendarFolder.AddMessage(MapiMessage.Load(msgStream));
 
 ```
 
@@ -80,7 +91,7 @@ message.Save("Saved File.ost", SaveOptions.DefaultOst);
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -97,19 +108,19 @@ message.Save("Saved File.ost", SaveOptions.DefaultOst);
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="ICS" readMoreLink="https://docs.fileformat.com/email/ics/" >}}
 The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport. iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar".
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="ost" readMoreLink="https://docs.fileformat.com/email/ost/" >}}
 OST or Offline Storage Files represent user's mailbox data in offline mode on local machine upon registration with Exchange Server using Microsoft Outlook. It is automatically created on the first use of Microsoft Outlook upon connectivity with server. Once the file is created, the data is synchronized with the email server so that it is available offline as well in case of disconnectivity from email server. OST files can user mailbox items such as emails, contacts, calendar information, notes, tasks and other similar data. Users can create emails and other data items in OST file even in the absence of connection to the server, but these will not be synchronized with the server. Once the connection is established, the local file is synchronized with the server again so that both the server and the local copy are at the same level of information.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -126,7 +137,6 @@ OST or Offline Storage Files represent user's mailbox data in offline mode on lo
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-msg/" name="ICS TO MSG" description="Outlook & Exchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-oft/" name="ICS TO OFT" description="Outlook Email Templates" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-pst/" name="ICS TO PST" description="Outlook Personal Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-vcf/" name="ICS TO VCF" description="Virtual Card Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
