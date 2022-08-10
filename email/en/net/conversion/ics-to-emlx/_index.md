@@ -43,7 +43,8 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with MailMessage.Load.
++  Load ICS file with Calendar.Appointment.Load.
++  Create a MailMessage and add appointment as alternate view.
 +  Call the Save method.
 +  Pass the output file path with EMLX file extension.
 +  EMLX file will be saved at the specified path.
@@ -69,9 +70,13 @@ PM> Install-Package Aspose.Email
 
 ```cs
 // load the ICS file to be converted
-var message = MailMessage.Load("My File.ics");
-// save ICS as a EMLX 
-message.Save("Saved File.emlx", SaveOptions.CreateSaveOptions(MailMessageSaveType.EmlxFormat));  
+var ics = Aspose.Email.Calendar.Appointment.Load("My File.ics");
+// create an EML
+var eml = new MailMessage();
+// add appointment to EML
+eml.AlternateViews.Add(ics.RequestApointment());
+// save as a EMLX
+eml.Save("Saved File.emlx", new EmlSaveOptions(MailMessageSaveType.EmlxFormat));
 
 ```
 
@@ -80,7 +85,7 @@ message.Save("Saved File.emlx", SaveOptions.CreateSaveOptions(MailMessageSaveTyp
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -97,19 +102,19 @@ message.Save("Saved File.emlx", SaveOptions.CreateSaveOptions(MailMessageSaveTyp
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="ICS" readMoreLink="https://docs.fileformat.com/email/ics/" >}}
 The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport. iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar".
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="emlx" readMoreLink="https://docs.fileformat.com/email/emlx/" >}}
 The EMLX file format is implemented and developed by Apple. The Apple Mail application uses the EMLX file format for exporting the emails. There are other applications as well that can open the EMLX files and convert these to other file formats.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -126,7 +131,6 @@ The EMLX file format is implemented and developed by Apple. The Apple Mail appli
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-oft/" name="ICS TO OFT" description="Outlook Email Templates" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-ost/" name="ICS TO OST" description="Offline Storage Files" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-pst/" name="ICS TO PST" description="Outlook Personal Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-vcf/" name="ICS TO VCF" description="Virtual Card Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

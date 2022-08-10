@@ -43,9 +43,12 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with MailMessage.Load.
-+  Call the Save method.
++  Load ICS file with Calendar.Appointment.Load.
++  Create a MailMessage and add appointment as alternate view.
++  Create an MBOX storage writer.
 +  Pass the output file path with MBOX file extension.
++  Call the WriteMessage method.
++  Pass the MailMessage.
 +  MBOX file will be saved at the specified path.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -69,9 +72,15 @@ PM> Install-Package Aspose.Email
 
 ```cs
 // load the ICS file to be converted
-var message = MailMessage.Load("My File.ics"); 
-// save ICS as a MBOX 
-message.Save("Saved File.mbox", SaveOptions.DefaultMbox);  
+var ics = Aspose.Email.Calendar.Appointment.Load("My File.ics");
+// create an EML
+var eml = new MailMessage();
+// add appointment to EML
+eml.AlternateViews.Add(ics.RequestApointment());
+// create an MBOX storage
+using var mboxStorage = new MboxrdStorageWriter(new FileStream("Saved File.mbox", FileMode.Create), false);
+// add EML to MBOX storage
+mboxStorage.WriteMessage(eml);
 
 ```
 
@@ -80,7 +89,7 @@ message.Save("Saved File.mbox", SaveOptions.DefaultMbox);
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -97,19 +106,19 @@ message.Save("Saved File.mbox", SaveOptions.DefaultMbox);
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="ICS" readMoreLink="https://docs.fileformat.com/email/ics/" >}}
 The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport. iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar".
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="mbox" readMoreLink="https://docs.fileformat.com/email/mbox/" >}}
 MBox file format is a generic term that represents a container for collection of electronic mail messages. The messages are stored inside the container along with their attachments. Messages from an entire folder are saved in a single database file and new messages are appended to the end of the file. Numerous applications and API provide support for MBox file format such as Apple Mail and Mozilla Thunderbird.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -126,7 +135,6 @@ MBox file format is a generic term that represents a container for collection of
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-oft/" name="ICS TO OFT" description="Outlook Email Templates" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-ost/" name="ICS TO OST" description="Offline Storage Files" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-pst/" name="ICS TO PST" description="Outlook Personal Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-vcf/" name="ICS TO VCF" description="Virtual Card Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

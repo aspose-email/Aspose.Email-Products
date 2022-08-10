@@ -43,7 +43,8 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load ICS file with MailMessage.Load.
++  Load ICS file with Calendar.Appointment.Load.
++  Create a MailMessage and add appointment as alternate view.
 +  Call the Save method.
 +  Pass the output file path with MHTML file extension.
 +  MHTML file will be saved at the specified path.
@@ -69,9 +70,13 @@ PM> Install-Package Aspose.Email
 
 ```cs
 // load the ICS file to be converted
-var message = MailMessage.Load("My File.ics"); 
-// save ICS as a MHTML 
-message.Save("Saved File.mhtml", SaveOptions.DefaultMhtml);  
+var ics = Aspose.Email.Calendar.Appointment.Load("My File.ics");
+// create an EML
+var eml = new MailMessage();
+// add appointment to EML
+eml.AlternateViews.Add(ics.RequestApointment());
+// save EML as a MHTML
+eml.Save("Saved File.mht", new MhtSaveOptions{MhtFormatOptions = MhtFormatOptions.WriteHeader | MhtFormatOptions.RenderCalendarEvent});
 
 ```
 
@@ -80,7 +85,7 @@ message.Save("Saved File.mhtml", SaveOptions.DefaultMhtml);
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -97,19 +102,19 @@ message.Save("Saved File.mhtml", SaveOptions.DefaultMhtml);
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="ICS" readMoreLink="https://docs.fileformat.com/email/ics/" >}}
 The Internet Calendaring and Scheduling Core Object Specification (iCalendar) is an internet standard(RFC 2445) for exchanging and deploying the calendaring events and scheduling.  The iCalendar format is interoperable, thereby ensuring the exchange of calendar information among the users having different email applications. iCalendar formats the input data as a Multipurpose Internet Mail Extensions (MIME) and facilitates the object exchanged via different transport protocols. These transport protocols can be SMTP, HTTP, point-to-point asynchronous communication, and physical media based-network transport. iCalendar allows users to share events, date/time dependent tasks, and free/busy information via emails to other users who can respond back. iCalendar files store using suffixes  ".ics" ".iCalendar" or ".ifb" with a MIME type of "text/calendar".
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="mhtml" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
 Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications. The actual specifications of the format are as detailed by RFC 2557.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -126,7 +131,6 @@ Files with MHTML extension represent a web page archive format that can be creat
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-oft/" name="ICS TO OFT" description="Outlook Email Templates" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-ost/" name="ICS TO OST" description="Offline Storage Files" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-pst/" name="ICS TO PST" description="Outlook Personal Storage Files" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/email/net/conversion/ics-to-vcf/" name="ICS TO VCF" description="Virtual Card Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
