@@ -70,7 +70,7 @@ PM> Install-Package Aspose.Email
 
 ```cs
 // load the ICS file to be converted
-var ics = Aspose.Email.Calendar.Appointment.Load("My File.ics");
+var ics = Calendar.Appointment.Load("My File.ics");
 // create an EML
 var eml = new MailMessage();
 // add appointment to EML
