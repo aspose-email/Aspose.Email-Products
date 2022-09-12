@@ -68,10 +68,11 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/code-block title="This sample code shows MSG to OFT C# Conversion" offSpacer="" %}}
 
 ```cs
-// load the MSG file to be converted
-var message = MailMessage.Load("My File.msg"); 
-// save MSG as a OFT 
-message.Save("Saved File.oft", SaveOptions.DefaultOft);  
+using (MapiMessage mapi = new MapiMessage("test@from.to", "test@to.to", "template subject", "Template body"))
+{
+    string oftMapiFileName = "mapiToOft.msg";
+    mapi.SaveAsTemplate(oftMapiFileName);
+} 
 
 ```
 
