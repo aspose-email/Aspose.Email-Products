@@ -43,10 +43,9 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-+  Load MSG file with MailMessage.Load.
-+  Call the Save method.
-+  Pass the output file path with OFT file extension.
-+  OFT file will be saved at the specified path.
++  Create MapiMessage class object.
++  Call the SaveAsTemplate method.
++  Pass the output file as parameter.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
