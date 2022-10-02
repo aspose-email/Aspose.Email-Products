@@ -43,9 +43,13 @@ PM> Install-Package Aspose.Email
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load VCF file in an instance of MailMessage via Load method
-1.  Call the MailMessage.Save method to save VCF in HTML format
-1.  Call Process.Start with path to resultant HTML to load VCF content in default browser
+1.  Load VCF file using MapiContact.FromVCard
+1.  Create MemoryStream Object
+1.  Call MapiContact Save method and pass the MemoryStream object and ContactSaveFormat.Msg as parameters
+1.  Load the MemoryStream using MapiMessage.Load
+1.  Create MailConversionOptions object and pass it to msg.ToMailMessage as parameter
+1.  Create HtmlSaveOptions object to prepare the relevant HTML options
+1.  Call the MailMessage Save method with html file path and save options as parameters
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -67,16 +71,19 @@ PM> Install-Package Aspose.Email
 
 ```cs
 
-string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".html";
+MapiContact contact = MapiContact.FromVCard(MyDir + "input.vcf");
 
-// load the VCF file in an instance of MailMessage
-using (var message = Aspose.Email.MailMessage.Load("template.vcf"))
-{
-    // save VCF in HTML format
-    message.Save(output, Aspose.Email.SaveOptions.DefaultHtml);
-}
-// load resultant HTML in default browser
-System.Diagnostics.Process.Start(output);
+MemoryStream ms = new MemoryStream();
+contact.Save(ms, ContactSaveFormat.Msg);
+ms.Position = 0;
+MapiMessage msg = MapiMessage.Load(ms);
+MailConversionOptions op = new MailConversionOptions();
+MailMessage eml = msg.ToMailMessage(op);
+
+//Prepare the HTML format options
+HtmlSaveOptions htmlSaveOptions = new HtmlSaveOptions();
+            
+eml.Save(MyDir + "output.html", htmlSaveOptions);
 
 ```
 
