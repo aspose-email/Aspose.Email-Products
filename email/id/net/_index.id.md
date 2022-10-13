@@ -1,5 +1,5 @@
 ---
-title: Apose Email | C# .NET Pemrosesan Email Outlook API 
+title: Aspose Email | C# .NET Pemrosesan Email Outlook API 
 weight: 880
 url: /id/net/ 
 description: C# ASP.NET VB.NET Pustaka pemrosesan email untuk Outlook Thunderbird dan format file lainnya. API bekerja dengan SMTP POP3 IMAP dan server MS Exchange untuk mengirim email
