@@ -61,7 +61,7 @@ description: Java sample code to edit or view PST format metadata on Java Runtim
 
 +  Load the PST file using MapiMessage.fromFile
 +  Get properties collection using getProperties()
-+  Access the relevant property like Subject using get\_Item()
++  Access the relevant property like Subject using get_Item()
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

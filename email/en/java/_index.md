@@ -315,13 +315,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
    </h2>
    <p>
    </p>
-   <!-- <div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Process EML, MSG & MHTML formats</p>
-
-</div>
-
--->
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
@@ -497,32 +491,13 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
     <p>
      The Java Email library provides easy-to-use interfaces for the conversion of supported message file formats. In order to perform a conversion, all you need to do is to load the source file in the API object model and call the save method with the required parameters. It is really that simple!
     </p>
-    <!--<div id="code" class="codeblock">
-
-<h3>Save message in different formats - Java</h3>
-
-<pre><code class="java">// load the file to be converted
-
-MailMessage message;
-
-message = MailMessage.load(dir + "template.msg");
-
-// save in different formats
-
-message.save(dir + "output.eml", SaveOptions.getDefaultEml());
-
-message.save(dir + "output.html", SaveOptions.getDefaultHtml());
-
-message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
-
-</div>-->
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Emailing via SMTP, POP3 &amp; IMAP
+     Emailing via SMTP, POP3 & IMAP
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name &amp; password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size &amp; message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name & password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size & message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
     </p>
     <div class="codeblock" id="code">
      <h3>

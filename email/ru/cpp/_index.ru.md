@@ -1,20 +1,20 @@
 ---
-title: API разбора электронной почты C++ — Aspose 
+title: API разбора электронной почты C++ — Aspose
 weight: 2780
-url: /ru/cpp/ 
+url: /ru/cpp/
 description: Библиотека электронной почты C++ для создания, управления и преобразования файлов электронной почты Microsoft Outlook PST OST. Протоколы SMTP, POP3 и IMAP поддерживаются для отправки и получения электронной почты.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="C++ API обработки сообщений электронной почты и хранилища сообщений" h2="Создавайте, редактируйте и конвертируйте файлы электронной почты и архивы сообщений из приложений C++, не требуя Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-cpp.svg" pfName="Aspose.Email" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="C++ API обработки сообщений электронной почты и хранилища сообщений" h2="Создавайте, редактируйте и конвертируйте файлы электронной почты и архивы сообщений из приложений C++, не требуя Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-cpp.svg" pfName="Aspose.Email" subTitlepfName="для С++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for C++" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="для С++" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/cpp/" installationsDocsLink="https://docs.aspose.com/email/cpp/installation" nugetLink="https://www.nuget.org/packages/aspose.email.cpp.vc140/" nugetPackageName="Aspose.Email.Cpp.VC140" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/cpp" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email для C++ — это API программирования электронной почты, упрощающий разработчикам работу с рядом форматов, таких как MSG, EML, EMLX и MHT. Разработчики приложений могут создавать, преобразовывать или манипулировать наиболее часто используемыми форматами сообщений в собственных приложениях C++, не полагаясь на Office Automation или приложение Microsoft Outlook.
+ Aspose.Email для C++ — это API программирования электронной почты, упрощающий разработчикам работу с рядом форматов, таких как MSG, ЭМЛ, ЭМЛКС и MHT. Разработчики приложений могут создавать, преобразовывать или манипулировать наиболее часто используемыми форматами сообщений в собственных приложениях C++, не полагаясь на Office Automation или приложение Microsoft Outlook.
 </p>
 
 <p>
@@ -80,11 +80,11 @@ description: Библиотека электронной почты C++ для �
    <header>
     <i class="fa fa-cogs">
     </i>
-    электронные письма
+    Emails
    </header>
    <ul>
     <li>
-     Создавайте простые и HTML электронные письма
+     Создавайте обычные электронные письма и электронные письма в формате HTML
     </li>
     <li>
      Загрузка различных форматов
@@ -142,7 +142,7 @@ description: Библиотека электронной почты C++ для �
    <header>
     <i class="fa fa-cubes">
     </i>
-    Windows 64 bit
+    Windows 64 бит
    </header>
   </div>
   <!--/left-->
@@ -150,7 +150,7 @@ description: Библиотека электронной почты C++ для �
    <header>
     <i class="fa fa-cubes">
     </i>
-    Linux 64 bit
+    линукс 64 бит
    </header>
   </div>
   <!--/right-->
@@ -182,7 +182,7 @@ description: Библиотека электронной почты C++ для �
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ввод, вывод
+    Input/Output
    </header>
    <ul>
     <li>
@@ -193,7 +193,7 @@ description: Библиотека электронной почты C++ для �
      <!--, OFT-->
     </li>
     <li>
-     EML, EMLX
+     ЭМЛ, ЭМЛКС
     </li>
    </ul>
   </div>
@@ -232,7 +232,7 @@ description: Библиотека электронной почты C++ для �
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Функции API обработки файлов электронной почты и архивов сообщений
+    Возможности API обработки файлов электронной почты и архивов сообщений
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: Библиотека электронной почты C++ для �
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Загружать и сохранять сообщения в файл или поток и из них
+     Загружать и сохранять сообщения в и из файла или потока
     </p>
    </div>
    <div class="col-lg-4">
@@ -317,10 +317,10 @@ description: Библиотека электронной почты C++ для �
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Производить и потреблять iCalendar Шаблоны повторения
+     Создание и потребление шаблонов повторения iCalendar
     </h2>
     <p>
-     Библиотека позволяет разработчикам программно генерировать и использовать повторяющиеся шаблоны в формате iCalendar (RFC 2445) с использованием интуитивно понятной объектной модели. Наш опыт гарантирует, что интерфейс iCalendar прост в использовании, предоставляя вам полный контроль над производством и потреблением повторений.
+     Библиотека позволяет разработчикам программно генерировать и использовать повторяющиеся шаблоны в формате iCalendar (RFC 2445) с использованием интуитивно понятной объектной модели. Наш опыт гарантирует, что интерфейс iCalendar прост в использовании, давая вам полный контроль над производством и потреблением повторений.
     </p>
    </div>
    <div class="col-lg-12">
@@ -332,36 +332,26 @@ description: Библиотека электронной почты C++ для �
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Создать PST и добавить сообщение в папку "Входящие" - C++
+      Создать PST и добавить сообщение в папку &quot;Входящие&quot; - C++
      </h3>
-     <pre><code class="cpp">// создать файл PST с нуля       
+     <pre><code class="cpp">// create PST file from scratch      
 
 System::SharedPtr&lt;PersonalStorage&gt; personalStorage = PersonalStorage::Create(dir + L"output.pst", Aspose::Email::Outlook::Pst::FileFormatVersion::Unicode);
 
-// добавляем папку "Входящие" в PST
+// add a folder "Inbox" to the PST
 
 personalStorage-&gt;get_RootFolder()-&gt;AddSubFolder(L"Inbox");
 
-// выбираем папку "Входящие"
+// select the "Inbox" folder
 
 System::SharedPtr&lt;FolderInfo&gt; inboxFolder = personalStorage-&gt;get_RootFolder()-&gt;GetSubFolder(L"Inbox");
 
-// добавляем сообщение в папку "Входящие"
+// add a message to the "Inbox" folder
 
 inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code></pre>
     </div>
    </div>
-   <!--
 
-<div class="col-lg-12">
-
-<h2 class="h2title">Manage Thunderbird Message Storage</h2>
-
-<p>Aspose.Email for C++ can handle Thunderbird mail storage structures very well. You can use Aspose.Email for C++ to load existing MBOX files for inspection purposes as well as for the extraction of archived messages in EML or MSG formats. The API also supports adding new messages to the Thunderbird mail storage which can be used to dynamically create MBOX files from scratch.</p>
-
-</div>
-
--->
   </div>
  </div>
 </div>
@@ -372,7 +362,7 @@ inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code>
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/email/cpp/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/email/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-email/Aspose.Email-for-C" >}}
 {{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/cpp/email" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
@@ -381,7 +371,7 @@ inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code>
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< blocks/products/pf/slr-element name="Примечания к выпуску" href="https://docs.aspose.com/email/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

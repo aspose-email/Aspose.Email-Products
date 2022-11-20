@@ -1,14 +1,14 @@
 ---
-title: Приложение электронной почты SharePoint — преобразование EML в MSG с вложениями 
+title: Приложение электронной почты SharePoint — преобразование EML в MSG с вложениями
 weight: 370
-url: /ru/sharepoint/ 
+url: /ru/sharepoint/
 description: Приложение электронной почты SharePoint для экспорта EML в MSG вместе с вложениями электронной почты. Синхронизируйте файлы и электронные письма с FTP POP3 IMAP или MS Обменный сервер
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Приложение SharePoint для преобразования и синхронизации сообщений электронной почты" h2="Преобразование файлов электронной почты или синхронизация электронной почты без усилий." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-sharepoint.svg" pfName="Aspose.Email" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Приложение SharePoint для преобразования и синхронизации сообщений электронной почты" h2="Преобразование файлов электронной почты или синхронизация электронной почты без усилий." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-sharepoint.svg" pfName="Aspose.Email" subTitlepfName="для SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for SharePoint" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="для SharePoint" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/sharepoint" >}}
 
@@ -33,7 +33,7 @@ description: Приложение электронной почты SharePoint �
    </header>
    <ul>
     <li>
-     Interconvert EML and MSG
+     Интерконвертировать EML и MSG
     </li>
     <li>
      Извлечь вложения
@@ -100,14 +100,14 @@ description: Приложение электронной почты SharePoint �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Email для SharePoint предназначен для использования с Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Email для SharePoint предназначен для использования с Microsoft Сервер SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header style="padding-left: 0px;">
     <i class="fa fa-cubes">
     </i>
-    SharePoint Server
+    Сервер SharePoint
    </header>
    <ul>
     <li>
@@ -145,7 +145,7 @@ description: Приложение электронной почты SharePoint �
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Ввод, вывод
+    Input/Output
    </header>
    <ul>
     <li>
@@ -202,7 +202,7 @@ description: Приложение электронной почты SharePoint �
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Взаимное преобразование EML и MSG из библиотеки документов SharePoint.
+     Взаимное преобразование EML и MSG из библиотеки документов SharePoint
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,15 +219,7 @@ description: Приложение электронной почты SharePoint �
      Синхронизация электронной почты через POP3, IMAP или Microsoft Обменный сервер
     </p>
    </div>
-   <!--
-
-<div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Синхронизируйте файлы с DropBox</p>
-
-</div>
-
--->
+  
    <div class="col-lg-12">
     <h2 class="h2title">
      Взаимное преобразование форматов MSG и EML
@@ -238,7 +230,7 @@ description: Приложение электронной почты SharePoint �
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Синхронизируйте электронные письма и файлы напрямую из SharePoint
+     Синхронизируйте электронную почту и файлы напрямую из SharePoint
     </h2>
     <p>
      Aspose.Email для SharePoint может подключаться к серверам FTP, POP3, IMAP и Microsoft Exchange для синхронизации электронной почты прямо из приложений SharePoint. Кроме того, приложение позволяет подключаться к FTP-серверу и отправлять файлы из библиотеки документов SharePoint.
@@ -262,7 +254,7 @@ description: Приложение электронной почты SharePoint �
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Документация" href="https://products.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://products.aspose.com/email/sharepoint" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-email?tab=repositories" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -270,7 +262,7 @@ description: Приложение электронной почты SharePoint �
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Email для SharePoint?" tabId="success-stories" >}}
@@ -284,11 +276,11 @@ description: Приложение электронной почты SharePoint �
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email предлагает отдельные API электронной почты для других популярных сред разработки, перечисленных ниже:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/ru/ru/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/ru/ru/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/ru/ru/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/ru/ru/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/ru/ru/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName="Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ru/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ru/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ru/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ru/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ru/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

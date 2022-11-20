@@ -1,14 +1,14 @@
 ---
-title: API электронной почты Android | Обработка календаря и анализ MIME 
+title: API электронной почты Android | Обработка календаря и анализ MIME
 weight: 2450
-url: /ru/android-java/ 
+url: /ru/android-java/
 description: Почтовая библиотека позволяет получать доступ, читать и управлять файлами Outlook MSG PST OST EML MHT внутри мобильных приложений.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API-интерфейсы электронной почты Android" h2="Создавайте, управляйте и конвертируйте сообщения электронной почты и файлы хранения, включая MSG, EML, MHT, PST и OST, из мобильных приложений." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-android-java.svg" pfName="Aspose.Email" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API-интерфейсы электронной почты Android" h2="Создавайте, управляйте и конвертируйте сообщения электронной почты и файлы хранения, включая MSG, EML, MHT, PST и OST, из мобильных приложений." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-android-java.svg" pfName="Aspose.Email" subTitlepfName="для Android через Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Android via Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="для Android через Java" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/java/android-via-java-release-notes/" installationsDocsLink="https://docs.aspose.com/email/java/aspose-email-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/androidjava" >}}
 
@@ -33,11 +33,11 @@ description: Почтовая библиотека позволяет получ
    <header>
     <i class="fa fa-archive">
     </i>
-    Хранилище
+    Storage
    </header>
    <ul>
     <li>
-     Create PST and OST Files
+     Создание файлов PST и OST
     </li>
     <li>
      Управление сообщениями в PST
@@ -55,7 +55,7 @@ description: Почтовая библиотека позволяет получ
    <header>
     <i class="fa fa-calendar">
     </i>
-    События
+    Events
    </header>
    <ul>
     <li>
@@ -80,7 +80,7 @@ description: Почтовая библиотека позволяет получ
    <header>
     <i class="fa fa-envelope">
     </i>
-    электронные письма
+    Emails
    </header>
    <ul>
     <li>
@@ -90,7 +90,7 @@ description: Почтовая библиотека позволяет получ
      Интерконвертировать сообщения
     </li>
     <li>
-     Create Plain and HTML электронные письма
+     Создавайте простые и HTML электронные письма
     </li>
     <li>
      Управление встроенными объектами
@@ -119,7 +119,7 @@ description: Почтовая библиотека позволяет получ
     <em>
      for
     </em>
-    Android via Java
+    Android через Java
    </small>
   </footer>
  </div>
@@ -159,7 +159,7 @@ description: Почтовая библиотека позволяет получ
     <em>
      for
     </em>
-    Android via Java
+    Android через Java
    </small>
   </footer>
  </div>
@@ -175,7 +175,7 @@ description: Почтовая библиотека позволяет получ
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ввод, вывод
+    Input/Output
    </header>
    <ul>
     <li>
@@ -203,7 +203,7 @@ description: Почтовая библиотека позволяет получ
      <em>
       for
      </em>
-     Android via Java
+     Android через Java
     </small>
    </footer>
   </div>
@@ -224,7 +224,7 @@ description: Почтовая библиотека позволяет получ
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced API электронной почты Android Features
+    Расширенные функции API электронной почты Android
    </h2>
    <p>
    </p>
@@ -232,7 +232,7 @@ description: Почтовая библиотека позволяет получ
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Импорт и экспорт формата сообщений, совместимого с RFC822.
+     Импорт и экспорт формата сообщений, совместимого с RFC822
     </p>
    </div>
    <div class="col-lg-4">
@@ -291,29 +291,6 @@ description: Почтовая библиотека позволяет получ
      Извлечение сообщений из файлов хранилища
     </p>
    </div>
-   <!--
-
-<div class="col-lg-4"><em class="fa fa-group ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Add or extract messages & contacts from PST and OST files</p>
-
-</div>
-
-
-
-<div class="col-lg-4"><em class="fa fa-calendar-plus-o  ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding and saving calendar items from PST files</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-sticky-note ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding tasks, notes and journals to PST files</p>
-
-</div>
-
--->
    <div class="col-lg-12">
     <h2 class="h2title">
      Преобразование MSG в другой формат
@@ -325,11 +302,11 @@ description: Почтовая библиотека позволяет получ
      <h3>
       Сохранить сообщение в разных форматах — Java
      </h3>
-     <pre><code class="java">// загружаем документ для конвертации
+     <pre><code class="java">// load the document for conversion
 
 MailMessage msge = MailMessage.load(SD_PATH + "template.msg");
 
-// Преобразование MSG в EML, HTML и MHTML
+// Convert MSG to EML, HTML and MHTML
 
 msge.save(SD_PATH + "output.eml", SaveOptions.getDefaultEml());
 
@@ -351,12 +328,12 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Работа с Android iCalendar API
     </h2>
     <p>
-     API iCalendar в Aspose.Email позволяет создавать и сохранять объекты календаря Outlook в нескольких форматах, таких как MSG и ICS. Вы также можете читать объекты календаря с помощью этого API.
+     iCalendar API Aspose.Email позволяет создавать и сохранять объекты календаря Outlook в нескольких форматах, таких как MSG и ICS. Вы также можете читать объекты календаря с помощью этого API.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Read Outlook PST File
+     Чтение PST-файла Outlook
     </h2>
     <p>
      Библиотека позволяет читать и записывать файл Microsoft Outlook PST. Он предоставляет доступ ко всем папкам и подпапкам файла PST, поэтому вы можете добавлять, читать и извлекать сообщения. Сообщения, контакты и элементы календаря можно экспортировать и сохранять на диск в различных форматах из файла PST.
@@ -370,17 +347,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Mail API позволяет очень просто читать и извлекать вложения из файлов сообщений. Вы можете не только извлекать вложения, но и создавать новые вложения и добавлять их в сообщения.
     </p>
    </div>
-   <!--
 
-<div class="col-lg-12">
-
-<h2 class="h2title">Microsoft Office Automation – Not Needed</h2>
-
-<p>Aspose.Email for Android via Java API is built using managed code that do never need Microsoft Office or Microsoft Outlook to be installed on the machine to work with emails processing. It is a perfect Microsoft Outlook automation alternative in terms of supported features, security, stability, scalability, speed and price.</p>
-
-</div>
-
--->
   </div>
  </div>
 </div>
@@ -391,7 +358,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/email/androidjava/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/email/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-email/Aspose.Email-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/email" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
@@ -400,7 +367,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Email для Android через Java?" tabId="success-stories" >}}

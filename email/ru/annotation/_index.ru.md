@@ -5,5 +5,5 @@ url: /ru/annotation
 description: Бесплатное приложение и API для аннотаций и комментариев EML, EMLX, MSG для Windows, Linux и macOS
 ---
 
-{{< blocks/products/pf/agp/feature-solution >}} 
+{{< blocks/products/pf/agp/feature-solution >}}
 

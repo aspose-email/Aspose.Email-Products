@@ -14,7 +14,7 @@ description: Aspose.Email for Python via .NET is an Email Programming API for Mi
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time &amp; effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
+ Aspose.Email for Python via .NET is a flexible yet powerful Email Programming API, that saves developer's time & effort to create, manipulate or convert common email message formats without worrying about the complexities of the underlying format implementation.
 </p>
 
 <p>

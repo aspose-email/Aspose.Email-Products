@@ -291,29 +291,6 @@ description: Mail library allows to access, read and manipulate Outlook MSG PST 
      Extract messages from storage files
     </p>
    </div>
-   <!--
-
-<div class="col-lg-4"><em class="fa fa-group ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Add or extract messages & contacts from PST and OST files</p>
-
-</div>
-
-
-
-<div class="col-lg-4"><em class="fa fa-calendar-plus-o  ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding and saving calendar items from PST files</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-sticky-note ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding tasks, notes and journals to PST files</p>
-
-</div>
-
--->
    <div class="col-lg-12">
     <h2 class="h2title">
      MSG to Different Format Conversion
@@ -370,17 +347,7 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Mail API provides the ability to read and extract attachments from message files in a very simple manner. Not only can you extract attachments but also create new attachments and add these to messages.
     </p>
    </div>
-   <!--
 
-<div class="col-lg-12">
-
-<h2 class="h2title">Microsoft Office Automation – Not Needed</h2>
-
-<p>Aspose.Email for Android via Java API is built using managed code that do never need Microsoft Office or Microsoft Outlook to be installed on the machine to work with emails processing. It is a perfect Microsoft Outlook automation alternative in terms of supported features, security, stability, scalability, speed and price.</p>
-
-</div>
-
--->
   </div>
  </div>
 </div>

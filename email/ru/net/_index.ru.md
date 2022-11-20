@@ -1,14 +1,14 @@
 ---
-title: Электронная почта Aspose | API Outlook для обработки электронной почты C# .NET 
+title: Электронная почта Aspose | API Outlook для обработки электронной почты C# .NET
 weight: 880
-url: /ru/net/ 
+url: /ru/net/
 description: C# ASP.NET VB.NET Библиотека обработки электронной почты для Outlook Thunderbird и других форматов файлов. API работает с серверами SMTP POP3 IMAP и MS Exchange для отправки электронных писем.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET Outlook и библиотека обработки электронной почты Thunderbird" h2="Создавайте, анализируйте, конвертируйте и управляйте электронной почтой и межплатформенными архивами электронной почты" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-net.svg" pfName="Aspose.Email" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET Outlook и библиотека обработки электронной почты Thunderbird" h2="Создавайте, анализируйте, конвертируйте и управляйте электронной почтой и межплатформенными архивами электронной почты" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-net.svg" pfName="Aspose.Email" subTitlepfName="для .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="для .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/net/" installationsDocsLink="https://docs.aspose.com/email/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Email/" nugetPackageName="Aspose.Email" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/net" >}}
 
@@ -18,7 +18,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
 </p>
 
 <p>
- Aspose.Email для .NET упрощает для разработчиков работу с рядом форматов Microsoft Outlook и Mozilla Thunderbird, таких как MSG, EML, EMLX, PST, OST, MBOX и MHT, а также предоставляет возможность управлять файлами хранения сообщений. такие как личные Файлы хранения (PST) и офлайн Файлы хранения (OST) и MBOX. Разработчики могут использовать API для отправки и получения электронных писем по ряду популярных протоколов, таких как POP3, IMAP и SMTP, или подключаться к серверу Microsoft Exchange через WebDav и веб-службы Exchange для отправки и получения электронных писем с вложениями, а также списка или удаления сообщений с сервера.
+ Aspose.Email для .NET упрощает для разработчиков работу с рядом форматов Microsoft Outlook и Mozilla Thunderbird, таких как MSG, EML, EMLX, PST, OST, MBOX и MHT, а также предоставляет возможность управлять файлами хранения сообщений. такие как файлы личного хранилища (PST) и файлы автономного хранилища (OST) и MBOX. Разработчики могут использовать API для отправки и получения электронных писем по ряду популярных протоколов, таких как POP3, IMAP и SMTP, или подключаться к серверу Microsoft Exchange через WebDav и веб-службы Exchange для отправки и получения электронных писем с вложениями, а также списка или удаления сообщений с сервера.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -58,7 +58,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
    <header>
     <i class="fa fa-envelope">
     </i>
-    Электронная почта
+    Emailing
    </header>
    <ul>
     <li>
@@ -95,11 +95,11 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
    <header>
     <i class="fa fa-cogs">
     </i>
-    электронные письма
+    Emails
    </header>
    <ul>
     <li>
-     Создавайте простые и HTML электронные письма
+     Создавайте обычные электронные письма и электронные письма в формате HTML
     </li>
     <li>
      Загрузка различных форматов
@@ -177,7 +177,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Email для .NET поддерживает платформы .NET framework, .NET Core и Xamarin." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Aspose.Email для .NET поддерживает платформы .NET framework, .NET ядро и Xamarin." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -193,13 +193,13 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
    <header>
     <i class="fa fa-cubes">
     </i>
-    .NET Core
+    .NET ядро
    </header>
    <br/>
    <header>
     <i class="fa fa-cubes">
     </i>
-    Xamarin Platform
+    Платформа Xamarin
    </header>
    <ul>
     <li>
@@ -212,21 +212,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
      Xamarin.Mac
     </li>
    </ul>
-   <!--
 
-<ul>
-
-<li>Windows Azure</li>
-
-<li>ASP.NET</li>
-
-<li>Web Services</li>
-
-<li>WinForms</li>
-
-</ul>
-
--->
   </div>
   <!--/right-->
  </div>
@@ -257,7 +243,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ввод, вывод
+    Input/Output
    </header>
    <ul>
     <li>
@@ -267,11 +253,11 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
      MSG, PST, OST, OFT
     </li>
     <li>
-     EML, EMLX, MBOX
+     ЭМЛ, ЭМЛКС, MBOX
     </li>
     <li>
      <b>
-      Другие:
+      Others:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -287,7 +273,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
    <ul>
     <li>
      <b>
-      Mac Outlook:
+      Внешний вид Mac:
      </b>
      OLM
     </li>
@@ -325,7 +311,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced API электронной почты .NET Features
+    Расширенные функции API электронной почты .NET
    </h2>
    <p>
    </p>
@@ -389,7 +375,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Манипуляции с личными и автономными файлами хранения сообщений
+     Управление сообщениями Личные и автономные файлы хранения
     </p>
    </div>
    <div class="col-lg-4">
@@ -431,7 +417,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Включить текст и тело письма в формате HTML
+     Включить текст и HTML-тело письма
     </p>
    </div>
    <div class="col-lg-4">
@@ -518,11 +504,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
      Получить путь к папке в файле OLM
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-file-zip-o ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Добавить вложение к повторяющимся событиям календаря</p>
-
-</div>-->
    <div class="col-lg-4">
     <em class="fa fa-suitcase ico-blue fa-2x col-lg-2">
     </em>
@@ -537,51 +519,7 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
      Поддержка нескольких подключений для рекурсивных операций IMAP и POP3
     </p>
    </div>
-   <!--<div class="col-lg-12">
 
-<h2 class="h2title">Latest Mail API Features</h2>
-
-<p>One is never restricted to existing features but Aspose.Email for .NET API is continuously adding more and more features and every new version offers more features as compared to the older versions. One can also send new feature requests in case any of your desired features missing. Here is the list of few picks from latest features.</p>
-
-<ul>
-
-<li>Read электронные письма in descending order.</li>
-
-<li>Add multi-connection support for backup/restore IMAP operation.</li>
-
-<li>Extend ExchangeFolderType with new types of folders.</li>
-
-<li>Option to write vCard files with S/MIME certificate in PEM format.</li>
-
-<li>Implement support of IMAP LIST Extension for Special-Use Mailboxes (rfc6154).</li>
-
-<li>Add ReadOnly mode for IMAP client per connection level.</li>
-
-<li>Add multi-connection support for Send SMTP operation and group Append IMAP operation.</li>
-
-<li>Create group fetch messages IMAP operation and POP3 operation with multi-connection support.</li>
-
-<li>Add support for headers described in rfc2369 (List-Unsubscribe) in MessageInfo objects.</li>
-
-<li>Add the ability to use disk cache and sending queue in group SMTP send operation.</li>
-
-<li>Option to save MapiCalendar with HTML body format.</li>
-
-<li>Refactoring connection pool. Add unit-tests coverage for connection management.</li>
-
-<li>Create and Manage In-Place Archive in Office 365.</li>
-
-<li>Create folder hierarchy in PST using string notation.</li>
-
-<li>Specify created and last modified dates in ICS.</li>
-
-<li>Modification of PRODID in ICS.</li>
-
-<li>Configure SSL/TLS encryption type on email client instances.</li>
-
-</ul>
-
-</div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
      Динамическое преобразование сообщения в несколько форматов электронной почты в .NET
@@ -593,13 +531,13 @@ description: C# ASP.NET VB.NET Библиотека обработки элек�
      <h3>
       Сохранить сообщение в разных форматах — C#
      </h3>
-     <pre><code class="cs">// загружаем файл для конвертации
+     <pre><code class="cs">// load the file to be converted
 
 using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
 
 {
 
-    // сохраняем в разных форматах
+    // save in different formats
 
     message.Save(dir + "output.eml", Aspose.Email.SaveOptions.DefaultEml);
 
@@ -620,7 +558,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Send and Receive электронные письма via SMTP, POP3 and IMAP
+     Отправляйте и получайте электронные письма через SMTP, POP3 и IMAP
     </h2>
     <p>
      Aspose.Email для .NET позволяет создавать сложные сообщения с вложениями, форматированием HTML и изображениями, а также отправлять электронную почту по протоколу SMTP. Он также позволяет вам входить на серверы POP3 по имени пользователя и паролю или аутентификации APOP для выполнения таких операций, как получение электронной почты, а также просмотр размера почтового ящика и количества сообщений, получение полного сообщения или только заголовков, удаление сообщений с сервера и т. д. .
@@ -634,7 +572,7 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Подключиться к серверу Microsoft Exchange
     </h2>
     <p>
-     Aspose.Email для .NET предоставляет возможность подключения к серверу Microsoft Exchange для выполнения нескольких операций. Вы можете просматривать сообщения из любой папки, загружать сообщения и сохранять их в поддерживаемых форматах сообщений. электронные письма приглашения на встречи также можно отправлять с помощью WebDav и веб-служб Exchange Server. API также поддерживает операции единой системы обмена сообщениями и автоматическое обнаружение параметров Exchange Server на основе указанных учетных данных.
+     Aspose.Email для .NET предоставляет возможность подключения к серверу Microsoft Exchange для выполнения нескольких операций. Вы можете просматривать сообщения из любой папки, загружать сообщения и сохранять их в поддерживаемых форматах сообщений. Электронные письма и приглашения на встречи также можно отправлять с помощью WebDav и веб-служб Exchange Server. API также поддерживает операции единой системы обмена сообщениями и автоматическое обнаружение параметров Exchange Server на основе указанных учетных данных.
     </p>
    </div>
    <div class="col-lg-12">
@@ -642,12 +580,12 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Полное решение шаблона повторения
     </h2>
     <p>
-     Aspose.Email для .NET позволяет легко и надежно рассчитать даты и время возникновения даже для самых сложных шаблонов повторения. Вы можете динамически создавать и использовать повторяющиеся шаблоны в формате iCalendar RFC (2445). Вы можете использовать годовые, ежемесячные, еженедельные, ежедневные, ежечасные, ежеминутные и посекундные шаблоны повторения, а также можете представлять шаблоны повторения в своих окнах, веб-приложениях или мобильных приложениях.
+     Aspose.Email для .NET позволяет легко и надежно рассчитать даты и время появления даже самых сложных шаблонов повторения. Вы можете динамически создавать и использовать повторяющиеся шаблоны в формате iCalendar RFC (2445). Вы можете использовать годовые, ежемесячные, еженедельные, ежедневные, ежечасные, ежеминутные и секундные шаблоны повторения, а также можете представлять шаблоны повторения в своих окнах, веб-приложениях или мобильных приложениях.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Message Файлы хранения
+     Управление файлами хранилища сообщений
     </h2>
     <p>
      Библиотека электронной почты может загружать файлы Microsoft Outlook PST и OST из объекта потока или расположения на диске, чтобы получить полную иерархию папок и прочитать конкретные сведения о сообщении, такие как тема, отправитель, получатель, или извлечь сообщения с вложениями.
@@ -656,19 +594,19 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      <h3>
       Список сообщений из PST — C#
      </h3>
-     <pre><code class="cs">// загружаем PST-файл
+     <pre><code class="cs">// load PST file
 
 using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "template.pst"))
 
 {
 
-    // список папок PST
+    // list PST folders
 
     foreach (var folder in pst.RootFolder.GetSubFolders())
 
     {
 
-        // список сообщений в папке
+        // list messages in a folder
 
         foreach (var msg in folder.EnumerateMessages())
 
@@ -711,7 +649,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/email/net/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/email/net/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-email/Aspose.Email-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/email/net" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
@@ -720,7 +658,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< blocks/products/pf/slr-element name="Примечания к выпуску" href="https://docs.aspose.com/email/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

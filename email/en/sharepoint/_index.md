@@ -33,7 +33,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
    </header>
    <ul>
     <li>
-     Interconvert EML &amp; MSG
+     Interconvert EML & MSG
     </li>
     <li>
      Extract Attachments
@@ -202,14 +202,14 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-convert EML &amp; MSG from within SharePoint document library
+     Inter-convert EML & MSG from within SharePoint document library
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Synchronize files with FTP server &amp; DropBox
+     Synchronize files with FTP server & DropBox
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,18 +219,10 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
      Synchronize emails via POP3, IMAP or Microsoft Exchange Server
     </p>
    </div>
-   <!--
-
-<div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Synchronize files with DropBox</p>
-
-</div>
-
--->
+   
    <div class="col-lg-12">
     <h2 class="h2title">
-     Inter-conversion of MSG &amp; EML Formats
+     Inter-conversion of MSG & EML Formats
     </h2>
     <p>
      Aspose.Email for SharePoint supports the most popular message formats. The Email Conversion App also provides the capability to inter-convert the supported message files without losing any information.
@@ -238,7 +230,7 @@ description: SharePoint Email App to export EML to MSG along with email Attachme
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Synchronize Emails &amp; Files Directly from SharePoint
+     Synchronize Emails & Files Directly from SharePoint
     </h2>
     <p>
      Aspose.Email for SharePoint can connect to FTP, POP3, IMAP and Microsoft Exchange Servers for email synchronization right from within the SharePoint applications. Moreover, the app allows to connect with an FTP server and send files from the SharePoint document library.

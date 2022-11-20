@@ -1,14 +1,14 @@
 ---
-title: API электронной почты Java | API Java для Outlook | Получать и анализировать электронные письма 
+title: API электронной почты Java | API Java для Outlook | Получать и анализировать электронные письма
 weight: 2670
-url: /ru/java/ 
+url: /ru/java/
 description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для отправки и получения электронной почты Thunderbird и Outlook. API работает с SMTP-сервером POP3 IMAP-клиенты Email API
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Java Outlook API и Java Thunderbird API для обработки электронной почты" h2="Создавайте электронные письма, отправляйте электронные письма и анализируйте электронные письма из Outlook и Thunderbird без дополнительного программного обеспечения. Отправляйте и получайте электронные письма по протоколам SMTP, POP3, IMAP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-java.svg" pfName="Aspose.Email" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/email/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Java Outlook API и Java Thunderbird API для обработки электронной почты" h2="Создавайте электронные письма, отправляйте электронные письма и анализируйте электронные письма из Outlook и Thunderbird без дополнительного программного обеспечения. Отправляйте и получайте электронные письма по протоколам SMTP, POP3, IMAP." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-java.svg" pfName="Aspose.Email" subTitlepfName="для Java" downloadUrl="https://downloads.aspose.com/email/java" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="для Java" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/java/" installationsDocsLink="https://docs.aspose.com/email/java/installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/java" >}}
 
@@ -18,7 +18,7 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
 </p>
 
 <p>
- Aspose.Email для Java может создавать электронные письма Outlook, анализировать электронные письма или преобразовывать форматы сообщений, такие как MSG, EML, MBOX, PST, OST и MHT, из приложений Java. API может управлять содержимым сообщений, вложениями, заголовками и свойствами MAPI, а также возможностью отправлять и получать электронные письма по ряду популярных протоколов. Он также предоставляет возможность управлять документами хранения сообщений, такими как личные Файлы хранения PST и офлайн Файлы хранения OST. Вы можете перечислять электронные письма, извлекать электронные письма, добавлять или удалять сообщения из файлов хранилища в соответствии со спецификациями вашего приложения. Библиотека электронной почты Java позволяет работать с файлом контактов Outlook (VCF).
+ Aspose.Email для Java может создавать электронные письма Outlook, анализировать электронные письма или преобразовывать форматы сообщений, такие как MSG, EML, MBOX, PST, OST и MHT, из приложений Java. API может управлять содержимым сообщений, вложениями, заголовками и свойствами MAPI, а также возможностью отправлять и получать электронные письма по ряду популярных протоколов. Он также предоставляет возможность управлять документами хранилища сообщений, такими как файлы личного хранилища PST и файлы автономного хранилища OST. Вы можете перечислять электронные письма, извлекать электронные письма, добавлять или удалять сообщения из файлов хранилища в соответствии со спецификациями вашего приложения. Библиотека электронной почты Java позволяет работать с файлом контактов Outlook (VCF).
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -95,11 +95,11 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
    <header>
     <i class="fa fa-cogs">
     </i>
-    электронные письма
+    Emails
    </header>
    <ul>
     <li>
-     Создавайте простые и HTML электронные письма
+     Создавайте обычные электронные письма и электронные письма в формате HTML
     </li>
     <li>
      Загрузка разнообразных форматов
@@ -177,7 +177,7 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Для работы Aspose.Email for Java требуется только Java." >}}
+{{< blocks/products/pf/carousel-item h3="Независимость от платформы" description="Для работы Aspose.Email для Java требуется только Java." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -191,10 +191,10 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
    </header>
    <ul>
     <li>
-     JSP/JSF Заявление
+     Приложение JSP/JSF
     </li>
     <li>
-     Desktop Заявление
+     Настольное приложение
     </li>
    </ul>
   </div>
@@ -227,7 +227,7 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ввод, вывод
+    Input/Output
    </header>
    <ul>
     <li>
@@ -237,7 +237,7 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
      MSG, PST, OST, OFT
     </li>
     <li>
-     EML, EMLX, MBOX
+     ЭМЛ, ЭМЛКС, MBOX
     </li>
     <li>
      <strong>
@@ -252,7 +252,7 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Ввод, вывод
+    Input/Output
    </header>
    <ul>
     <li>
@@ -263,9 +263,9 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
     </li>
     <li>
      <strong>
-      Интернет:
+      Web:
      </strong>
-     HTML, MHTML
+     HTML, МHTML
     </li>
    </ul>
    <header>
@@ -315,18 +315,12 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
    </h2>
    <p>
    </p>
-   <!-- <div class="col-lg-4"><em class="fa fa-html5 ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Process EML, MSG & MHTML formats</p>
-
-</div>
-
--->
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Создание и управление сообщениями через API
+     Создавайте и управляйте сообщениями через API
     </p>
    </div>
    <div class="col-lg-4">
@@ -497,25 +491,6 @@ description: Aspose.Email Java. Mail, MIME и iCalander SDK для Java для �
     <p>
      Библиотека электронной почты Java предоставляет простые в использовании интерфейсы для преобразования поддерживаемых форматов файлов сообщений. Для того, чтобы выполнить преобразование, все, что вам нужно сделать, это загрузить исходный файл в объектную модель API и вызвать метод сохранения с необходимыми параметрами. Это действительно так просто!
     </p>
-    <!--<div id="code" class="codeblock">
-
-<h3>Save message in different formats - Java</h3>
-
-<pre><code class="java">// load the file to be converted
-
-MailMessage message;
-
-message = MailMessage.load(dir + "template.msg");
-
-// save in different formats
-
-message.save(dir + "output.eml", SaveOptions.getDefaultEml());
-
-message.save(dir + "output.html", SaveOptions.getDefaultHtml());
-
-message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
-
-</div>-->
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
@@ -528,21 +503,21 @@ message.save(dir + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      <h3>
       Как отправить электронное письмо с помощью SMTP — Java
      </h3>
-     <pre><code class="java">// Инициализировать объект SmtpClient
+     <pre><code class="java">// Initialize SmtpClient object
 
 SmtpClient client = new SmtpClient("smtp.gmail.com", 587, "username", "password");
 
-// Установить параметры безопасности для сервера
+// Set Security options for the server
 
 client.setSecurityOptions(SecurityOptions.Auto);
 
-// Создать новое сообщение
+// Create a new Message
 
 MailMessage msg = new MailMessage("<span id="cloak534965a644a4ec64a756fdf05f91b201">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak534965a644a4ec64a756fdf05f91b201').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy534965a644a4ec64a756fdf05f91b201='s&#101;nd&#101;r&#105;d'+'&#64;';addy534965a644a4ec64a756fdf05f91b201=addy534965a644a4ec64a756fdf05f91b201+'gm&#97;&#105;l'+'&#46;'+'c&#111;m';var addy_text534965a644a4ec64a756fdf05f91b201='s&#101;nd&#101;r&#105;d'+'&#64;'+'gm&#97;&#105;l'+'&#46;'+'c&#111;m';document.getElementById('cloak534965a644a4ec64a756fdf05f91b201').innerHTML+='<a '+path+'\''+prefix+':'+addy534965a644a4ec64a756fdf05f91b201+'\'>'+addy_text534965a644a4ec64a756fdf05f91b201+'<\/a>';</script>", "<span id="cloakc693047e99f446f9e4442d905515e3c6">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloakc693047e99f446f9e4442d905515e3c6').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addyc693047e99f446f9e4442d905515e3c6='r&#101;c&#105;&#101;v&#101;r&#105;d'+'&#64;';addyc693047e99f446f9e4442d905515e3c6=addyc693047e99f446f9e4442d905515e3c6+'gm&#97;&#105;l'+'&#46;'+'c&#111;m';var addy_textc693047e99f446f9e4442d905515e3c6='r&#101;c&#105;&#101;v&#101;r&#105;d'+'&#64;'+'gm&#97;&#105;l'+'&#46;'+'c&#111;m';document.getElementById('cloakc693047e99f446f9e4442d905515e3c6').innerHTML+='<a '+path+'\''+prefix+':'+addyc693047e99f446f9e4442d905515e3c6+'\'>'+addy_textc693047e99f446f9e4442d905515e3c6+'<\/a>';</script>", "First Message from Java", "Body");
 
 System.out.println("Sending message..");		
 
-// Отправить сообщение сейчас
+// Send the Message now
 
 client.send(msg);</code></pre>
     </div>
@@ -557,10 +532,10 @@ client.send(msg);</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Message Файлы хранения
+     Управление файлами хранилища сообщений
     </h2>
     <p>
-     Aspose.Email for Java API позволяет управлять форматами хранения Outlook. Вы можете загружать файлы PST и OST с диска или из потока, получать информацию о папках и подпапках из архива сообщений, извлекать сведения о сообщении, такие как тема, отправитель, получатель, и сохранять сообщения на диск или в поток.
+     Aspose.Email для Java API позволяет управлять форматами хранения Outlook. Вы можете загружать файлы PST и OST с диска или из потока, получать информацию о папках и подпапках из архива сообщений, извлекать детали сообщения, такие как тема, отправитель, получатель, и сохранять сообщения на диск или в поток.
     </p>
     <p>
      Помимо анализа существующего PST, библиотека также предоставляет средства для создания файла PST с нуля и добавления сообщений в любую его папку.
@@ -569,22 +544,22 @@ client.send(msg);</code></pre>
      <h3>
       Создать PST с нуля и добавить сообщение из файла — Java
      </h3>
-     <pre><code class="java">// создаем экземпляр PersonalStorage
+     <pre><code class="java">// create an instance of PersonalStorage
 
 PersonalStorage pst = PersonalStorage.create(dir + "archive.pst", 0);
 
-// создаем папку в корне PST
+// create a folder at the root of PST
 
 pst.getRootFolder().addSubFolder("Inbox");
 
-// добавляем сообщение во вновь созданную папку
+// add message to newly created folder
 
 pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + "template.msg"));</code></pre>
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Work With Contact Cards
+     Работа с карточками контактов
     </h2>
     <p>
      Aspose.Email для Java позволяет манипулировать файлами карточек контактов, также известными как VCF или VCard, который является всемирным форматом файлов для хранения и обмена карточками контактов. Обрабатывайте карточки контактов Outlook, а также карточки Thunderbird VCard в приложениях Java. Используя Aspose.Email для Java, вы можете отправлять файлы VCard или VCF по электронной почте, прикреплять VCF к своим сообщениям или извлекать их из электронных писем. Кроме того, вы можете обмениваться файлами VCard (VCF) по-своему. API позволяет редактировать, создавать и удалять карточки контактов. Вы можете легко добавить поддержку карточек контактов в свое приложение.
@@ -608,7 +583,7 @@ pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + 
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Образовательные ресурсы" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Документация" href="https://docs.aspose.com/email/java/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/email/java/" >}}
 {{< blocks/products/pf/slr-element name="Исходный код" href="https://github.com/aspose-email/Aspose.Email-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Ссылки на API" href="https://apireference.aspose.com/email/java" >}}
 {{< blocks/products/pf/slr-element name="Учебные видео" href="https://www.youtube.com/user/asposevideo" >}}
@@ -617,12 +592,12 @@ pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + 
 {{< blocks/products/pf/slr-tab tabTitle="Поддержка продукта" tabId="support" >}}
 {{< blocks/products/pf/slr-element name="Бесплатная поддержка" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Платная поддержка" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Блог" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< blocks/products/pf/slr-element name="Примечания к выпуску" href="https://docs.aspose.com/email/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Почему Aspose.Email для Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customer Case Studies" href="https://downloads.aspose.com/corporate/case-studies/aspose.email/" >}}
+{{< blocks/products/pf/slr-element name="Примеры клиентов" href="https://downloads.aspose.com/corporate/case-studies/aspose.email/" >}}
 {{< blocks/products/pf/slr-element name="Список клиентов" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Истории успеха" href="https://company.aspose.com/customers/success-stories/aspose-email" >}}
 {{< /blocks/products/pf/slr-tab >}}

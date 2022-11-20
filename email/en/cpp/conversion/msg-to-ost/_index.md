@@ -17,9 +17,7 @@ description: Sample C++ conversion code for MSG document to OST format. Use exam
  [Aspose.Email for C++](https://products.aspose.com/email/cpp) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
- package manager, search for
- Aspose.Email.Cpp 
- and install. You may also use the following command from the Package Manager Console.
+ package manager, search for Aspose.Email.Cpp and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 

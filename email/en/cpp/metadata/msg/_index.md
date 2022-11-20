@@ -44,8 +44,8 @@ PM> Install-Package Aspose.Email.Cpp
 {{% /blocks/products/pf/agp/text %}}
 
 +  Load the MSG file via MapiMessage::FromFile
-+  Get properties collection using get\_Properties()
-+  Get the respective property using idx\_get
++  Get properties collection using get_Properties()
++  Get the respective property using idx_get
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

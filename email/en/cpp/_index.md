@@ -14,11 +14,11 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX &amp; MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX & MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
 </p>
 
 <p>
- Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction &amp; manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST &amp; OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
+ Aspose.Email for C++ is best suited for mail management features such as content editing, manipulation of recipients, extraction & manipulation of MAPI properties and attachments as well as for the advanced features such as message storage files management including PST & OST. Currently, API supports SMTP, POP3 and IMAP communication protocols for email transmission.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -232,7 +232,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Email File &amp; Message Archive Processing API Features
+    Email File & Message Archive Processing API Features
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load &amp; save messages to &amp; from file or stream
+     Load & save messages to & from file or stream
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,14 +254,14 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create &amp; update tasks using iCalendar public API
+     Create & update tasks using iCalendar public API
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-powerpoint-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create, manipulate &amp; extract storage files
+     Create, manipulate & extract storage files
     </p>
    </div>
    <div class="col-lg-4">
@@ -282,7 +282,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text &amp; HTML-based mail body
+     Include text & HTML-based mail body
     </p>
    </div>
    <div class="col-lg-4">
@@ -296,7 +296,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports SMTP, POP3 &amp; IMAP communication protocols
+     Supports SMTP, POP3 & IMAP communication protocols
     </p>
    </div>
    <div class="col-lg-12">
@@ -304,7 +304,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
      Manage MIME Messages via C++ Library
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML &amp; EMLX. This ability allows the developers to create, set &amp; extract contents from the MIME messages, manage attachments &amp; embedded objects, convert EML &amp; EMLX files to MSG, HTML &amp; MHTML file formats.
+     Aspose.Email for C++ extensively supports MIME formats including EML & EMLX. This ability allows the developers to create, set & extract contents from the MIME messages, manage attachments & embedded objects, convert EML & EMLX files to MSG, HTML & MHTML file formats.
     </p>
    </div>
    <div class="col-lg-12">
@@ -312,15 +312,15 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
      Manage Outlook Message File Formats
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load &amp; save all types of Outlook items including contacts, tasks, notes, calendar items &amp; distributions lists. On top of it, the C++ Email Library allows to parse &amp; manipulate all of the Outlook objects via public API.
+     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load & save all types of Outlook items including contacts, tasks, notes, calendar items & distributions lists. On top of it, the C++ Email Library allows to parse & manipulate all of the Outlook objects via public API.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produce &amp; Consume iCalendar Recurrence Patterns
+     Produce & Consume iCalendar Recurrence Patterns
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production &amp; consumption.
+     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production & consumption.
     </p>
    </div>
    <div class="col-lg-12">
@@ -351,17 +351,7 @@ System::SharedPtr&lt;FolderInfo&gt; inboxFolder = personalStorage-&gt;get_RootFo
 inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code></pre>
     </div>
    </div>
-   <!--
 
-<div class="col-lg-12">
-
-<h2 class="h2title">Manage Thunderbird Message Storage</h2>
-
-<p>Aspose.Email for C++ can handle Thunderbird mail storage structures very well. You can use Aspose.Email for C++ to load existing MBOX files for inspection purposes as well as for the extraction of archived messages in EML or MSG formats. The API also supports adding new messages to the Thunderbird mail storage which can be used to dynamically create MBOX files from scratch.</p>
-
-</div>
-
--->
   </div>
  </div>
 </div>
