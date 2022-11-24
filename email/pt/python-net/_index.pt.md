@@ -1,14 +1,14 @@
 ---
-title: Python Outlook Email API para MSG EML PST MBOX MHT 
+title: Python Outlook Email API para MSG EML PST MBOX MHT
 weight: 1930
-url: /pt/python-net/ 
+url: /pt/python-net/
 description: Aspose.Email para Python via .NET é uma API de programação de e-mail para formatos de arquivo do Microsoft Outlook PST MSG EML ICS. Permite trabalhar com SMTP POP3 IMAP via SSL TLS
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API Python para processamento de e-mail" h2="Crie, manipule ou converta formatos de e-mail, incluindo MSG, EML, EMLX e MHT a partir de aplicativos Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-python-net.svg" pfName="Aspose.Email" subTitlepfName="for Python via .NET" downloadUrl="https://downloads.aspose.com/email/pythonnet" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API Python para processamento de e-mail" h2="Crie, manipule ou converta formatos de e-mail, incluindo MSG, EML, EMLX e MHT a partir de aplicativos Python." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-python-net.svg" pfName="Aspose.Email" subTitlepfName="para Python via .NET" downloadUrl="https://downloads.aspose.com/email/pythonnet" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Python via .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="para Python via .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/python-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/pythonnet/release-notes/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/pythonnet" >}}
 
@@ -18,7 +18,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
 </p>
 
 <p>
- A API de email do Python pode ser usada para recursos básicos de gerenciamento de email, como edição de conteúdo de mensagens e manipulação de anexos. Além disso, a biblioteca também realiza o gerenciamento dos documentos de armazenamento de mensagens, enviando e recebendo e-mails através de diferentes protocolos, incluindo POP3, IMAP e SMTP.
+ A API de e-mail do Python pode ser usada para recursos b&#225;sicos de gerenciamento de e-mail, como edi&#231;&#227;o de conte&#250;do de mensagens e manipula&#231;&#227;o de anexos. Al&#233;m disso, a biblioteca tamb&#233;m realiza o gerenciamento dos documentos de armazenamento de mensagens, enviando e recebendo e-mails por meio de diferentes protocolos, incluindo POP3, IMAP e SMTP.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -26,7 +26,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral da API de e-mail Python." >}}
+{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral da API de e-mail do Python." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -52,13 +52,13 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
      Gerenciar tarefas, notas, diários
     </li>
     <li>
-     Criação de Listas de Distribuição
+     Criação de listas de distribuição
     </li>
    </ul>
    <header>
     <i class="fa fa-envelope">
     </i>
-    E-mail
+    Emailing
    </header>
    <ul>
     <li>
@@ -71,16 +71,16 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
      Suporta tempo limite de conexão
     </li>
     <li>
-     Trabalhar com os Contatos do Gmail
+     Trabalhar com contatos do Gmail
     </li>
     <li>
-     Trabalhar com o Calendário do Gmail
+     Trabalhar com o calendário do Gmail
     </li>
     <li>
-     Validar endereços
+     Validar Endereços
     </li>
     <li>
-     Validar sintaxe
+     Validar Sintaxe
     </li>
     <li>
      Validar domínio
@@ -95,14 +95,14 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
    <header>
     <i class="fa fa-cogs">
     </i>
-    E-mails
+    Emails
    </header>
    <ul>
     <li>
-     Crie emails simples e HTML
+     Crie e-mails simples e HTML
     </li>
     <li>
-     Carregar variedade de formatos
+     Carregar Variedade de Formatos
     </li>
     <li>
      Converter mensagens
@@ -111,7 +111,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
      Suporte para modelos
     </li>
     <li>
-     Corpos de Mensagem Alternativos
+     Corpos de mensagens alternativos
     </li>
     <li>
      Gerenciar objetos incorporados
@@ -126,7 +126,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
      Gerenciar cabeçalhos
     </li>
     <li>
-     Ler e gravar no armazenamento de email do Thunderbird
+     Ler e gravar no Thunderbird Mail Storage
     </li>
    </ul>
    <header>
@@ -145,10 +145,10 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
      Exportar compromisso para arquivo ICS
     </li>
     <li>
-     Formatar texto do compromisso
+     Texto do compromisso de formato
     </li>
     <li>
-     Ler informações do compromisso
+     Ler informações de agendamento
     </li>
     <li>
      Enviar solicitação de agendamento
@@ -177,7 +177,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independência da plataforma" description="Aspose.Email para Python via .NET pode ser usado no Windows com Python 3.5 ou superior." >}}
+{{< blocks/products/pf/carousel-item h3="Independência de plataforma" description="Aspose.Email para Python via .NET pode ser usado no Windows com Python 3.5 ou superior." >}}
 <div class="diagram1 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -187,7 +187,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
    <header>
     <i class="fa fa-cubes">
     </i>
-    Ambiente de execução do Python
+    Ambiente de tempo de execução do Python
    </header>
    <br/>
   </div>
@@ -195,7 +195,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API do Outlook PST" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
+  <img width="70" height="75" alt="API PST do Outlook" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -213,14 +213,14 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Suporta formatos de mensagens do Outlook, formatos de armazenamento de mensagens e outros [formatos](https://docs.aspose.com/email/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Suporta formatos de mensagens do Outlook, formatos de armazenamento de mensagens e outros [formats](https://docs.aspose.com/email/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Entrada/Saída
+    Input/Output
    </header>
    <ul>
     <li>
@@ -234,7 +234,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
     </li>
     <li>
      <b>
-      Outros:
+      Others:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -296,21 +296,21 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Conversão e renderização de formato de arquivo de e-mail
+     Convers&#227;o e renderiza&#231;&#227;o de formato de arquivo de e-mail
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Envie e receba e-mails com anexos
+     Enviar e receber e-mails com anexos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Baixar mensagens de servidores de correio POP3 e IMAP
+     Baixe mensagens de servidores de e-mail POP3 e IMAP
     </p>
    </div>
    <div class="col-lg-4">
@@ -357,10 +357,10 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Converter arquivos de mensagens dinamicamente
+     Converter arquivos de mensagem dinamicamente
     </h2>
     <p>
-     Aspose.Email para Python via .NET é uma boa escolha se você estiver procurando por uma API para converter arquivos de e-mail. Ele fornece interfaces fáceis de usar para o processo de conversão enquanto oculta todos os detalhes feios da especificação de formato subjacente. Tudo que você precisa fazer é carregar o arquivo de origem no modelo de objeto Aspose.Email e chamar o método Save com os parâmetros apropriados. É realmente tão simples!
+     Aspose.Email para Python via .NET é uma boa escolha se você estiver procurando por uma API para converter arquivos de e-mail entre si. Ele fornece interfaces fáceis de usar para o processo de conversão enquanto oculta todos os detalhes feios da especificação de formato subjacente. Tudo o que você precisa fazer é carregar o arquivo de origem no modelo de objeto Aspose.Email e chamar o método Save com os parâmetros apropriados. É realmente tão simples!
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -368,7 +368,7 @@ description: Aspose.Email para Python via .NET é uma API de programação de e-
      </h3>
      <pre><code class="py">msg= MailMessage.load(dir + "msgtemplate.msg")
 
-# convert MSG to EML, HTML and MHTML formats
+# convert MSG to EML, HTML &amp; MHTML formats
 
 msg.save("emloutput.eml", SaveOptions.default_eml)
 
@@ -379,64 +379,64 @@ msg.save("mhtoutput.mhtml", SaveOptions.default_mhtml)</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Suporte extensivo para formato ICS de nomeação
+     Amplo suporte para o formato ICS de compromisso
     </h2>
     <p>
-     Aspose.Email para Python via .NET pode ser usado para criar compromissos e salvá-lo no formato ICS. A biblioteca de e-mail Python também permite carregar compromissos de arquivos ICS, ler ou gravar eventos de compromisso, criar um compromisso como rascunho e definir o status dos participantes do compromisso
+     Aspose.Email para Python via .NET pode ser usado para criar compromissos e salvá-los no formato ICS. A Python Email Library também permite carregar compromissos de arquivos ICS, ler ou gravar eventos de compromisso, criar um compromisso como um rascunho e definir o status dos participantes do compromisso
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produza e consuma recorrências com a API iCalendar
+     Produza e consuma recorr&#234;ncias com a API iCalendar
     </h2>
     <p>
-     Aspose.Email para Python via .NET fornece a funcionalidade para gerar e salvar objetos de calendário do Outlook nos formatos MSG e ICS. Não só você pode criar e salvar objetos iCalendar, mas também recuperar, atualizar, enviar e cancelar solicitações de reunião. Além disso, usando o modelo de objeto intuitivo, é fácil produzir e consumir dinamicamente padrões de recorrência no formato iCalendar RFC 2445.
+     Aspose.Email para Python via .NET fornece a funcionalidade para gerar e salvar objetos do calend&#225;rio do Outlook nos formatos MSG e ICS. Voc&#234; n&#227;o apenas pode criar e salvar objetos iCalendar, mas tamb&#233;m recuperar, atualizar, enviar e cancelar solicita&#231;&#245;es de reuni&#227;o. Al&#233;m disso, usando o modelo de objeto intuitivo, &#233; f&#225;cil produzir e consumir dinamicamente padr&#245;es de recorr&#234;ncia no formato iCalendar RFC 2445.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Enviar e receber E-mails via SMTP, POP3 and IMAP Mail Servers
+     Envie e receba e-mails via servidores de e-mail SMTP, POP3 e IMAP
     </h2>
     <p>
-     Aspose.Email para Python via .NET API permite que você crie, envie e receba e-mails usando os protocolos SMTP, POP3 e IMAP. Ele permite que você faça login em servidores POP3 por nome de usuário e senha ou autenticação APOP para executar operações de e-mail como: visualizar o tamanho da caixa de correio e a contagem de mensagens, recuperar a mensagem completa ou seu cabeçalho, excluir mensagens do servidor, bem como comandos POP3 básicos.
+     Aspose.Email para Python via API .NET permite que você crie, envie e receba e-mails usando os protocolos SMTP, POP3 e IMAP. Ele permite que você faça login nos servidores POP3 por nome de usuário e senha ou autenticação APOP para executar operações de e-mail como: visualizar o tamanho da caixa de correio e a contagem de mensagens, recuperar a mensagem completa ou seu cabeçalho, excluir mensagens do servidor, bem como comandos POP3 básicos.
     </p>
     <p>
-     Aspose.Email para Python via .NET também suporta o protocolo IMAP, incluindo seus comandos, bem como autenticação, criar, excluir, selecionar, consultar pastas, obter, excluir, salvar mensagens e manipular sinalizadores de mensagem.
+     Aspose.Email para Python via .NET também oferece suporte ao protocolo IMAP, incluindo seus comandos, bem como autenticação, criar, excluir, selecionar, consultar pastas, obter, excluir, salvar mensagens e manipular sinalizadores de mensagens.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Criar ou manipular arquivos PST, OST e MBOX
+     Crie ou manipule arquivos PST, OST e MBOX
     </h2>
     <p>
-     Aspose.Email para Python via .NET permite gerenciar arquivos de armazenamento do Outlook, como PST e OST. Você pode realizar várias operações em arquivos de armazenamento existentes, bem como criar novos arquivos PST do zero. As operações possíveis incluem listagem de pastas, listagem de mensagens, extração de mensagens e contatos no formato MSG.
+     Aspose.Email para Python via .NET permite que voc&#234; gerencie arquivos de armazenamento do Outlook, como PST e OST. Voc&#234; pode executar v&#225;rias opera&#231;&#245;es em arquivos de armazenamento existentes, bem como criar novos arquivos PST do zero. As opera&#231;&#245;es poss&#237;veis incluem listagem de pastas, listagem de mensagens, extra&#231;&#227;o de mensagens e contatos no formato MSG.
     </p>
     <p>
-     Junto com os arquivos de armazenamento do Outlook, o Aspose.Email para Python via .NET também suporta o formato de arquivo Mbox. Você pode usar o Aspose.Email para Python via .NET para carregar arquivos Mbox existentes e extrair informações de mensagens.
+     Juntamente com os arquivos de armazenamento do Outlook, o Aspose.Email para Python via .NET também oferece suporte ao formato de arquivo Mbox. Você pode usar Aspose.Email para Python via .NET para carregar arquivos Mbox existentes e extrair informações de mensagens.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Extraia mensagens do Mbox - Python
+      Extrair mensagens do Mbox - Python
      </h3>
      <pre><code class="py">reader = MboxrdStorageReader(dir + "template.mbox", False)
 
 eml = reader.read_next_message()
 
-# Lê todas as mensagens em um loop
+# Read all messages in a loop
 
 while (eml is not None):
 
-    # mostra o assunto da mensagem
+    # show message subject
 
     print("Subject: " + eml.subject)
 
-    # save message in EML and MSG formats
+    # save message in EML &amp; MSG formats
 
     eml.save("output.eml", aspose.email.SaveOptions.default_eml)
 
     eml.save("output.msg", aspose.email.SaveOptions.default_msg_unicode)
 
-    # recebe a próxima mensagem
+    # get the next message
 
     eml = reader.read_next_message();
 
@@ -453,16 +453,16 @@ reader.dispose();</code></pre>
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/email/pythonnet/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/email/pythonnet/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-email/Aspose.Email-Python-Dotnet" >}}
 {{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/email/net" >}}
-{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/email" >}}
+{{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Email para Python via .NET?" tabId="success-stories" >}}
@@ -474,7 +474,7 @@ reader.dispose();</code></pre>
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/pythonnet" pricingInformationLink="https://purchase.aspose.com/pricing/email/python-net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="O Aspose.Email oferece APIs de e-mail individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email oferece APIs de e-mail individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/email/pt/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
     {{< blocks/products/pf/offers-section-item link="/email/pt/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}

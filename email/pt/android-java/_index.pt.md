@@ -1,24 +1,24 @@
 ---
-title: API de e-mail Android | Processamento de calendário e análise MIME 
+title: API de e-mail do Android | Processamento de calendário e análise de MIME
 weight: 2450
-url: /pt/android-java/ 
-description: A biblioteca de correio permite acessar, ler e manipular arquivos Outlook MSG PST OST EML MHT dentro de aplicativos móveis.
+url: /pt/android-java/
+description: A biblioteca de correio permite acessar, ler e manipular arquivos MSG PST OST EML MHT do Outlook em aplicativos móveis.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="APIs de e-mail do Android" h2="Crie, manipule e converta mensagens de e-mail e arquivos de armazenamento, incluindo MSG, EML, MHT, PST e OST de dentro de aplicativos móveis." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-android-java.svg" pfName="Aspose.Email" subTitlepfName="for Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="APIs de e-mail do Android" h2="Crie, manipule e converta mensagens de e-mail e arquivos de armazenamento, incluindo MSG, EML, MHT, PST e OST a partir de aplicativos móveis." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-android-java.svg" pfName="Aspose.Email" subTitlepfName="para Android via Java" downloadUrl="https://downloads.aspose.com/email/androidjava" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for Android via Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="para Android via Java" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/android-java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/java/android-via-java-release-notes/" installationsDocsLink="https://docs.aspose.com/email/java/aspose-email-for-android-via-java-installation/" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-email" directDownloadLink="https://downloads.aspose.com/email/androidjava" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email para Android via Java capacita os desenvolvedores de software a projetar aplicativos Android com a capacidade de gerenciar e manipular mensagens de correio sem se perder nas complexidades da implementação do formato de arquivo do Microsoft Outlook. A biblioteca de e-mail do Android ajuda os desenvolvedores a manipular os formatos de arquivo de e-mail de dentro dos aplicativos Android. A API não tem dependências além do Android Runtime, portanto, não precisa de nenhuma outra API ou software para funcionar.
+ Aspose.Email para Android via Java capacita os desenvolvedores de software a projetar aplicativos Android com a capacidade de gerenciar e manipular mensagens de e-mail sem se perder nas complexidades da implementação do formato de arquivo do Microsoft Outlook. A biblioteca de e-mail do Android ajuda os desenvolvedores a manipular formatos de arquivo de e-mail de aplicativos Android. A API não tem dependências além do Android Runtime, portanto, não precisa de nenhuma outra API ou software para funcionar.
 </p>
 
 <p>
- Aspose.Email para Android via Java oferece as ferramentas que você precisa para criar, ler e manipular arquivos Outlook MSG, PST, EML e MHT de dentro de um aplicativo Android. Ele fornece a capacidade de manipular cabeçalhos de mensagens, conteúdos, anexos e propriedades Mapi de acordo com as especificações do aplicativo.
+ Aspose.Email para Android via Java oferece as ferramentas necessárias para criar, ler e manipular arquivos MSG, PST, EML e MHT do Outlook a partir de um aplicativo Android. Ele fornece a capacidade de manipular cabeçalhos de mensagens, conteúdos, anexos e propriedades Mapi de acordo com as especificações do aplicativo.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -33,11 +33,11 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
    <header>
     <i class="fa fa-archive">
     </i>
-    Armazenar
+    Storage
    </header>
    <ul>
     <li>
-     Create PST and OST Files
+     Criar arquivos PST e OST
     </li>
     <li>
      Gerenciar mensagens no PST
@@ -55,7 +55,7 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
    <header>
     <i class="fa fa-calendar">
     </i>
-    Eventos
+    Events
    </header>
    <ul>
     <li>
@@ -68,10 +68,10 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
      Exportar compromisso para arquivo ICS
     </li>
     <li>
-     Formatar texto de compromisso
+     Texto do compromisso de formato
     </li>
     <li>
-     Ler informações do compromisso
+     Ler informações de agendamento
     </li>
    </ul>
   </div>
@@ -80,17 +80,17 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
    <header>
     <i class="fa fa-envelope">
     </i>
-    E-mails
+    Emails
    </header>
    <ul>
     <li>
-     Carregar variedade de formatos
+     Carregar Variedade de Formatos
     </li>
     <li>
-     Mensagens de interconversão
+     Mensagens de Interconversão
     </li>
     <li>
-     Create Plain and HTML E-mails
+     Crie e-mails simples e HTML
     </li>
     <li>
      Gerenciar objetos incorporados
@@ -128,7 +128,7 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independência da plataforma" description="O Aspose.Email é executado em qualquer plataforma em que o Ambiente de execução do Android esteja instalado." >}}
+{{< blocks/products/pf/carousel-item h3="Independência de plataforma" description="Aspose.Email roda em qualquer plataforma onde o Ambiente de execução do Android está instalado." >}}
 <div class="diagram1 d1-android">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -175,7 +175,7 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Entrada/Saída
+    Input/Output
    </header>
    <ul>
     <li>
@@ -224,7 +224,7 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced API de e-mail do Android Features
+    Recursos avançados da API de e-mail do Android
    </h2>
    <p>
    </p>
@@ -232,7 +232,7 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Importar e exportar formato de mensagem compatível com RFC822
+     Importar e exportar formato de mensagem compat&#237;vel com RFC822
     </p>
    </div>
    <div class="col-lg-4">
@@ -260,14 +260,14 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Calcular ocorrências de data e hora para padrões de recorrência complexos
+     Calcule ocorrências de data e hora para padrões de recorrência complexos
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Produza e consuma padrões de recorrência no iCalendar (RFC 2445)
+     Produzir e consumir padr&#245;es de recorr&#234;ncia no iCalendar (RFC 2445)
     </p>
    </div>
    <div class="col-lg-4">
@@ -281,55 +281,32 @@ description: A biblioteca de correio permite acessar, ler e manipular arquivos O
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Carregar e analisar e-mails nos formatos MSG, MHT e EML
+     Carregue e analise e-mails nos formatos MSG, MHT e EML
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-database ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extraia mensagens de arquivos de armazenamento
+     Extrair mensagens de arquivos de armazenamento
     </p>
    </div>
-   <!--
-
-<div class="col-lg-4"><em class="fa fa-group ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Add or extract messages & contacts from PST and OST files</p>
-
-</div>
-
-
-
-<div class="col-lg-4"><em class="fa fa-calendar-plus-o  ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding and saving calendar items from PST files</p>
-
-</div>
-
-<div class="col-lg-4"><em class="fa fa-sticky-note ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Adding tasks, notes and journals to PST files</p>
-
-</div>
-
--->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Conversão de MSG para Formato Diferente
+     Conversão de MSG para formatos diferentes
     </h2>
     <p>
-     A biblioteca facilita a conversão de diferentes formatos de arquivo de mensagem. O processo de conversão é carregar o arquivo de origem no modelo de objeto da API e chamar a função save com parâmetros relevantes. É realmente tão simples!
+     A biblioteca facilita a conversão de diferentes formatos de arquivo de mensagem. O processo de conversão é carregar o arquivo de origem no modelo de objeto da API e chamar a função salvar com os parâmetros relevantes. É realmente tão simples!
     </p>
     <div class="codeblock" id="code">
      <h3>
       Salvar mensagem em diferentes formatos - Java
      </h3>
-     <pre><code class="java">// carrega o documento para conversão
+     <pre><code class="java">// load the document for conversion
 
 MailMessage msge = MailMessage.load(SD_PATH + "template.msg");
 
-// Converte MSG para EML, HTML e MHTML
+// Convert MSG to EML, HTML and MHTML
 
 msge.save(SD_PATH + "output.eml", SaveOptions.getDefaultEml());
 
@@ -340,10 +317,10 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Ler Propriedades MAPI do Outlook
+     Leia as propriedades MAPI do Outlook
     </h2>
     <p>
-     A biblioteca Android do Outlook permite que você leia as propriedades MAPI do arquivo MSG. Ele suporta a leitura de todas as propriedades MAPI ou a leitura de uma propriedade específica usando a marca de propriedade MAPI.
+     A biblioteca Android do Outlook permite que você leia as propriedades MAPI do arquivo MSG. Ele oferece suporte à leitura de todas as propriedades MAPI ou à leitura de uma propriedade específica usando a marca de propriedade MAPI.
     </p>
    </div>
    <div class="col-lg-12">
@@ -351,15 +328,15 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Trabalhando com a API iCalendar do Android
     </h2>
     <p>
-     A API iCalendar do Aspose.Email torna possível criar e salvar objetos de calendário do Outlook em vários formatos, como MSG e ICS. Você também pode ler objetos de calendário usando esta API.
+     A API iCalendar do Aspose.Email torna possível criar e salvar objetos do Calendário do Outlook em vários formatos, como MSG e ICS. Você também pode ler objetos de calendário usando esta API.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Read Outlook PST File
+     Ler arquivo PST do Outlook
     </h2>
     <p>
-     A biblioteca permite que você leia e grave um arquivo PST do Microsoft Outlook. Ele fornece acesso a todas as pastas e subpastas de um arquivo PST para que você possa adicionar, ler e extrair mensagens. Mensagens, contatos e itens de calendário podem ser exportados e salvos em disco em vários formatos a partir de um arquivo PST.
+     biblioteca permite que você leia e grave um arquivo PST do Microsoft Outlook. Ele fornece acesso a todas as pastas e subpastas de um arquivo PST para que você possa adicionar, ler e extrair mensagens. Mensagens, contatos e itens de calendário podem ser exportados e salvos em disco em vários formatos a partir de um arquivo PST.
     </p>
    </div>
    <div class="col-lg-12">
@@ -367,20 +344,10 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
      Gerenciar anexos
     </h2>
     <p>
-     Mail API fornece a capacidade de ler e extrair anexos de arquivos de mensagens de uma maneira muito simples. Você não apenas pode extrair anexos, mas também criar novos anexos e adicioná-los às mensagens.
+     API de correio fornece a capacidade de ler e extrair anexos de arquivos de mensagens de maneira muito simples. Você não apenas pode extrair anexos, mas também criar novos anexos e adicioná-los às mensagens.
     </p>
    </div>
-   <!--
 
-<div class="col-lg-12">
-
-<h2 class="h2title">Microsoft Office Automation – Not Needed</h2>
-
-<p>Aspose.Email for Android via Java API is built using managed code that do never need Microsoft Office or Microsoft Outlook to be installed on the machine to work with emails processing. It is a perfect Microsoft Outlook automation alternative in terms of supported features, security, stability, scalability, speed and price.</p>
-
-</div>
-
--->
   </div>
  </div>
 </div>
@@ -391,16 +358,16 @@ msge.save(SD_PATH + "output.mhtml", SaveOptions.getDefaultMhtml());</code></pre>
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/email/androidjava/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/email/androidjava/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-email/Aspose.Email-for-Java" >}}
 {{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/email" >}}
-{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/email" >}}
+{{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Email para Android via Java?" tabId="success-stories" >}}

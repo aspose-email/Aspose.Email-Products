@@ -1,24 +1,24 @@
 ---
-title: API de análise de e-mail C++ - Aspose 
+title: API de análise de e-mail C++ - Aspose
 weight: 2780
-url: /pt/cpp/ 
-description: Biblioteca de e-mail C++ para criar manipular e converter arquivos PST OST de e-mail do Microsoft Outlook. Protocolos SMTP, POP3 e IMAP suportados para enviar e receber e-mails
+url: /pt/cpp/
+description: Biblioteca de e-mail C++ para criar, manipular e converter arquivos PST OST do Microsoft Outlook. Protocolos SMTP, POP3 e IMAP suportados para enviar e receber e-mails
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de processamento de mensagens de e-mail e armazenamento de mensagens C++" h2="Crie, edite e converta arquivos de e-mail e arquivos de mensagens de dentro de aplicativos C++ sem exigir o Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-cpp.svg" pfName="Aspose.Email" subTitlepfName="for C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de processamento de mensagem de e-mail e armazenamento de mensagem C++" h2="Crie, edite e converta arquivos de e-mail e arquivos de mensagens a partir de aplicativos C++ sem a necessidade do Microsoft Outlook." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-cpp.svg" pfName="Aspose.Email" subTitlepfName="para C++" downloadUrl="https://downloads.aspose.com/email/cpp" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for C++" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="para C++" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/cpp" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/cpp/" installationsDocsLink="https://docs.aspose.com/email/cpp/installation" nugetLink="https://www.nuget.org/packages/aspose.email.cpp.vc140/" nugetPackageName="Aspose.Email.Cpp.VC140" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/cpp" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email for C++ é uma API de programação de e-mail que facilita o trabalho dos desenvolvedores com vários formatos, como MSG, EML, EMLX e MHT. Os desenvolvedores de aplicativos podem criar, converter ou manipular os formatos de mensagem mais usados nos aplicativos C++ nativos, sem depender do aplicativo Office Automation ou Microsoft Outlook.
+ Aspose.Email para C++ é uma API de programação de e-mail que torna mais fácil para os desenvolvedores trabalhar com vários formatos, como MSG, EML, EMLX e MHT. Os desenvolvedores de aplicativos podem criar, converter ou manipular os formatos de mensagem mais comumente usados nos aplicativos C++ nativos, sem depender da automação do Office ou do aplicativo Microsoft Outlook.
 </p>
 
 <p>
- O Aspose.Email para C++ é mais adequado para recursos de gerenciamento de email, como edição de conteúdo, manipulação de destinatários, extração e manipulação de propriedades e anexos MAPI, bem como para recursos avançados, como gerenciamento de arquivos de armazenamento de mensagens, incluindo PST e OST. Atualmente, a API suporta os protocolos de comunicação SMTP, POP3 e IMAP para transmissão de e-mail.
+ Aspose.Email para C++ é mais adequado para recursos de gerenciamento de e-mail, como edição de conteúdo, manipulação de destinatários, extração e manipulação de propriedades e anexos MAPI, bem como para recursos avançados, como gerenciamento de arquivos de armazenamento de mensagens, incluindo PST e OST. Atualmente, a API suporta os protocolos de comunicação SMTP, POP3 e IMAP para transmissão de e-mail.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -26,7 +26,7 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral da Biblioteca de Email para C++." >}}
+{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral da biblioteca de e-mail para C++." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -68,10 +68,10 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
      Exportar compromisso para arquivo ICS
     </li>
     <li>
-     Formatar texto do compromisso
+     Texto do compromisso de formato
     </li>
     <li>
-     Ler informações do compromisso
+     Ler informações de agendamento
     </li>
    </ul>
   </div>
@@ -80,23 +80,23 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
    <header>
     <i class="fa fa-cogs">
     </i>
-    E-mails
+    Emails
    </header>
    <ul>
     <li>
-     Crie emails simples e HTML
+     Crie e-mails simples e HTML
     </li>
     <li>
-     Carregar variedade de formatos
+     Carregar Variedade de Formatos
     </li>
     <li>
-     Mensagens de interconversão
+     Mensagens de Interconversão
     </li>
     <li>
      Suporte para modelos
     </li>
     <li>
-     Corpos de Mensagem Alternativos
+     Corpos de mensagens alternativos
     </li>
     <li>
      Gerenciar objetos incorporados
@@ -134,7 +134,7 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independência da plataforma" description="Aspose.Email for C++ pode ser usado em qualquer aplicativo C++ desenvolvido nas seguintes plataformas usando [requisitos de sistema](https://docs.aspose.com/email/cpp/system-requirements/)." >}}
+{{< blocks/products/pf/carousel-item h3="Independência de plataforma" description="Aspose.Email para C++ pode ser usado em qualquer aplicativo C++ desenvolvido nas seguintes plataformas usando [requisitos de sistema](https://docs.aspose.com/email/cpp/system-requirements/)." >}}
 <div class="diagram1 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -142,7 +142,7 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
    <header>
     <i class="fa fa-cubes">
     </i>
-    Windows 64 bit
+    Windows 64 bits
    </header>
   </div>
   <!--/left-->
@@ -150,14 +150,14 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
    <header>
     <i class="fa fa-cubes">
     </i>
-    Linux 64 bit
+    linux 64 bits
    </header>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API do Outlook PST" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg"/>
+  <img width="70" height="75" alt="API PST do Outlook" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -175,14 +175,14 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.Email para C++ suporta o correio mais comumente usado [formatos de arquivo](https://docs.aspose.com/email/cpp/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.Email para C++ suporta o email mais comumente usado [formatos de arquivo](https://docs.aspose.com/email/cpp/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-cplus">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Entrada/Saída
+    Input/Output
    </header>
    <ul>
     <li>
@@ -232,7 +232,7 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Recursos da API de processamento de arquivo de e-mail e arquivo de mensagens
+    Recursos da API de processamento de arquivo de mensagens e arquivos de e-mail
    </h2>
    <p>
    </p>
@@ -240,7 +240,7 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Carregar e salvar mensagens de e para arquivo ou fluxo
+     Carregar e salvar mensagens de e para arquivo ou stream
     </p>
    </div>
    <div class="col-lg-4">
@@ -254,7 +254,7 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crie e atualize tarefas usando a API pública do iCalendar
+     Crie e atualize tarefas usando a API pública iCalendar
     </p>
    </div>
    <div class="col-lg-4">
@@ -268,14 +268,14 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
     <em class="fa fa-unlink ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Crie padrões de recorrência de acordo com o formato RFC do iCalendar
+     Crie padrões de recorrência de acordo com o formato iCalendar RFC
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adicione objetos incorporados ou anexe arquivos a emails
+     Adicione objetos incorporados ou anexe arquivos a e-mails
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
      Gerenciar mensagens MIME via biblioteca C++
     </h2>
     <p>
-     Aspose.Email para C++ suporta amplamente os formatos MIME, incluindo EML e EMLX. Essa capacidade permite que os desenvolvedores criem, definam e extraiam conteúdo das mensagens MIME, gerenciem anexos e objetos incorporados, convertam arquivos EML e EMLX para os formatos de arquivo MSG, HTML e MHTML.
+     Aspose.Email para C++ suporta extensivamente os formatos MIME, incluindo EML e EMLX. Essa capacidade permite que os desenvolvedores criem, definam e extraiam conteúdo das mensagens MIME, gerenciem anexos e objetos incorporados, convertam arquivos EML e EMLX em formatos de arquivo MSG, HTML e MHTML.
     </p>
    </div>
    <div class="col-lg-12">
@@ -312,56 +312,46 @@ description: Biblioteca de e-mail C++ para criar manipular e converter arquivos 
      Gerenciar formatos de arquivo de mensagem do Outlook
     </h2>
     <p>
-     O Aspose.Email para C++ é capaz de criar mensagens do Outlook a partir do zero, além de fornecer a capacidade de manipular arquivos de e-mail existentes. Os desenvolvedores podem carregar e salvar todos os tipos de itens do Outlook, incluindo contatos, tarefas, notas, itens de calendário e listas de distribuição. Além disso, a Biblioteca de Email C++ permite analisar e manipular todos os objetos do Outlook por meio da API pública.
+     Aspose.Email para C++ é capaz de criar mensagens do Outlook a partir do zero, além de fornecer a capacidade de manipular arquivos de e-mail existentes. Os desenvolvedores podem carregar e salvar todos os tipos de itens do Outlook, incluindo contatos, tarefas, notas, itens de calendário e listas de distribuição. Além disso, a biblioteca C++ Email permite analisar e manipular todos os objetos do Outlook via API pública.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Produzir e consumir iCalendar Padrões de recorrência
+     Produzir e consumir padrões de recorrência do iCalendar
     </h2>
     <p>
-     A biblioteca permite que os desenvolvedores gerem e consumam programaticamente padrões de recorrência no formato iCalendar (RFC 2445) usando um modelo de objeto intuitivo. Nossa experiência garante que a interface do iCalendar seja fácil de usar, ao mesmo tempo em que oferece controle total sobre a produção e o consumo recorrentes.
+     biblioteca permite que os desenvolvedores gerem e consumam padrões de recorrência programaticamente no formato iCalendar (RFC 2445) usando um modelo de objeto intuitivo. Nossa experiência garante que a interface do iCalendar seja fácil de usar, ao mesmo tempo em que oferece controle total sobre a produção e o consumo recorrentes.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Criar, inspecionar e extrair itens de arquivos PST e OST
+     Crie, inspecione e extraia itens de arquivos PST e OST
     </h2>
     <p>
-     Aspose.Email para C++ permite gerenciar formatos de armazenamento do Outlook como PST e OST. A API executa diferentes operações em formatos de armazenamento existentes, bem como cria novos documentos PST do zero. Outras operações possíveis podem ser realizadas, como listagem de pastas e mensagens, adição ou extração de mensagens, contatos e pastas.
+     Aspose.Email para C++ permite gerenciar formatos de armazenamento do Outlook como PST e OST. A API executa diferentes opera&#231;&#245;es em formatos de armazenamento existentes, bem como cria novos documentos PST do zero. Outras opera&#231;&#245;es poss&#237;veis podem ser executadas, como listagem de pastas e mensagens, adi&#231;&#227;o ou extra&#231;&#227;o de mensagens, contatos e pastas.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Criar PST e adicionar mensagem à caixa de entrada - C++
+      Criar PST e adicionar mensagem &#224; caixa de entrada - C++
      </h3>
-     <pre><code class="cpp">// cria arquivo PST do zero       
+     <pre><code class="cpp">// create PST file from scratch      
 
 System::SharedPtr&lt;PersonalStorage&gt; personalStorage = PersonalStorage::Create(dir + L"output.pst", Aspose::Email::Outlook::Pst::FileFormatVersion::Unicode);
 
-// adiciona uma pasta "Caixa de entrada" ao PST
+// add a folder "Inbox" to the PST
 
 personalStorage-&gt;get_RootFolder()-&gt;AddSubFolder(L"Inbox");
 
-// seleciona a pasta "Caixa de entrada"
+// select the "Inbox" folder
 
 System::SharedPtr&lt;FolderInfo&gt; inboxFolder = personalStorage-&gt;get_RootFolder()-&gt;GetSubFolder(L"Inbox");
 
-// adiciona uma mensagem na pasta "Caixa de entrada"
+// add a message to the "Inbox" folder
 
 inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code></pre>
     </div>
    </div>
-   <!--
 
-<div class="col-lg-12">
-
-<h2 class="h2title">Manage Thunderbird Message Storage</h2>
-
-<p>Aspose.Email for C++ can handle Thunderbird mail storage structures very well. You can use Aspose.Email for C++ to load existing MBOX files for inspection purposes as well as for the extraction of archived messages in EML or MSG formats. The API also supports adding new messages to the Thunderbird mail storage which can be used to dynamically create MBOX files from scratch.</p>
-
-</div>
-
--->
   </div>
  </div>
 </div>
@@ -372,16 +362,16 @@ inboxFolder-&gt;AddMessage(MapiMessage::FromFile(dir + L"template.msg"));</code>
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/email/cpp/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/email/cpp/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-email/Aspose.Email-for-C" >}}
 {{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/cpp/email" >}}
-{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/email" >}}
+{{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< blocks/products/pf/slr-element name="Notas de lançamento" href="https://docs.aspose.com/email/cpp/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 

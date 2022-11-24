@@ -1,20 +1,20 @@
 ---
-title: Aplicativo de e-mail do SharePoint - Converta EML para MSG com anexos 
+title: Aplicativo de e-mail do SharePoint - converter EML em MSG com anexos
 weight: 370
-url: /pt/sharepoint/ 
+url: /pt/sharepoint/
 description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto com anexos de e-mail. Sincronize arquivos e e-mails de FTP POP3 IMAP ou MS Servidor Exchange
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Aplicativo do SharePoint para converter e sincronizar mensagens de email" h2="Converta arquivos de e-mail ou sincronize e-mails sem esforço." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-sharepoint.svg" pfName="Aspose.Email" subTitlepfName="for SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Aplicativo do SharePoint para converter e sincronizar mensagens de email" h2="Converta arquivos de e-mail ou sincronize e-mails sem esforço." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-sharepoint.svg" pfName="Aspose.Email" subTitlepfName="para SharePoint" downloadUrl="https://downloads.aspose.com/email/sharepoint" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for SharePoint" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="para SharePoint" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-sharepoint.svg" liveDemosLink="" PricingLink="https://purchase.aspose.com/pricing/email/sharepoint" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/sharepoint/supported-file-formats/" installationsDocsLink="" nugetLink="" nugetPackageName="Microsoft Outlook:" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/sharepoint" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email para SharePoint fornece recursos de conversão e sincronização de e-mail de dentro da biblioteca de documentos do Microsoft SharePoint. Permite converter uma ou várias mensagens de correio de uma só vez. Aspose.Email for SharePoint também permite que você visualize os emails diretamente do SharePoint.
+ Aspose.Email para SharePoint fornece conversão de e-mail e recursos de sincronização de dentro da biblioteca de documentos do Microsoft SharePoint. Ele permite que você converta uma ou várias mensagens de e-mail de uma só vez. Aspose.Email para SharePoint também permite visualizar os e-mails diretamente do SharePoint.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -22,7 +22,7 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
 <!--Diagrams Start-->
 {{< blocks/products/pf/i18n/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral Aspose.Email para SharePoint." >}}
+{{< blocks/products/pf/carousel-item h3="Num relance" description="Uma visão geral do Aspose.Email para SharePoint." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -33,13 +33,13 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
    </header>
    <ul>
     <li>
-     Interconvert EML and MSG
+     Interconverta EML e MSG
     </li>
     <li>
      Extrair anexos
     </li>
     <li>
-     Converter em texto
+     Converter para texto
     </li>
     <li>
      Visualizar mensagens
@@ -67,11 +67,11 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
    <header>
     <i class="fa fa-check-square-o">
     </i>
-    Sincronização de biblioteca
+    Sincronização da biblioteca
    </header>
    <ul>
     <li>
-     Com servidor FTP
+     Com Servidor FTP
     </li>
     <li>
      Com Dropbox
@@ -100,7 +100,7 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independência da plataforma" description="Aspose.Email for SharePoint foi projetado para ser usado com o Microsoft SharePoint Server." >}}
+{{< blocks/products/pf/carousel-item h3="Independência de plataforma" description="Aspose.Email para SharePoint foi projetado para ser usado com o Microsoft SharePoint Server." >}}
 <div class="diagram1 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -140,12 +140,12 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.Email for SharePoint oferece suporte ao email mais comumente usado [formatos de arquivo](https://docs.aspose.com/email/sharepoint/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.Email para SharePoint oferece suporte ao email mais comumente usado [formatos de arquivo](https://docs.aspose.com/email/sharepoint/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-sharepoint">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
-    Entrada/Saída
+    Input/Output
    </header>
    <ul>
     <li>
@@ -202,7 +202,7 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Interconverta EML e MSG de dentro da biblioteca de documentos do SharePoint
+     EML e MSG interconvertidos a partir da biblioteca de documentos do SharePoint
     </p>
    </div>
    <div class="col-lg-4">
@@ -219,29 +219,21 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
      Sincronize e-mails via POP3, IMAP ou Microsoft Servidor Exchange
     </p>
    </div>
-   <!--
-
-<div class="col-lg-4"><em class="fa fa-dropbox  ico-blue fa-2x col-lg-2"> </em>
-
-<p class="col-lg-10">Sincronize arquivos com o DropBox</p>
-
-</div>
-
--->
+  
    <div class="col-lg-12">
     <h2 class="h2title">
      Interconversão de formatos MSG e EML
     </h2>
     <p>
-     Aspose.Email for SharePoint suporta os formatos de mensagem mais populares. O aplicativo de conversão de e-mail também oferece a capacidade de interconverter os arquivos de mensagem suportados sem perder nenhuma informação.
+     Aspose.Email para SharePoint oferece suporte aos formatos de mensagem mais populares. O aplicativo de conversão de e-mail também oferece a capacidade de interconverter os arquivos de mensagens suportados sem perder nenhuma informação.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Sincronize emails e arquivos diretamente do SharePoint
+     Sincronize e-mails e arquivos diretamente do SharePoint
     </h2>
     <p>
-     Aspose.Email for SharePoint pode se conectar a FTP, POP3, IMAP e Microsoft Servidor Exchanges para sincronização de e-mail diretamente de dentro dos aplicativos do SharePoint. Além disso, o aplicativo permite conectar-se a um servidor FTP e enviar arquivos da biblioteca de documentos do SharePoint.
+     Aspose.Email para SharePoint pode se conectar a servidores FTP, POP3, IMAP e Microsoft Exchange para sincronização de e-mail diretamente dos aplicativos do SharePoint. Além disso, o aplicativo permite conectar-se a um servidor FTP e enviar arquivos da biblioteca de documentos do SharePoint.
     </p>
    </div>
    <div class="col-lg-12">
@@ -249,7 +241,7 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
      Extrair anexos
     </h2>
     <p>
-     O Aspose.Email for SharePoint permite extrair os anexos das mensagens baixadas e armazená-los como arquivos separados na biblioteca de documentos do SharePoint.
+     Aspose.Email para SharePoint permite extrair os anexos das mensagens baixadas e armazená-los como arquivos separados na biblioteca de documentos do SharePoint.
     </p>
    </div>
   </div>
@@ -262,15 +254,15 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentação" href="https://products.aspose.com/email/sharepoint" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://products.aspose.com/email/sharepoint" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-email?tab=repositories" >}}
-{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/email" >}}
+{{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Por que Aspose.Email para SharePoint?" tabId="success-stories" >}}
@@ -282,13 +274,13 @@ description: Aplicativo de e-mail do SharePoint para exportar EML para MSG junto
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/sharepoint" pricingInformationLink="https://purchase.aspose.com/pricing/email/sharepoint" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="O Aspose.Email oferece APIs de e-mail individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email oferece APIs de e-mail individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/pt/pt/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/pt/pt/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/pt/pt/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/pt/pt/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" sdkName="Android via Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/email/pt/pt/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName="Python via .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/pt/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/pt/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/pt/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/pt/android-java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-android-java.svg" sdkName="Android via Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/pt/python-net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-python-net.svg" sdkName="Python via .NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -1,24 +1,24 @@
 ---
-title: Aspose Email | API do Outlook de processamento de e-mail C# .NET 
+title: Aspose E-mail | API do Outlook de processamento de e-mail C# .NET
 weight: 880
-url: /pt/net/ 
-description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outlook Thunderbird e outros formatos de arquivo. API funciona com servidores SMTP POP3 IMAP e MS Exchange para enviar e-mails
+url: /pt/net/
+description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outlook Thunderbird e outros formatos de arquivo. A API funciona com servidores SMTP POP3 IMAP e MS Exchange para enviar e-mails
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Biblioteca de processamento de e-mail .NET Outlook e Thunderbird" h2="Crie, analise, converta e manipule emails e arquivos de email multiplataforma" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-net.svg" pfName="Aspose.Email" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Biblioteca de processamento de e-mail .NET Outlook e Thunderbird" h2="Crie, analise, converta e manipule e-mails e arquivos de e-mail multiplataforma" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-net.svg" pfName="Aspose.Email" subTitlepfName="para .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for .NET" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="para .NET" >}}
 
 {{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" liveDemosLink="https://products.aspose.app/email/family" PricingLink="https://purchase.aspose.com/pricing/email/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/email/net/" installationsDocsLink="https://docs.aspose.com/email/net/installation" nugetLink="https://www.nuget.org/packages/Aspose.Email/" nugetPackageName="Aspose.Email" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/email/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
- Aspose.Email para .NET é um conjunto abrangente de APIs de processamento de e-mail que pode ser usado para criar aplicativos multiplataforma com a capacidade de criar e-mail, manipular, analisar, converter e transmitir mensagens sem usar o Microsoft Outlook ou Office Automation. A API fornece os recursos de manipulação de e-mail, como adição, extração ou remoção de anexos de um objeto de mensagem, personalização de cabeçalhos de mensagem adicionando ou removendo destinatários ou alterando o assunto e muito mais.
+ Aspose.Email para .NET é um conjunto abrangente de APIs de processamento de e-mail que pode ser usado para criar aplicativos de plataforma cruzada com a capacidade de criar e-mail, manipular, analisar, converter e transmitir mensagens sem usar o Microsoft Outlook ou a automação do Office. A API fornece os recursos de manipulação de e-mail, como adição, extração ou remoção de anexos de um objeto de mensagem, personalização de cabeçalhos de mensagem adicionando ou removendo destinatários ou alterando o assunto e muito mais.
 </p>
 
 <p>
- O Aspose.Email para .NET torna mais fácil para os desenvolvedores trabalharem com vários formatos do Microsoft Outlook e Mozilla Thunderbird, como MSG, EML, EMLX, PST, OST, MBOX e MHT, além de fornecer a capacidade de gerenciar arquivos de armazenamento de mensagens como Pessoal Arquivos de armazenamento (PST) e off-line Arquivos de armazenamento (OST) e MBOX. Os desenvolvedores podem usar a API para enviar e receber emails por meio de vários protocolos populares como POP3, IMAP e SMTP ou conectar-se ao Microsoft Exchange Server via WebDav e Exchange Web Services para enviar e receber emails com anexos e listar ou remover mensagens do servidor.
+ Aspose.Email para .NET torna mais fácil para os desenvolvedores trabalhar com vários formatos do Microsoft Outlook e Mozilla Thunderbird, como MSG, EML, EMLX, PST, OST, MBOX e MHT, além de fornecer a capacidade de gerenciar arquivos de armazenamento de mensagens como arquivos de armazenamento pessoal (PST) e arquivos de armazenamento offline (OST) e MBOX. Os desenvolvedores podem usar a API para enviar e receber e-mails por meio de vários protocolos populares como POP3, IMAP e SMTP ou conectar-se ao Microsoft Exchange Server via WebDav e Exchange Web Services para enviar e receber e-mails com anexos e listar ou remover mensagens do servidor.
 </p>
 
 {{< /blocks/products/pf/i18n/tab-content >}}
@@ -52,13 +52,13 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
      Gerenciar tarefas, notas, diários
     </li>
     <li>
-     Criação de Listas de Distribuição
+     Criação de listas de distribuição
     </li>
    </ul>
    <header>
     <i class="fa fa-envelope">
     </i>
-    E-mail
+    Emailing
    </header>
    <ul>
     <li>
@@ -71,16 +71,16 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
      Suporta tempo limite de conexão
     </li>
     <li>
-     Trabalhar com os Contatos do Gmail
+     Trabalhar com contatos do Gmail
     </li>
     <li>
-     Trabalhar com o Calendário do Gmail
+     Trabalhar com o calendário do Gmail
     </li>
     <li>
-     Validar endereços
+     Validar Endereços
     </li>
     <li>
-     Validar sintaxe
+     Validar Sintaxe
     </li>
     <li>
      Validar domínio
@@ -95,23 +95,23 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
    <header>
     <i class="fa fa-cogs">
     </i>
-    E-mails
+    Emails
    </header>
    <ul>
     <li>
-     Crie emails simples e HTML
+     Crie e-mails simples e HTML
     </li>
     <li>
-     Carregar variedade de formatos
+     Carregar Variedade de Formatos
     </li>
     <li>
-     Mensagens de interconversão
+     Mensagens de Interconversão
     </li>
     <li>
      Suporte para modelos
     </li>
     <li>
-     Corpos de Mensagem Alternativos
+     Corpos de mensagens alternativos
     </li>
     <li>
      Gerenciar objetos incorporados
@@ -126,7 +126,7 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
      Gerenciar cabeçalhos
     </li>
     <li>
-     Ler e gravar no armazenamento de email do Thunderbird
+     Ler e gravar no Thunderbird Mail Storage
     </li>
    </ul>
    <header>
@@ -145,10 +145,10 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
      Exportar compromisso para arquivo ICS
     </li>
     <li>
-     Formatar texto do compromisso
+     Texto do compromisso de formato
     </li>
     <li>
-     Ler informações do compromisso
+     Ler informações de agendamento
     </li>
     <li>
      Enviar solicitação de agendamento
@@ -177,7 +177,7 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Independência da plataforma" description="Aspose.Email para .NET suporta .NET framework, .NET Core e plataformas Xamarin." >}}
+{{< blocks/products/pf/carousel-item h3="Independência de plataforma" description="Aspose.Email para .NET suporta .NET framework, .NET Core e plataformas Xamarin." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -199,7 +199,7 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
    <header>
     <i class="fa fa-cubes">
     </i>
-    Xamarin Platform
+    Plataforma Xamarin
    </header>
    <ul>
     <li>
@@ -212,27 +212,13 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
      Xamarin.Mac
     </li>
    </ul>
-   <!--
 
-<ul>
-
-<li>Windows Azure</li>
-
-<li>ASP.NET</li>
-
-<li>Web Services</li>
-
-<li>WinForms</li>
-
-</ul>
-
--->
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="API do Outlook PST" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
+  <img width="70" height="75" alt="API PST do Outlook" src="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg"/>
   <header>
    Aspose.Email
   </header>
@@ -250,14 +236,14 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.Email para formatos de mensagens nativas do Outlook .NET, formatos de armazenamento de mensagens e muito mais [formatos de arquivo](https://docs.aspose.com/email/net/supported-file-formats/)." >}}
+{{< blocks/products/pf/carousel-item h3="Formatos de arquivo suportados" description="Aspose.Email para formatos de mensagens nativos do Outlook .NET, formatos de armazenamento de mensagens e muito mais [formatos de arquivo](https://docs.aspose.com/email/net/supported-file-formats/)." >}}
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
     <i class="fa fa-arrows-v">
     </i>
-    Entrada/Saída
+    Input/Output
    </header>
    <ul>
     <li>
@@ -271,7 +257,7 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     </li>
     <li>
      <b>
-      Outros:
+      Others:
      </b>
      ICS, VCF, HTML, MHTML
     </li>
@@ -325,7 +311,7 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced API de e-mail .NET Features
+    Recursos avançados da API de e-mail .NET
    </h2>
    <p>
    </p>
@@ -333,28 +319,28 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Enviar e-mail com corpo HTML e anexos
+     Enviar e-mail com corpo e anexos em HTML
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-chain ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Funcionalidade de mala direta e envio de e-mail em massa
+     Funcionalidade de mala direta e envio de mala direta
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-send ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Listar e baixar mensagens de servidores de correio POP3 e IMAP
+     Listar e baixar mensagens de servidores de e-mail POP3 e IMAP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-shield ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Listar, baixar e enviar mensagens via Microsoft Exchange Servers
+     Liste, baixe e envie mensagens via Microsoft Exchange Servers
     </p>
    </div>
    <div class="col-lg-4">
@@ -382,7 +368,7 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Formatos de mensagens entre conversões
+     Formatos de mensagem de conversão interna
     </p>
    </div>
    <div class="col-lg-4">
@@ -410,7 +396,7 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     <em class="fa fa-unlink ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Gere padrões de recorrência especificados de acordo com o RFC do iCalendar
+     Gera padrões de recorrência especificados de acordo com iCalendar RFC
     </p>
    </div>
    <div class="col-lg-4">
@@ -424,14 +410,14 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adicionar objetos e anexos incorporados a emails
+     Adicionar objetos e anexos incorporados a e-mails
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Incluir texto e corpo de email em HTML
+     Incluir corpo de e-mail de texto e HTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -459,14 +445,14 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     <em class="fa fa-envelope ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Suporte para HTTP Proxy em clientes de e-mail, ou seja, POP3, IMAP e SMTP
+     Suporte para proxy HTTP em clientes de e-mail, ou seja, POP3, IMAP e SMTP
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-refresh ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convertendo a tarefa do Outlook para MHTML
+     Convertendo Tarefa do Outlook para MHTML
     </p>
    </div>
    <div class="col-lg-4">
@@ -487,21 +473,21 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     <em class="fa fa-calendar-plus-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Adicionar anexo a eventos recorrentes do calendário
+     Adicionar anexo a eventos de calendário recorrentes
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-compress ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Atualizar membro em uma lista de distribuição PST (DL)
+     Atualize o membro em uma lista de distribuição PST (DL)
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Suporte para OLM de arquivo de dados do Outlook para Mac
+     Suporte para Outlook para Mac Data File OLM
     </p>
    </div>
    <div class="col-lg-4">
@@ -515,14 +501,10 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Obter o caminho da pasta no arquivo OLM
+     Obtenha o caminho da pasta no arquivo OLM
     </p>
    </div>
-   <!--<div class="col-lg-4"><em class="fa fa-file-zip-o ico-blue fa-2x col-lg-2"> </em>
 
-<p class="col-lg-10">Adicionar anexo a eventos recorrentes do calendário</p>
-
-</div>-->
    <div class="col-lg-4">
     <em class="fa fa-suitcase ico-blue fa-2x col-lg-2">
     </em>
@@ -534,72 +516,28 @@ description: C# ASP.NET VB.NET Biblioteca de processamento de e-mail para Outloo
     <em class="fa fa-cog ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Suporte a várias conexões para operações IMAP e POP3 recursivas
+     Suporte multiconexão para operações IMAP e POP3 recursivas
     </p>
    </div>
-   <!--<div class="col-lg-12">
 
-<h2 class="h2title">Latest Mail API Features</h2>
-
-<p>One is never restricted to existing features but Aspose.Email for .NET API is continuously adding more and more features and every new version offers more features as compared to the older versions. One can also send new feature requests in case any of your desired features missing. Here is the list of few picks from latest features.</p>
-
-<ul>
-
-<li>Read E-mails in descending order.</li>
-
-<li>Add multi-connection support for backup/restore IMAP operation.</li>
-
-<li>Extend ExchangeFolderType with new types of folders.</li>
-
-<li>Option to write vCard files with S/MIME certificate in PEM format.</li>
-
-<li>Implement support of IMAP LIST Extension for Special-Use Mailboxes (rfc6154).</li>
-
-<li>Add ReadOnly mode for IMAP client per connection level.</li>
-
-<li>Add multi-connection support for Send SMTP operation and group Append IMAP operation.</li>
-
-<li>Create group fetch messages IMAP operation and POP3 operation with multi-connection support.</li>
-
-<li>Add support for headers described in rfc2369 (List-Unsubscribe) in MessageInfo objects.</li>
-
-<li>Add the ability to use disk cache and sending queue in group SMTP send operation.</li>
-
-<li>Option to save MapiCalendar with HTML body format.</li>
-
-<li>Refactoring connection pool. Add unit-tests coverage for connection management.</li>
-
-<li>Create and Manage In-Place Archive in Office 365.</li>
-
-<li>Create folder hierarchy in PST using string notation.</li>
-
-<li>Specify created and last modified dates in ICS.</li>
-
-<li>Modification of PRODID in ICS.</li>
-
-<li>Configure SSL/TLS encryption type on email client instances.</li>
-
-</ul>
-
-</div>-->
    <div class="col-lg-12">
     <h2 class="h2title">
-     Converta dinamicamente a mensagem para vários formatos de e-mail no .NET
+     Converta mensagens dinamicamente em vários formatos de e-mail no .NET
     </h2>
     <p>
-     Aspose.Email é uma boa escolha se você estiver procurando por uma API para converter e-mails em diferentes formatos de arquivo. Por exemplo, você pode facilmente converter arquivos MSG para os formatos EML, HTML ou MHTML ou vice-versa. A API expôs interfaces para todos os processos de conversão possíveis, ao mesmo tempo em que oculta as especificações de formato subjacentes, facilitando assim para os desenvolvedores a integração da API em seus aplicativos. Qualquer um dos processos de conversão suportados é tão simples quanto carregar o arquivo de origem no modelo de objeto da biblioteca e chamar o método Save com os parâmetros apropriados.
+     Aspose.Email é uma boa escolha se você estiver procurando por uma API para converter e-mails em diferentes formatos de arquivo. Por exemplo, você pode facilmente converter arquivos MSG para os formatos EML, HTML ou MHTML ou vice-versa. A API expôs interfaces para todos os processos de conversão possíveis enquanto oculta as especificações de formato subjacentes, facilitando assim para os desenvolvedores integrar a API em seus aplicativos. Qualquer um dos processos de conversão com suporte é tão simples quanto carregar o arquivo de origem no modelo de objeto da biblioteca e chamar o método Save com os parâmetros apropriados.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Salvar mensagem em diferentes formatos - C#
      </h3>
-     <pre><code class="cs">// carrega o arquivo a ser convertido
+     <pre><code class="cs">// load the file to be converted
 
 using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
 
 {
 
-    // salva em formatos diferentes
+    // save in different formats
 
     message.Save(dir + "output.eml", Aspose.Email.SaveOptions.DefaultEml);
 
@@ -612,21 +550,21 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Gerenciar objetos de calendário com a API iCalendar
+     Gerenciar objetos de calendário com iCalendar API
     </h2>
     <p>
-     O Aspose.Email fornece a capacidade de criar e salvar objetos de calendário do Outlook por meio de sua API iCalendar. Não só você pode extrair os objetos Calendário em vários formatos e salvá-los como arquivos MSG ou ICS, mas também enviar, recuperar, atualizar e cancelar solicitações de reunião por meio de protocolos de envio de mensagens.
+     Aspose.Email fornece a capacidade de criar e salvar objetos do calendário do Outlook por meio de sua API iCalendar. Você não apenas pode extrair os objetos do Calendário em vários formatos e salvá-los como arquivos MSG ou ICS, mas também pode enviar, recuperar, atualizar e cancelar solicitações de reunião por meio de protocolos de envio de mensagens.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Send and Receive E-mails via SMTP, POP3 and IMAP
+     Envie e receba e-mails via SMTP, POP3 e IMAP
     </h2>
     <p>
-     Aspose.Email para .NET permite que você crie mensagens complexas com anexos, formatação HTML e imagens, e envie e-mails usando o protocolo SMTP. Ele também permite que você faça login nos servidores POP3 por nome de usuário e senha ou autenticação APOP para executar operações como receber e-mails, visualizar o tamanho da caixa de correio e a contagem de mensagens, recuperar a mensagem completa ou apenas os cabeçalhos, excluir mensagens do servidor e assim por diante .
+     Aspose.Email para .NET permite que você crie mensagens complexas com anexos, formatação HTML e imagens e envie e-mail usando o protocolo SMTP. Ele também permite que você faça login nos servidores POP3 por nome de usuário e senha ou autenticação APOP para executar operações como receber e-mails, bem como visualizar o tamanho da caixa de correio e a contagem de mensagens, recuperar a mensagem completa ou apenas os cabeçalhos, excluir mensagens do servidor e assim por diante .
     </p>
     <p>
-     A API também suporta recursos do protocolo IMAP, incluindo autenticação, criar, excluir, selecionar, consultar pastas, obter e salvar mensagens, alterar sinalizadores de mensagem e comandos IMAP básicos.
+     A API também oferece suporte aos recursos do protocolo IMAP, incluindo autenticação, criação, exclusão, seleção, consulta de pastas, obtenção e salvamento de mensagens, alteração de sinalizadores de mensagem e comandos IMAP básicos.
     </p>
    </div>
    <div class="col-lg-12">
@@ -634,41 +572,41 @@ using (var message = Aspose.Email.MailMessage.Load(dir + "template.msg"))
      Conecte-se ao Microsoft Exchange Server
     </h2>
     <p>
-     Aspose.Email para .NET fornece a capacidade de se conectar com um Microsoft Exchange Server para realizar várias operações. Você pode listar mensagens de qualquer pasta, baixar mensagens e salvá-las em formatos de mensagem suportados. E-mails e convites para reuniões também podem ser enviados usando o WebDav do Exchange Server e os Serviços Web do Exchange. A API também oferece suporte a operações de Unificação de Mensagens e descoberta automática de configurações do Exchange Server com base nas credenciais especificadas.
+     Aspose.Email para .NET fornece a capacidade de se conectar com um Microsoft Exchange Server para executar várias operações. Você pode listar mensagens de qualquer pasta, baixar mensagens e salvá-las em formatos de mensagem suportados. E-mails e convites para reuniões também podem ser enviados usando o WebDav & Exchange Web Services do Exchange Server. A API também oferece suporte a operações de Unificação de Mensagens e descoberta automática de configurações do Exchange Server com base nas credenciais especificadas.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Solução completa de padrão de recorrência
+     Solução Completa de Padrão de Recorrência
     </h2>
     <p>
-     O Aspose.Email para .NET permite que você calcule de forma fácil e confiável as datas e horas de ocorrência até mesmo para os padrões de recorrência mais complexos. Você pode produzir e consumir dinamicamente padrões de recorrência no formato iCalendar RFC (2445). Você pode optar por usar padrões de recorrência anual, mensal, semanal, diário, horário, minuto e segundo, e pode representar padrões de recorrência em suas janelas, aplicativos da web ou móveis.
+     Aspose.Email para .NET permite que você calcule datas e horas de ocorrência de forma fácil e confiável, mesmo para os padrões de recorrência mais complexos. Você pode produzir e consumir dinamicamente padrões de recorrência no formato iCalendar RFC (2445). Você pode optar por usar padrões de recorrência anuais, mensais, semanais, diários, horários, minutos e segundos e pode representar padrões de recorrência em seus aplicativos Windows, Web ou móveis.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Manage Message Arquivos de armazenamento
+     Gerenciar arquivos de armazenamento de mensagens
     </h2>
     <p>
-     A biblioteca de e-mail pode carregar arquivos PST e OST do Microsoft Outlook de um objeto de fluxo ou local de disco para recuperar a hierarquia de pastas completa e ler detalhes específicos da mensagem, como assunto, remetente, destinatário ou extrair mensagens com anexos.
+     A biblioteca de e-mail pode carregar arquivos PST e OST do Microsoft Outlook de um objeto de fluxo ou local de disco para recuperar a hierarquia completa da pasta e ler detalhes específicos da mensagem, como assunto, remetente, destinatário ou extrair mensagens com anexos.
     </p>
     <div class="codeblock" id="code">
      <h3>
       Listar mensagens de um PST - C#
      </h3>
-     <pre><code class="cs">// carrega o arquivo PST
+     <pre><code class="cs">// load PST file
 
 using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "template.pst"))
 
 {
 
-    //lista as pastas PST
+    // list PST folders
 
     foreach (var folder in pst.RootFolder.GetSubFolders())
 
     {
 
-        // lista as mensagens em uma pasta
+        // list messages in a folder
 
         foreach (var msg in folder.EnumerateMessages())
 
@@ -690,15 +628,15 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
      Trabalhar com cartões de contato
     </h2>
     <p>
-     VCard ou VCF é um formato de arquivo mundial para armazenar e trocar cartões de contatos. Aspose.Email para .NET permite manipular arquivos de cartão de contato (VCF) dentro de aplicativos .NET. Processe cartões de contato do Outlook, bem como Thunderbird VCards. Usando Aspose.Email para .NET, você pode enviar arquivos VCard ou VCF por e-mail, anexar VCards às suas mensagens. Além disso, você pode trocar arquivos VCard em seu caminho. A API permite criar, editar e remover seus cartões de contato. Você pode facilmente adicionar suporte a cartões de contato ao seu aplicativo.
+     VCard ou VCF é um formato de arquivo mundial para armazenar e trocar cartões de contatos. Aspose.Email para .NET permite manipular arquivos de cartão de contato (VCF) em aplicativos .NET. Processe cartões de contato do Outlook, bem como Thunderbird VCards. Usando Aspose.Email para .NET, você pode enviar arquivos VCard ou VCF por e-mail, anexar VCards às suas mensagens. Além disso, você pode trocar arquivos VCard do seu jeito. A API permite criar, editar e remover seus cartões de contato. Você pode facilmente adicionar suporte a cartões de contato ao seu aplicativo.
     </p>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Automação do Microsoft Office – Não Necessário
+     Automação do Microsoft Office – não é necessário
     </h2>
     <p>
-     Aspose.Email para .NET é construído usando código gerenciado que não precisa do Microsoft Office ou Microsoft Outlook para ser instalado na máquina para trabalhar com o processamento de e-mail. É uma alternativa perfeita de automação do Microsoft Outlook para manipulação dinâmica de arquivos de mensagens, bem como para enviar e receber e-mails.
+     Aspose.Email para .NET é construído usando código gerenciado que não precisa do Microsoft Office ou do Microsoft Outlook instalado na máquina para trabalhar com o processamento de e-mail. É uma alternativa perfeita de automação do Microsoft Outlook para manipulação dinâmica de arquivos de mensagens, bem como para enviar e receber e-mails.
     </p>
    </div>
   </div>
@@ -711,16 +649,16 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
 
 {{< blocks/products/pf/i18n/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Recursos de aprendizagem" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentação" href="https://docs.aspose.com/email/net/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/email/net/" >}}
 {{< blocks/products/pf/slr-element name="Código fonte" href="https://github.com/aspose-email/Aspose.Email-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="Referências de API" href="https://apireference.aspose.com/email/net" >}}
-{{< blocks/products/pf/slr-element name="Vídeos tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="Vídeos Tutoriais" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Suporte ao produto" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Suporte gratuito" href="https://forum.aspose.com/c/email" >}}
+{{< blocks/products/pf/slr-element name="Suporte Gratuito" href="https://forum.aspose.com/c/email" >}}
 {{< blocks/products/pf/slr-element name="Suporte pago" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blogue" href="https://blog.aspose.com/category/email/" >}}
+{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/email/" >}}
 {{< blocks/products/pf/slr-element name="Notas de lançamento" href="https://docs.aspose.com/email/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -733,7 +671,7 @@ using (var pst = Aspose.Email.Storage.Pst.PersonalStorage.FromFile(dir + "templa
 
 {{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/email/net" pricingInformationLink="https://purchase.aspose.com/pricing/email/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="O Aspose.Email oferece APIs de e-mail individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.Email " description="Aspose.Email oferece APIs de e-mail individuais para outros ambientes de desenvolvimento populares, conforme listado abaixo:" >}}
 
     {{< blocks/products/pf/offers-section-item link="/email/pt/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" sdkName="Java" >}}
     {{< blocks/products/pf/offers-section-item link="/email/pt/cpp/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-cpp.svg" sdkName="C++" >}}

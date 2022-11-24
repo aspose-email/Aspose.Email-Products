@@ -1,9 +1,9 @@
 ---
-title: Remover comentários de e-mails do Outlook e Thunderbird
+title: Remover comentários de e-mails do Outlook e do Thunderbird
 weight: 7730
 url: /pt/annotation
-description: Aplicativo e APIs gratuitos para anotações e comentários EML, EMLX, MSG no Windows, Linux e macOS
+description: Aplicativo gratuito e APIs para EML, EMLX, anotações e comentários MSG no Windows, Linux e macOS
 ---
 
-{{< blocks/products/pf/agp/feature-solution >}} 
+{{< blocks/products/pf/agp/feature-solution >}}
 
