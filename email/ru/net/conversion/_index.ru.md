@@ -12,7 +12,7 @@ description: Преобразование форматов Thunderbird и OutLoo
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Преобразование форматов электронной почты в различные форматы" %}}
-Разработчики могут легко преобразовывать форматы электронной почты, интегрируя API, не вникая во внутренние детали базовых спецификаций формата. Процесс преобразования прост: сначала загружается источник с помощью [MailMessage.Load](https://apireference.aspose.com/email/net/aspose.email.mailmessage/load/methods/2) и вызов [Сохранить метод](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) имея выходной файл и [SaveOptions.DefaultFormat](https://apireference.aspose.com/email/net/aspose.email/saveoptions) как параметры.
+Разработчики могут легко преобразовывать форматы электронной почты, интегрируя API, не вникая во внутренние детали базовых спецификаций формата. Процесс преобразования прост: сначала загружается источник с помощью [MailMessage.Load](https://reference.aspose.com/email/net/aspose.email/mailmessage/load#load_2) и вызов [Сохранить метод](https://reference.aspose.com/email/net/aspose.email/mailmessage/save#save_3) имея выходной файл и [SaveOptions.DefaultFormat](https://reference.aspose.com/email/net/aspose.email/saveoptions/) как параметры.
 {{% blocks/products/pf/feature-page-code h3="Код С# для преобразования MSG в EML" %}}
 
 {{< gist "aspose-com-gists" "c8c0a43b7094f6f1c61ea8bae48428a5" "msg-to-eml.cs" >}}

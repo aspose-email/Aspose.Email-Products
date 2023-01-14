@@ -14,7 +14,7 @@ description: Exemplo de código de conversão C++ para documento VCF em formato 
 {{% blocks/products/pf/agp/content h2="Como converter VCF para PST usando C++" %}}
 
  Para converter VCF para PST, usaremos
- [Aspose.Email para C++](https://products.aspose.com/email/cpp)
+ [Aspose.Email para C++](https://products.aspose.com/email/cpp/)
  API que é uma API de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar para a plataforma C++. Você pode baixar sua versão mais recente diretamente, basta abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por Aspose.Email.Cpp e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.

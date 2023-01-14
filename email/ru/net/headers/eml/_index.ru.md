@@ -14,7 +14,7 @@ description: Исходный код C# для отслеживания элек
 {{% blocks/products/pf/agp/content h2="Как анализировать заголовок EML с помощью C#" %}}
 
  Чтобы проанализировать заголовок EML электронной почты, мы будем использовать
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API, который представляет собой многофункциональный, мощный и простой в использовании API для работы с документами для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.email)
  менеджер пакетов, поиск
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Базовое отслеживание электронной почты и проверка электронной почты с помощью
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}

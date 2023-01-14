@@ -13,9 +13,9 @@ Java Email API para construir soluções de processamento de correio de platafor
 
 {{% blocks/products/pf/feature-page-section  h2="Converter formatos de e-mail para formatos diferentes" %}}
 
-Os desenvolvedores podem facilmente converter formatos de mensagem suportados usando a biblioteca Java. Ele simplesmente carrega o arquivo de origem no modelo de objeto da API e chama o método save com os parâmetros relevantes. por exemplo, para converter EML para MSG, há [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage) Função de carregamento para obter o arquivo de origem e chamar o método salvar com arquivo de saída e [SaveOptions](https://apireference.aspose.com/email/java/com.aspose.email/SaveOptions) como parâmetros relevantes.
+Os desenvolvedores podem facilmente converter formatos de mensagem suportados usando a biblioteca Java. Ele simplesmente carrega o arquivo de origem no modelo de objeto da API e chama o método save com os parâmetros relevantes. por exemplo, para converter EML para MSG, há [MailMessage](/email/java/com.aspose.email/mailmessage) Função de carregamento para obter o arquivo de origem e chamar o método salvar com arquivo de saída e [SaveOptions](/email/java/com.aspose.email/saveoptions) como parâmetros relevantes.
 
-Considerando outro cenário de conversão de Mbox para HTML, o processo é ler o arquivo Mbox usando [MboxrdStorageReader](https://apireference.aspose.com/email/java/com.aspose.email/MboxrdStorageReader), Percorra cada mensagem e salve-a em um arquivo HTML fornecendo o caminho do arquivo e [MailMessageSaveType](https://apireference.aspose.com/email/java/com.aspose.email/MailMessageSaveType) como parâmetros no método de salvamento.
+Considerando outro cenário de conversão de Mbox para HTML, o processo é ler o arquivo Mbox usando [MboxrdStorageReader](/email/java/com.aspose.email/mboxrdstoragereader), Percorra cada mensagem e salve-a em um arquivo HTML fornecendo o caminho do arquivo e [MailMessageSaveType](/email/java/com.aspose.email/mailmessagesavetype) como parâmetros no método de salvamento.
 
 
 {{% blocks/products/pf/feature-page-code h3="Código Java para conversão de EML para MSG" %}}

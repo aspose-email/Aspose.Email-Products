@@ -14,7 +14,7 @@ description: C++ example code to edit or view PST file metadata on C++ Runtime E
 {{% blocks/products/pf/agp/content h2="How to Get PST Metadata Using C++" %}}
 
  In order to extract PST metadata, we’ll use
- [Aspose.Email for C++](https://products.aspose.com/email/cpp) 
+ [Aspose.Email for C++](https://products.aspose.com/email/cpp/) 
  API which is a feature-rich, powerful and easy to use document metadata extraction API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for

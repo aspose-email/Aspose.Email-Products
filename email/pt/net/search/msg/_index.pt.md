@@ -14,7 +14,7 @@ description: Código-fonte C# para pesquisar palavras com padrão no arquivo MSG
 {{% blocks/products/pf/agp/content h2="Como pesquisar arquivo MSG usando C #" %}}
 
  Para pesquisar o arquivo MSG, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de pesquisa de documentos rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Uma pesquisa básica de mensagens com
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}

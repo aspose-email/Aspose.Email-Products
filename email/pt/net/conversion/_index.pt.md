@@ -12,7 +12,7 @@ API de e-mail .NET para criar soluções de processamento de e-mail multiplatafo
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Converta formatos de e-mail para vários formatos" %}}
-Os desenvolvedores podem facilmente converter formatos de e-mail integrando a API sem entrar nos detalhes internos das especificações de formato subjacentes. O processo de conversão é simples, primeiro carregando a fonte usando [MailMessage.Load](https://apireference.aspose.com/email/net/aspose.email.mailmessage/load/methods/2) e chamando o [Salvar método](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) tendo o arquivo de saída e [SaveOptions.DefaultFormat](https://apireference.aspose.com/email/net/aspose.email/saveoptions) como parâmetros.
+Os desenvolvedores podem facilmente converter formatos de e-mail integrando a API sem entrar nos detalhes internos das especificações de formato subjacentes. O processo de conversão é simples, primeiro carregando a fonte usando [MailMessage.Load](https://reference.aspose.com/email/net/aspose.email/mailmessage/load#load_2) e chamando o [Salvar método](https://reference.aspose.com/email/net/aspose.email/mailmessage/save#save_3) tendo o arquivo de saída e [SaveOptions.DefaultFormat](https://reference.aspose.com/email/net/aspose.email/saveoptions/) como parâmetros.
 {{% blocks/products/pf/feature-page-code h3="Código C# para conversão de MSG para EML" %}}
 
 {{< gist "aspose-com-gists" "c8c0a43b7094f6f1c61ea8bae48428a5" "msg-to-eml.cs" >}}

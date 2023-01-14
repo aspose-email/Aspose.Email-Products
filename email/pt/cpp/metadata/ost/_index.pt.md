@@ -14,7 +14,7 @@ description: Código de exemplo C++ para editar ou visualizar os metadados do ar
 {{% blocks/products/pf/agp/content h2="Como obter metadados OST usando C++" %}}
 
  Para extrair metadados OST, usaremos
- [Aspose.Email para C++](https://products.aspose.com/email/cpp)
+ [Aspose.Email para C++](https://products.aspose.com/email/cpp/)
  API que é uma API de extração de metadados de documentos rica em recursos, poderosa e fácil de usar para a plataforma C++. Você pode baixar sua versão mais recente diretamente, basta abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por

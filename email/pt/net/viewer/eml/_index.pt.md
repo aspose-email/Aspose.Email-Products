@@ -14,7 +14,7 @@ description: Código-fonte C# para carregar, renderizar e exibir documentos EML 
 {{% blocks/products/pf/agp/content h2="Como visualizar o arquivo EML usando C #" %}}
 
  Para visualizar o arquivo EML, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API rica em recursos, poderosa e fácil de usar para a plataforma C# para ser usada com qualquer Viewer. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por

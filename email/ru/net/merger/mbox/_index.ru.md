@@ -12,7 +12,7 @@ description: Исходный код C# для объединения докум
 
 {{% blocks/products/pf/agp/content h2="Как объединить файл MBOX с помощью C#" %}}
 
-Чтобы объединить файл MBOX, мы будем использовать <a href="https://products.aspose.com/email/net">Aspose.Email для .NET</a> API, который представляет собой многофункциональный, мощный и простой в использовании API для работы с документами и слияния для платформы C#. Открытым <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> менеджер пакетов, поиск <b>Aspose.Email</b> и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Чтобы объединить файл MBOX, мы будем использовать <a href="https://products.aspose.com/email/net/">Aspose.Email для .NET</a> API, который представляет собой многофункциональный, мощный и простой в использовании API для работы с документами и слияния для платформы C#. Открытым <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> менеджер пакетов, поиск <b>Aspose.Email</b> и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -33,7 +33,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Базовый документ сливается и объединяется с
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}

@@ -14,7 +14,7 @@ description: C# source code to generate PST format reports on .NET Framework, .N
 {{% blocks/products/pf/agp/content h2="How to Generate PST based Reports Using C#" %}}
 
  In order to create PST reports, we’ll use
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  API which is a feature-rich, powerful and easy to use report generation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for

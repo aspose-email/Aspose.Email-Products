@@ -14,7 +14,7 @@ description: Código-fonte C# para gerar relatórios em formato OST em plataform
 {{% blocks/products/pf/agp/content h2="Como gerar relatórios baseados em OST usando C#" %}}
 
  Para criar relatórios OST, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de geração de relatórios rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por

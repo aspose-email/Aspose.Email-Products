@@ -13,7 +13,7 @@ description: Примеры кода C++ для форматов Thunderbird и 
 
 {{% blocks/products/pf/feature-page-section  h2="Сохранение форматов электронной почты в разных форматах" %}}
 
-Процесс преобразования прост для большинства форматов Outlook и Thunderbird. Обсуждая несколько случаев здесь, **EML в MHTML** and **MSG в HTML** с информацией заголовка и пользовательским часовым поясом. В первом случае загрузите нужный файл [MailMessage](https://apireference.aspose.com/email/cpp/class/aspose.email.mail_message)::Загрузить и вызвать метод сохранения с требуемым расширением и [SaveOptions](https://apireference.aspose.com/email/cpp/class/aspose.email.save_options). А для второго случая мы установим пользовательский часовой пояс и будем использовать [HtmlSaveOptions](https://apireference.aspose.com/email/cpp/class/aspose.email.html_save_options) для установки информации заголовка.
+Процесс преобразования прост для большинства форматов Outlook и Thunderbird. Обсуждая несколько случаев здесь, **EML в MHTML** and **MSG в HTML** с информацией заголовка и пользовательским часовым поясом. В первом случае загрузите нужный файл [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message)::Загрузить и вызвать метод сохранения с требуемым расширением и [SaveOptions](https://reference.aspose.com/email/cpp/class/aspose.email.save_options). А для второго случая мы установим пользовательский часовой пояс и будем использовать [HtmlSaveOptions](https://reference.aspose.com/email/cpp/class/aspose.email.html_save_options) для установки информации заголовка.
 
 
 {{% blocks/products/pf/feature-page-code h3="Код C++ для преобразования EML в MHTML" %}}

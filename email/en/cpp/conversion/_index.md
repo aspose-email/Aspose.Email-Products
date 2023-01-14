@@ -13,7 +13,7 @@ Use C++ Email API for parsing formats including MSG, EML, EMLX & MHT without kno
 
 {{% blocks/products/pf/feature-page-section  h2="Save Email Formats to Different Formats" %}}
 
-Conversion process is simple for mostly Outlook and Thunderbird formats. Discussing few cases here, **EML to MHTML** and **MSG to HTML** with header information and custom timezone. For the first case, load the required file [MailMessage](https://apireference.aspose.com/email/cpp/class/aspose.email.mail_message)::Load and call the Save mehtod with required extension and [SaveOptions](https://apireference.aspose.com/email/cpp/class/aspose.email.save_options). And for the second case we will set the custom time zone and use [HtmlSaveOptions](https://apireference.aspose.com/email/cpp/class/aspose.email.html_save_options) for setting header information.
+Conversion process is simple for mostly Outlook and Thunderbird formats. Discussing few cases here, **EML to MHTML** and **MSG to HTML** with header information and custom timezone. For the first case, load the required file [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message)::Load and call the Save mehtod with required extension and [SaveOptions](https://reference.aspose.com/email/cpp/class/aspose.email.save_options). And for the second case we will set the custom time zone and use [HtmlSaveOptions](https://reference.aspose.com/email/cpp/class/aspose.email.html_save_options) for setting header information.
 
 
 {{% blocks/products/pf/feature-page-code h3="C++ Code for EML to MHTML Conversion" %}}

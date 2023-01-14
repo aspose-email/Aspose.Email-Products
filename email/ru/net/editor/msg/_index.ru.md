@@ -12,7 +12,7 @@ description: Исходный код C# для редактирования до
 
 {{% blocks/products/pf/agp/content h2="Как редактировать файл MSG с помощью C#" %}}
 
-Чтобы отредактировать файл MSG, мы будем использовать <a href="https://products.aspose.com/email/net">Aspose.Email для .NET</a> API, который представляет собой многофункциональный, мощный и простой в использовании API для платформы C# для любого редактора. Открытым <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> менеджер пакетов, поиск <b>Aspose.Email</b> и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Чтобы отредактировать файл MSG, мы будем использовать <a href="https://products.aspose.com/email/net/">Aspose.Email для .NET</a> API, который представляет собой многофункциональный, мощный и простой в использовании API для платформы C# для любого редактора. Открытым <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> менеджер пакетов, поиск <b>Aspose.Email</b> и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -33,7 +33,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Базовое редактирование документов с
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API можно реализовать всего несколькими строками кода.
 
 {{% /blocks/products/pf/agp/text %}}

@@ -14,7 +14,7 @@ description: Código de amostra para conversão de ICS para MSG C#. Use o códig
 {{% blocks/products/pf/agp/content h2="Como converter ICS para MSG usando C #" %}}
 
  Para converter ICS em MSG, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por Aspose.Email e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.

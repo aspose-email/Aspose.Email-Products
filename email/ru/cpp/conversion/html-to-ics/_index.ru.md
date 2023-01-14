@@ -14,7 +14,7 @@ description: Пример кода преобразования C++ для HTML-
 {{% blocks/products/pf/agp/content h2="Как преобразовать HTML в ICS с помощью C++" %}}
 
  Чтобы преобразовать HTML в ICS, мы будем использовать
- [Aspose.Email для C++](https://products.aspose.com/email/cpp)
+ [Aspose.Email для C++](https://products.aspose.com/email/cpp/)
  API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования документов для платформы C++. Вы можете загрузить его последнюю версию напрямую, просто открыв
  [NuGet](https://www.nuget.org/packages/aspose.email)
  диспетчер пакетов, найдите Aspose.Email.Cpp и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.

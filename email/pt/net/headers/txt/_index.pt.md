@@ -14,7 +14,7 @@ description: Código-fonte C# para rastreamento de e-mail e verificação de e-m
 {{% blocks/products/pf/agp/content h2="Como analisar o cabeçalho TXT usando C #" %}}
 
  Para analisar o cabeçalho TXT do e-mail, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de manipulação de documentos rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Um rastreamento básico de e-mail de mensagem e verificação de e-mails com
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}

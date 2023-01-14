@@ -12,7 +12,7 @@ description: Sample code for OLM to VCF C# conversion. Use API example code for 
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-In order to convert OLM to VCF, we’ll use <a href="https://products.aspose.com/email/net">Aspose.Email for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> package manager, search for <b>Aspose.Email</b> and install. You may also use the following command from the Package Manager Console.
+In order to convert OLM to VCF, we’ll use <a href="https://products.aspose.com/email/net/">Aspose.Email for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> package manager, search for <b>Aspose.Email</b> and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

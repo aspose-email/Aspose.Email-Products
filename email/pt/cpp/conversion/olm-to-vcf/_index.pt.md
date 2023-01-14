@@ -12,7 +12,7 @@ description: Experimente nossas APIs locais para a conversão de documentos usan
 
 {{% blocks/products/pf/agp/content h2="Como converter OLM para VCF usando C++" %}}
 
-Para converter OLM em VCF, usaremos <a href="https://products.aspose.com/email/cpp">Aspose.Email para C++</a> API que é uma API de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar para a plataforma C++. Você pode baixar sua versão mais recente diretamente, basta abrir <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> gerenciador de pacotes, procure por <b>Aspose.Email.Cpp</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+Para converter OLM em VCF, usaremos <a href="https://products.aspose.com/email/cpp/">Aspose.Email para C++</a> API que é uma API de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar para a plataforma C++. Você pode baixar sua versão mais recente diretamente, basta abrir <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> gerenciador de pacotes, procure por <b>Aspose.Email.Cpp</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 

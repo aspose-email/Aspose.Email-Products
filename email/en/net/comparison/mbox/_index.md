@@ -14,7 +14,7 @@ description: C# source code to compare MBOX documents for differences on .NET Fr
 {{% blocks/products/pf/agp/content h2="How to Compare MBOX File Using C#" %}}
 
  In order to compare MBOX file, we’ll use
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  A basic message comparison with
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  APIs can be done with just a few lines of code to compare Outlook, Gmail, Apple Mail, Thunderbird documents and get difference between two emails.
 
 {{% /blocks/products/pf/agp/text %}}

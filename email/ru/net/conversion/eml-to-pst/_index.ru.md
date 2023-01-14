@@ -14,7 +14,7 @@ description: Пример кода для преобразования EML в PS
 {{% blocks/products/pf/agp/content h2="Как преобразовать EML в PST с помощью C#" %}}
 
  Чтобы преобразовать EML в PST, мы будем использовать
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования документов для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.email)
  менеджер пакетов, найдите Aspose.Email и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.

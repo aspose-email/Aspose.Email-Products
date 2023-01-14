@@ -12,7 +12,7 @@ description: Código-fonte C# para carregar, renderizar e exibir documentos OLM 
 
 {{% blocks/products/pf/agp/content h2="Como visualizar o arquivo OLM usando C #" %}}
 
-Para visualizar o arquivo OLM, usaremos <a href="https://products.aspose.com/email/net">Aspose.Email para .NET</a> API que é uma API rica em recursos, poderosa e fácil de usar para a plataforma C# para ser usada com qualquer Viewer. Abrir <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> gerenciador de pacotes, procure por <b>Aspose.Email</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+Para visualizar o arquivo OLM, usaremos <a href="https://products.aspose.com/email/net/">Aspose.Email para .NET</a> API que é uma API rica em recursos, poderosa e fácil de usar para a plataforma C# para ser usada com qualquer Viewer. Abrir <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> gerenciador de pacotes, procure por <b>Aspose.Email</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

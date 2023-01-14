@@ -12,7 +12,7 @@ description: Código de amostra para conversão de EML para DOTX C#. Use o códi
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Para converter EML em DOTX, usaremos <a href="https://products.aspose.com/email/net">Aspose.Email para .NET</a> API que é uma API de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> gerenciador de pacotes, procure por <b>Aspose.Email</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+Para converter EML em DOTX, usaremos <a href="https://products.aspose.com/email/net/">Aspose.Email para .NET</a> API que é uma API de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> gerenciador de pacotes, procure por <b>Aspose.Email</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do Console do Gerenciador de Pacotes" offSpacer="true" %}}
 

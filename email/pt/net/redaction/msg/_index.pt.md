@@ -14,7 +14,7 @@ description: Código-fonte C# para redigir informações confidenciais no arquiv
 {{% blocks/products/pf/agp/content h2="Como Redigir Arquivo MSG Usando C #" %}}
 
  Para redigir o arquivo MSG, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de manipulação de documentos rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Uma pesquisa básica de mensagens e substituição de texto em conteúdos, comentários ou metadados por
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}

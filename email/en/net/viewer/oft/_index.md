@@ -14,7 +14,7 @@ description: C# source code to load, render and display OFT documents on .NET Fr
 {{% blocks/products/pf/agp/content h2="How to View OFT File Using C#" %}}
 
  In order to view OFT file, we’ll use
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for

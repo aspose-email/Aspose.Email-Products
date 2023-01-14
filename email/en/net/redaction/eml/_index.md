@@ -14,7 +14,7 @@ description: C# source code to redact sensitive information in EML file on .NET 
 {{% blocks/products/pf/agp/content h2="How to Redact EML File Using C#" %}}
 
  In order to redact EML file, we’ll use
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  A basic message search and replace text in contents, comments or metadata with
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}

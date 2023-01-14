@@ -14,7 +14,7 @@ description: Исходный код C# для редактирования ил
 {{% blocks/products/pf/agp/content h2="Как извлечь метаданные OST с помощью C#" %}}
 
  Чтобы извлечь метаданные OST, мы будем использовать
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API, который представляет собой многофункциональный, мощный и простой в использовании API метаданных документов для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.email)
  менеджер пакетов, поиск

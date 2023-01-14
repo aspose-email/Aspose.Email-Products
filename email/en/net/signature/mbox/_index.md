@@ -14,7 +14,7 @@ description: C# source code to e-Sgin MBOX documents on .NET Framework, .NET Cor
 {{% blocks/products/pf/agp/content h2="How to Digitally Sign MBOX File Using C#" %}}
 
  In order to electronically sign MBOX file, we’ll use
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  API which is a feature-rich, powerful and easy to use digital signature API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  A basic message digital signature with
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  APIs can be done with just few lines of code. One can sign email processing documents by adding text, image or draw professional digital signature to the email files as well as save result in MSG and EML formats.
 
 {{% /blocks/products/pf/agp/text %}}

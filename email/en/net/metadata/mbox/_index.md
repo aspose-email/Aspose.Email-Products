@@ -14,7 +14,7 @@ description: C# source code to edit or view MBOX format metadata on .NET Framewo
 {{% blocks/products/pf/agp/content h2="How to Extract MBOX Metadata Using C#" %}}
 
  In order to extract MBOX metadata, we’ll use
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  API which is a feature-rich, powerful and easy to use document metadata API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for

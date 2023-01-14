@@ -14,7 +14,7 @@ description: C# source code for email tracking and emails check from MSG file on
 {{% blocks/products/pf/agp/content h2="How to Analyze MSG Header Using C#" %}}
 
  In order to analyze email MSG header, we’ll use
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  API which is a feature-rich, powerful and easy to use document manipulation API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  A basic message email tracking and emails check with
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}

@@ -14,7 +14,7 @@ description: Código de amostra para conversão de MBOX para MHTML C#. Use o có
 {{% blocks/products/pf/agp/content h2="Como converter MBOX para MHTML usando C #" %}}
 
  Para converter MBOX em MHTML, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de manipulação e conversão de documentos rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por Aspose.Email e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.

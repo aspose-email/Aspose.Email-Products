@@ -14,7 +14,7 @@ description: Sample code for HTML to VCF C# conversion. Use API example code for
 {{% blocks/products/pf/agp/content h2="" %}}
 
  In order to convert HTML to VCF without needing Outlook, we’ll use
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  API which is a feature-rich, powerful and easy to use Email Formats processing API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for Aspose.Email and install. You may also use the following command from the Package Manager Console.

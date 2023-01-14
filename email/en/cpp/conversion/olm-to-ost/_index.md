@@ -12,7 +12,7 @@ description: Try our On-Premise APIs for your document conversion using C++ Runt
 
 {{% blocks/products/pf/agp/content h2="How to Convert OLM to OST Using C++" %}}
 
-In order to convert OLM to OST, we’ll use <a href="https://products.aspose.com/email/cpp">Aspose.Email for C++</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> package manager, search for <b>Aspose.Email.Cpp</b> and install. You may also use the following command from the Package Manager Console.
+In order to convert OLM to OST, we’ll use <a href="https://products.aspose.com/email/cpp/">Aspose.Email for C++</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> package manager, search for <b>Aspose.Email.Cpp</b> and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 

@@ -14,7 +14,7 @@ description: Código-fonte C# para documentos e-Sgin OST em plataformas .NET Fra
 {{% blocks/products/pf/agp/content h2="Como assinar digitalmente o arquivo OST usando C #" %}}
 
  Para assinar eletronicamente o arquivo OST, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de assinatura digital rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Uma assinatura digital de mensagem básica com
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  As APIs podem ser feitas com apenas algumas linhas de código. Pode-se assinar documentos de processamento de e-mail adicionando texto, imagem ou desenhar assinatura digital profissional aos arquivos de e-mail, bem como salvar o resultado nos formatos MSG e EML.
 
 {{% /blocks/products/pf/agp/text %}}

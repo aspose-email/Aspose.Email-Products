@@ -12,7 +12,7 @@ description: C# source code to combine OLM documents on .NET Framework, .NET Cor
 
 {{% blocks/products/pf/agp/content h2="How to Merge OLM File Using C#" %}}
 
-In order to merge OLM file, we’ll use <a href="https://products.aspose.com/email/net">Aspose.Email for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and merging API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> package manager, search for <b>Aspose.Email</b> and install. You may also use the following command from the Package Manager Console.
+In order to merge OLM file, we’ll use <a href="https://products.aspose.com/email/net/">Aspose.Email for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and merging API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> package manager, search for <b>Aspose.Email</b> and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -33,7 +33,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  A basic document merging and concatenating with
- [Aspose.Email for .NET](https://products.aspose.com/email/net) 
+ [Aspose.Email for .NET](https://products.aspose.com/email/net/) 
  APIs can be done with just few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}

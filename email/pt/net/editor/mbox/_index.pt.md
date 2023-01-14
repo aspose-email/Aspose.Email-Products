@@ -12,7 +12,7 @@ description: Código-fonte C# para editar documentos MBOX em plataformas .NET Fr
 
 {{% blocks/products/pf/agp/content h2="Como Editar Arquivo MBOX Usando C #" %}}
 
-Para editar o arquivo MBOX, usaremos <a href="https://products.aspose.com/email/net">Aspose.Email para .NET</a> API que é uma API rica em recursos, poderosa e fácil de usar para a plataforma C# para qualquer editor. Abrir <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> gerenciador de pacotes, procure por <b>Aspose.Email</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
+Para editar o arquivo MBOX, usaremos <a href="https://products.aspose.com/email/net/">Aspose.Email para .NET</a> API que é uma API rica em recursos, poderosa e fácil de usar para a plataforma C# para qualquer editor. Abrir <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> gerenciador de pacotes, procure por <b>Aspose.Email</b> e instale. Você também pode usar o seguinte comando no console do gerenciador de pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Command" offSpacer="true" %}}
 
@@ -33,7 +33,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Uma edição básica de documentos com
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  As APIs podem ser feitas com apenas algumas linhas de código.
 
 {{% /blocks/products/pf/agp/text %}}

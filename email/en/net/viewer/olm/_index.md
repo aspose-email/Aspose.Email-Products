@@ -12,7 +12,7 @@ description: C# source code to load, render and display OLM documents on .NET Fr
 
 {{% blocks/products/pf/agp/content h2="How to View OLM File Using C#" %}}
 
-In order to view OLM file, we’ll use <a href="https://products.aspose.com/email/net">Aspose.Email for .NET</a> API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> package manager, search for <b>Aspose.Email</b> and install. You may also use the following command from the Package Manager Console.
+In order to view OLM file, we’ll use <a href="https://products.aspose.com/email/net/">Aspose.Email for .NET</a> API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> package manager, search for <b>Aspose.Email</b> and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

@@ -14,7 +14,7 @@ description: Исходный код C# для сравнения докумен
 {{% blocks/products/pf/agp/content h2="Как сравнить файл OST с помощью C #" %}}
 
  Чтобы сравнить файл OST, мы будем использовать
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API, который представляет собой многофункциональный, мощный и простой в использовании API для работы с документами для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.email)
  менеджер пакетов, поиск
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Сравнение основного сообщения с
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API можно сделать всего несколькими строками кода, чтобы сравнить документы Outlook, Gmail, Apple Mail, Thunderbird и получить разницу между двумя электронными письмами.
 
 {{% /blocks/products/pf/agp/text %}}

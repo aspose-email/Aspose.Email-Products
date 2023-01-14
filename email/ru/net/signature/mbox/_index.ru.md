@@ -14,7 +14,7 @@ description: Исходный код C# для документов e-Sgin MBOX 
 {{% blocks/products/pf/agp/content h2="Как подписать файл MBOX цифровой подписью с помощью C#" %}}
 
  Чтобы подписать файл MBOX электронной подписью, мы будем использовать
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API, который представляет собой многофункциональный, мощный и простой в использовании API цифровой подписи для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.email)
  менеджер пакетов, поиск
@@ -40,7 +40,7 @@ PM> Install-Package Aspose.Email
 {{% blocks/products/pf/agp/text %}}
 
  Базовая цифровая подпись сообщения с
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API можно реализовать всего несколькими строками кода. Можно подписывать документы обработки электронной почты, добавляя текст, изображение или рисуя профессиональную цифровую подпись к файлам электронной почты, а также сохранять результат в форматах MSG и EML.
 
 {{% /blocks/products/pf/agp/text %}}

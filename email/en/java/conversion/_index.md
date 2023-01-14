@@ -13,9 +13,9 @@ Java Email API to build cross-platform mail processing solutions having the abil
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Email Formats to Different Formats" %}}
 
-Developers can easily convert supported message formats using Java library. It simply loads the source file into API object model and call the save method having the relevant parameters. e.g For converting EML to MSG, There is [MailMessage](https://apireference.aspose.com/email/java/com.aspose.email/MailMessage) Load function for getting source file and calling the save method having output file and [SaveOptions](https://apireference.aspose.com/email/java/com.aspose.email/SaveOptions) as relevant parameters.
+Developers can easily convert supported message formats using Java library. It simply loads the source file into API object model and call the save method having the relevant parameters. e.g For converting EML to MSG, There is [MailMessage](/email/java/com.aspose.email/mailmessage) Load function for getting source file and calling the save method having output file and [SaveOptions](/email/java/com.aspose.email/saveoptions) as relevant parameters.
 
-Considering another scenario of Mbox to HTML conversion, Process is, read the Mbox file using [MboxrdStorageReader](https://apireference.aspose.com/email/java/com.aspose.email/MboxrdStorageReader), Iterate through each message, and save it to into HTML file by providing file path and [MailMessageSaveType](https://apireference.aspose.com/email/java/com.aspose.email/MailMessageSaveType) as parameters into save method.
+Considering another scenario of Mbox to HTML conversion, Process is, read the Mbox file using [MboxrdStorageReader](/email/java/com.aspose.email/mboxrdstoragereader), Iterate through each message, and save it to into HTML file by providing file path and [MailMessageSaveType](/email/java/com.aspose.email/mailmessagesavetype) as parameters into save method.
 
 
 {{% blocks/products/pf/feature-page-code h3="Java Code for EML to MSG Conversion" %}}

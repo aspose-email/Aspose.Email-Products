@@ -12,7 +12,7 @@ description: Пример кода для преобразования MBOX в P
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Чтобы преобразовать MBOX в PPT, мы будем использовать <a href="https://products.aspose.com/email/net">Aspose.Email для .NET</a> API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования документов для платформы C#. Открытым <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> менеджер пакетов, поиск <b>Aspose.Email</b> и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
+Чтобы преобразовать MBOX в PPT, мы будем использовать <a href="https://products.aspose.com/email/net/">Aspose.Email для .NET</a> API, который представляет собой многофункциональный, мощный и простой в использовании API для обработки и преобразования документов для платформы C#. Открытым <a href="https://www.nuget.org/packages/aspose.email">NuGet</a> менеджер пакетов, поиск <b>Aspose.Email</b> и установить. Вы также можете использовать следующую команду из консоли диспетчера пакетов.
 
 {{% blocks/products/pf/agp/code-block title="Команда консоли диспетчера пакетов" offSpacer="true" %}}
 

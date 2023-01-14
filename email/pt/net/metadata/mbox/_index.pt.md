@@ -14,7 +14,7 @@ description: Código-fonte C# para editar ou exibir metadados no formato MBOX em
 {{% blocks/products/pf/agp/content h2="Como extrair metadados MBOX usando C #" %}}
 
  Para extrair os metadados MBOX, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de metadados de documento rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por

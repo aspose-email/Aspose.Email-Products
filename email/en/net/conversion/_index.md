@@ -12,7 +12,7 @@ description: Convert Thunderbird and OutLook formats EML EMLX HTML MBOX ICS MSG 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
 {{% blocks/products/pf/feature-page-section  h2="Convert Email Formats to various formats" %}}
-Developers can easily convert Email formats by integrating API without going into the internal detail of underlying format specifications. Conversion process is simple by firstly loading the source using [MailMessage.Load](https://apireference.aspose.com/email/net/aspose.email.mailmessage/load/methods/2) and calling the [Save method](https://apireference.aspose.com/email/net/aspose.email.mailmessage/save/methods/3) having the output file and [SaveOptions.DefaultFormat](https://apireference.aspose.com/email/net/aspose.email/saveoptions) as parameters.
+Developers can easily convert Email formats by integrating API without going into the internal detail of underlying format specifications. Conversion process is simple by firstly loading the source using [MailMessage.Load](https://reference.aspose.com/email/net/aspose.email/mailmessage/load#load_2) and calling the [Save method](https://reference.aspose.com/email/net/aspose.email/mailmessage/save#save_3) having the output file and [SaveOptions.DefaultFormat](https://reference.aspose.com/email/net/aspose.email/saveoptions/) as parameters.
 {{% blocks/products/pf/feature-page-code h3="C# Code for MSG to EML Conversion" %}}
 
 {{< gist "aspose-com-gists" "c8c0a43b7094f6f1c61ea8bae48428a5" "msg-to-eml.cs" >}}

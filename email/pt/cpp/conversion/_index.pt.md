@@ -13,7 +13,7 @@ Use a API de e-mail C++ para analisar formatos, incluindo MSG, EML, EMLX e MHT, 
 
 {{% blocks/products/pf/feature-page-section  h2="Salvar formatos de e-mail em formatos diferentes" %}}
 
-O processo de conversão é simples principalmente para os formatos Outlook e Thunderbird. Discutindo alguns casos aqui, **EML para MHTML** and **MSG para HTML** com informações de cabeçalho e fuso horário personalizado. Para o primeiro caso, carregue o arquivo necessário [MailMessage](https://apireference.aspose.com/email/cpp/class/aspose.email.mail_message)::Carregue e chame o método Salvar com a extensão necessária e [SaveOptions](https://apireference.aspose.com/email/cpp/class/aspose.email.save_options). E para o segundo caso, definiremos o fuso horário personalizado e usaremos [HtmlSaveOptions](https://apireference.aspose.com/email/cpp/class/aspose.email.html_save_options) para definir as informações do cabeçalho.
+O processo de conversão é simples principalmente para os formatos Outlook e Thunderbird. Discutindo alguns casos aqui, **EML para MHTML** and **MSG para HTML** com informações de cabeçalho e fuso horário personalizado. Para o primeiro caso, carregue o arquivo necessário [MailMessage](https://reference.aspose.com/email/cpp/class/aspose.email.mail_message)::Carregue e chame o método Salvar com a extensão necessária e [SaveOptions](https://reference.aspose.com/email/cpp/class/aspose.email.save_options). E para o segundo caso, definiremos o fuso horário personalizado e usaremos [HtmlSaveOptions](https://reference.aspose.com/email/cpp/class/aspose.email.html_save_options) para definir as informações do cabeçalho.
 
 
 {{% blocks/products/pf/feature-page-code h3="Código C++ para conversão de EML para MHTML" %}}

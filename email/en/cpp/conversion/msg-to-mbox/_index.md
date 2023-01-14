@@ -14,7 +14,7 @@ description: Sample C++ conversion code for MSG document to MBOX format. Use exa
 {{% blocks/products/pf/agp/content h2="How to Convert MSG to MBOX Using C++" %}}
 
  In order to convert MSG to MBOX, we’ll use
- [Aspose.Email for C++](https://products.aspose.com/email/cpp) 
+ [Aspose.Email for C++](https://products.aspose.com/email/cpp/) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C++ platform. You can download its latest version directly, just open
  [NuGet](https://www.nuget.org/packages/aspose.email) 
  package manager, search for Aspose.Email.Cpp and install. You may also use the following command from the Package Manager Console.

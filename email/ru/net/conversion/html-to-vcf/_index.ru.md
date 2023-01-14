@@ -14,7 +14,7 @@ description: Пример кода для преобразования HTML в V
 {{% blocks/products/pf/agp/content h2="" %}}
 
  Чтобы преобразовать HTML в VCF без использования Outlook, мы будем использовать
- [Aspose.Email для .NET](https://products.aspose.com/email/net)
+ [Aspose.Email для .NET](https://products.aspose.com/email/net/)
  API, который представляет собой многофункциональный, мощный и простой в использовании API обработки форматов электронной почты для платформы C#. Открытым
  [NuGet](https://www.nuget.org/packages/aspose.email)
  менеджер пакетов, найдите Aspose.Email и установите. Вы также можете использовать следующую команду из консоли диспетчера пакетов.

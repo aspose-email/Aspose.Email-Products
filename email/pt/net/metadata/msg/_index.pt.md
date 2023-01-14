@@ -14,7 +14,7 @@ description: Código-fonte C# para editar ou exibir metadados no formato MSG em 
 {{% blocks/products/pf/agp/content h2="Como extrair metadados MSG usando C #" %}}
 
  Para extrair os metadados do MSG, usaremos
- [Aspose.Email para .NET](https://products.aspose.com/email/net)
+ [Aspose.Email para .NET](https://products.aspose.com/email/net/)
  API que é uma API de metadados de documento rica em recursos, poderosa e fácil de usar para a plataforma C#. Abrir
  [NuGet](https://www.nuget.org/packages/aspose.email)
  gerenciador de pacotes, procure por
