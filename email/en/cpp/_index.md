@@ -14,7 +14,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX & MHT. Application developers can create, convert or manipulate most commonly used message formats within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
+ Aspose.Email for C++ is an Email Programming API that makes it easier for the developers to work with a number of formats such as MSG, EML, EMLX & MHT. Application developers can create, convert or manipulate <a href="https://docs.aspose.com/email/cpp/supported-file-formats/">most commonly used message formats</a> within the native C++ applications, without relying on Office Automation or Microsoft Outlook application.
 </p>
 
 <p>
@@ -240,21 +240,21 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load & save messages to & from file or stream
+     <a href="https://docs.aspose.com/email/cpp/loading-and-saving-message/#loading-a-message-with-load-options">Load & save messages to & from file or stream</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Inter-conversion of format with just a few lines of code
+     <a href="https://docs.aspose.com/email/cpp/loading-and-saving-message/#saving-and-converting-messages">Inter-conversion of format with just a few lines of code</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-calendar ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create & update tasks using iCalendar public API
+     <a href="https://docs.aspose.com/email/cpp/working-with-outlook-tasks/#creating-saving-and-reading-tasks">Create & update tasks using iCalendar public API</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -268,28 +268,28 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
     <em class="fa fa-unlink ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create recurrence patterns as per iCalendar RFC format
+     <a href="https://docs.aspose.com/email/cpp/working-with-outlook-tasks/#adding-recurrence-to-mapitask">Create recurrence patterns as per iCalendar RFC format</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add embedded objects or attach files to emails
+     <a href="https://docs.aspose.com/email/cpp/working-with-attachments-and-embedded-objects/#working-with-embedded-objects">Add embedded objects or attach files to emails</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-upload ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Include text & HTML-based mail body
+     <a href="https://docs.aspose.com/email/cpp/creating-and-setting-contents-of-emails/#set-mail-body">Include text & HTML-based mail body</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-text ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create customized mail headers
+     <a href="https://docs.aspose.com/email/cpp/extracting-message-contents-from-emails/#extracting-email-headers">Create customized mail headers</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -304,7 +304,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
      Manage MIME Messages via C++ Library
     </h2>
     <p>
-     Aspose.Email for C++ extensively supports MIME formats including EML & EMLX. This ability allows the developers to create, set & extract contents from the MIME messages, manage attachments & embedded objects, convert EML & EMLX files to MSG, HTML & MHTML file formats.
+     Aspose.Email for C++ extensively supports MIME formats including EML & EMLX. This ability allows the developers to create, set & extract contents from the MIME messages, manage attachments & embedded objects, convert EML & EMLX files to MSG, HTML & MHTML file formats. <a href="https://docs.aspose.com/email/cpp/working-with-mime-messages/">Manage MIME Messages via C++ Library</a>.
     </p>
    </div>
    <div class="col-lg-12">
@@ -312,7 +312,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
      Manage Outlook Message File Formats
     </h2>
     <p>
-     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load & save all types of Outlook items including contacts, tasks, notes, calendar items & distributions lists. On top of it, the C++ Email Library allows to parse & manipulate all of the Outlook objects via public API.
+     Aspose.Email for C++ is capable of creating Outlook messages from scratch as well as provides the ability to manipulate existing email files. Developers can load & save all types of Outlook items including contacts, tasks, notes, calendar items & distributions lists. On top of it, the C++ Email Library allows to parse & manipulate all of the Outlook objects via public API. <a href="https://docs.aspose.com/email/cpp/working-with-outlook-items/">Manage Outlook Message File Formats</a>.
     </p>
    </div>
    <div class="col-lg-12">
@@ -320,7 +320,7 @@ description: C++ email library to create manipulate and convert Microsoft Outloo
      Produce & Consume iCalendar Recurrence Patterns
     </h2>
     <p>
-     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production & consumption.
+     The library allows the developers to programmatically generate and consume recurrence patterns in iCalendar (RFC 2445) format using an intuitive object model. Our expertise ensures that the iCalendar interface is easy to use while giving you complete control over the recurrence production & consumption. <a href="https://docs.aspose.com/email/cpp/working-with-outlook-calendar-items/ ">Produce & Consume iCalendar Recurrence Patterns</a>.
     </p>
    </div>
    <div class="col-lg-12">

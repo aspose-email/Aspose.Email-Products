@@ -14,11 +14,11 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.Email for Java allows developers to focus on implementing their own business logic for managing emails without having to know about format specifications or network programming.
+ Aspose.Email for Java allows developers to focus on implementing their own business logic for managing emails without the necessity to know format specifications or network programming.
 </p>
 
 <p>
- Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST &amp; MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties as well as the capability to send and receive emails via a number of popular protocols. It also provides the ability to manage message storage documents such as Personal Storage Files PST and Offline Storage Files OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library allows to work with Outlook contacts file (VCF).
+ Aspose.Email for Java can create Outlook emails, parse emails or convert message formats such as MSG, EML, MBOX, PST, OST &amp; MHT from within Java applications. The API can manipulate message contents, attachments, headers, and MAPI properties, and provides the capability to send and receive emails via a number of popular protocols. It allows to <a href="https://docs.aspose.com/email/java/working-with-outlook-storage-files/">work with Outlook storage files</a> such as Personal Storage Files PST and Offline Storage Files OST. You can list emails, extract emails, add or remove messages from storage files as per your application specifications. Java Email library also allows to <a href="https://docs.aspose.com/email/java/working-with-contacts-in-pst-file/">work with Outlook contacts file</a> (VCF). The overview of all features and their use with code samples you can find in our <a href="https://docs.aspose.com/email/java/">documentation</a>
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -314,13 +314,14 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
     Advanced Email Processing API Features
    </h2>
    <p>
+   Check out the documentation for the most popular features in Aspose.Email:
    </p>
 
    <div class="col-lg-4">
     <em class="fa fa-file-text-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create &amp; manipulate messages via API
+     <a href="https://docs.aspose.com/email/java/creating-and-setting-contents-of-emails/">Creating &amp; Setting Contents of Emails</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -334,77 +335,77 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
     <em class="fa fa-envelope-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Extract message header information
+     <a href="https://docs.aspose.com/email/java/extracting-message-contents-from-emails/#extracting-email-headers">Extract message header information</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-paperclip ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Add, extract &amp; manipulate attachments
+     <a href="https://docs.aspose.com/email/java/working-with-attachments-and-embedded-objects/">Add, extract &amp; manipulate attachments</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-code ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create HTML formatted messages
+     <a href="https://docs.aspose.com/email/java/creating-and-setting-contents-of-emails/#setting-html-body">Create HTML formatted messages</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create message in draft mode (MSG only)
+     <a href="https://docs.aspose.com/email/java/creating-and-saving-msg-files/#saving-message-in-draft-status">Create message in draft mode (MSG only)</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-clipboard ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Traverse &amp; read nested email attachments
+     <a href="https://docs.aspose.com/email/java/working-with-message-attachments/#reading-embedded-message-from-attachment">Traverse &amp; read nested email attachments</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-server ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Retrieve multiple recipients
+     <a href="">Retrieve multiple recipients</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Access MAPI properties
+     <a href="https://docs.aspose.com/email/java/working-with-mapi-properties/">Access MAPI properties</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-list ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     List user-created custom folders
+     <a href="https://docs.aspose.com/email/java/working-with-folders-on-exchange-server/#accessing-mailbox-custom-folders-or-subfolders">List user-created custom folders</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-folder ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Get folder path in OLM file
+     <a href="https://docs.aspose.com/email/java/read-outlook-for-mac-olm-file-and-get-folders-and-subfolders-information/#get-folder-path">Get folder path in OLM file</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-asterisk ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for IMAP backup &amp; restore operations
+     <a href="https://docs.aspose.com/email/java/imap-backup-and-restore-operation/#imap-backup-and-restore-operation-with-multiconnection">Multi-connection support for IMAP backup &amp; restore operations</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-arrows-alt ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Multi-connection support for SMTP operations
+     <a href="https://docs.aspose.com/email/java/sending-and-forwarding-messages/#sending-emails-with-multiconnection">Multi-connection support for SMTP operations</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -425,14 +426,14 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
     <em class="fa fa-save ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Save MapiCalendar with HTML body format
+     <a href="https://docs.aspose.com/email/java/working-with-outlook-calendar-items/#convert-appointment-eml-to-msg-with-html-body">Save MapiCalendar with HTML body format</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-spinner ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create &amp; manage In-Place Archive at Office 365
+     <a href="https://docs.aspose.com/email/java/working-with-in-place-archive/">Create &amp; manage In-Place Archive at Office 365</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -453,7 +454,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
     <em class="fa fa-outdent ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Access Outlook for MacOS data file (OLM)
+     <a href="https://docs.aspose.com/email/java/read-outlook-for-mac-olm-file-and-get-folders-and-subfolders-information/">Access Outlook for MacOS data file (OLM)</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -467,14 +468,14 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
     <em class="fa fa-plus ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create contact in sub-folder of contacts at EWS
+     <a href="https://docs.aspose.com/email/java/working-with-contacts-on-exchange-server/#adding-contacts">Create contact in sub-folder of contacts at EWS</a>
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-anchor ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Create unified method for MAPI items fetching at EWS
+     <a href="https://docs.aspose.com/email/java/working-with-exchange-mailbox-and-messages/#using-the-fetchitem-method-to-fetch-a-message">Fetch MAPI items  using EWS</a>
     </p>
    </div>
    <div class="col-lg-4">
@@ -486,10 +487,10 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert Message To Different Email Formats In Java
+     Convert Messages To Different Email Formats In Java
     </h2>
     <p>
-     The Java Email library provides easy-to-use interfaces for the conversion of supported message file formats. In order to perform a conversion, all you need to do is to load the source file in the API object model and call the save method with the required parameters. It is really that simple!
+     The Java Email library provides easy-to-use interfaces for the <a href="https://docs.aspose.com/email/java/conversion-to-other-formats-in-aspose-email/">conversion to the supported message file formats</a>. In order to perform a conversion, all you need to do is to load the source file in the API object model and call the save method with the required parameters. It is really that simple!
     </p>
    </div>
    <div class="col-lg-12">
@@ -497,7 +498,7 @@ description: Aspose.Email Java. Mail, MIME and iCalander SDK for Java to send & 
      Emailing via SMTP, POP3 & IMAP
     </h2>
     <p>
-     API enables to create and format messages, attaching files and images as well as sending it to email addresses via SMTP protocol. Another facility that API provides is logging into POP3 servers via user name & password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size & message count, delete messages from the server and much more. Few of API supported IMAP protocol features such as authentication, create, select, remove, query folders, get and save messages and change message flags.
+     API enables to create and format messages, attach files and images as well as send them to email addresses via <a href="https://docs.aspose.com/email/java/working-with-smtp-client/">SMTP</a> protocol. Another facility that API provides is logging into <a href="https://docs.aspose.com/email/java/working-with-pop3-client/">POP3</a> servers via user name & password. Via API's APOP authentication feature, it is easy to get the full message or just the headers, view mailbox size & message count, delete messages from the server and much more. <a href="https://docs.aspose.com/email/java/working-with-imap-client/">IMAP</a> protocol features allow the user of API to authenticate, create, select, remove, query folders, get and save messages and change message flags.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -527,7 +528,7 @@ client.send(msg);</code></pre>
      Calendar Objects Management
     </h2>
     <p>
-     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update &amp; cancel meeting requests via message sending protocols.
+     Aspose.Email iCalendar API enables to create, extract and save Outlook Calendar objects in various formats. It provides the capability to save as MSG or ICS documents as well as retrieve, send, update &amp; cancel meeting requests via message sending protocols. How to manage iCalendar API you can learn from the <a href="https://docs.aspose.com/email/java/working-with-appointments/">Working with Appointments</a> article.
     </p>
    </div>
    <div class="col-lg-12">
@@ -535,7 +536,7 @@ client.send(msg);</code></pre>
      Manage Message Storage Files
     </h2>
     <p>
-     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST &amp; OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either disk or stream.
+     Aspose.Email for Java API allows managing Outlook storage formats. You can load PST &amp; OST files from disk or a stream, get folder and sub-folder information from the message archive, retrieve message-specific details such as subject, sender, recipient and save messages to either a disk or a stream. For more detailed information visit the <a href="https://docs.aspose.com/email/java/working-with-outlook-storage-files/">Working with Outlook Storage Files</a> section in our documentation.
     </p>
     <p>
      Apart from parsing an existing PST, the library also provides the means to create a PST file from scratch and add messages to any folder of it.
@@ -562,7 +563,7 @@ pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + 
      Work With Contact Cards
     </h2>
     <p>
-     Aspose.Email for Java allows to manipulate contact card files, also known as VCF or VCard which is a worldwide file format to store and exchange contacts cards. Process Outlook contact cards as well as Thunderbird VCards within Java apps. Using Aspose.Email for Java, you are able to send VCard or VCF files in email, attach VCF to your messages or extract them from emails. Also, you can exchange VCard (VCF) files in your way. The API allows to edit, create and remove your contact cards. You can easily add contact cards support to your application.
+     Aspose.Email for Java allows to manipulate contact card files, also known as VCF or VCard which is a worldwide file format to store and exchange contacts cards. It can also process Outlook contact cards as well as Thunderbird VCards within Java apps. Using Aspose.Email for Java, you are able to send VCard or VCF files in email, attach VCF to your messages or extract them from emails. Also, you can exchange VCard (VCF) files in your own way. The API allows to edit, create and remove your contact cards. You can easily add contact cards support to your application.
     </p>
    </div>
    <div class="col-lg-12">
@@ -570,7 +571,7 @@ pst.getRootFolder().getSubFolder("Inbox").addMessage(MapiMessage.fromFile(dir + 
      Microsoft Office Automation – Not Needed
     </h2>
     <p>
-     Aspose.Email for Java is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with emails processing. It is a perfect Microsoft Outlook automation alternative in terms of features, security, scalability and speed.
+     Aspose.Email for Java is built using managed code that does not need Microsoft Office or Microsoft Outlook to be installed on the machine to work with emails processing. It is a perfect Microsoft Outlook automation alternative in terms of features, security, scalability and speed. It's pretty easy to <a href="https://docs.aspose.com/email/java/migration-from-office-automation-to-aspose/">migrate from Office Automation to Aspose</a>.
     </p>
    </div>
   </div>
