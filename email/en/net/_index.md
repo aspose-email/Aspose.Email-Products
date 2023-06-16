@@ -1,12 +1,12 @@
 ---
-title: Aspose Email | C# .NET Email Processing Outlook API 
+title: .NET Email API to Process various File Formats 
 weight: 880
 url: /net/ 
-description: C# ASP.NET VB.NET Email processing library for Outlook Thunderbird and other file formats. API works with SMTP POP3 IMAP and MS Exchange servers to send emails
+description: .NET Email processing library for Outlook, Thunderbird and other file formats. API works with SMTP POP3 IMAP and MS Exchange servers.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET Outlook & Thunderbird Email Processing Library" h2="Create, parse, convert, manipulate emails & cross-platform email archives" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-net.svg" pfName="Aspose.Email" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
+{{< blocks/products/pf/upper-banner h1="Email Processing API for .NET" h2="Build cross-platform applications to create, parse, convert & manipulate emails & mailboxes" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-for-net.svg" pfName="Aspose.Email" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/email/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="for .NET" >}}
 

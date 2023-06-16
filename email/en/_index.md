@@ -1,18 +1,18 @@
 ---
-title: On Premise, Cloud & App Based Email Management Solution 
+title: Email APIs to Build Cross-Platform Applications 
 weight: 2540
 url: /
 description: Develop Outlook formats parsing applications using On Premise or Cloud APIs, or simply use cross-platform apps to view, compare, inspect or convert Microsoft Outlook formats.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Microsoft Outlook File Format Solution" h2="Manipulate Outlook & Thunderbird email & email storage file formats. Implement multiple network protocols without any dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-brand.svg" imageAlt="Aspose.Email Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="Email APIs and Apps as File Formats Processing Solution" h2="Manipulate email & mailbox files without any dependencies. Operate multiple email protocols." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/email/headers/aspose_email-brand.svg" imageAlt="Aspose.Email Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-net.svg" productLink="https://products.aspose.com/email/net" >}}
-.NET Email APIs to deal native Outlook message formats, message storage file formats and implement various network protocols within Windows, iOS & Android apps.
+.NET Email APIs to process native Outlook and other message formats, message storage file formats and operate various email protocols within Windows, iOS & Android apps.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/email/aspose_email-for-java.svg" productLink="https://products.aspose.com/email/java" >}}
